@@ -1,0 +1,32 @@
+{
+  "song_id": "song_0001",
+  "title": "Titre",
+  "language": "fr",
+  "lyrics": [
+    {
+      "section_id": "s1",
+      "type": "verse",
+      "rhyme_scheme": "ABAB", 
+      "lines": [
+        {
+          "n": 1,
+          "text": "J'ai le flow qui les choque, j'allume un gros cigare",
+          "performer": "art_01",
+          "syllables": 13,
+          "end_rhyme_ipa": "aʁ",
+          "rhyme_letter": "A",
+          "adlib": false
+        },
+        {
+          "n": 2,
+          "text": "Gros, j'esquive l'époque, perdu dans le brouillard",
+          "performer": "art_01",
+          "syllables": 11,
+          "end_rhyme_ipa": "aʁ",
+          "rhyme_letter": "A",
+          "adlib": false
+        }
+      ]
+    }
+  ]
+}

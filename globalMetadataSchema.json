@@ -1,0 +1,20 @@
+{
+	"artist_id":"artist_0001",
+	"artist_name":"artist_name",
+	"personas":[
+		{
+			"persona_id":"persona_0001",
+			"persona_name":"persona_name",
+			"songs":[
+				{
+					"song_id":"song_0001",
+					"publication_date":"DATE",
+					"provenance_object":"SINGLE/EP/ALBUM",
+					"provenance_object_id":"single_0001",
+					"provenance_object_title":"TITLE",
+					"source": {"name": "genius", "url": null, "retrieved": "2026-10-14"},
+				},
+			]
+		}
+	]
+}
