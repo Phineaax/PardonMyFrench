@@ -1,0 +1,7 @@
+{
+  "persona_id": "persona_0001",
+  "artist_id": "artist_0001",
+  "period": {"start": "2018", "end": null},
+  "anchored_releases": ["album_0003", "ep_0002"],
+  "is_baseline": false
+}

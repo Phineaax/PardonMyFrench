@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1",
+  "releases": [
+    {
+      "release_id": "release_0001",
+      "title": "Titre de l'album",
+      "release_type": "album",
+      "release_date": "2019-03-08",
+      "artist_ids": ["artist_0001"],
+      "label": "Label",
+      "edition": { "kind": "original", "original_release_id": null },
+      "tracklist": [
+        { "disc_number": 1, "track_number": 1, "song_id": "song_0001" }
+      ],
+      "external_ids": { "musicbrainz": null, "discogs": null, "wikidata": null, "upc": null },
+      "notes": null
+    }
+  ]
+}

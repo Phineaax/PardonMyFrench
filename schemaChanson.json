@@ -6,7 +6,7 @@
     {
       "section_id": "s1",
       "type": "verse",
-      "rhyme_scheme": "ABAB", 
+      "rhyme_scheme": "AA", 
       "lines": [
         {
           "n": 1,
@@ -14,8 +14,6 @@
           "performer": "art_01",
           "syllables": 13,
           "end_rhyme_ipa": "aʁ",
-          "rhyme_letter": "A",
-          "adlib": false
         },
         {
           "n": 2,
@@ -23,8 +21,6 @@
           "performer": "art_01",
           "syllables": 11,
           "end_rhyme_ipa": "aʁ",
-          "rhyme_letter": "A",
-          "adlib": false
         }
       ]
     }
