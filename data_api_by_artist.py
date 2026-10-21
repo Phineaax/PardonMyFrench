@@ -32,7 +32,7 @@ def get_all_albums(artist_name) :
 
 
 metadatas_a_garder_tracks = ['primary_artists', 'full_title', 'title', 'id', 'path', 'featured_artists', 'writer_artists', 'lyrics', 'language']
-
+#Leur colonne language est fucked up, je sais pas sur quoi elle s'appuie mais elle a détecté un morceau de Stupeflip comme du tchèque
 def get_all_songs_albums(artist_name, k) : 
     """Renvoie tous les sons sortis par l'artiste, en y allant album par album."
     genius = Genius(access_token)
