@@ -1,3 +1,5 @@
+#Choper un token ici : https://genius.com/api-clients
+
 import pandas as pd
 from lyricsgenius import Genius
 
@@ -21,10 +23,6 @@ def get_all_songs_no_albums(artist_name, access_token) :
         d["artist_id"] = artist_id
     return pd.DataFrame(results) #On renvoie la base de données correspondantes
 
-
-import pandas as pd
-from lyricsgenius import Genius
-metadatas_a_garder = ['artist_names', 'full_title', 'id', 'path', 'title', 'featured_artists', 'lyrics']
 def get_all_songs_albums(artist_name, access_token) : 
 
     genius = Genius(access_token)
