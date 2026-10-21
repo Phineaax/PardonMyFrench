@@ -9,14 +9,16 @@ def get_all_songs_no_albums(artist_name, access_token) :
     if artist == None :
         print("Nom d'artiste non reconnu")
         return None
-
+        
+    artist_id = artist.to_dict()["id"]
+    
     results = []
 
     for song in artist.songs :
         d = song.to_dict() #On converti le titre en dictionnaire
         d = {p:d[p] for p in d if p in metadatas_a_garder} #On crée un sous dictionnaire en ne gardant que les clefs contenues dans la liste "à garder"
         results.append(d)
-
+        d["artist_id"] = artist_id
     return pd.DataFrame(results) #On renvoie la base de données correspondantes
 
 
@@ -46,6 +48,7 @@ def get_all_songs_albums(artist_name, access_token) :
             d = song.to_dict() #On converti le titre en dictionnaire
             d = {p:d[p] for p in d if p in metadatas_a_garder} #On crée un sous dictionnaire en ne gardant que les clefs contenues dans la liste "à garder"
             d["album_id"] = a_id 
+            d["artist_id"] = artist_id
             results.append(d)
 
     return pd.DataFrame(results) #On renvoie la base de données correspondantes
