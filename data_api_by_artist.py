@@ -4,27 +4,10 @@ import pandas as pd
 from lyricsgenius import Genius
 
 metadatas_a_garder = ['artist_names', 'full_title', 'id', 'path', 'title', 'featured_artists', 'lyrics']
-def get_all_songs_no_albums(artist_name, access_token) : 
 
-    genius = Genius(access_token)
-    artist = genius.search_artist(artist_name, get_full_info=False) #On récupère toutes les infos de l'artiste, c'est à dire surtout tous ses titres
-    if artist == None :
-        print("Nom d'artiste non reconnu")
-        return None
-        
-    artist_id = artist.to_dict()["id"]
+def get_all_songs(artist_name, access_token) : 
+    """Récupère toutes les musiques qu'un'e artiste a créé en passant par les albums qu'iel a sorti"""
     
-    results = []
-
-    for song in artist.songs :
-        d = song.to_dict() #On converti le titre en dictionnaire
-        d = {p:d[p] for p in d if p in metadatas_a_garder} #On crée un sous dictionnaire en ne gardant que les clefs contenues dans la liste "à garder"
-        results.append(d)
-        d["artist_id"] = artist_id
-    return pd.DataFrame(results) #On renvoie la base de données correspondantes
-
-def get_all_songs_albums(artist_name, access_token) : 
-
     genius = Genius(access_token)
 
     artist = genius.search_artist(artist_name, get_full_info=False, max_songs=0) #On récupère la fiche de l'artiste
