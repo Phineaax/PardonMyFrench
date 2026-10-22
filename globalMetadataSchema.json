@@ -1,10 +1,7 @@
 {
   "song_id": "song_0001",
   "artist_ids": ["artist_0001"],
-  "persona_annotations": [
-    {"persona_id": "persona_0001", "confidence": 0.9, "annotator": "ann_1"}
-  ],
-  "release_id": "album_0001",
+   "release_id": "album_0001",
   "publication_date": "2019-05-17",
   "source": {"name": "genius", "url": null, "retrieved": "2026-10-14"}
 }
