@@ -8,20 +8,16 @@
     {
       "section_id": "s1",
       "type": "verse",
-      "rhyme_scheme": "ABAB", 
-      "artist_info":
-      [
-        {"artist_id": "artist_0001", "persona_id": "persona_0001", "confidence_score": 0.9}
-      ],
+      "rhyme_scheme": "ABAB",
+      "performer": "art_01",
+      "persona":
+        {
+          "persona_id": "persona_0001", "confidence_score": 0.9
+        },
       "lines": [
         {
           "n": 1,
           "text": "J'ai le flow qui les choque, j'allume un gros cigare",
-          "performer": "art_01",
-          "persona":
-           {
-             "persona_id": "persona_0001", "confidence_score": 0.9
-            },
           "syllables": 13,
           "end_rhyme_ipa": "aʁ",
           "rhyme_letter": "A",
@@ -30,11 +26,6 @@
         {
           "n": 2,
           "text": "Gros, j'esquive l'époque, perdu dans le brouillard",
-          "performer": "art_01",
-          "persona":
-          {
-           "persona_id": "persona_0001", "confidence_score": 0.9
-          },
           "syllables": 11,
           "end_rhyme_ipa": "aʁ",
           "rhyme_letter": "A",

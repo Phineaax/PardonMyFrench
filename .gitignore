@@ -14091,3 +14091,6 @@
 .venv/lib/python3.11/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/__pycache__/pydevd_additional_thread_info_regular.cpython-311.pyc
 .venv/lib/python3.11/site-packages/debugpy/_vendored/pydevd/_pydevd_bundle/_debug_adapter/__pycache__/__main__pydevd_gen_debug_adapter_protocol.cpython-311.pyc
 __pycache__/data_api_by_artist.cpython-311.pyc
+.venv/lib/python3.11/site-packages/pandas/io/formats/__pycache__/csvs.cpython-311.pyc
+__pycache__/formatting.cpython-311.pyc
+NepalDf.csv
