@@ -5,6 +5,10 @@ from lyricsgenius import Genius
 
 metadatas_a_garder_albums = ['_type', 'full_title', 'title', 'id', 'path', 'release_date_components', 'primary_artists']
 
+def get_artist_id(artist_name:str) :
+    artist = genius.search_artist(artist_name, get_full_info=False, max_songs=0)
+    return artist.to_dict()["id"]
+
 def get_all_albums(artist_name:str, access_token:str) : 
     """Renvoie toutes les infos nécessaires sur les albums à partir du nom de l'artiste."""
     genius = Genius(access_token)
