@@ -2,6 +2,7 @@
 
 import pandas as pd
 from lyricsgenius import Genius
+import numpy as np
 
 metadatas_a_garder_albums = ['_type', 'full_title', 'title', 'id', 'path', 'release_date_components', 'primary_artists']
 
@@ -37,7 +38,7 @@ def get_all_albums(artist_name:str, access_token:str) -> pd.DataFrame:
 
 metadatas_a_garder_tracks = ['primary_artists', 'full_title', 'title', 'id', 'path', 'featured_artists', 'writer_artists', 'lyrics', 'language']
 # Leur colonne language est fucked up, je sais pas sur quoi elle s'appuie mais elle a détecté un morceau de Stupeflip comme du tchèque
-def get_all_songs_albums(artist_name:str, access_token:str, k) -> pd.DataFrame: 
+def get_all_songs_albums(artist_name:str, access_token:str) -> pd.DataFrame: 
     """Renvoie tous les sons sortis par l'artiste, en y allant album par album."""
     genius = Genius(access_token)
 
@@ -52,7 +53,7 @@ def get_all_songs_albums(artist_name:str, access_token:str, k) -> pd.DataFrame:
     albums_id = [a["id"] for a in albums]
 
     results_tracks = []
-    for i_album, a_id in enumerate(albums_id[0:k]) : 
+    for i_album, a_id in enumerate(albums_id) : 
         
         tracks_id = [t["song"]["id"] for t in genius.album_tracks(a_id)["tracks"]]
 
