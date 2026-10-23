@@ -1,5 +1,5 @@
 import frhyme
-from typing import List, Dict, Tuple, Optional, T
+from typing import List, Dict, Tuple, Optional, T, Callable
 import json
 import os
 from glob import glob
@@ -71,6 +71,10 @@ def rhyme_phoneme_fr(line:str, reduce:bool=True, glide:bool=False, nbest:int=1) 
 
 """English rhyme phonemes for lines of text, using CMUdict (pip install cmudict)."""
 
+_FR_VOWELS = set("aeiouyEO29@#$()")
+_EN_VOWELS = {"AA","AE","AH","AO","AW","AY","EH","ER","EY","IH","IY",
+              "OW","OY","UH","UW"}
+
 # Words = letter runs (accents included) with inner apostrophes / hyphens.
 _WORD = re.compile(r"[^\W\d_]+(?:['’\-][^\W\d_]+)*", re.UNICODE)
 _STRESS = re.compile(r"\d$")
@@ -81,6 +85,14 @@ _CMU = cmudict.dict()
 
 # ARPAbet semi-vowels: the "glide" leading a vowel, as in "few" = F Y UW1
 _SEMI = {"Y", "W"}
+
+def vowel_sound(rhyme: Optional[str], lang: str = "fr") -> Optional[str]:
+    """'#s' -> '#', 'En' -> 'E', 'IY T IH NG' -> 'IY'."""
+    if not rhyme:
+        return None
+    if lang == "en":
+        return next((ph for ph in rhyme.split() if ph in _EN_VOWELS), rhyme)
+    return next((ch for ch in rhyme if ch in _FR_VOWELS), rhyme)
 
 def _is_vowel(phoneme: str) -> bool:
     return phoneme[-1].isdigit()  # only vowels carry a stress digit (0/1/2)
@@ -156,9 +168,9 @@ def rhyme_phoneme_en(
 
 # ----------------------- Main treatment pipeline ----------------------- #
 
-def link_rhymes_per_song(song:Dict[str, T], output_path:Optional[str]) -> Dict[str, T]:
+def link_rhymes_per_song(song:Dict[str, T], output_path:Optional[str]=None) -> Dict[str, T]:
     lyrics = song["lyrics"]
-    lang = song["lang"]
+    lang = song["language"]
     sections = list()
 
     for section in lyrics:
@@ -182,8 +194,10 @@ def link_rhymes_per_song(song:Dict[str, T], output_path:Optional[str]) -> Dict[s
         try:
             with open(output_path, "w") as file:
                 json.dump(song, file)
-        except:
-            print("Chemin de sortie invalide. L'enregistrement n'a pas été réalisé.")
+        except Exception as e:
+            print(f"Erreur lors de l'enregistrement du fichier. "
+                  "L'enregistrement n'a pas été réalisé. "
+                  f"{e}")
 
     return song
 
@@ -202,6 +216,60 @@ def update_songs_with_rhymes(songs:List[Dict[str, T]], output_folder:Optional[st
 
     return updated_songs
 
+
+def find_section_rhyme_scheme(lines:List[Dict[str, str]], rhyme_key: Optional[Callable]=None) -> str:
+    sound_to_letter = dict()
+    rhyme_scheme = ""
+    current_letter = 'A'
+    for line in lines:
+        rhyme = line["rhyme"]
+        if rhyme_key is not None:
+                    rhyme = rhyme_key(rhyme)
+        if (rhyme in sound_to_letter.keys()):
+            rhyme_scheme += sound_to_letter[rhyme]
+        else:
+            rhyme_scheme += current_letter
+            sound_to_letter[rhyme] = current_letter
+            current_letter = chr(ord(current_letter)+1)
+    return rhyme_scheme
+
+def assign_rhyme_scheme(song:Dict[str, T], output_path:Optional[str]=None) -> Dict[str, T]:
+    lyrics = song["lyrics"]
+    updated_sections = list()
+    for section in lyrics:
+        lines = section["lines"]
+        rhyme_scheme = find_section_rhyme_scheme(lines=lines)
+        section["rhyme"] = find_section_rhyme_scheme(lines=lines)
+        section["rhyme_vowel"] = find_section_rhyme_scheme(lines=lines, rhyme_key=vowel_sound)
+        updated_sections.append(section)
+
+    song["lyrics"] = updated_sections
+    
+    try:
+        with open(output_path, "w") as file:
+            json.dump(song, file)
+    except Exception as e:
+                print(f"Erreur lors de l'enregistrement du fichier. "
+                      "L'enregistrement n'a pas été réalisé. "
+                      f"{e}")
+    return song
+
+def process_bunch_of_rhyme_schemes(songs:List[Dict[str, T]], output_folder:Optional[str]) -> List[Dict[str, T]]:
+    """Same function as update_songs_with_rhymes, calling the rhyme scheme func instead."""
+    if (output_folder):
+        os.makedirs(output_folder, exist_ok=True)
+
+    updated_songs = list()
+    for song in songs:
+        song_id = song["song_id"]
+        if (output_folder):
+            output_path = os.path.join(output_folder, f"{song_id}.json")
+        else:
+            output_path = None
+        updated_songs.append(assign_rhyme_scheme(song=song, output_path=output_path))
+
+    return updated_songs
+
 def read_songs_from_path(input_folder:str) -> List[Dict[str, T]]:
     songs = list()
     try:
@@ -213,4 +281,3 @@ def read_songs_from_path(input_folder:str) -> List[Dict[str, T]]:
         f"{e}")
 
     return songs
-                
