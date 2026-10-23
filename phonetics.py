@@ -4,6 +4,7 @@ import json
 import os
 from glob import glob
 import re
+import cmudict
 
 import frhyme
 
@@ -22,7 +23,7 @@ def _find_last_word(line:str) -> str:
     return mots[-1].lower() if mots else None
     
 
-def reduce_rhyme(phons, glide=False):
+def reduce_rhyme_fr(phons, glide=False):
     """
     Only keeps the rhyme from last syllable (last vowel and what follows)
  
@@ -41,7 +42,7 @@ def reduce_rhyme(phons, glide=False):
             return p[i:]
     return p  # no vowel found, resent as it is
 
-def rhyme_phoneme(line:str, reduce:bool=True, glide:bool=False, nbest:int=1) -> str:
+def rhyme_phoneme_fr(line:str, reduce:bool=True, glide:bool=False, nbest:int=1) -> str:
     """
     - nbest=1 : one string per line best pronunciation, ex. "zO$"
     - nbest>1 : a list of best pronunciations per line
@@ -58,7 +59,7 @@ def rhyme_phoneme(line:str, reduce:bool=True, glide:bool=False, nbest:int=1) -> 
     candidats = frhyme.lookup(word, nbest)  # list of (score, phonemes)
     phons = [phon for _, phon in candidats]
     if (reduce):
-        phons = list(dict.fromkeys(reduce_rhyme(p, glide) for p in phons))
+        phons = list(dict.fromkeys(reduce_rhyme_fr(p, glide) for p in phons))
     if not phons:
         return None
     else:
@@ -68,11 +69,96 @@ def rhyme_phoneme(line:str, reduce:bool=True, glide:bool=False, nbest:int=1) -> 
 # ---------------------- English treatment pipeline --------------------- #
 #TBD
 
+"""English rhyme phonemes for lines of text, using CMUdict (pip install cmudict)."""
+
+# Words = letter runs (accents included) with inner apostrophes / hyphens.
+_WORD = re.compile(r"[^\W\d_]+(?:['’\-][^\W\d_]+)*", re.UNICODE)
+_STRESS = re.compile(r"\d$")
+
+# word -> list of pronunciations, each one a list of ARPAbet phonemes,
+# e.g. "moment" -> [["M", "OW1", "M", "AH0", "N", "T"]]
+_CMU = cmudict.dict()
+
+# ARPAbet semi-vowels: the "glide" leading a vowel, as in "few" = F Y UW1
+_SEMI = {"Y", "W"}
+
+def _is_vowel(phoneme: str) -> bool:
+    return phoneme[-1].isdigit()  # only vowels carry a stress digit (0/1/2)
+
+def _join(phons: list[str], keep_stress: bool) -> str:
+    return " ".join(p if keep_stress else _STRESS.sub("", p) for p in phons)
+
+def _pronunciations(word: str) -> list[list[str]]:
+    """All CMUdict pronunciations of a word ([] if unknown)."""
+    word = word.replace("’", "'")
+    # exact word, then hyphens removed, then last part of a hyphenated word
+    for candidate in (word, word.replace("-", ""), word.split("-")[-1]):
+        if candidate in _CMU:
+            return _CMU[candidate]
+    return []
+
+def reduce_rhyme_en(phons: list[str], glide: bool = False, keep_stress: bool = False) -> str:
+    """
+    Only keeps the rhyming part: from the last stressed vowel (primary or
+    secondary stress) to the end of the word.
+    ["M","OW1","M","AH0","N","T"]   -> "OW M AH N T"
+    ["G","R","IY1","T","IH0","NG"]  -> "IY T IH NG"   (feminine rhyme: meeting/greeting)
+    ["F","OW1","T","AH0","G","R","AE2","F"] -> "AE F"  (photograph/giraffe)
+    No stressed vowel (e.g. "the"): falls back on the last vowel.
+    glide=True also keeps the semi-vowel leading the first kept vowel
+    (["F","Y","UW1"] -> "Y UW" instead of "UW").
+    keep_stress=True keeps the stress digits ("AE2 F" instead of "AE F").
+    """
+    start = None
+    for i in range(len(phons) - 1, -1, -1):
+        if phons[i][-1] in "12":
+            start = i
+            break
+    if start is None:  # no stressed vowel: last vowel
+        for i in range(len(phons) - 1, -1, -1):
+            if _is_vowel(phons[i]):
+                start = i
+                break
+    if start is None:  # no vowel at all: keep everything
+        start = 0
+    if glide and start > 0 and phons[start - 1] in _SEMI:
+        start -= 1
+    return _join(phons[start:], keep_stress)
+
+
+def rhyme_phoneme_en(
+    line: str,
+    reduce: bool = True,
+    glide: bool = False,
+    nbest: int = 1,
+    keep_stress: bool = False,
+) -> str | list[str] | None:
+    """
+    - nbest=1 : the rhyme of the best (first) pronunciation of the last word, e.g. "OW M AH N T"
+    - nbest>1 : a list of the rhymes of the nbest first pronunciations (duplicates removed)
+    - reduce=False : the full pronunciation instead of the rhyming part
+    - None if the line does not contain any word, or if the last word is not in CMUdict.
+    Phonemes are ARPAbet, separated by spaces; stress digits are dropped unless keep_stress.
+    """
+    word = _find_last_word(line)
+    if word is None:
+        return None
+    prons = _pronunciations(word)[:nbest]
+    if not prons:
+        return None
+    if reduce:
+        phons = [reduce_rhyme_en(p, glide, keep_stress) for p in prons]
+    else:
+        phons = [_join(p, keep_stress) for p in prons]
+    phons = list(dict.fromkeys(phons))
+    return phons[0] if nbest == 1 else phons
+
 
 # ----------------------- Main treatment pipeline ----------------------- #
 
 def link_rhymes_per_song(song:Dict[str, T], output_path:Optional[str]) -> Dict[str, T]:
     lyrics = song["lyrics"]
+    lang = song["lang"]
     sections = list()
 
     for section in lyrics:
@@ -81,7 +167,10 @@ def link_rhymes_per_song(song:Dict[str, T], output_path:Optional[str]) -> Dict[s
 
         for line in lines:
             text = line["text"]
-            rhyme = rhyme_phoneme(line=text)
+            if (lang == "fr"):
+                rhyme = rhyme_phoneme_fr(line=text)
+            else:
+                rhyme = rhyme_phoneme_fr(line=text)
             line["rhyme"] = rhyme
             updated_lines.append(line)
 
