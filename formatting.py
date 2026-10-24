@@ -120,15 +120,13 @@ def single_song_formatter(row: Dict[str,T], output_path:Optional[str]=None) -> D
 
     return song_recap
 
-def bunch_of_songs_formatter(df: pd.DataFrame, output_folder:Optional[str]=None, k = np.inf) -> List[Dict[str,T]]:
+def bunch_of_songs_formatter(df: pd.DataFrame, output_folder:Optional[str]=None) -> List[Dict[str,T]]:
     if (output_folder):
         os.makedirs(output_folder, exist_ok=True)
 
     i = 0
     all_songs = list()
     for _, row in df.iterrows():
-        if (i >= k):
-            break
         song_id = row["id"]
         song_output_path = os.path.join(output_folder, f"{song_id}.json") or None
         song_recap = single_song_formatter(row=row, output_path=song_output_path)
