@@ -7,10 +7,12 @@ import numpy as np
 
 SECTION_TAGS = [r"Couplet(?:\s(?:\d+|unique))?", r"Interlude", r"Intro", r"Pont",
                 r"Refrain", r"Post-refrain", r"Pre-refrain", r"Outro",
-                r"Verse", r"Bridge", r"Chorus", r"Pre-Chorus", r"Post-Chorus",
-                r"Part I", r"Part II", r"Guitar Solo", r"Instrumental Break",
+                r"Verse", r"Bridge", r"Chorus", r"Pre-Chorus", r"Post-Chorus", r"Chorus \(Condensed\)",
+                r"Part I", r"Part II", r"Guitar Solo", r"Instrumental Break", r"Instrumental Bridge",
                 r"Segue", r"Skit", r"Instrumental Outro", r"Instrumental",
-                r"Post-Chorus 1", r"Post-Chorus 2", r"Post-Chorus 3"
+                r"Post-Chorus 1", r"Post-Chorus 2", r"Post-Chorus 3",
+                r"Spoken", r"Vocalisations", r"Vocal Sampling", r"Chant", r"Vocalizations",
+                r"\?", r"Jerome Weinberg & Mac Miller"
                 ]
 
 def with_num(p):   # numéro optionnel, sauf pour Couplet qui a déjà le sien
@@ -87,10 +89,15 @@ def lyricsparser(lyrics: str) -> List[Dict[str, T]]:
             performers = section["who"].split(sep=" ")
             reversed_artist_dict = {perf: id for (perf, id) in zip(ARTIST_DICT.values(), ARTIST_DICT.keys())}
 
-            perf_ids = ", ".join([reversed_artist_dict.get(performer, "") for performer in performers])
+            perf_ids = [reversed_artist_dict.get(performer, "") for performer in performers]
+            if len(perf_ids == 0):
+                perf_ids = ""
+                break
+
+            perf_ids = ", ".join(perf_ids)
         except:
-            perf_ids = []
-            
+            perf_ids = ""
+
         sec_recap = {
                      "section_id": f"section_{idx}", 
                      "type": sec_type,

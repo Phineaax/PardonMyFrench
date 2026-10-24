@@ -141,7 +141,7 @@ def get_all_songs_albums(artist_name:str, access_token:str, k:int=1, input_df:Op
 
 
     output_df = pd.DataFrame(results_tracks)
-    return  pd.concat([input_df, output_df]) if input_df else output_df#On renvoie la base de données correspondante
+    return pd.concat([input_df, output_df], ignore_index=True) if input_df is not None else output_df #On renvoie la base de données correspondante
 
 def retrieve_release_metadata(release:Dict[str, T]) -> Dict[str, T]:
     release_recap = {
