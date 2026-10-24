@@ -3,6 +3,8 @@
 import pandas as pd
 from lyricsgenius import Genius
 import numpy as np
+from typing import Optional
+import os
 
 metadatas_a_garder_albums = ['_type', 'full_title', 'title', 'id', 'path', 'release_date_components', 'primary_artists']
 
@@ -10,7 +12,7 @@ def get_artist_id(artist_name:str) :
     artist = genius.search_artist(artist_name, get_full_info=False, max_songs=0)
     return artist.to_dict()["id"]
 
-def get_all_albums(artist_name:str, access_token:str) -> pd.DataFrame:
+def get_all_albums(artist_name:str, access_token:str, output_folder:Optional[str]=None) -> pd.DataFrame:
     """Renvoie toutes les infos nécessaires sur les albums à partir du nom de l'artiste."""
     genius = Genius(access_token)
 
@@ -21,24 +23,42 @@ def get_all_albums(artist_name:str, access_token:str) -> pd.DataFrame:
         return None
     
     artist_id = artist.to_dict()["id"]
-    albums = genius.artist_albums(artist_id)["albums"]
+    try:
+        albums = genius.artist_albums(artist_id)["albums"]
+    except Exception as e:
+        print("Erreur dans l'appel de récupération de l'album.\n" \
+        f"{e}")
+        return None
 
     results_albums = []
+    not_treated = list()
 
     for a in albums : 
-        a["tracks_id"] = [t["song"]["id"] for t in genius.album_tracks(a["id"])["tracks"]]
+        try: 
+            album_track = genius.album_tracks(a["id"])
+        except Exception as e:
+            print("Erreur dans l'appel de récupération des tracks de l'album.\n" \
+                    f"{e}")
+            not_treated.append(a["id"])
+            continue
+
+        a["tracks_id"] = [t["song"]["id"] for t in album_track["tracks"]]
         a = {p:a[p] for p in a if p in metadatas_a_garder_albums}
         a["primary_artists_id"] = [ar["id"] for ar in a["primary_artists"]]
         a["primary_artists_names"] = [ar["name"] for ar in a["primary_artists"]]
         del a["primary_artists"]
         results_albums.append(a)
 
+        if (output_folder):
+            albumdf = pd.DataFrame(a)
+            albumdf.to_csv(os.path.join(output_folder, f"{a['id']}.csv"))
+
     return pd.DataFrame(results_albums) #On renvoie la base de données correspondante
 
 
 metadatas_a_garder_tracks = ['primary_artists', 'full_title', 'title', 'id', 'path', 'featured_artists', 'writer_artists', 'lyrics', 'language']
 # Leur colonne language est fucked up, je sais pas sur quoi elle s'appuie mais elle a détecté un morceau de Stupeflip comme du tchèque
-def get_all_songs_albums(artist_name:str, access_token:str) -> pd.DataFrame: 
+def get_all_songs_albums(artist_name:str, access_token:str, k:int=1) -> pd.DataFrame: 
     """Renvoie tous les sons sortis par l'artiste, en y allant album par album."""
     genius = Genius(access_token)
 
@@ -49,13 +69,23 @@ def get_all_songs_albums(artist_name:str, access_token:str) -> pd.DataFrame:
         return None
     
     artist_id = artist.to_dict()["id"]
-    albums = genius.artist_albums(artist_id)["albums"]
+    try:
+        albums = genius.artist_albums(artist_id)["albums"]
+    except Exception as e:
+        print("Erreur dans l'appel de récupération de l'album.\n" \
+        f"{e}")
+        return None
+    
     albums_id = [a["id"] for a in albums]
 
     results_tracks = []
-    for i_album, a_id in enumerate(albums_id) : 
-        
-        tracks_id = [t["song"]["id"] for t in genius.album_tracks(a_id)["tracks"]]
+    for i_album, a_id in enumerate(albums_id[:k]) : 
+
+        try:
+            tracks_id = [t["song"]["id"] for t in genius.album_tracks(a_id)["tracks"]]
+        except Exception as e:
+            print(f"Erreur dans le load des tracks de {a_id}.\n"
+                  f"{e}")
 
         print(tracks_id)
         for i_track, t_id in enumerate(tracks_id) : 
@@ -65,6 +95,7 @@ def get_all_songs_albums(artist_name:str, access_token:str) -> pd.DataFrame:
                 song = genius.search_song(song_id=t_id)
             except AssertionError as ae :
                 print(ae, f"Erreur concernant le titre n°{i_track} (en comptant 0), ayant pour id {t_id}") 
+                continue
 
             if song : #Il arrive que le song soit None, c'est entièrement la faute du référencement de l'API
                 d = song.to_dict() #On converti le titre en dictionnaire

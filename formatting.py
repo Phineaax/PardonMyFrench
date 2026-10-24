@@ -7,7 +7,11 @@ import numpy as np
 
 SECTION_TAGS = [r"Couplet(?:\s(?:\d+|unique))?", r"Interlude", r"Intro", r"Pont",
                 r"Refrain", r"Post-refrain", r"Pre-refrain", r"Outro",
-                r"Verse", r"Bridge", r"Chorus", r"Pre-Chorus"]
+                r"Verse", r"Bridge", r"Chorus", r"Pre-Chorus", r"Post-Chorus",
+                r"Part I", r"Part II", r"Guitar Solo", r"Instrumental Break",
+                r"Segue", r"Skit", r"Instrumental Outro", r"Instrumental",
+                r"Post-Chorus 1", r"Post-Chorus 2", r"Post-Chorus 3"
+                ]
 
 def with_num(p):   # numéro optionnel, sauf pour Couplet qui a déjà le sien
     return p if p.startswith("Couplet") else rf"{p}(?:\s\d+)?"
@@ -16,6 +20,8 @@ ANY_TAG = re.compile(r"^\s*\[(?P<tag>[^\]:]+?)\s*(?::\s*[^\]]*)?\]\s*$", re.M)
 TAG = "|".join(with_num(p) for p in SECTION_TAGS)
 KNOWN = re.compile(TAG, re.I)
 IGNORED = re.compile(r'Paroles de\b.*', re.I)
+
+ADLIB = re.compile(r"(?P<adlib>(?:\s*\([^()]*\))+)\s*$")
 
 PAIR = re.compile(
         rf"""

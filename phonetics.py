@@ -17,9 +17,14 @@ _WORD = re.compile(r"[^\W\d_]+(?:['’\-][^\W\d_]+)*", re.UNICODE)
 
 _VOWELS = set("aeiouyEO29@#$()")
 _SEMI = set("jw8")
+_ADLIB = re.compile(r"(?P<adlib>(?:\s*\([^()]*\))+)\s*$")
 
-def _find_last_word(line:str) -> str:
-    mots = _WORD.findall(line)
+# Adlib not counted for rhyme selection.
+def _find_last_word(line: str) -> str | None:
+    adlib = _ADLIB.search(line)
+    line_no_adlib = line[:adlib.start()] if adlib else line
+
+    mots = _WORD.findall(line_no_adlib.strip())
     return mots[-1].lower() if mots else None
     
 
