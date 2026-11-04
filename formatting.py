@@ -12,7 +12,7 @@ SECTION_TAGS = [r"Couplet(?:\s(?:\d+|unique))?", r"Interlude", r"Intro", r"Pont"
                 r"Segue", r"Skit", r"Instrumental Outro", r"Instrumental",
                 r"Post-Chorus 1", r"Post-Chorus 2", r"Post-Chorus 3",
                 r"Spoken", r"Vocalisations", r"Vocal Sampling", r"Chant", r"Vocalizations",
-                r"\?", r"Jerome Weinberg & Mac Miller"
+                r"\?", r"Jerome Weinberg & Mac Miller", r"Produced by Larry Fisherman & randomblackdude"
                 ]
 
 def with_num(p):   # numéro optionnel, sauf pour Couplet qui a déjà le sien
