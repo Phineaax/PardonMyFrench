@@ -25,17 +25,48 @@ TOKENS_ENG_REG = re.compile(
     re.VERBOSE,
 )
 
-def count_tokens(line:str, lang:str) -> int:
-    if (lang == "fr"):
+def count_tokens(line: str, lang: str = "fr") -> int:
+    if lang == "fr":
         regex = TOKENS_FR_REG
-    elif (lang == "en"):
+    elif lang == "en":
         regex = TOKENS_ENG_REG
     else:
-        print(f"Selected language is not understood: {lang}. Please choose between fr and en.\n"
-              "French chosen by default.")
+        print(f"Selected language is not understood: {lang}. "
+              "Please choose between fr and en.\nFrench chosen by default.")
+        regex = TOKENS_FR_REG
+    return len(regex.findall(line))
 
-    tokens = re.findall(pattern=regex, string=line)
-    return len(tokens)
+
+def chunk(
+    lyrics_dataframe: pd.DataFrame,
+    chunk_tokens_nb: int = 1500,
+    min_chunk_size: int = MIN_CHUNK_SIZE,
+    lang: str = "fr",
+) -> List[List[str]]:
+    lines = lyrics_dataframe["text"].dropna().to_list()
+
+    chunks = []
+    current_chunk = []
+    token_count = 0
+
+    for line in lines:
+        if token_count >= chunk_tokens_nb:
+            chunks.append(current_chunk)
+            current_chunk = []
+            token_count = 0
+
+        token_count += count_tokens(line, lang)
+        current_chunk.append(line)
+
+    # Dernier chunk : on le garde s'il est assez gros,
+    # sinon on le fusionne avec le précédent
+    if current_chunk:
+        if token_count >= min_chunk_size or not chunks:
+            chunks.append(current_chunk)
+        else:
+            chunks[-1].extend(current_chunk)
+
+    return chunks
 
 
 def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
@@ -57,25 +88,3 @@ def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
                 })
 
     return pd.DataFrame(rows)
-
-def chunk(lyrics_dataframe:str, chunk_tokens_nb:int=1500, min_chunk_size:int=MIN_CHUNK_SIZE) -> List[List[str]]:
-
-    lines = lyrics_dataframe["text"].to_list()
-    chunks = chunk(lines, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
-
-    chunks = list()
-    token_count = 0
-    current_chunk = list()
-    for line in lines:
-        if (token_count >= chunk_tokens_nb):
-            chunks.append(current_chunk)
-            current_chunk = list()
-            token_count = 0
-
-        token_count += count_tokens(line)
-        current_chunk.append(line)
-
-    if (token_count > min_chunk_size):
-        chunks.append(current_chunk)
-
-    return chunks
