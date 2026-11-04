@@ -10,18 +10,22 @@
       "type": "verse",
       "rhyme_scheme": "ABAB",
       "performer": "art_01",
-      "persona":
-        {
-          "persona_id": "persona_0001", "confidence_score": 0.9
-        },
       "lines": [
         {
+          "persona": 
+          {
+            "persona_id": "persona_0001"
+          },
           "n": 1,
           "text": "J'ai le flow qui les choque, j'allume un gros cigare",
           "syllables": 13,
           "rhyme": "aʁ"
         },
         {
+          "persona": 
+          {
+            "persona_id": "persona_0001"
+          },
           "n": 2,
           "text": "Gros, j'esquive l'époque, perdu dans le brouillard",
           "syllables": 11,
