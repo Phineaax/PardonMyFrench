@@ -11,12 +11,12 @@ import time
 
 metadatas_a_garder_albums = ['_type', 'full_title', 'title', 'id', 'path', 'release_date_components', 'primary_artists']
 
-def get_artist_id(artist_name:str) :
+def get_artist_id(artist_name:str, access_token:str) :
     genius = Genius(access_token)
     artist = genius.search_artist(artist_name, get_full_info=False, max_songs=0)
     return artist.to_dict()["id"]
 
-def get_all_albums(artist_name:str, access_token:str=access_token, output_folder:Optional[str]=None) -> pd.DataFrame:
+def get_all_albums(artist_name:str, access_token:str, output_folder:Optional[str]=None) -> pd.DataFrame:
     """Renvoie toutes les infos nécessaires sur les albums à partir du nom de l'artiste."""
     genius = Genius(access_token)
 
@@ -75,7 +75,7 @@ def get_all_albums(artist_name:str, access_token:str=access_token, output_folder
 metadatas_a_garder_tracks = ['primary_artists', 'full_title', 'title', 'id', 'path', 'featured_artists', 'writer_artists', 'lyrics', 'language']
 # Leur colonne language est fucked up, je sais pas sur quoi elle s'appuie mais elle a détecté un morceau de Stupeflip comme du tchèque
 
-def get_album_tracks(a_id, access_token:str=access_token) :
+def get_album_tracks(a_id, access_token:str) :
 
     genius = Genius(access_token)
     
@@ -125,7 +125,7 @@ def get_album_tracks(a_id, access_token:str=access_token) :
 
 
 
-def get_all_songs_albums(artist_name:str, access_token:str=access_token, k:int=1, input_df:Optional[pd.DataFrame]=None) -> pd.DataFrame: 
+def get_all_songs_albums(artist_name:str, access_token:str, k:int=1, input_df:Optional[pd.DataFrame]=None) -> pd.DataFrame: 
     """Renvoie tous les sons sortis par l'artiste, en y allant album par album."""
     genius = Genius(access_token)
 
