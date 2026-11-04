@@ -14196,3 +14196,6 @@ __pycache__/phonetics.cpython-311.pyc
 .venv/lib/python3.11/site-packages/zipp/compat/py310.py
 .venv/lib/python3.11/site-packages/zipp/compat/py313.py
 .venv/lib/python3.11/site-packages/zipp/glob.py
+MacMillerDf.csv
+R&D.ipynb
+__pycache__/chunking.cpython-311.pyc
