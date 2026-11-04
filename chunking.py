@@ -1,6 +1,7 @@
 import re
 import json
 from typing import List, Dict, Tuple, Optional, T
+import pandas as pd
 
 MIN_CHUNK_SIZE = 900
 
@@ -36,7 +37,32 @@ def count_tokens(line:str, lang:str) -> int:
     tokens = re.findall(pattern=regex, string=line)
     return len(tokens)
 
-def chunk(lines:List[str], chunk_tokens_nb:int=1500, min_chunk_size:int=900) -> List[List[str]]:
+
+def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
+    rows = []
+
+    for i in range(len(artist_dataframe)):
+        song_id = artist_dataframe["song_id"].iloc[i]
+        lyrics_obj = artist_dataframe["lyrics"].iloc[i]
+
+        sections = lyrics_obj if isinstance(lyrics_obj, list) else [lyrics_obj]
+
+        for section in sections:
+            for line in section.get("lines", []):
+                rows.append({
+                    "song_id": song_id,
+                    "section_id": section.get("section_id"),
+                    "performer_id": line.get("performer_id"),
+                    "text": line.get("text"),
+                })
+
+    return pd.DataFrame(rows)
+
+def chunk(lyrics_dataframe:str, chunk_tokens_nb:int=1500, min_chunk_size:int=MIN_CHUNK_SIZE) -> List[List[str]]:
+
+    lines = lyrics_dataframe["text"].to_list()
+    chunks = chunk(lines, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
+
     chunks = list()
     token_count = 0
     current_chunk = list()
@@ -51,20 +77,5 @@ def chunk(lines:List[str], chunk_tokens_nb:int=1500, min_chunk_size:int=900) -> 
 
     if (token_count > min_chunk_size):
         chunks.append(current_chunk)
-
-    return chunks
-
-def json_to_chunks(path_to_jsons:str, chunk_tokens_nb:int=1500, min_chunk_size:int=MIN_CHUNK_SIZE):
-
-    for persona_path in 
-
-    with open(path_to_jsons, "r") as file:
-        json_dict = json.load(path_to_jsons)
-
-    lyrics_dict = json_dict["lyrics"]
-    lines_dicts = [lyrics["lines"] for lyrics in lyrics_dict]
-    lines = [line["text"] for line in lines_dicts]
-
-    chunks = chunk(lines, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
 
     return chunks
