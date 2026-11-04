@@ -5,35 +5,23 @@ import pandas as pd
 import os
 import numpy as np
 
-SECTION_TAGS = [r"Couplet(?:\s(?:\d+|unique))?", r"Interlude", r"Intro", r"Pont",
-                r"Refrain", r"Post-refrain", r"Pre-refrain", r"Outro",
-                r"Verse", r"Bridge", r"Chorus", r"Pre-Chorus", r"Post-Chorus", r"Chorus \(Condensed\)",
-                r"Part I", r"Part II", r"Guitar Solo", r"Instrumental Break", r"Instrumental Bridge",
-                r"Segue", r"Skit", r"Instrumental Outro", r"Instrumental",
-                r"Post-Chorus 1", r"Post-Chorus 2", r"Post-Chorus 3",
-                r"Spoken", r"Vocalisations", r"Vocal Sampling", r"Chant", r"Vocalizations",
-                r"\?", r"Jerome Weinberg & Mac Miller", 
-                r"Skit(?:\s(?:\d+|unique))?(?:/Outro)?", r"Intermission", r"Produced by .+"
-                ]
+HEADER = r"^[ \t]*\[(?P<tag>[^\]:]+?)(?:[ \t]*:[ \t]*(?P<who>[^\]]*))?\][ \t]*$"
+
+PAIR = re.compile(
+    rf"""
+    {HEADER}
+    (?P<body>.*?)
+    (?=^[ \t]*\[[^\]]+\][ \t]*$|\Z)   # prochaine balise ou fin du texte
+    """,
+    re.S | re.M | re.X,
+)
 
 def with_num(p):   # numéro optionnel, sauf pour Couplet qui a déjà le sien
     return p if p.startswith("Couplet") else rf"{p}(?:\s\d+)?"
 
-ANY_TAG = re.compile(r"^\s*\[(?P<tag>[^\]:]+?)\s*(?::\s*[^\]]*)?\]\s*$", re.M)
-TAG = "|".join(with_num(p) for p in SECTION_TAGS)
-KNOWN = re.compile(TAG, re.I)
 IGNORED = re.compile(r'Paroles de\b.*', re.I)
 
 ADLIB = re.compile(r"(?P<adlib>(?:\s*\([^()]*\))+)\s*$")
-
-PAIR = re.compile(
-        rf"""
-        \[(?P<tag>{TAG})(?:\s*:\s*(?P<who>[^\]]+))?\]
-        (?P<body>.*?)
-        (?=\[(?:{TAG})(?:\s*:\s*[^\]]+)?\]|\Z)
-        """,
-        re.S | re.X | re.I,
-    )
 
 ARTIST_DICT = {
     "19547": "Népal",
@@ -69,44 +57,31 @@ def make_lines_dict(lines: List[str]) -> List[Dict[str,str]]:
     return formatted_lines
 
 
-def lyricsparser(lyrics: str) -> List[Dict[str, T]]:
-    new_tags = unknown_tags([lyrics])
-    if (new_tags):
-        return list()
+def lyricsparser(lyrics: str) -> List[Dict[str, Any]]:
+    lyrics_list = []
+    reversed_artist_dict = {name: id_ for id_, name in ARTIST_DICT.items()}
 
-    lyrics_list = list()
-    for (idx, section) in enumerate(PAIR.finditer(lyrics)):
-        tag = section["tag"]
-        if ("Paroles de" in tag):
+    for idx, section in enumerate(PAIR.finditer(lyrics)):
+        tag = section["tag"].strip()
+        if IGNORED.match(tag):          # "Paroles de ...", etc.
             continue
 
-        sec_type = tag.split(sep=" ")[0].lower()
-        body = section["body"]
-        lines = body.split("\n")
+        sec_type = tag.split(" ")[0].lower()
+        lines = make_lines_dict(section["body"].split("\n"))
 
-        formatted_lines = make_lines_dict(lines=lines)
-
-        try:
-            performers = section["who"].split(sep=" ")
-            reversed_artist_dict = {perf: id for (perf, id) in zip(ARTIST_DICT.values(), ARTIST_DICT.keys())}
-
-            perf_ids = [reversed_artist_dict.get(performer, "") for performer in performers]
-            if len(perf_ids == 0):
-                perf_ids = ""
-                break
-
-            perf_ids = ", ".join(perf_ids)
-        except:
+        who = section["who"]
+        if who:
+            performers = [p.strip() for p in re.split(r"[&,]", who)]
+            perf_ids = ", ".join(reversed_artist_dict.get(p, "") for p in performers)
+        else:
             perf_ids = ""
 
-        sec_recap = {
-                     "section_id": f"section_{idx}", 
-                     "type": sec_type,
-                     "performer": perf_ids,
-                     "lines": formatted_lines
-                     }
-        lyrics_list.append(sec_recap)
-    
+        lyrics_list.append({
+            "section_id": f"section_{idx}",
+            "type": sec_type,
+            "performer": perf_ids,
+            "lines": lines,
+        })
     return lyrics_list
 
 def single_song_formatter(row: Dict[str,T], output_path:Optional[str]=None) -> Dict[str,T]:
