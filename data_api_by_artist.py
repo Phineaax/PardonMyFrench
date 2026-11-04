@@ -12,10 +12,11 @@ import time
 metadatas_a_garder_albums = ['_type', 'full_title', 'title', 'id', 'path', 'release_date_components', 'primary_artists']
 
 def get_artist_id(artist_name:str) :
+    genius = Genius(access_token)
     artist = genius.search_artist(artist_name, get_full_info=False, max_songs=0)
     return artist.to_dict()["id"]
 
-def get_all_albums(artist_name:str, access_token:str, output_folder:Optional[str]=None) -> pd.DataFrame:
+def get_all_albums(artist_name:str, access_token:str=access_token, output_folder:Optional[str]=None) -> pd.DataFrame:
     """Renvoie toutes les infos nécessaires sur les albums à partir du nom de l'artiste."""
     genius = Genius(access_token)
 
@@ -26,13 +27,25 @@ def get_all_albums(artist_name:str, access_token:str, output_folder:Optional[str
         return None
     
     artist_id = artist.to_dict()["id"]
-    try:
-        albums = genius.artist_albums(artist_id)["albums"]
-    except Exception as e:
-        print("Erreur dans l'appel de récupération de l'album.\n" \
-        f"{e}")
-        return None
 
+    albums = list()
+    trying_pages = True
+    index_page = 1 #l'API est limitée à 50 résultats max par page, donc on itère sur les pages jusqu'à ce qu'on ait une page contenant 0 albums (ça ne cause pas d'erreur d'aller une page trop loin)
+    while trying_pages :
+        print(f"page {index_page}")
+        try : 
+            al = genius.artist_albums(artist_id, per_page=50, page=index_page)["albums"]
+            if len(al) == 0 :
+                trying_pages = False
+            albums.extend(al)
+            index_page += 1
+
+        except Exception as e:
+            print("Erreur dans l'appel de récupération de l'album.\n" \
+            f"{e}")
+            return None
+        
+    print(f"Un total de {len(albums)} albums a été récupéré")
     results_albums = []
     not_treated = list()
 
@@ -61,7 +74,58 @@ def get_all_albums(artist_name:str, access_token:str, output_folder:Optional[str
 
 metadatas_a_garder_tracks = ['primary_artists', 'full_title', 'title', 'id', 'path', 'featured_artists', 'writer_artists', 'lyrics', 'language']
 # Leur colonne language est fucked up, je sais pas sur quoi elle s'appuie mais elle a détecté un morceau de Stupeflip comme du tchèque
-def get_all_songs_albums(artist_name:str, access_token:str, k:int=1, input_df:Optional[pd.DataFrame]=None) -> pd.DataFrame: 
+
+def get_album_tracks(a_id, access_token:str=access_token) :
+
+    genius = Genius(access_token)
+    
+    try:
+        tracks_id = [t["song"]["id"] for t in genius.album_tracks(a_id)["tracks"]]
+    except Exception as e:
+        print(f"Erreur dans le load des tracks de {a_id}.\n"
+            f"{e}")
+
+    print(tracks_id)
+    album_tracks= list()
+    for i_track, t_id in enumerate(tracks_id) : 
+        print(t_id)
+        song = None
+        for attempt in range(3):
+            try :  #Si le titre n'est pas transcrit, on a une erreur
+                song = genius.search_song(song_id=t_id)
+                break
+            except AssertionError as ae :
+                print(ae, f"Erreur concernant le titre n°{i_track} (en comptant 0), ayant pour id {t_id}") 
+                break
+            except RequestException as e:
+                print(f"Timeout titre {t_id} (essai {attempt+1}/3) : {e}")
+                time.sleep(2 ** attempt)
+        
+        else: # si la boucle a tourné jusqu'au bout sans break, on entre dedans
+            raise ConnectionError(f"Abandon sur le titre {t_id}")
+
+        if song : #Il arrive que le song soit None, c'est entièrement la faute du référencement de l'API
+            d = song.to_dict() #On convertit le titre en dictionnaire
+            d = {p:d[p] for p in d if p in metadatas_a_garder_tracks} #On crée un sous dictionnaire en ne gardant que les clefs contenues dans la liste "à garder"
+            
+            d["featured_artists_id"] = [feat["id"] for feat in d["featured_artists"]]
+            d["featured_artists_names"] = [feat["name"] for feat in d["featured_artists"]]
+            d["writer_artists_id"] = [writer["id"] for writer in d["writer_artists"]]
+            d["writer_artists_names"] = [writer["name"] for writer in d["writer_artists"]]
+            d["primary_artists_id"] = [ar["id"] for ar in d["primary_artists"]]
+            d["primary_artists_names"] = [ar["name"] for ar in d["primary_artists"]]
+            del d["primary_artists"]
+            del d["featured_artists"]
+            del d["writer_artists"]
+            
+            d["album_id"] = a_id 
+            album_tracks.append(d)
+            
+    return pd.DataFrame(album_tracks)
+
+
+
+def get_all_songs_albums(artist_name:str, access_token:str=access_token, k:int=1, input_df:Optional[pd.DataFrame]=None) -> pd.DataFrame: 
     """Renvoie tous les sons sortis par l'artiste, en y allant album par album."""
     genius = Genius(access_token)
 
@@ -72,12 +136,23 @@ def get_all_songs_albums(artist_name:str, access_token:str, k:int=1, input_df:Op
         return None
     
     artist_id = artist.to_dict()["id"]
-    try:
-        albums = genius.artist_albums(artist_id)["albums"]
-    except Exception as e:
-        print("Erreur dans l'appel de récupération de l'album.\n" \
-        f"{e}")
-        return None
+
+    albums = list()
+    trying_pages = True
+    index_page = 1 #l'API est limitée à 50 résultats max par page, donc on itère sur les pages jusqu'à ce qu'on ait une page contenant 0 albums (ça ne cause pas d'erreur d'aller une page trop loin)
+    while trying_pages :
+        print(f"page {index_page}")
+        try : 
+            al = genius.artist_albums(artist_id, per_page=50, page=index_page)["albums"]
+            if len(al) == 0 :
+                trying_pages = False
+            albums.extend(al)
+            index_page += 1
+
+        except Exception as e:
+            print("Erreur dans l'appel de récupération de l'album.\n" \
+            f"{e}")
+            return None
     
     albums_id = [a["id"] for a in albums]
     results_tracks = []
