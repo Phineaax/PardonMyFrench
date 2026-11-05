@@ -1,0 +1,151 @@
+{
+    "song_id": 4137361,
+    "title": "Hello .RAW-Z",
+    "language": "en",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hello, mélancolie, hello",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Hello, mélancolie, hello",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Passe à la casa bébé, j'suis là",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Ramène la sson-boi, on s'met minable",
+                    "rhyme": "abl",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Hello, mélancolie, hello",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Hello, mélancolie, hello",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Passe à la casa bébé, j'suis là",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Ramène la sson-boi, on s'met minable",
+                    "rhyme": "abl",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'voulais écrire des sons positifs",
+                    "rhyme": "if",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Mais j'crois qu'y'en a aucun dans mon dix titres (Shit)",
+                    "rhyme": "itR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": ".RAW-Z, c'est la B.O. de ton suicide",
+                    "rhyme": "id",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "C'est tellement triste qu'la météo s'fait du soucis",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Rajoute des glaçons dans la liqueur (Glou glou glou glou glou)",
+                    "rhyme": "9R",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Prends soin d'moi comme ma babysitter",
+                    "rhyme": "9R",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Tu sais comment glacer mon p'tit cœur",
+                    "rhyme": "9R",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "J'espère qu'cette mélo' va te plaire",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hello, mélancolie, hello",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Hello, mélancolie, hello",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Passe à la casa bébé, j'suis là",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Ramène la sson-boi, on s'met minable",
+                    "rhyme": "abl",
+                    "personna_id": "002"
+                }
+            ]
+        }
+    ]
+}
