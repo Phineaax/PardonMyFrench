@@ -1,0 +1,30 @@
+import numpy as np
+import chunking
+import score_utils
+
+#EBAUCHE DE CODE POUR LES COMPARAISONS ET VISUALISATION
+
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.cluster.hierarchy import dendrogram, linkage
+
+def data_from_persona(all_lines, persona_name, scorer) :
+    p_lines = all_lines[all_lines["persona"] == persona_name]
+    chunks = chunking.chunk(p_lines)
+    data_output = []
+    for c in chunks :
+        data_output.append(scorer(c))
+
+    return data_output
+
+def dendrogram(X) : 
+    #Code trouvé sur "https://fr.moonbooks.org/Articles/Les-dendrogrammes-avec-Matplotlib/"
+    # Effectuer le regroupement hiérarchique
+    Z = linkage(X, method='ward')
+    # Tracer le dendrogramme
+    plt.figure(figsize=(10, 7))
+    dendrogram(Z)
+    plt.title("Dendrogramme")
+    plt.xlabel("Points de données")
+    plt.ylabel("Distances euclidiennes")
+    plt.show()

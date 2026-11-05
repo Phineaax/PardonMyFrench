@@ -68,8 +68,15 @@ def chunk(
 
     return chunks
 
+def chunks_to_big_list(chunks) :
+    return sum(chunks, start=[])
+
+def repare_cyrillic_error(t) : 
+    H = str.maketrans("аеорсухіјАЕОРСХТНКМВ", "aeopcyxijAEOPCXTHKMB")
+    return t.translate(H)
 
 def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
+    #'Artist' c'est la persona ou l'artiste? 
     rows = []
 
     for i in range(len(artist_dataframe)):
@@ -84,7 +91,7 @@ def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
                     "song_id": song_id,
                     "section_id": section.get("section_id"),
                     "performer_id": line.get("performer_id"),
-                    "text": line.get("text"),
+                    "text": repare_cyrillic_error(line.get("text")),
                 })
 
     return pd.DataFrame(rows)

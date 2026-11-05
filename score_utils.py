@@ -12,7 +12,8 @@ from collections import Counter
 from sentence_transformers import SentenceTransformer
 
 def wordify(lines_chunk) :
-    words = [word_tokenize(l) for l in lines_chunk]
+    """Transforme une liste de phrase en liste de mots"""
+    words = [word_tokenize(line) for line in lines_chunk]
     return sum(words, start=[])
 
 
@@ -137,7 +138,7 @@ def n_grams_char(lines_chunk, vocab_w2i) :
     return v
 
 
-def sentence_transformer_lines(lines_chunk) :
+def chunk_to_embedding(lines_chunk) :
     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
     vector_sentences = model.encode(lines_chunk)
     vectorized = np.mean(vector_sentences, axis=0)
