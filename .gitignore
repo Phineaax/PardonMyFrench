@@ -14202,3 +14202,6 @@ __pycache__/chunking.cpython-311.pyc
 __pycache__/data_api_by_artist.cpython-313.pyc
 __pycache__/formatting.cpython-313.pyc
 __pycache__/phonetics.cpython-313.pyc
+backup.csv
+corpusTryouts.ipynb
+cleaning.ipynb
