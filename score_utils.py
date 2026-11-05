@@ -15,51 +15,6 @@ def wordify(lines_chunk) :
     words = [word_tokenize(l) for l in lines_chunk]
     return sum(words, start=[])
 
-def create_vocab_words(all_lines) :
-    words = wordify(all_lines)
-    
-    vocab_w2i = dict()
-    i_last = 0
-
-    for w in words : 
-        if w not in vocab_w2i :
-            vocab_w2i[w] = i_last
-            i_last += 1
-
-    return vocab_w2i
-
-def create_vocab_words_n_grams(list_of_chunks, n) :
-    
-    vocab_w2i = dict()
-    i_last = 0
-
-    for line in list_of_chunks :
-        words = word_tokenize(line)
-        for i in range(len(words)-n-1) :
-            t = tuple(words[i:i+n])
-            if t not in vocab_w2i :
-                vocab_w2i[t] = i_last
-                i_last += 1
-
-    return vocab_w2i
-
-def create_vocab_char_n_grams(list_of_chunks, n): 
-    vocab_w2i = dict()
-    i_last = 0
-
-    for line in list_of_chunks :
-
-        for i in range(len(line)-n-1) :
-            t = line[i:i+n]
-
-            if " " not in t[1:n-1] :            
-                t = tuple(t)
-                
-                if t not in vocab_w2i :
-                    vocab_w2i[t] = i_last
-                    i_last += 1
-
-    return vocab_w2i
 
 def longueur_moyenne(lines_chunk) :
     words = wordify(lines_chunk)
@@ -80,8 +35,24 @@ def densite_lexicale(lines_chunk, language) :
     words = wordify(lines_chunk)
     words = [w for w in words if w not in stopwords]
 
-def bow(lines_chunk, vocab_w2i) :
 
+#BOW
+def create_vocab_bow(all_lines) :
+    """Crée le vocab total pour faire des Bag Of Words indépendamment. Prend en argument la grande liste de toutes les lignes."""
+    words = wordify(all_lines)
+    
+    vocab_w2i = dict()
+    i_last = 0
+
+    for w in words : 
+        if w not in vocab_w2i :
+            vocab_w2i[w] = i_last
+            i_last += 1
+
+    return vocab_w2i
+
+def bow(lines_chunk, vocab_w2i) :
+    """Renvoie un vecteur Bag Of Words"""
     v = np.zeros(len(vocab_w2i))
 
     words = wordify(lines_chunk)
@@ -91,8 +62,25 @@ def bow(lines_chunk, vocab_w2i) :
 
     return v
 
+
+#N-grams mots
+def create_vocab_n_grams_mots(all_lines, n) :
+    """Crée le vocabulaire pour utiliser la fonction n_gram_mots. Prend en argument la grande liste de toutes les lignes."""
+    vocab_w2i = dict()
+    i_last = 0
+
+    for line in all_lines :
+        words = word_tokenize(line)
+        for i in range(len(words)-n-1) :
+            t = tuple(words[i:i+n])
+            if t not in vocab_w2i :
+                vocab_w2i[t] = i_last
+                i_last += 1
+
+    return vocab_w2i
+
 def n_grams_mots(lines_chunk, vocab_w2i) :
-    n = len(list(vocab_w2i.values)[0])
+    n = len(list(vocab_w2i.values)[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
 
@@ -108,8 +96,30 @@ def n_grams_mots(lines_chunk, vocab_w2i) :
         v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
     return v
 
-def n_grams_caracteres(lines_chunk, vocab_w2i) :
-    n = len(list(vocab_w2i.values)[0])
+
+#N-grams char
+def create_vocab_n_grams_char(all_lines, n): 
+    """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
+
+    vocab_w2i = dict()
+    i_last = 0
+
+    for line in all_lines :
+
+        for i in range(len(line)-n-1) :
+            t = line[i:i+n]
+
+            if " " not in t[1:n-1] :            
+                t = tuple(t)
+                
+                if t not in vocab_w2i :
+                    vocab_w2i[t] = i_last
+                    i_last += 1
+
+    return vocab_w2i
+
+def n_grams_char(lines_chunk, vocab_w2i) :
+    n = len(list(vocab_w2i.values)[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
 
@@ -125,6 +135,7 @@ def n_grams_caracteres(lines_chunk, vocab_w2i) :
     for n_gr in c :
         v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
     return v
+
 
 def sentence_transformer_lines(lines_chunk) :
     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
