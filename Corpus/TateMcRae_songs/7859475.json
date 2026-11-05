@@ -1,0 +1,245 @@
+{
+  "song_id": 7859475,
+  "title": "boy x",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1759528
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "There was a girl with the toughest of skin",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "She made sure that everyone around knew that she wasn't sensitive",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "She walked around (Ah-ah), let nobody in (Ah-ah)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Thought if she'd never gave her heart away, it'd never end up broken",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But boy x, across the street, oh, he was one of a kind",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Made her fall in love with only just a look in her eyes",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "When they wandered off to someone else's for the first time",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "She cried and cried and cried",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Next time you move on like I know you'll do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Tell me you won't treat her like you did with me and you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "When she falls hard, and a little too soon",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Promise you won't promise things you know just won't come true",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "And don't you dare make her feel like she's the only thing you're seeing, no",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Don't do that stupid thing with your eyes, unless you mean it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "When you get bored, like you always do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Tell me that you'll let her go before you look for someone new",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, this very girl (This very girl)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Brown eyes and blonde ends (Brown eyes and blonde ends)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "No, she never wasted time but time with him just felt so different",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "She wrote him songs (She wrote him songs), just to watch him listening (Just to watch him listening)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "A hundred songs, a couple months in, no, she never saw it comin'",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The next time boy x, he crossed the street, she'd never see him again",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "She really thought he was forever then forever was dead",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Left her holdin' up the pieces of her heart by a thread",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "He left her there to die",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Next time you move on (Move on) like I know you'll do (Know you'll do)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Tell me you won't treat her like you did with me and you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "When she falls hard (Falls hard), and a little too soon (Little too soon)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Promise you won't promise things you know just won't come true",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "And don't you dare make her feel like she's the only thing you're seeing, no",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Don't do that stupid thing with your eyes, unless you mean it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "When you get bored, like you always do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Tell me that you'll let her go before you look for someone new",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "There was a girl, not too different from me",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "She thought she found the world, but then the world found out she's weak",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I guess that's okay, no, I just couldn't see",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "That there was a billion of boy x, but babe, there's only one of me",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ]
+}

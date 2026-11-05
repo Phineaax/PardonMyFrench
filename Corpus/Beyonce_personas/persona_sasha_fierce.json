@@ -1,0 +1,13 @@
+{
+  "persona_id": "persona_sasha_fierce",
+  "persona_name": "Sasha Fierce",
+  "artist_id": "498",
+  "period": {
+    "start": "2008",
+    "end": "2010"
+  },
+  "anchored_releases": [
+    "610619"
+  ],
+  "is_baseline": false
+}

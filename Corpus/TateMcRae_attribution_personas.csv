@@ -1,0 +1,57 @@
+id,title,album_id,persona_id,confidence_score,source
+5079727,stupid,547004,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+4908508,all my friends are fake,547004,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+5116631,that way,547004,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+4819129,tear myself apart,547004,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+5183520,happy face,547004,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+6551276,bad ones,669743,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+6395154,rubberband,669743,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+4415222,slower,669743,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+6241536,r u ok,669743,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+5453929,you broke me first,669743,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+6551285,wish i loved you in the 90s,669743,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7859473,don’t come back,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7606013,i’m so gone,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7895457,what would you do?,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7705468,chaotic,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7738598,hate myself,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+8021643,what’s your problem?,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+6820454,she’s all i wanna be,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7859475,boy x,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7859474,you’re so cool,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7252588,feel like shit,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+7859476,go away,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+8021667,i still say goodnight,796536,persona_tate_baseline,1.0,sortie antérieure à l'apparition de Tatiana en tournée
+9776100,cut my hair,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9393794,greedy,963023,persona_tatiana,1.0,greedy explicitement attribué à Tatiana par l'artiste (Billboard)
+9759851,run for the hills,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9741954,hurt my feelings,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9743883,grave,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9776070,stay done,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9693514,exes,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9776071,we’re not alike,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9776092,calgary,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+8509408,messier,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9704072,think later,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9776128,guilty conscience,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9776097,want that too,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+9046795,plastic palm trees,963023,persona_tatiana,0.8,album Think Later dit inspiré par Tatiana par l'artiste (Billboard)
+12711355,TRYING ON SHOES,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+12711221,ANYTHING BUT LOVE,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+12120233,NOBODY’S GIRL,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+12711341,HORSESHOE,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+12456608,TIT FOR TAT,1489439,persona_tatiana,0.7,"single associé à Tatiana par la presse, pas par l'artiste"
+11355172,Miss possessive,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+10955668,Revolving door,1489439,persona_tatiana,0.7,"single associé à Tatiana par la presse, pas par l'artiste"
+11102973,Dear god,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11502128,Purple lace bra,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11103036,Sports car,1489439,persona_tatiana,0.7,"single associé à Tatiana par la presse, pas par l'artiste"
+11355196,Signs,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11469782,Like I do,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+10794283,It’s ok I’m ok,1489439,persona_tatiana,1.0,attribué à Tatiana par l'artiste (Ryan Seacrest)
+11355199,No I’m not in love,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11469890,Means I care,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11354994,Greenlight,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+10879764,2 hands,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11522071,Siren sounds,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain
+11502129,Nostalgia,1489439,persona_tatiana,0.5,l'artiste dit que Tatiana a écrit « peut-être la moitié » de l'album : incertain

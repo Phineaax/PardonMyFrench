@@ -1,0 +1,265 @@
+{
+  "song_id": 9776097,
+  "title": "want that too",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1256784,
+    1653,
+    1502045,
+    539718
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I was blindsided, couldn't see it comin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Too young to be treated like that (Like that)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "You were on somethin', cut me down to nothin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And your knife's still stuck in my back (My back)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Keep sayin' one day I'll regret it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "But I don't",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Prolly think one day I'll forget it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "But I won't",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, I gave you everything that I couldn't afford to lose",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Now I pull myself together and you come out of the blue",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Takin' all the better parts of me is all you ever do",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Now the second I find somethin' good, I know that",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You're gonna want that too (Mhm)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "You're gonna want that too (Mhm)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Heard you're throwin' shots, watch 'em ricochet",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I got time for everything but your shit today",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I'm not waitin' for your call, but I know you will",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "That's the only hand left that you got to play",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Keep sayin' one day I'll regret it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "But I don't",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Prolly think one day I'll forget it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "But I promise you, now I won't",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, I gave you everything that I couldn't afford to lose",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Now I pull myself together and you come out of the blue",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Takin' all the better parts of me is all you ever do",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Now the second I find somethin' good, I know that",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You're gonna want that too (Gonna want that too; Mhm)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "You're gonna want that too (Gonna want that too; Mhm)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "No, no, no, no",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Take my innocence for weakness, take my money, I don't need it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "'Cause that's all you ever wanted, didn't you?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Take my youth and fuck me over, made me realize now I'm older",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Never wanna be anything like you",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, I gave you everything that I couldn't afford to lose",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "And I pull myself together, you come out of the blue",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Takin' all the better parts of me is all you ever do",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Now the second I found somethin' good, I know that",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You're gonna want that too, oh-oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "You're gonna want that too",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}

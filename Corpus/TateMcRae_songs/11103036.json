@@ -1,0 +1,406 @@
+{
+  "song_id": 11103036,
+  "title": "Sports car",
+  "language": "en",
+  "lyricists": [
+    1653,
+    1039827,
+    409643,
+    1258628
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Illegal)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "(Illegal)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hey, cute jeans (Jeans)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Take mine off me (Me)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Oh, golly gee (Gee)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "I can't take no more",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I'm goin' weak in my knees (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Where'd you put those keys? (Mm)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "We can share one seat (Seat)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "We can share one seat",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "In the alley, in the back",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "In the center of this room",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "With the windows rolled down",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Boy, don't make me choose",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "In the alley, in the back",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "In the center of this room",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "With the windows rolled down",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Boy, don't make me choose",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think you know what this is",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I think you wanna uh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "No, you ain't got no Mrs.​",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Oh, but you got a sports car",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "We can uh-uh in it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "While you drive it real far",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Pretty blue streetlights (Lights)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "And my hazel eyes (Eyes)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "And if it feels right (Right)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "We could go again like three, four times",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "So my type (Type)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Got butterflies (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "So good it hurts (Hurts)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Thinkin' 'bout what we did before this verse",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On the corner of my bed",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Oh, and maybe on the beach",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "You could do it on your own",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "While you're lookin' at me",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think you know what this is",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I think you wanna uh (Do you?)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "No, you ain't got no Mrs.​",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Oh, but you got a sports car",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "We can uh-uh in it (We can uh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "While you drive it real far",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "I think you know what this is (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "9",
+          "text": "I think you wanna uh (You wanna)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "10",
+          "text": "No, you ain't got no Mrs.​",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "11",
+          "text": "Oh, but you got a sports car",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "12",
+          "text": "We can uh-uh in it (Uh-uh, uh-uh, mm)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "13",
+          "text": "While you drive it real far",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "14",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "15",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh my guy",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "You don't wanna waste my time (Mm)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Let's go ride (Let's go)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Let's go ride (Come on)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Oh my guy",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "You don't wanna waste my time (No)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Let's go ride",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Let's go ride",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think you wanna, wanna (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "But you got a sports car (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "While you drive it real far (Ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Yeah, you know what this is",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}

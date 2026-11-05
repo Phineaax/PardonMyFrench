@@ -1,0 +1,463 @@
+{
+  "song_id": 152213,
+  "title": "Radio",
+  "language": "en",
+  "lyricists": [
+    498,
+    27667,
+    5898,
+    1108243
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I be on the hotline, like e'ryday",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Makin' sure the DJ know what I want him to play",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "You know I got my top back and my beat low",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Rockin' my stunna shades and turnin' up my radio",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Turn up my radio (Radio, radio)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think I'm in love with my radio",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "'Cause it never lets me down",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And I fall in love with my stereo",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Whenever I hear that sound",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Whenever I hear that sound",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "Whenever I hear that sound",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're the only one that papa allowed to hang out in my room",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "With the door closed, we'd be alone",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And mama never freaked out when she heard it go \"boom\"",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "'Cause she knew we were in the zone",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hold him in my arms and look out of my window",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "(Under the moonlight)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And he'd be keepin' me calm so I'd never let him go",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "He's got a place in my heart",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think I'm in love with my radio (Oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "'Cause it never lets me down",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And I fall in love with my stereo (With my stereo, oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Whenever I hear that sound (Oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh (Oh-oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Whenever I hear that sound (Oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh (Oh-oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "Whenever I hear that sound",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "When I get into my car, I turn it uh-uh, uh-up",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Then I hear vibrations all up in my tru-uh, uh-unk",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And the bassline be rattlin' through my sea-ea, ea-eats",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Then that crazy feeling starts happeni-ing, i-ing, oh",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I get butterflies when I hear the DJ",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "(Playin' the stuff I like)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And I fall deeper in love with every song he plays",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "He's got a place in my heart",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think I'm in love with my radio (With my radio)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "'Cause it never lets me down (No, no, no, no, no)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And I fall in love with my stereo (With my stereo)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Whenever I hear that sound (Oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh (Oh-oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Whenever I hear that sound (Oh-oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh (Oh-oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "Whenever I hear that sound",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_11",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I be on the hotline, like e'ryday",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Makin' sure the DJ know what I want him to play",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "You know I got my top back and my beat lo-ow",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Rockin' my stunna shades and turnin' up my radio, oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Turn up my radio (Radio, radio)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_12",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think I'm in love with my radio",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "'Cause it never lets me down",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "And I fall in love with my stereo",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Whenever I hear that sound (Oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_13",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh (Oh-oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Whenever I hear that sound (Oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh (Oh-oh, oh, woah, woah)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Oh-oh-oh-oh-oh-oh-oh-oh",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "Whenever I hear that sound",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_14",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, woah, woah",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Oh, woah, woah",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Oh, woah, woah",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "song_id": 85389,
+  "title": "Poison",
+  "language": "en",
+  "lyricists": [
+    498,
+    1021143,
+    401419,
+    16145
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ooh, ooh, ooh, ooh"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're bad for me, I clearly get it"
+        },
+        {
+          "n": "1",
+          "text": "I don't see how something good could come from loving you"
+        },
+        {
+          "n": "2",
+          "text": "The death of me must be your mission"
+        },
+        {
+          "n": "3",
+          "text": "'Cause with every hug and kiss, you're snatching every bit of strength"
+        },
+        {
+          "n": "4",
+          "text": "That I'm gon' need to fight off the inevitable"
+        },
+        {
+          "n": "5",
+          "text": "And it's a heart-breakin' situation I'm up in, but I can't control"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "1",
+          "text": "Slowly moving through my system"
+        },
+        {
+          "n": "2",
+          "text": "Breaking all of my defenses with time"
+        },
+        {
+          "n": "3",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "4",
+          "text": "And I just don't get it"
+        },
+        {
+          "n": "5",
+          "text": "How can something so deadly feel so right?"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not sure of what to do (Ooh)"
+        },
+        {
+          "n": "1",
+          "text": "It's a catch-22 (Ooh)"
+        },
+        {
+          "n": "2",
+          "text": "'Cause the cure is found in you (Ooh)"
+        },
+        {
+          "n": "3",
+          "text": "I don't want it, but I do (Ooh)"
+        },
+        {
+          "n": "4",
+          "text": "You're just like poison (Ooh)"
+        },
+        {
+          "n": "5",
+          "text": "My affliction, I'm addicted, I can't lie (Ooh, ooh)"
+        },
+        {
+          "n": "6",
+          "text": "Kiss me one more time before I die (Ooh)"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You ain't right, take me high"
+        },
+        {
+          "n": "1",
+          "text": "Then that high, it subsides"
+        },
+        {
+          "n": "2",
+          "text": "And my body flat-lines"
+        },
+        {
+          "n": "3",
+          "text": "Then you come to revive"
+        },
+        {
+          "n": "4",
+          "text": "Wait, wait, wait, I'm alive"
+        },
+        {
+          "n": "5",
+          "text": "But how long will it last?"
+        },
+        {
+          "n": "6",
+          "text": "Will it all come crashing down?"
+        },
+        {
+          "n": "7",
+          "text": "How many doses am I needing now?"
+        },
+        {
+          "n": "8",
+          "text": "What's the prognosis, will you be around?"
+        },
+        {
+          "n": "9",
+          "text": "Or am I just another victim of an assassin that broke my heart down?"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, you're just like poison"
+        },
+        {
+          "n": "1",
+          "text": "Slowly moving through my system"
+        },
+        {
+          "n": "2",
+          "text": "Breaking all of my defenses with time"
+        },
+        {
+          "n": "3",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "4",
+          "text": "And I just don't get it"
+        },
+        {
+          "n": "5",
+          "text": "How can something so deadly feel so right?"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not sure of what to do (Ooh)"
+        },
+        {
+          "n": "1",
+          "text": "It's a catch-22 (Ooh)"
+        },
+        {
+          "n": "2",
+          "text": "'Cause the cure is found in you (Ooh)"
+        },
+        {
+          "n": "3",
+          "text": "I don't want it, but I do (Ooh)"
+        },
+        {
+          "n": "4",
+          "text": "You're just like poison (Ooh)"
+        },
+        {
+          "n": "5",
+          "text": "My affliction, I'm addicted, I can't lie (Ooh, ooh)"
+        },
+        {
+          "n": "6",
+          "text": "Kiss me one more time before I die"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's just not my body (No)"
+        },
+        {
+          "n": "1",
+          "text": "It's my mind"
+        },
+        {
+          "n": "2",
+          "text": "You don't know how many times I told myself this can't do"
+        },
+        {
+          "n": "3",
+          "text": "And that I don't need you (No, I don't need you, no)"
+        },
+        {
+          "n": "4",
+          "text": "It's so unfair"
+        },
+        {
+          "n": "5",
+          "text": "That I find myself right back in your care"
+        },
+        {
+          "n": "6",
+          "text": "And what's good is that when you're not always there (There, there)"
+        },
+        {
+          "n": "7",
+          "text": "You're no good for my health, my health"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're just like poison (Woah, woah, woah)"
+        },
+        {
+          "n": "1",
+          "text": "You're just like poison (Woah, woah, woah)"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "1",
+          "text": "Slowly moving through my system"
+        },
+        {
+          "n": "2",
+          "text": "Breaking all of my defenses with time"
+        },
+        {
+          "n": "3",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "4",
+          "text": "And I just don't get it"
+        },
+        {
+          "n": "5",
+          "text": "How can something so deadly feel so right?"
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not sure of what to do (Ooh)"
+        },
+        {
+          "n": "1",
+          "text": "It's a catch-22 (Ooh)"
+        },
+        {
+          "n": "2",
+          "text": "'Cause the cure is found in you (Ooh)"
+        },
+        {
+          "n": "3",
+          "text": "I don't want it, but I do (Ooh)"
+        },
+        {
+          "n": "4",
+          "text": "You're just like poison (Ooh)"
+        },
+        {
+          "n": "5",
+          "text": "My affliction, I'm addicted, I can't lie (Ooh, ooh)"
+        },
+        {
+          "n": "6",
+          "text": "Baby, kiss me one more time"
+        }
+      ]
+    },
+    {
+      "section_id": "section_11",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "1",
+          "text": "Slowly moving through my system"
+        },
+        {
+          "n": "2",
+          "text": "Breaking all of my defenses with time"
+        },
+        {
+          "n": "3",
+          "text": "You're just like poison"
+        },
+        {
+          "n": "4",
+          "text": "And I just don't get it"
+        },
+        {
+          "n": "5",
+          "text": "How can something so deadly feel so right?"
+        }
+      ]
+    },
+    {
+      "section_id": "section_12",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not sure of what to do (Ooh)"
+        },
+        {
+          "n": "1",
+          "text": "It's a catch-22 (Ooh)"
+        },
+        {
+          "n": "2",
+          "text": "'Cause the cure is found in you (Ooh)"
+        },
+        {
+          "n": "3",
+          "text": "I don't wanna do (Ooh)"
+        },
+        {
+          "n": "4",
+          "text": "You're just like poison (Ooh)"
+        },
+        {
+          "n": "5",
+          "text": "I'm addicted, I can't lie (Ooh, ooh)"
+        },
+        {
+          "n": "6",
+          "text": "Kiss me one more time before I die (Ooh)"
+        }
+      ]
+    }
+  ]
+}

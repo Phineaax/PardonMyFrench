@@ -1,0 +1,316 @@
+{
+  "song_id": 12120233,
+  "title": "NOBODY’S GIRL",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    27453,
+    1256784,
+    1653
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Love it so, so much, love it so, so much",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Love it so, so much, love it so, so much",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Does it mess you up? Does it mess you up?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Got my career on my mind",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Money drop in New York City",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Look in the mirror, and I'm like",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "\"So hot, so smart, so witty\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Mentally in a gun fight",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Thank God I keep so busy",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Some things you know I'll never show, oh",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And my heart was like an open sore",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Saw, like, twenty healers when I was on tour",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Told me everything I need, I got",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And the cherry on top",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I am nobody's girl, I love it so much",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "It's exactly what I wanted, oh-oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I am nobody's girl, does it mess you up",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "That you had it, and you lost it? Nobody",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "How many times can I shape-shift into someone else?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "No, there's no line when art turns to need serious help",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "And when the job calls, gotta get it done",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Gotta put myself second to none",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "At twenty-two, it's a little sad",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "But it's fun",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I am nobody's girl, I love it so much (So much)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "It's exactly what I wanted, oh-oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I am nobody's girl, does it mess you up (Ooh-woah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "That you had it, and you lost it? (Lost it) Nobody (Woah-oh)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Does it mess you up? Does it mess you up?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Nobody's in my head tonight",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Nobody's sayin' wrong or right",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Baby, please, won't you see my side?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Baby, please, won't you see my side?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "And when I ask, the angels sing (Baby, please, won't you see my side?)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "They say, \"Real love doesn't clip your wings\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "I love love and affection and fancy things (Baby, please, won't you see my side?)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "But I think I like me more",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "And when I cry, gotta wonder why (Baby, please, won't you see my side?)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "9",
+          "text": "Every tear's in the shape of mankind",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "10",
+          "text": "When one closes, the universe opens a new door, now I",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, I'm nobody's girl (I'm nobody's girl)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "It's exactly what I needed (Exactly what I needed)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Yeah, I'm nobody's girl (Yeah, I'm nobody's girl)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Said, \"I love you,\" did you mean it? Ah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I am nobody's girl, I love it so much",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "It's exactly what I wanted (Exactly what I wanted)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "I am nobody's girl, does it mess you up (Nobody's girl)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "That you had it, and you lost it? No",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}

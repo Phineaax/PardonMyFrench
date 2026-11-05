@@ -1,0 +1,340 @@
+{
+  "song_id": 10955668,
+  "title": "Revolving door",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1039827,
+    1653,
+    409643
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "My cold heart is finally melting",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I moved from the east to the west wing",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I finally think it might be helping, oh, oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "I confess, I'm not that versatile",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Say I'm good, but I might be in denial",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Takes one call and that undoes the dial (Ah)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, I tried to call you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Off like a bad habit",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Tried to call you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Off like a bad habit",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But I keep comin' back like a revolvin' door",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Say I couldn't want you less, but I just want you more",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "So I keep comin' back like a revolvin' door",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Say I couldn't want you less, but I just want you more",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And more, and more",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "And more, more (More)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "And more, and more",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And more, more (More)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Shut it down",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "That I tried, then you come, come around",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Fuck me good, fuck me up, then I gotta move towns",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "How'd I get from the gym to your couch? Oh, how?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, I tried to (Tried to) call you (Call you)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Off like a bad habit (Yeah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Tried to (Tried to) call you (Call you)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Off like a bad habit",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But I keep comin' back (Oh no) like a revolvin' door (Yeah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Say I couldn't want you less, but I just want you more",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "But I keep comin' back (Oh no) like a revolvin' door (Yeah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Say I couldn't want you less, but I just want you more",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And more (You're all that I want), and more (Can't get enough of)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "And more (You, when you make me), more (More)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "And more (Can't get what I want), and more (Can't get enough of)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And more (You, when you make me), more (More)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Change my mind so much I can't find it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I work so much, can't be reminded",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Life feels worse, but good with you in it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Supposed to be on stage, but fuck it, I need a minute",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Change my mind so much it's exhaustin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "I still think 'bout that night out in Boston",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "I'm more hurt than I would admit",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "I'm supposed to be an adult, but fuck it, I need a minute (Oh)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I need a minute, I need a minute (Ooh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I need a, I need, fuck it, I need a minute (I need a)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I need a minute, I need a minute (Yeah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "I need a, I need, fuck it, I need a minute",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I need a minute",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Ooh, I need a minute",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Mm",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Mm",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}

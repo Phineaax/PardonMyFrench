@@ -1,0 +1,13 @@
+{
+  "persona_id": "persona_beyonce_baseline",
+  "persona_name": "Beyoncé",
+  "artist_id": "498",
+  "period": {
+    "start": "2008",
+    "end": null
+  },
+  "anchored_releases": [
+    "610619"
+  ],
+  "is_baseline": true
+}
