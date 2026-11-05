@@ -2,6 +2,7 @@ import re
 import json
 from typing import List, Dict, Tuple, Optional, T
 import pandas as pd
+import os
 
 MIN_CHUNK_SIZE = 900
 
@@ -90,8 +91,30 @@ def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
                 rows.append({
                     "song_id": song_id,
                     "section_id": section.get("section_id"),
-                    "performer_id": line.get("performer_id"),
+                    "persona_id": line.get("persona_id"),
                     "text": repare_cyrillic_error(line.get("text")),
                 })
 
     return pd.DataFrame(rows)
+
+def lyrics_to_df(lyrics_json) :
+    x = lyrics_json
+    d = pd.DataFrame([{'song_id' : x['song_id'], 'song_title' : x['title'], 'lyricists_id' : x['lyricists'],  'language' : x['language'], 
+  'section_id' : section['section_id'], 'section_type' : section['type'], 
+  'n_line' : line['n'], 'persona_id' : line['persona_id'], 'text' : line['text']} 
+  for section in x['lyrics'] for line in section['lines']])
+    return d
+
+def artist_json_to_artist_df(json_folder_path) :
+    total_data = pd.DataFrame()
+    for s in os.listdir(json_folder_path) :
+        print(s)
+        with open(f"{json_folder_path}/{s}", 'r') as f :
+            x = json.load(f)
+        
+        try :
+            d=lyrics_to_df(x)
+        except : 
+            print(f"problème avec le son {s}")
+            continue;
+        total_data = pd.concat([total_data, d])

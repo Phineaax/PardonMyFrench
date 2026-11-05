@@ -1,6 +1,6 @@
 import numpy as np
 
-from lexical_diversity import lex_div as ld
+from lexicalrichness import LexicalRichness as LR
 
 import nltk
 from nltk.tokenize import word_tokenize
@@ -9,7 +9,7 @@ nltk.download('stopwords')
 
 from collections import Counter
 
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 
 def wordify(lines_chunk) :
     """Transforme une liste de phrase en liste de mots"""
@@ -25,11 +25,11 @@ def longueur_moyenne(lines_chunk) :
 
 def diversite_lexicale_HDD(lines_chunk) :
     words = wordify(lines_chunk)
-    return ld.hdd(words)
+    return LR(words, preprocessor=None, tokenizer=None).hdd()
 
 def diversite_lexicale_MTLD(lines_chunk) :
     words = wordify(lines_chunk)
-    return ld.mtld(words)
+    return LR(words, preprocessor=None, tokenizer=None).mtld()
 
 def densite_lexicale(lines_chunk, language) :
     stop_words = set(stopwords.words(language))
@@ -138,8 +138,8 @@ def n_grams_char(lines_chunk, vocab_w2i) :
     return v
 
 
-def chunk_to_embedding(lines_chunk) :
-    model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
-    vector_sentences = model.encode(lines_chunk)
-    vectorized = np.mean(vector_sentences, axis=0)
-    return vectorized
+# def chunk_to_embedding(lines_chunk) :
+#     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
+#     vector_sentences = model.encode(lines_chunk)
+#     vectorized = np.mean(vector_sentences, axis=0)
+#     return vectorized
