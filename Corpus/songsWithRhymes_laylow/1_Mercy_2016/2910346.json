@@ -1,0 +1,226 @@
+{
+    "song_id": 2910346,
+    "title": "Amor",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                }
+            ]
+        },
+
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mi amor, viens chez moi, prend pas tes valeurs",
+                    "rhyme": "9R",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "J'arrive en Yamaha au galop, ouais, ouais salope",
+                    "rhyme": "Op",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Toute la nuit, j'ai fait mon salaud, ouais, ouais salope",
+                    "rhyme": "Op",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "J'espère que tu m'aimes quand même, que tu t'laisseras pas faire, que tu parles pas trop sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'étais même pas net, sur une autre planète, j'm'en rappelle même pas",
+                    "rhyme": "a",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Puta, crois pas qu'tu m'fais douter, la tête est déjà bousillée",
+                    "rhyme": "e",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "J'veux plein d'money, sur la vie d'mon ex, ton culo ne peut rien m'donner",
+                    "rhyme": "e",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "On est presque honnête, on n'est pas au max, même pas en première à l'aise, oh ouais",
+                    "rhyme": "E",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Bébé se fait tamponner, on a fêté, on a chantonné, c'est ton ce-vi qui me contrôlait",
+                    "rhyme": "E",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Ok coupe, coupe, coupe, j'recommence",
+                    "rhyme": "ens",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "On veut plein d'money, on veut plein d'money, des cadeaux qu'on peut pas d'mander",
+                    "rhyme": "e",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "T'en as plein le nez, t'es là, tu parles de nous, on te connait que de Internet, ah ouais, ouais, ouais",
+                    "rhyme": "E",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "J'suis sur le ring, ça danse comme Mayweather, touché, coulé, knock out",
+                    "rhyme": "awt",
+                    "personna_id": "001"
+                }
+            ]
+        },
+
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Mi amor, mi amor, mi amor, mi amor",
+                    "rhyme": "OR",
+                    "personna_id": "001"
+                }
+            ]
+        }
+    ]
+}

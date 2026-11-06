@@ -1,0 +1,22 @@
+{
+    "song_id": 5302499,
+    "title": "Il était une fois sous l’eau",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "interlude",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Utilisateur submergé. Je me suis attaché à toi. À vous, ah excusez-moi. Faites attention à vous",
+                    "rhyme": "u"
+                }
+            ]
+        }
+    ]
+}
