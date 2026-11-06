@@ -32,18 +32,6 @@ def diversite_lexicale_MTLD(lines_chunk) :
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).mtld()
 
-def densite_lexicale(lines_chunk, language) :
-    stop_words = set(stopwords.words(language))
-    words = wordify(lines_chunk)
-    words = [w for w in words if w not in stop_words]
-    return ld.hdd(words)
-
-def diversite_lexicale_MTLD(lines_chunk:List[str], language) -> float:
-    stop_words = set(stopwords.words(language))
-    words = wordify(lines_chunk)
-    words = [w for w in words if w not in stop_words]
-    return ld.mtld(words)
-
 def densite_lexicale(lines_chunk:List[str], language) -> float:
     stop_words = set(stopwords.words(language))
     words = wordify(lines_chunk)
