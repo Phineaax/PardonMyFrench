@@ -2,6 +2,7 @@ import re
 import json
 from typing import List, Dict, Tuple, Optional, T
 import pandas as pd
+import ast
 
 MIN_CHUNK_SIZE = 900
 
@@ -76,21 +77,15 @@ def repare_cyrillic_error(t) :
     return t.translate(H)
 
 def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
-    #'Artist' c'est la persona ou l'artiste? 
     rows = []
 
-    for i in range(len(artist_dataframe)):
-        song_id = artist_dataframe["song_id"].iloc[i]
-        lyrics_obj = artist_dataframe["lyrics"].iloc[i]
-
-        sections = lyrics_obj if isinstance(lyrics_obj, list) else [lyrics_obj]
-
+    for song_id, sections in zip(artist_dataframe["song_id"], artist_dataframe["lyrics"]):
         for section in sections:
             for line in section.get("lines", []):
                 rows.append({
                     "song_id": song_id,
                     "section_id": section.get("section_id"),
-                    "performer_id": line.get("performer_id"),
+                    "persona_id": line.get("persona"),
                     "text": repare_cyrillic_error(line.get("text")),
                 })
 
