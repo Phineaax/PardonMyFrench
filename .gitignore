@@ -45314,3 +45314,7 @@ __pycache__/score_utils.cpython-311.pyc
 .venv/lib/python3.11/site-packages/PIL/__pycache__/JpegImagePlugin.cpython-311.pyc
 .venv/lib/python3.11/site-packages/PIL/__pycache__/JpegPresets.cpython-311.pyc
 .venv/lib/python3.11/site-packages/PIL/__pycache__/PpmImagePlugin.cpython-311.pyc
+__pycache__/chunking.cpython-312.pyc
+__pycache__/comparing_and_showing.cpython-312.pyc
+__pycache__/formatting.cpython-312.pyc
+__pycache__/score_utils.cpython-312.pyc
