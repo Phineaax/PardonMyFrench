@@ -99,7 +99,7 @@ def lyrics_to_df(lyrics_json) :
   for section in x['lyrics'] for line in section['lines']])
     return d
 
-def artist_json_to_artist_df(json_folder_path) :
+def artist_folder_to_artist_df(json_folder_path) :
     total_data = pd.DataFrame()
     for s in os.listdir(json_folder_path) :
         print(s)
