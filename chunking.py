@@ -3,6 +3,7 @@ import json
 from typing import List, Dict, Tuple, Optional, T
 import pandas as pd
 import ast
+import os
 
 MIN_CHUNK_SIZE = 900
 
@@ -68,6 +69,15 @@ def chunk(
             chunks[-1].extend(current_chunk)
 
     return chunks
+
+def format_chunk_for_scoring(lyrics_dataframe: str, # = lyrics dataframe pour une persona.
+                             persona_id:str,
+                             chunk_tokens_nb:int=1500, 
+                             min_chunk_size:int=MIN_CHUNK_SIZE) -> Optional[Dict[str, List[List[str]]]]:
+
+    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
+    return {f"{persona_id}_{ind}": chunk for (ind, chunk) in enumerate(chunks)}
+    
 
 def chunks_to_big_list(chunks) :
     return sum(chunks, start=[])
