@@ -1,4 +1,5 @@
 import numpy as np
+from typing import List, Dict
 
 from lexical_diversity import lex_div as ld
 
@@ -11,34 +12,39 @@ from collections import Counter
 
 from sentence_transformers import SentenceTransformer
 
-def wordify(lines_chunk) :
+def wordify(lines_chunk:List[str]) -> int:
     """Transforme une liste de phrase en liste de mots"""
     words = [word_tokenize(line) for line in lines_chunk]
     return sum(words, start=[])
 
 
-def longueur_moyenne(lines_chunk) :
+def longueur_moyenne(lines_chunk:List[str]) -> float:
     words = wordify(lines_chunk)
     words_length = list(map(lambda w : len(w), words))
     
     return words_length/len(words_length)
 
-def diversite_lexicale_HDD(lines_chunk) :
-    words = wordify(lines_chunk)
-    return ld.hdd(words)
-
-def diversite_lexicale_MTLD(lines_chunk) :
-    words = wordify(lines_chunk)
-    return ld.mtld(words)
-
-def densite_lexicale(lines_chunk, language) :
+def diversite_lexicale_HDD(lines_chunk:List[str], language) -> float:
     stop_words = set(stopwords.words(language))
     words = wordify(lines_chunk)
-    words = [w for w in words if w not in stopwords]
+    words = [w for w in words if w not in stop_words]
+    return ld.hdd(words)
+
+def diversite_lexicale_MTLD(lines_chunk:List[str], language) -> float:
+    stop_words = set(stopwords.words(language))
+    words = wordify(lines_chunk)
+    words = [w for w in words if w not in stop_words]
+    return ld.mtld(words)
+
+def densite_lexicale(lines_chunk:List[str], language) -> float:
+    stop_words = set(stopwords.words(language))
+    words = wordify(lines_chunk)
+    full_words = [w for w in words if w not in stop_words]
+    return len(full_words)/len(words)
 
 
 #BOW
-def create_vocab_bow(all_lines) :
+def create_vocab_bow(all_lines) -> Dict[str, int]:
     """Crée le vocab total pour faire des Bag Of Words indépendamment. Prend en argument la grande liste de toutes les lignes."""
     words = wordify(all_lines)
     
@@ -52,7 +58,7 @@ def create_vocab_bow(all_lines) :
 
     return vocab_w2i
 
-def bow(lines_chunk, vocab_w2i) :
+def bow(lines_chunk:List[str], vocab_w2i) -> np.array:
     """Renvoie un vecteur Bag Of Words"""
     v = np.zeros(len(vocab_w2i))
 
@@ -65,7 +71,7 @@ def bow(lines_chunk, vocab_w2i) :
 
 
 #N-grams mots
-def create_vocab_n_grams_mots(all_lines, n) :
+def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
     """Crée le vocabulaire pour utiliser la fonction n_gram_mots. Prend en argument la grande liste de toutes les lignes."""
     vocab_w2i = dict()
     i_last = 0
@@ -80,7 +86,7 @@ def create_vocab_n_grams_mots(all_lines, n) :
 
     return vocab_w2i
 
-def n_grams_mots(lines_chunk, vocab_w2i) :
+def n_grams_mots(lines_chunk:List[str], vocab_w2i) -> np.array:
     n = len(list(vocab_w2i.values)[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
@@ -99,7 +105,7 @@ def n_grams_mots(lines_chunk, vocab_w2i) :
 
 
 #N-grams char
-def create_vocab_n_grams_char(all_lines, n): 
+def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
     """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
 
     vocab_w2i = dict()
@@ -119,8 +125,8 @@ def create_vocab_n_grams_char(all_lines, n):
 
     return vocab_w2i
 
-def n_grams_char(lines_chunk, vocab_w2i) :
-    n = len(list(vocab_w2i.values)[0]) #On déduit la taille de n depuis le vocab
+def n_grams_char(lines_chunk:List[str], vocab_w2i) -> np.array:
+    n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
 
@@ -138,7 +144,7 @@ def n_grams_char(lines_chunk, vocab_w2i) :
     return v
 
 
-def chunk_to_embedding(lines_chunk) :
+def chunk_to_embedding(lines_chunk:List[str]) :
     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
     vector_sentences = model.encode(lines_chunk)
     vectorized = np.mean(vector_sentences, axis=0)
