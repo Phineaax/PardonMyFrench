@@ -1,7 +1,7 @@
 import numpy as np
 from typing import List, Dict
 
-from lexical_diversity import lex_div as ld
+from lexicalrichness import LexicalRichness as LR
 
 import nltk
 from nltk.tokenize import word_tokenize
@@ -10,7 +10,7 @@ nltk.download('stopwords')
 
 from collections import Counter
 
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 
 def wordify(lines_chunk:List[str]) -> int:
     """Transforme une liste de phrase en liste de mots"""
@@ -22,9 +22,17 @@ def longueur_moyenne(lines_chunk:List[str]) -> float:
     words = wordify(lines_chunk)
     words_length = list(map(lambda w : len(w), words))
     
-    return words_length/len(words_length)
+    return sum(words_length)/len(words_length)
 
 def diversite_lexicale_HDD(lines_chunk:List[str], language) -> float:
+    words = wordify(lines_chunk)
+    return LR(words, preprocessor=None, tokenizer=None).hdd()
+
+def diversite_lexicale_MTLD(lines_chunk) :
+    words = wordify(lines_chunk)
+    return LR(words, preprocessor=None, tokenizer=None).mtld()
+
+def densite_lexicale(lines_chunk, language) :
     stop_words = set(stopwords.words(language))
     words = wordify(lines_chunk)
     words = [w for w in words if w not in stop_words]
