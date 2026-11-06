@@ -21,7 +21,7 @@ def longueur_moyenne(lines_chunk) :
     words = wordify(lines_chunk)
     words_length = list(map(lambda w : len(w), words))
     
-    return words_length/len(words_length)
+    return sum(words_length)/len(words_length)
 
 def diversite_lexicale_HDD(lines_chunk) :
     words = wordify(lines_chunk)

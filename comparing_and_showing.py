@@ -8,11 +8,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.cluster.hierarchy import dendrogram, linkage
 
-def data_from_persona(all_lines, persona_name, scorer) :
-    p_lines = all_lines[all_lines["persona"] == persona_name]
-    chunks = chunking.chunk(p_lines)
+def data_from_persona(persona_chunks, scorer) :
     data_output = []
-    for c in chunks :
+    for c in persona_chunks :
         data_output.append(scorer(c))
 
     return data_output

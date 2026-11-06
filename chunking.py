@@ -112,3 +112,5 @@ def artist_folder_to_artist_df(json_folder_path) :
             print(f"problème avec le son {s}")
             continue;
         total_data = pd.concat([total_data, d])
+
+    return total_data
