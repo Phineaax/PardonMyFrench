@@ -17,7 +17,7 @@ def data_from_persona(all_lines, persona_name, scorer) :
 
     return data_output
 
-def dendrogram(X) : 
+def dendrogram(X, method:str="ward") : 
     #Code trouvé sur "https://fr.moonbooks.org/Articles/Les-dendrogrammes-avec-Matplotlib/"
     # Effectuer le regroupement hiérarchique
     Z = linkage(X, method='ward')
