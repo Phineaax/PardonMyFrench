@@ -1,0 +1,296 @@
+{
+    "song_id": 3712066,
+    "title": "Draxter",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "C’est quelle basse du pack ? Bébé, t’es bonne sous plug",
+                    "rhyme": "9g",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Les projets, les billets qui pleuvent, uh, les mamans, les bébés qui pleurent",
+                    "rhyme": "9R",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Mes flows, c’est des fléchettes au cœur, tu veux mon prix, c'est celui de la peuf",
+                    "rhyme": "9f",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "J’remets les pendules à l’heure, j’suis dans la tech, j'suis dans l’ordinateur (Ouh)",
+                    "rhyme": "9R",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Oh shit, quatre mecs bourrés dans le Audi",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'envoie que des ogives, amoureux des gros chiffres",
+                    "rhyme": "ifR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Fuck, j’suis l'premier en cash, j’suis dans l’tunnel, la fin approche",
+                    "rhyme": "OS",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Changement d’ambiance et de langage, eh, ah gars",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Nouveau jet-pro, que des bangers, tu vas dead comme Rebenga",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "J’te baise une fois, j’reviens pas, nan, j’reviens pas",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "De Paname à L.A., de L.A. à Panama, hey, Santa Monica, pas Palavas",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "Péta la SACEM à Balavoine",
+                    "rhyme": "an",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "12",
+                    "text": "Elle veut nouveau Gucci, Gucci, elle aura pas",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "13",
+                    "text": "J’ai d’jà nouvelles bitchies sexy dans mon radar",
+                    "rhyme": "aR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "14",
+                    "text": "J’suis dans mon documentaire et y’a Manos à la caméra",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "15",
+                    "text": "Dégaine de footeux dans Panamera, viens pas faire la pétasse, on vend plus la gue-dro",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Bitch, j’te sens lo-low, tout est sous contrôle",
+                    "rhyme": "ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Oh la, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "T’as gé-chan pour vingt dollars ‘spèce de folle",
+                    "rhyme": "Ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Tous mes frères font lol, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Bitch, j’te sens lo-low, tout est sous contrôle",
+                    "rhyme": "ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Oh la, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "T’as gé-chan pour vingt dollars ‘spèce de folle",
+                    "rhyme": "Ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Tous mes frères font lol, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Allez, fuck with me, j’suis dans l'bain depuis mes seize piges, j’suis l’Man of the Year (J’suis l'Man of the Year)",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Stoppe toutes tes tentatives comme Thiago Silva, comme Manuel Neuer (Comme Manuel Neuer)",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Le talent, faut l’monnayer, j’suis dans l’money time, on rentre le lay-up (Yeah)",
+                    "rhyme": "9p",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Sélection des meilleurs yeah, bitch en a plein les yeuz",
+                    "rhyme": "y",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "M'en bats les couilles d’ton keum, bats les couilles d’ton game (DigitalMundo babe)",
+                    "rhyme": "Ejm",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J’suis en apesanteur, lady bien sûr que la gov' est louée",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "À l’intérieur, on est tous à l’Ouest comme un Yakuza tout tatoué",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "J’suis tout tatoué (Han), j’ai rien à perdre, tout à jouer",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Tous mes associés sont plutôt doués, si j’compte te baiser, j’vais pas t’ajouter",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "J’vais pas t’ajouter (J’vais pas t’ajouter), t’as vu qu’la fumée quand on t’a doublé",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "On t’la fait dans la vie comme à la Play’, mets le replay, remets une ‘teille, Lay’",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Bitch, j’te sens lo-low, tout est sous contrôle",
+                    "rhyme": "ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Oh la, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "T’as gé-chan pour vingt dollars ‘spèce de folle",
+                    "rhyme": "Ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Tous mes frères font lol, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Bitch, j’te sens lo-low, tout est sous contrôle",
+                    "rhyme": "ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Oh la, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "T’as gé-chan pour vingt dollars ‘spèce de folle",
+                    "rhyme": "Ol",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Tous mes frères font lol, nouveau flow, ça download",
+                    "rhyme": "ad",
+                    "personna_id": "002"
+                }
+            ]
+        }
+    ]
+}

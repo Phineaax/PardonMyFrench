@@ -1,0 +1,382 @@
+{
+    "song_id": 3712061,
+    "title": "Éléphant",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "225, téma mes éléphants dans la clairière (Yeah)",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "220 km/h dans la gova, mes gavas font \"yeah yeah\" (Yeah yeah)",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Deux fois plus chaud, on est toujours à chaud, on est toujours réveillés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "On pull up à quatre dans l'appart si tes potes ont pas payé",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "220 millions, c’est nada, sur Paname, demande à Ney Ney",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "J’arrive à fond dans la caisse, j’arrive en plein dans la tête",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hun, elle cuisine le cake, cake, hun, elle veut son date, date",
+                    "rhyme": "at",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Hun, ses seins sont fakes, fakes, hun, j’lui donne un fake name",
+                    "rhyme": "am",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Ouh, mes gavas font \"yeah, yeah\", contents quand on est sur L.A",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Ouh, pour fêter mon birthday, j’me contenterai pas d’un Sundae",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J’me contenterai pas d’une seule ‘teille, j’suis dans le stud’, il est six o’clock",
+                    "rhyme": "Ok",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J’me demande si bitch est sincère ou si c’est seulement du vice de forme",
+                    "rhyme": "ORm",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Yeah, yeah, fashion killa gère la tendance depuis longtemps, ouais ouais (Depuis longtemps)",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Mamacita veut qu’je parte j'lui dis qu'je n'ai pas l’time, oh man (Oh man)",
+                    "rhyme": "an",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "J’arrive dans un Q7, j’le bois cul sec, vite fait (Vite fait)",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "Tu t’fais doubler vu qu’t’es pas très discret, ouais, ouais (Nan nan)",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "J’suis v’nu dans ton stade pour climatiser, trop, trop frais, préviens l’régisseur",
+                    "rhyme": "9R",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "Nouveau flow tout désabusé, yeah, yeah, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "225, téma mes éléphants dans la clairière",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "220 km/h dans la gova, mes gavas font \"yeah, yeah\"",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Deux fois plus chaud, on est toujours à chaud, on est toujours réveillés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "On pull up à quatre dans l'appart si tes potes ont pas payé l'prix",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "220 millions, c’est nada, sur Paname, demande à Ney Ney",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "J’arrive à fond dans la caisse, j’arrive en plein dans la tête",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J’tape des barres quand tout l’monde dit qu’y’a plus d’espoir (Y a plus d’espoir)",
+                    "rhyme": "aR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Té-ma ma clique remonte la pente en coupé sport (En coupé sport)",
+                    "rhyme": "OR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J’suis dans la ville mais j’suis v’nu juste pour péter l’score (Hey, hey, hey, hey)",
+                    "rhyme": "OR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "M’appelle pas par intérêt, m’appelle pas pour baiser c’soir",
+                    "rhyme": "aR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "(Hey, hey, hey, hey)",
+                    "rhyme": "ey",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "A j'ter des sorts, tu sers juste à j’ter des sorts",
+                    "rhyme": "OR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J’parle pas trop gros, j’fais les sous, gros business sur téléphone, ah ouais",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Ah le mytho ? c’fils de *bip*, c’est que des mythos",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Casquette Merco comme Hamilton, j’ai d’l’avance, j’sais pas combien d’tours",
+                    "rhyme": "uR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "J’suis là puis j’me téléporte, j’suis bon juste pour compter les sommes",
+                    "rhyme": "Om",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "Pas b’soin d’un télescope pour voir qu’on l’fait pas comme les autres",
+                    "rhyme": "otR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "Maman avait raison, 225, c’est la vraie maison",
+                    "rhyme": "on",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "12",
+                    "text": "J’avance, tout est sombre, bitchies répètent que mon nom",
+                    "rhyme": "on",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "225, téma mes éléphants dans la clairière",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "220 km/h dans la gova, mes gavas font \"yeah, yeah\"",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Deux fois plus chaud, on est toujours à chaud, on est toujours réveillés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "225, téma mes éléphants dans la clairière",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "220 km/h dans la gova, mes gavas font \"yeah, yeah\"",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Deux fois plus chaud, on est toujours à chaud, on est toujours réveillés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "On pull up à quatre dans la party, tes potes ont pas payé",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "220 millions, c’est nada, sur Paname, demande à Ney Ney",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "Fais pas l’ancien papi, tous tes CDs sont rayés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "J’arrive à fond dans la caisse, j’arrive en plein dans la tête",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Yeah, yeah, yeah, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                }
+            ]
+        }
+    ]
+}
