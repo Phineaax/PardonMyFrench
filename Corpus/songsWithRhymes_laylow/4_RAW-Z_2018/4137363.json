@@ -1,0 +1,383 @@
+{
+    "song_id": 4137363,
+    "title": "Prince de sang-mêlé",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Jeune tisse-mé court à sa perte, ouh, qui aura sa peau ?",
+                    "rhyme": "o",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J'suis blanc, j'suis couleur ébène, tu sais, je me rappelle",
+                    "rhyme": "El",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'voulais baiser des blondes dans l'dernier des Benz",
+                    "rhyme": "inz",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Noir mate comme mes ancêtres, c'est ma façon d'me venger",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Ouh, scooter en l'air, rajoute le majeur en l'air",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Repars dix piges en arrière et tu verras qu'on est toujours les mêmes, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "\"Le fait pas juste pour leur plaire\", c'est c'que m'disait ma mère",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "J'cours toujours après mes rêves, jeune tisse-mé court à sa perte",
+                    "rhyme": "ERt",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hey, 225, yeah, you know me, j'fais du shit avec le cro-mi",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Les pousser jusqu'à l'agonie, jusqu'à la folie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Toi, jusqu'à quand t'es mon homie, dis-moi si t'es mon homie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Attends pas mon premier llion-mi, oh, t'es pas mon homie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Et j'pourrais jamais m'endormir, yeah, si j'ai pas tous mes psychotiques, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'effraie, j'défraie la chronique, j'défais, j'refais pas son lit",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Et quand j'me dope comme un cycliste, au réveil, j'suis si triste",
+                    "rhyme": "ist",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "C'est pas carré, c'est cyclique, c'est pas vraiment pareil quand j'y suis",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mon grand, j'suis métissé, j'ai pas choisi un camp",
+                    "rhyme": "#",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Pourquoi ces gens m'en veulent autant ?",
+                    "rhyme": "#",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Pourquoi ils m'té-ma comme un Minotaure ? Han",
+                    "rhyme": "#",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Prince de sang-mêlé les fera taire, les fera payer l'prix de sa peine, quitte à leur bourrer la te-tê à terme",
+                    "rhyme": "ERm",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "On connait les termes mais ils rédigent les contrats, baby, c'est toujours nous contre eux",
+                    "rhyme": "2",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "On affranchit pas un négro en lui payant des colliers, des montres",
+                    "rhyme": "$tR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J'comprends, tu veux montrer tout c'que tu possèdes de concret",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Mais les réseaux t'ont trompés, ta meuf t'a trompé, ton temps est compté, mon nigga oh yeah, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "T'es vaillant mais là t'es devant l'Himalaya",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "Dis-leur qu'on a faim, dis-leur qu'on veut graille",
+                    "rhyme": "aj",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "Qu'y'a toujours deux poids, deux tailles, j'entends, les darons font : \"Aïe, aïe, aïe\"",
+                    "rhyme": "aj",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "225 millions d'euros en tête, c'est pas assez pour s'libérer des chaînes",
+                    "rhyme": "En",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "12",
+                    "text": "Qui nous retiennent et nous montent à la tête, un stick et j'cours à ma perte",
+                    "rhyme": "ERt",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "13",
+                    "text": "J'crois à nous mais j'pense à ma paire, j'en veux à la France mais j'pense à mon père",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "14",
+                    "text": "J'finirai sûrement du plomb dans la tête comme mes ancêtres pendant la traite, hey",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hey, 225, yeah, you know me, j'fais du shit avec le cro-mi",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Les pousser jusqu'à l'agonie, jusqu'à la folie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Toi, jusqu'à quand t'es mon homie, dis-moi si t'es mon homie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Attends pas mon premier llion-mi, oh t'es pas mon homie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Et j'pourrais jamais m'endormir, yeah, si j'ai pas tous mes psychotiques, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'effraie, j'défraie la chronique, j'défais, j'refais pas son lit",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Et quand j'me dope comme un cycliste, au réveil, j'suis si triste",
+                    "rhyme": "ist",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "C'est pas carré, c'est cyclique, c'est pas vraiment pareil quand j'y suis (Quand j'y suis)",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hey, prince de sang-mêlé",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "T'es toujours des deux côtés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Mais t'sais, ce double-jeu n'peut plus durer",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Prince de sang-mêlé",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Tu vas t'emmêler dans ce double jeu",
+                    "rhyme": "2",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "225, yeah, you know me, j'fais du shit avec le cro-mi",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Les pousser jusqu'à l'agonie, jusqu'à la folie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Toi, jusqu'à quand t'es mon homie, dis-moi si t'es mon homie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Attends pas mon premier llion-mi, oh t'es pas mon homie",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Et j'pourrais jamais m'endormir, yeah, si j'ai pas tous mes psychotiques, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'effraie, j'défraie la chronique, j'défais, j'refais pas son lit",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Et quand j'me dope comme un cycliste, au réveil, j'suis si triste",
+                    "rhyme": "ist",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "C'est pas carré, c'est cyclique, c'est pas vraiment pareil quand j'y suis",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "We fucking work our asses off",
+                    "rhyme": "Of",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Ici, on travaille très dur et qu'est c'qu'on voit ? Tous ces sales nègres qui nous piquent notre fric pour acheter des voitures",
+                    "rhyme": "yR",
+                    "personna_id": "002"
+                }
+            ]
+        }
+    ]
+}
