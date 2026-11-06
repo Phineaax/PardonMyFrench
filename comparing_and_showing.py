@@ -17,10 +17,10 @@ def data_from_persona(all_lines, persona_name, scorer) :
 
     return data_output
 
-def dendrogram(X) : 
+def dendrogram(X, method='ward', distance='cosine') : 
     #Code trouvé sur "https://fr.moonbooks.org/Articles/Les-dendrogrammes-avec-Matplotlib/"
     # Effectuer le regroupement hiérarchique
-    Z = linkage(X, method='ward')
+    Z = linkage(X, method=method, distance=distance)
     # Tracer le dendrogramme
     plt.figure(figsize=(10, 7))
     dendrogram(Z)
