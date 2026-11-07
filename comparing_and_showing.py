@@ -47,17 +47,22 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3) :
     lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
 
     #On ne crée les vocabulaires QUE si ils sont demandés
-    do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers)
+    do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
 
     all_lines = list(lyrics_df["text"]) if any(do_voc) else None
+    
     voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
-    print("vocabulaire Bag Of Words créé")
-
-        
+    if voc_bow : print("vocabulaire Bag Of Words créé")
+    
     voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
     if voc_n_mots : print("vocabulaire n-grams de mot créé")
+    
     voc_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
     if voc_n_char : print("vocabulaire n-grams de caractères créé")
+    
+    voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[2] else None
+    if voc_n_phonem : print("vocabulaire n-grams de phonemes créé")
+    
     del all_lines
         #Fin de création des vocabulaires
 
@@ -77,7 +82,10 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3) :
     results = dict()
 
     for scorer in scorers :
-        results[scorer.name] = {key: scorer.application(total_chunks[key], language="english", voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char) for key in chunk_ids}
+        results[scorer.name] = {key: scorer.application(total_chunks[key], 
+        language="english", voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem
+            ) 
+        for key in chunk_ids}
         print(f"resultats obtenus pour {scorer}")
 
     labels = chunk_ids

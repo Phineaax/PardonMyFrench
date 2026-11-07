@@ -141,8 +141,58 @@ def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]:
 
     return vocab_w2i
 
+
+#N-grams char
+def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
+    """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
+
+    vocab_w2i = dict()
+    i_last = 0
+
+    for line in all_lines :
+
+        for i in range(len(line)-n-1) :
+            t = line[i:i+n]
+
+            if " " not in t[1:n-1] :            
+                t = tuple(t)
+                
+                if t not in vocab_w2i :
+                    vocab_w2i[t] = i_last
+                    i_last += 1
+
+    return vocab_w2i
+
+def create_vocab_n_grams_phonem(all_lines, n) -> Dict[str, int]: 
+    """Phonétise puis crée le vocabulaire de phonemes pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
+
+    #Phonétisation
+    f = lambda x : x
+    all_lines = list(map(f, all_lines))#Remplacer f par une fonction de phonétisation str->str
+
+    vocab_w2i = dict()
+    i_last = 0
+
+    for line in all_lines :
+
+        for i in range(len(line)-n-1) :
+            t = line[i:i+n]
+
+            if " " not in t[1:n-1] :            
+                t = tuple(t)
+                
+                if t not in vocab_w2i :
+                    vocab_w2i[t] = i_last
+                    i_last += 1
+
+    return vocab_w2i
+
 def n_grams_char(lines_chunk:List[str], **kwargs) -> np.array:
-    vocab_w2i = kwargs["voc_n_char"]
+    if "voc_n_char" in kwargs :
+        vocab_w2i = kwargs["voc_n_char"]
+    elif "voc_n_phonem" in kwargs :
+        vocab_w2i = kwargs["voc_n_phonem"]
+
     n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
@@ -160,6 +210,8 @@ def n_grams_char(lines_chunk:List[str], **kwargs) -> np.array:
         v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
     return v
 n_grams_charVec = Mesure("n_grams_charVec", n_grams_char, "vecteurs bag of words depuis les n-grams de caractères")
+n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words depuis les n-grams de phonemes")
+
 
 
 # def chunk_to_embedding(lines_chunk:List[str]) :
@@ -169,4 +221,4 @@ n_grams_charVec = Mesure("n_grams_charVec", n_grams_char, "vecteurs bag of words
 #     return vectorized
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
 
-available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, bowVec, n_grams_motsVec, n_grams_charVec]
+available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
