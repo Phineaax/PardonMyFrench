@@ -4,6 +4,8 @@ import pandas as pd
 import numpy as np
 from scipy.cluster.hierarchy import linkage, dendrogram
 import matplotlib.pyplot as plt
+import math
+
 
 available_metrics = scoring.available_metrics
 # Les scorers possibles sont : 
@@ -83,4 +85,61 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3) :
         print(f"Affichage pour {scorer}")
         create_dendrogram(results[scorer.name], labels, scorer.description)
 
-    return total_chunks
+    return total_chunks, results, chunk_ids
+
+
+## Fonctions plot générées sauvagement
+
+
+def get_root(label):
+    """'mon_artiste_12' -> 'mon_artiste' (on coupe au DERNIER underscore)"""
+    return label.rsplit("_", 1)[0]
+
+def make_color_map(labels, cmap_name="tab20"):
+    roots = sorted(set(get_root(l) for l in labels))
+    cmap = plt.get_cmap(cmap_name)
+    return {r: cmap(i % cmap.N) for i, r in enumerate(roots)}
+
+def create_dendrogram(result_dict, labels, title, ax=None, color_map=None):
+    if ax is None:
+        _, ax = plt.subplots(figsize=(12, 5))
+
+    # result_dict: {chunk_id: vecteur ou scalaire} -> matrice (n_chunks, n_features)
+    X = np.array([result_dict[l] for l in labels], dtype=float)
+    if X.ndim == 1:
+        X = X.reshape(-1, 1)
+
+    Z = linkage(X, method="ward")  # ou ta méthode habituelle
+    dendrogram(Z, labels=labels, ax=ax, leaf_rotation=90, leaf_font_size=8)
+    ax.set_title(title)
+
+    # Coloration des labels par racine
+    if color_map is None:
+        color_map = make_color_map(labels)
+    for tick in ax.get_xmajorticklabels():
+        tick.set_color(color_map[get_root(tick.get_text())])
+
+    return ax
+
+def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
+                         figsize_per_plot=(9, 5)):
+    total_chunks, results, chunk_ids = get_final_results(path, scorers=scorers, n=n)
+
+    nrows = math.ceil(len(scorers) / ncols)
+    fig, axes = plt.subplots(nrows, ncols,
+                             figsize=(figsize_per_plot[0] * ncols, figsize_per_plot[1] * nrows),
+                             squeeze=False)
+    axes = axes.flatten()
+
+    color_map = make_color_map(chunk_ids)  # mêmes couleurs dans tous les sous-graphes
+
+    for ax, scorer in zip(axes, scorers):
+        create_dendrogram(results[scorer.name], chunk_ids, scorer.description,
+                          ax=ax, color_map=color_map)
+
+    for ax in axes[len(scorers):]:  # on cache les axes en trop
+        ax.axis("off")
+
+    fig.tight_layout()
+    plt.show()
+    return total_chunks, results

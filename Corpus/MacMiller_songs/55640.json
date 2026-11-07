@@ -1,0 +1,406 @@
+{
+  "song_id":55640,
+  "title":"The Finer Things",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah, Mac Miller, ayy (Uh)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"You know the finer things in life, you know (They know, they know)",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Sometimes you gotta kick back and enjoy that shit",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Look, just relax (Roll that sticky up) (It's summertime, bitch, haha)",
+          "rhyme":"aks",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCD",
+      "rhyme_vowel":"ABAC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I like sittin' in shotgun, deuce on a L (Deuce on a L)",
+          "rhyme":"l",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Parents not carin' 'cause they used to the smell",
+          "rhyme":"El",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Classy-ass women, fresh-ass linen (Yeah)",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Hot summer days with a pool I can swim in (Cheah)",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"A good spot to kick it (What?), a case of 40's",
+          "rhyme":"Es",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Them homies always havin' good stories (Yep)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"The beer bottles with the twist-off caps (Uh-huh)",
+          "rhyme":"ap",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"When old people tell you that they listen to rap",
+          "rhyme":"ap",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I love days I can sleep in (Sleep in), four day weekends (Weekends)",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Hoes puttin' they clothes back on, you peekin' (I see you, haha)",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Blunt rides, with a mixtape bumpin' (Uh-huh)",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"I love makin' love in public",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"And when the hip-hop legend tour comin' to your town (Comin' to your town)",
+          "rhyme":"awn",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Findin' a crispy-ass twenty on the ground (Yep)",
+          "rhyme":"awnd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Walkin' when the sun out, watchin' Run's House (That was a good show, haha)",
+          "rhyme":"awz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Or action movies when the villain pull his gun out",
+          "rhyme":"awt",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFGGHDCIJKLM",
+      "rhyme_vowel":"ABCDBDEEFDCDEEEE"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"The best things in life is the free ones",
+          "rhyme":"On",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"The little things, everybody need some (Haha)",
+          "rhyme":"om",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"The finer things make you feel better (Yeah, better)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"But no one ever seem to remember (Yeah)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"The best things in life is the free ones (Uh-huh)",
+          "rhyme":"On",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"The little things, everybody need some (Ha-ha)",
+          "rhyme":"om",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"The finer things make you feel better",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"But no one ever seem to remember (What else, uh)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCCABCC",
+      "rhyme_vowel":"ABCCABCC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I like sleepin' in class and cheatin' to pass (Uh-huh)",
+          "rhyme":"as",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hoes walkin' in the halls and you reach for they ass (Sup?)",
+          "rhyme":"as",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Fast food lines when they movin' so quickly (What? So quickly)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"When your weed man hit you with some sticky",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Street performers, warmin' up the corners",
+          "rhyme":"ER",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Sellin' by the ounce, then pinchin' by the quarter (Gimme that)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"When some kicks on sale (Uh-huh)",
+          "rhyme":"al",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Wakin' up in the mornin' with a shitload of mail",
+          "rhyme":"Ejl",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"The wake up, the bake up, chillin' while you face blunts",
+          "rhyme":"(",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Goin' in blowed for your shape-up like, \"Say what?\" (Say what?)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Blog put your tape up, get a good review",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"When dumbass people tell you what you shouldn't do (Fuck y'all)",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"When she rub my head while I'm between her knees, haha",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Gettin' love from the people overseas (Ciao)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Haters tryna hate, but they got nothin' to say (Yeah)",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"It's just the little things that get me through the day (What?)",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABBCDEFGHIJHHKK",
+      "rhyme_vowel":"AABBCDACEAFGAACC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"The best things in life is the free ones (The free ones)",
+          "rhyme":"On",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"The little things, everybody need some (Everybody need some)",
+          "rhyme":"om",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"The finer things make you feel better (Make you feel better)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"But no one ever seem to remember",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"The best things in life is the free ones (The free ones)",
+          "rhyme":"On",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"The little things, everybody need some (Everybody need some)",
+          "rhyme":"om",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"The finer things make you feel better (What?)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"But no one ever seem to remember",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCCABCC",
+      "rhyme_vowel":"ABCCABCC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Like I said before, it's your boy, Mac Miller",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"They tryna tell me I couldn't do this beat",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"You know what I said? I ain't say nothin'",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I just went in the booth and did it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Somebody tell Will to get some malt liquor next time (Haha)",
+          "rhyme":"ajm",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCBD",
+      "rhyme_vowel":"ABBBC"
+    }
+  ]
+}

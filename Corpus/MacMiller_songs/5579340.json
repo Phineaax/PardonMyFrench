@@ -1,0 +1,538 @@
+{
+  "song_id":5579340,
+  "title":"We Brothers in Arms",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"In Nashville, the president tried to keep up the pressure",
+          "rhyme":"yR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"There's an old saying in Tennessee, I know it's in Texas, probably in Tennessee, that says, \"Fool me once, shame on... shame on you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"You fool me— can't get fooled again\"",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"What's the matter, all your guns have a cold?",
+          "rhyme":"old",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"'Cause y'all be lettin' bullets run out like you blowin' your nose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"You just a Joe in some clothes, allowin' homes to explode",
+          "rhyme":"Od",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Family of four hits the floor with their bones on the road",
+          "rhyme":"ad",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"I ain't hatin' on your duty, y'all some soldiers of war",
+          "rhyme":"aR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Kids dyin' in the street, don't even know there's a war",
+          "rhyme":"aR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"You've heard it before, victims hidden by the president",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Invadin' countries for some weapons, missin' all the evidence",
+          "rhyme":"#s",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Imprison the prisoners, listen to parishioners",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Look at yourself, takin' orders from your minister",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Mind-locked, you's a P.O.W",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Ain't a real man if every death doesn't trouble you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"George W., you just not learnin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Brainwashed by the sermon, thought you heard certain",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"One in a dozen, my cousin didn't have a choice",
+          "rhyme":"as",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Wanted to go home, but they didn't let him have a voice",
+          "rhyme":"as",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Say it was right, wanted to make him a wife",
+          "rhyme":"ajf",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"But the evil, lethal people already takin' his life",
+          "rhyme":"ajf",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"So if ya takin' a stand, make sure that you can",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"And don't ever speak if you're not raisin' your hand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"The life he made for his son, savin' his funds",
+          "rhyme":"wndz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"21",
+          "text":"Dreamin' 'bout the doctor, lawyer that one day he'd become",
+          "rhyme":"om",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"22",
+          "text":"But too busy playin' with guns, they say it was dumb",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"23",
+          "text":"How you supposed to hide when you got nowhere to run?",
+          "rhyme":"(",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"24",
+          "text":"It's a shame 'cause Nick would've been a great father",
+          "rhyme":"ER",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"25",
+          "text":"Why bother the same slaughter to praise Allah?",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"26",
+          "text":"I oughta celebrate my cousin's memory",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"27",
+          "text":"But who deserves a penalty in a fight without an enemy?",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEEFGHIIJKKLLMMFNOPQRSTUU",
+      "rhyme_vowel":"AABCCCDDEFFGHHCCCCDDIAJKLCMM"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"We brothers in arms, we can't give a hand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I can't sit back, let it happen, livin' to stand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Takin' it on as my personal mission",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Try and yell for help, but ain't nobody listen",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABC",
+      "rhyme_vowel":"AABC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Kids dream about just bein' some thugs",
+          "rhyme":"yg",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"But they just shrug when you ask 'em if they busted a slug",
+          "rhyme":"9g",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"And now you dropped out of school 'cause you thought it was cool",
+          "rhyme":"ul",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Forgot that your crew never even shot at a dude",
+          "rhyme":"yd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"When you cocked up the Uzi, now you locked up in juvie",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Tryna imitate the gangster that you saw in the movies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Your act didn't fool me, you're still just a goonie",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Tryna pull that, if I don't move, you're gonna shoot me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Go ahead, do me in if that's how it has to happen",
+          "rhyme":"@n",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"'Cause I'ma keep rappin' when the people stop clappin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Stop askin' 'cause I'm hatin', not lovin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"You're nothin' if you're willin' to shoot down your own brethren",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"I ain't tryna act like a modern prophet",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"I don't even give charity money out my pocket",
+          "rhyme":"Et",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"The Glock? Nah, never cocked it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"So drop it, haters need to stop it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Words seek your brain like a heat-seekin' rocket",
+          "rhyme":"Et",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"I talk the talk as well as walk it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"I speak from the heart, haters just mock it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"Tryna reunite people like Pac did",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"God, is there a chance that you're there?",
+          "rhyme":"eR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"21",
+          "text":"If you're listenin', will you please answer my prayers?",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"22",
+          "text":"I know it's been a while since our last conversation",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"23",
+          "text":"I think Satan's been givin' me temptation",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"24",
+          "text":"It's your vocation to give me salvation",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"25",
+          "text":"So please, can you help me with my current situation?",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"26",
+          "text":"Since creation, my orientation",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"27",
+          "text":"I've had the information, given inspiration",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"28",
+          "text":"When can I expect the next resurrection?",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"29",
+          "text":"I'm lookin' in the mirror, not seein' a reflection",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"30",
+          "text":"So if you see Easy Mac, bless him",
+          "rhyme":"im",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"31",
+          "text":"'Cause he's in need of protection",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEEEFGHHIJKLLKLLMNOPPPPPPPPQP",
+      "rhyme_vowel":"ABCADDDEEFFGGGDDGDDHIIJJJJJJJJDJ"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"We brothers in arms, but we can't give a hand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I can't sit back, let it happen, livin' to stand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Takin' it on as my personal mission",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Try and yell for help, but ain't nobody listen",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"We brothers in arms, but we can't give a hand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I can't sit back, let it happen, livin' to stand",
+          "rhyme":"#d",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Takin' it on as my personal mission",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Try and yell for help, but ain't nobody listen",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCAABC",
+      "rhyme_vowel":"AABCAABC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ain't nobody listen, suspicion of an infection",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Comin' from both sides, change of direction",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I'm watchin' you other rappers like inspection",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"And then I'll trash you like garbage collection",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AAAA",
+      "rhyme_vowel":"AAAA"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "song_id":51062,
+  "title":"Cruisin’",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"All these haters (Shit)",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"They're just forced to hate, you know, no reason (Fuck y'all)",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"They ain't really know who I am at all (Fuck y'all ma'fuckers, haha)",
+          "rhyme":"ol",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"So I guess I kinda gotta introduce myself again to these ma'fuckers",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"So I'm just like, yeah (Go and do it, Mac)",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDBA",
+      "rhyme_vowel":"ABCDBA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Pleased to meet ya, find me with a heap of reefer (Yup)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Speakin' ether, I'll whip your ass and crease your sneakers (Haha)",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Haters, keep the hatin', little faggots figure skatin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"While we figure eightin', seekin' your replacement",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And I ain't gon' touch the hate like some bacteria (Nope)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Some nasty-ass food from the cafeteria (Ha)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"You'll have to hear me, bruh, if you pass me up at lunch",
+          "rhyme":"9ntS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I'ma beat yo ass, tearin' you in half and eat you up (Yessir)",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Like any given Friday, I roll up to your driveway",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Rock you in the face, have you lookin' out it sideways",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"So step back, 'cause you ain't want it with Mac",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"The young cat with the rap to leave you flat on your back (Haha)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"And as a matter of fact, I'm like crack on the track",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"With my cap to the back, I'm the cat in the hat (Yessir)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Yeah, we rhymin' like Dr. Seuss",
+          "rhyme":"2s",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"So be careful 'fore you end up on the news",
+          "rhyme":"uz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Every time that we... (What?)",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEEFGAHIIIEJKL",
+      "rhyme_vowel":"ABCDEEBBAFEEEEGHH"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Cruise, like we got nothin' to lose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hear the speech through the speakers, hope it's comin' in smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"When we cruise, see, I ain't got nothin' to do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"So I'ma roll around the city, smokin' blunts with my crew",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"When we cruise, like we got nothin' to lose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Hear the speech through the speakers, hope it's comin' in smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"When we cruise, see, I ain't got nothin' to do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I'ma roll around the city, smokin' blunts with my crew (Let's go)",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBCABBC",
+      "rhyme_vowel":"AAABAAAB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"And ain't nobody that do it like Pittsburgh (Nope)",
+          "rhyme":"yg",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Said, ain't nobody that do it like Pittsburgh (Uh-uh)",
+          "rhyme":"yg",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I said it twice just in case that you misheard",
+          "rhyme":"aR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"'Cause this verse like (Sippin' an ounce of sizzurp) (Yeah)",
+          "rhyme":"Ejk",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"So quit your back talk, I ain't havin' it, boy",
+          "rhyme":"Oj",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Yeah, I'm lookin' fresh right now, straight dazzlin', boy",
+          "rhyme":"Oj",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Light a swisher, now I'm gone (Gone)",
+          "rhyme":"on",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"What my mind's on, 5s on, laced up, headed out to Timebomb",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"\"Get your life right\", sight struck with a white light",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Triple X tee and a fresh pair of white Nikes (Haha)",
+          "rhyme":"Eks",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"I'm writin' like nobody you've seen",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"'Cause my weed is purple and my money is green",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"See, I'm hungry for cream with my fitted on lean",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"If you wanna talk shit, I'ma shit on y'all's team, yup, ha",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"I rock my fitted to the side",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Roll around the city, blowin' piff up in the sky",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"When we...",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDDEFGHIIIJKLM",
+      "rhyme_vowel":"AABCDDEFBCGGGBGGH"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Cruise, like we got nothin' to lose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hear the speech through the speakers, hope it's comin' in smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"When we cruise, see, I ain't got nothin' to do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"So I'ma roll around the city, smokin' blunts with my crew",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"When we cruise, like we got nothin' to lose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Hear the speech through the speakers, hope it's comin' in smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"When we cruise, see, I ain't got nothin' to do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I'ma roll around the city, smokin' blunts with my crew",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBCABBC",
+      "rhyme_vowel":"AAABAAAB"
+    },
+    {
+      "section_id":"section_5",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"The kid raps like lasers, sharp like razors",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Rollin' up my weed in some Garcia Vegas, yep (Haha)",
+          "rhyme":"Ep",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Fuck a cop tryin' chase me with tasers",
+          "rhyme":"ER",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I'm runnin' out my crib, then I'm dippin' through the neighbor's (Peace)",
+          "rhyme":"ins",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Garden, High homie, Marvin the Martian",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I wipe my ass with you soft rappers like Charmin (Bitches)",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Y'all hungry, I'm starvin' (Yup)",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"You talkin' shit, oh, I beg your pardon (Hahaha)",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Specifics is never gimmicks, I rip it just how I live it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"You want it, I'll go and get it, I'm kickin' it so exquisite",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"The wickedest motherfucker on the block I live at",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Shit talk on hip-hop, I'm peelin' your wig back, yup",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"So where the crib at? (Oh) Where the party at? (Oh)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Where them butt-naked hoes and the Bacardi at? (Oh)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"'Cause when I start to rap, it's game over",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"And I ain't spend a single day sober",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"When I...",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFFGHHIJIIKKL",
+      "rhyme_vowel":"ABBCDEEFCCGHGGIIC"
+    },
+    {
+      "section_id":"section_6",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Cruise, like we got nothin' to lose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hear the speech through the speakers, hope it's comin' in smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"When we cruise, see, I ain't got nothin' to do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"So I'ma roll around the city, smokin' blunts with my crew",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"When we cruise, like we got nothin' to lose",
+          "rhyme":"oz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Hear the speech through the speakers, hope it's comin' in smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"When we cruise, see, I ain't got nothin' to do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I'ma roll around the city, smokin' blunts with my crew (Cruise)",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBCABBC",
+      "rhyme_vowel":"AAABAAAB"
+    }
+  ]
+}

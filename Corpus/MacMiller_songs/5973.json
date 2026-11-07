@@ -1,0 +1,391 @@
+{
+  "song_id":5973,
+  "title":"Snap Back",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Had a, had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Had a, had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Uh, I used to rock a double XL",
+          "rhyme":"El",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Now the ladies all say I dress well",
+          "rhyme":"El",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"With a nice pair of jeans, LRG or Evisu",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Crew neck sweatshirt, hat and some clean shoes",
+          "rhyme":"is",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Pockets stayed equipped with some paper and some gold piff",
+          "rhyme":"if",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Pack of gum, squares, Blackberry and a phone clip (Goddamn)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Got Most dope clique, bunch of mothafuckers lookin' fresh",
+          "rhyme":"aS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Crooks and castle dress, sloppy sloppy haters shouldn't mess",
+          "rhyme":"Es",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Walkin' by your lady and I'm sorry if I took her breath",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"You was just baby, cryin' 'til you end up shook to death (Bitch)",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Fade away like an Etch A Sketch",
+          "rhyme":"EtS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Don't second guess, ain't nobody better dressed (Uh-uh)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Text hoes wearin' less clothes than her mama like",
+          "rhyme":"Ejk",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Church girl, always go to school, she the honest type (Haha)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"But when it comes to boys, she like 'em bad",
+          "rhyme":"ad",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"So holla at the kid, I got swag",
+          "rhyme":"ag",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDEFGHHIJKELM",
+      "rhyme_vowel":"AABCCCDADDAEACDD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Had a, had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Had a, had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Knick-knack, paddy-whack, give that boy some clothes",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Imitate the kid, you may get yourself some hoes (Haha)",
+          "rhyme":"is",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Snap back, flat cap, abstract swagger (Uh-huh)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Kid come correct, never messin' up the pattern",
+          "rhyme":"ERn",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Y'all jigsaw puzzle, mismatch mess (Mess)",
+          "rhyme":"Es",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Got my J's on with some jeans, lookin' fresh",
+          "rhyme":"aS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Yes, my colors match",
+          "rhyme":"atS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"And ain't no other cats lookin' like the kid",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Yeah, none of y'all fuck with Mac (Ha)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"You rockin' somethin' that lookin' like a lumberjack",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"How you wearin' three different t-shirts under that?",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Teach you how to dress real stylish, I'm the wildest",
+          "rhyme":"Est",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Nothin' on me lookin' childish (Haha)",
+          "rhyme":"iS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Fire talk, I am hot",
+          "rhyme":"Ot",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"And y'all is just some mild sauce",
+          "rhyme":"os",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Got my clothes tailored, fit so nicely",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Soon you'll see these mothafuckers dressin' just like me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFGHIIJKLMNOP",
+      "rhyme_vowel":"ABCDDAABAAADBEFBG"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Had a, had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Had some, had some baggy gear, now, now my clothes tailored",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Had a, had a fitted cap, now, now I rock a snap back",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABBAAB",
+      "rhyme_vowel":"AABBAAB"
+    }
+  ]
+}
