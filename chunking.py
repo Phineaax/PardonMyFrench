@@ -101,7 +101,7 @@ def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
 
     return pd.DataFrame(rows)
 
-def lyrics_to_df(lyrics_json:Dict[T]) -> pd.DataFrame:
+def lyrics_to_df(lyrics_json:Dict[T, T]) -> pd.DataFrame:
     x = lyrics_json
     d = pd.DataFrame([
         {
@@ -129,8 +129,8 @@ def artist_folder_to_artist_df(json_folder_path:str) -> pd.DataFrame:
         
         try :
             d=lyrics_to_df(x)
-        except : 
-            print(f"problème avec le son {s}")
+        except Exception as e: 
+            print(f"problème avec le son {s}\n{e}")
             continue;
         total_data = pd.concat([total_data, d])
 
