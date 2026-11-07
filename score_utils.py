@@ -37,13 +37,13 @@ longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
 def diversite_lexicale_HDD(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).hdd()
-divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "diversité lexicale (méthode HDD)")
+divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "score de diversité lexicale (méthode HDD)")
 
 
 def diversite_lexicale_MTLD(lines_chunk, **kwargs) :
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).mtld()
-divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "diversité lexicale (méthode MTLD)")
+divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "score de diversité lexicale (méthode MTLD)")
 
 
 def densite_lexicale(lines_chunk:List[str], **kwargs) -> float:
@@ -52,7 +52,7 @@ def densite_lexicale(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
     full_words = [w for w in words if w not in stop_words]
     return len(full_words)/len(words)
-densLex = Mesure("densLex", densite_lexicale, "densité lexicale")
+densLex = Mesure("densLex", densite_lexicale, "score de densité lexicale")
 
 
 #BOW
