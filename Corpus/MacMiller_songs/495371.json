@@ -1,0 +1,484 @@
+{
+  "song_id":495371,
+  "title":"Late Night",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"We gets it poppin' on a late— pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Poppin' on a late— pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Poppin' on a late— pop-poppin' on a late—",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Pop-poppin' on a— pop-poppin' on a—",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Back-backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Backpack full of good, backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Backpack full of good, backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Backpack full of good",
+          "rhyme":"ud",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Poppin' on a late night (Look)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDDDEAA",
+      "rhyme_vowel":"AAAABBBCAA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"We gets it poppin' on a late night, rockin' 'til the day (Day)",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"You be in the corner, just talkin' to some lames (Uh-huh)",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Watch me as I take flight, hoppin' on the plane (Zoom)",
+          "rhyme":"an",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I'll be goin' 'til the song drop, drop and go away",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Drop and go away? (Go away?) Bring it right back (Right back)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And I'ma fight that man in the tight slacks (Pussy)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"He need a ice pack (Uh-huh), he need his life back (Uh-huh)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"All up in his grill like rat-a-tat-tat (Haha)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"And Mac is that cat lookin' bad in all black (Chyeah)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"With my brain in the clouds, so your girl can call back (Yup)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"You mad at your game like the dude from Mall Rats",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"You rookie, ain't better than the Mac, fall back (Fall back)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"I see the way that you talkin' to your date (Uh-huh)",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"You either gay or you not up on your game (Game)",
+          "rhyme":"Ejm",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"I keep it movin', ain't stoppin' for the jakes",
+          "rhyme":"Eks",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"'Cause everybody know we get it poppin' when it's late (Yeah)",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEEEFEEFEGHIG",
+      "rhyme_vowel":"ABBCBBBBBBBBBAAB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"We gets it poppin' on a late— pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Poppin' on a late— pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Poppin' on a late— pop-poppin' on a late—",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Pop-poppin' on a— pop-poppin' on a—",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Back-backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Backpack full of good, backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Backpack full of good, backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Backpack full of good",
+          "rhyme":"ud",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Pop-poppin' on a late night (Yeah, yeah)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Poppin' on a late night (Yeah)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDDDEAA",
+      "rhyme_vowel":"AAAABBBCAA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Backpack full of good, just walkin' down the street (Uh-huh)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"3 in the mornin', wanna get somethin' to eat (Chyeah)",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"My body needs nothin', nothin' but some sleep",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"But my head stay awake, just bumpin' with this beat (Uh-huh, uh-huh)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"We gets it poppin' while everyone pass out (Pass out)",
+          "rhyme":"awt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Backpack strapped, player, go and pull your cash out (Ching)",
+          "rhyme":"awt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"See a mommy who be tryna pull her ass out (Chyeah)",
+          "rhyme":"awt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"And her man in the corner gettin' mad now (Aha)",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"'Cause my homies 'bout to crush any girl around (Chyeah)",
+          "rhyme":"awnd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Lovin' me 'cause money well attended, spin the world around",
+          "rhyme":"awnd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"And I be 'bout a dollar like everybody else",
+          "rhyme":"yls",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"I'm so hungry for some money that I steal it from myself (Steal it from myself)",
+          "rhyme":"Elf",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"That don't make sense, well, I ain't about a nickel, ha (Nickel)",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Dumbass rappers just riddle (Uh-huh)",
+          "rhyme":"9dl",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"We keep it movin', ain't stoppin' for the jakes",
+          "rhyme":"Eks",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"'Cause everybody know we get it poppin' when it's late (Yeah)",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCADDDEFFGHIJKB",
+      "rhyme_vowel":"ABAABBBCBBDEBFEB"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"We gets it poppin' on a late—pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Poppin' on a late— pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Poppin' on a late— pop-poppin' on a late—",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Pop-poppin' on a— pop-poppin' on a—",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Back-backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Backpack full of good, backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Backpack full of good, backpack full of goodies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Backpack full of good",
+          "rhyme":"ud",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Pop-poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Poppin' on a late night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDDDEAA",
+      "rhyme_vowel":"AAAABBBCAA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah, mo'fuckers",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"It's 5 in the mornin' right now, we still gettin' it poppin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Y'all asleep",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I'm just in the studio right now with Yung Brody and TreeJTV",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"We just, we just makin' hits right now",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And y'all are sleepin', so wake up",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"'Cause we gets it poppin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Backpack full of goodies, backpack full of good",
+          "rhyme":"ud",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFBG",
+      "rhyme_vowel":"ABCDEABF"
+    }
+  ]
+}

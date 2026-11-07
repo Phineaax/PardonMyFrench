@@ -1,0 +1,289 @@
+{
+  "song_id":128723,
+  "title":"Life Can Wait",
+  "language":"en",
+  "lyricists":[
+    4389143
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"In the beginning, there was only love",
+          "rhyme":"Ov",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Love brought us here today",
+          "rhyme":"E",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"It was a connection between man and woman",
+          "rhyme":"an",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"That brought us life, making love",
+          "rhyme":"Ov",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"And all I need you to do right now is close your eyes",
+          "rhyme":"Ej",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Yeah, ladies and gentlemen",
+          "rhyme":"En",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"Especially ladies",
+          "rhyme":"iz",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"You all look so pretty tonight",
+          "rhyme":"ajt",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"Let me introduce myself, my name is Larry Lovestein",
+          "rhyme":")",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"9",
+          "text":"And these gentlemen with me are The Velvet Revival",
+          "rhyme":"Ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"10",
+          "text":"We appreciate your attendance",
+          "rhyme":"#s",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"11",
+          "text":"Sit back and relax, this is You (Ooh)",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCADEFGHIJK",
+      "rhyme_vowel":"ABCABBDCEAFG"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I started plannin' my days all around you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"I was waitin' around for your call",
+          "rhyme":"ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"And I, I heard all the rumors about you, babe",
+          "rhyme":"ab",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Those things don't bother me at all",
+          "rhyme":"ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"I bet you, you look pretty good in a wedding gown",
+          "rhyme":"awn",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"You prolly look better with nothin' at all",
+          "rhyme":"ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"I feel like you know what you're doin', you do it so well",
+          "rhyme":"El",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"Don't usually do this, I'm foolin' myself",
+          "rhyme":"Elf",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCBDBEF",
+      "rhyme_vowel":"ABCBCBDD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I hope you don't mind if I fall",
+          "rhyme":"ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"In love, oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"In love with you, I'm",
+          "rhyme":"Om",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"In love with you, girl, with you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Said I hope you don't mind if I fall, oh, oh-oh-oh-oh-oh-oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDB",
+      "rhyme_vowel":"AABCA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Soon as I kissed you, I knew you were right for me",
+          "rhyme":"@",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Soon as you woke up in my arms, I was yours",
+          "rhyme":"uR",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Want to make love to you slow while it's raining, girl",
+          "rhyme":"9Rl",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Make love to you while it pours",
+          "rhyme":"uR",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Girl, when I'm with you, life can wait, I'll just kiss you all over your face",
+          "rhyme":"as",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Hold you like the world gon' end, girl, I'll do whatever it takes",
+          "rhyme":"Eks",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"To be wed with you 'til I die, I want it all",
+          "rhyme":"ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"And you're all that's on my mind, couldn't stop thinkin' 'bout you if I tried",
+          "rhyme":"e",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"Just be my baby, luck be a lady tonight",
+          "rhyme":"ajt",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCBDEFGH",
+      "rhyme_vowel":"ABCBDEFGD"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I hope you don't mind if I fall",
+          "rhyme":"ol",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"In love, oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"In love with you, I'm",
+          "rhyme":"Om",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"In love with you, girl, with you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Said I hope you don't mind if I fall, oh, oh-oh-oh-oh-oh-oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDB",
+      "rhyme_vowel":"AABCA"
+    }
+  ]
+}

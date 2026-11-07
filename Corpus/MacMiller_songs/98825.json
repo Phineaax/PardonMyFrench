@@ -1,0 +1,304 @@
+{
+  "song_id":98825,
+  "title":"Love Affair",
+  "language":"en",
+  "lyricists":[
+    4389143
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Darling, I been waitin' in the cold",
+          "rhyme":"old",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Holdin' this umbrella for you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"The raindrops make me feel romantic",
+          "rhyme":"ik",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Let's run away, sail through the Atlantic",
+          "rhyme":"ik",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Two of us, such a wonderful pair",
+          "rhyme":"ER",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Stuck inside this love affair",
+          "rhyme":"ER",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"Try to make you smile, that view is worth the while",
+          "rhyme":"il",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"The only one I call, all I do is hit redial",
+          "rhyme":"al",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"Why don't you come and lay with me?",
+          "rhyme":"@",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"9",
+          "text":"Let's make a couple babies",
+          "rhyme":"i",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"10",
+          "text":"I know we still so young",
+          "rhyme":"uN",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"11",
+          "text":"The idea seems crazy",
+          "rhyme":"i",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCCDDEFGHIH",
+      "rhyme_vowel":"ABCCDDCEFCBC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Your love makes every day of mine worth it",
+          "rhyme":"it",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Sometimes I wonder if I even deserve it",
+          "rhyme":"it",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Look in my eyes, you know how I feel",
+          "rhyme":"El",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"I know it's real, girl, let's close the deal",
+          "rhyme":"il",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"AABC",
+      "rhyme_vowel":"AABA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"post-chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ooh, ah, ooh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"La-da, da-da-da, da-da, da-da-da",
+          "rhyme":"a",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Ooh, ah, ooh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"La-da, da-da-da, da-da, dum-dum",
+          "rhyme":"um",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABAC",
+      "rhyme_vowel":"ABAC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Darling, you and me strollin' down the street",
+          "rhyme":"it",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Talking 'bout our dreams, throwin' pebbles",
+          "rhyme":"ibl",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"I wanna hear 'bout everything you know",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"The places we could go, the songs that we could sing",
+          "rhyme":"iN",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"The two of us, such a wonderful pair",
+          "rhyme":"ER",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Stuck inside this love affair",
+          "rhyme":"ER",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"I know you like when I hold you tight",
+          "rhyme":"ajt",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"What's your favorite color? Let me know and I'll paint the sky",
+          "rhyme":"i",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"And all I wanna do",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"9",
+          "text":"Is make love 'til the morning",
+          "rhyme":"iN",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"10",
+          "text":"A one-way ticket to paradise",
+          "rhyme":"iz",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"11",
+          "text":"The love train is boarding (Baby, let's go)",
+          "rhyme":"iN",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDEEFGCDHD",
+      "rhyme_vowel":"AABACCDABAAA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Your love makes every day of mine worth it",
+          "rhyme":"it",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Sometimes I wonder if I even deserve it",
+          "rhyme":"it",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Look in my eyes, you know how I feel",
+          "rhyme":"El",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"I know it's real, girl, let's close the deal",
+          "rhyme":"il",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"AABC",
+      "rhyme_vowel":"AABA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"post-chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ooh, ah, ooh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"La-da, da-da-da, da-da, da-da-da",
+          "rhyme":"a",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Ooh, ah, ooh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"La-da, da-da-da, da-da, dum-dum",
+          "rhyme":"um",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABAC",
+      "rhyme_vowel":"ABAC"
+    }
+  ]
+}

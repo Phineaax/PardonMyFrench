@@ -1,0 +1,352 @@
+{
+  "song_id":5579344,
+  "title":"Coffee Shop Freestyle",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ha, yo, I just gotta laugh at this shit right here, yo, haha",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"It's Easy Mac",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"So blunted (Yeah), lemme just take a hit of that shit real quick (Oh, yeah)",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Yeah, if you feel me right now",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"(Hahaha) Why don't you turn your speakers up in your car",
+          "rhyme":"aR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And pay real close attention to what I'm sayin'",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Aight, look, look, look",
+          "rhyme":"uk",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFG",
+      "rhyme_vowel":"AABCADE"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Lookin' fresh in a new pair of sneakers",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"More colors than Easter, finest of the reefer",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Never on the vistas, I'm stickin' to the headies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Celebration weed, you can call that shit confetti",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Tastes like candy, call it Good & Plenty",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Fuck with my crew, I'ma spray your hood with semis",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Try and stop rappin', but God wouldn't let me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"My name stains your brain just so you won't forget me (Ayy)",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"More cake than Betty, fifties and a hundreds",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"So much dough that I giggle every time you poke my stomach",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Yeah, so high, so blunted, and I'ma run it, ayy (Fuck it)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"In a bitch mouth like a canker sore",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Get my nuts and I bounce, don't thank the whore",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"I ain't from the south but I'm good with the ladies",
+          "rhyme":"iz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"So much nut in her mouth, look like she got rabies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Bitch, you crazy, wants to have my baby",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"I ain't with that, fuck you, pay me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"I slang tree, and I blaze weed",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"I stay skeed, eyes permanently lazy",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"Yeah, you ain't half as cool, bitch",
+          "rhyme":"itS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"Give me brains like you back at school, bitch",
+          "rhyme":"itS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"21",
+          "text":"Hat twisted back so you can see my name",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"22",
+          "text":"And you ain't know who I am but you can read my chain, yeah",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"23",
+          "text":"That's P.I.T., the flames",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"24",
+          "text":"And then I put my stick down like I beat the game (Yeah)",
+          "rhyme":"Ejm",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"25",
+          "text":"I ain't see the lames, the lames is invisible",
+          "rhyme":"ibl",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"26",
+          "text":"And I am too invincible, it's all about that principle",
+          "rhyme":"ipl",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"27",
+          "text":"I shit on you like a pigeon do, gettin' rid of you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"28",
+          "text":"Watch me flow if you wanna see what the kid can do",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"29",
+          "text":"Yeah, it's the king of the freestyle",
+          "rhyme":"il",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"30",
+          "text":"Crazy, I'm senile, money long, three miles (Ayy)",
+          "rhyme":"ajls",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"31",
+          "text":"Makes me smile, homie, we wild",
+          "rhyme":"Old",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"32",
+          "text":"Sit back, relax, and just let it be, child",
+          "rhyme":"Old",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"33",
+          "text":"Travel like a murderer, killer moves",
+          "rhyme":"Ov",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"34",
+          "text":"Ya mad at me just 'cause my skin's vanilla hues",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"35",
+          "text":"I'm still the news, chill, I will improve",
+          "rhyme":"Ov",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"36",
+          "text":"Drugs, I will abuse",
+          "rhyme":"yz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"37",
+          "text":"I laugh at your ass, I'm way too cut-up",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"38",
+          "text":"On the coffee shop, way too fucked up",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"39",
+          "text":"Too high, I can touch the sky",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"40",
+          "text":"My mom knows I rap but she still wonder why",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"41",
+          "text":"I bring thunder, the odle from down under",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"42",
+          "text":"Ha, like a video game, but really, you lame",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"43",
+          "text":"The gat held, steady the aim, I'm ready as rain",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"44",
+          "text":"You mad 'cause they picked me instead of you lames",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"45",
+          "text":"Get some lead straight fed to your brain",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"46",
+          "text":"And then I'm sendin' ya chains, it is the end of the game",
+          "rhyme":"Ejm",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCCCCDDBECFFGCCDHCIIJKJLMNOPQRSSTUTVWWCCBJXJXL",
+      "rhyme_vowel":"ABCCCCDDBECFFCCCDCCCCEGEGCCHICEFFFJFJAACCBEKEKG"
+    }
+  ]
+}

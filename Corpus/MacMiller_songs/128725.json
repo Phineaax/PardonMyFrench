@@ -1,0 +1,448 @@
+{
+  "song_id":128725,
+  "title":"You",
+  "language":"en",
+  "lyricists":[
+    4389143
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I'd like to say thank you, for joining us this evening",
+          "rhyme":"iN",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"I hope you enjoyed yourself",
+          "rhyme":"Elf",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Now the boys and I have one more number we'd like to play for you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"I hope you stick around, these are the after hours",
+          "rhyme":"uR",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"So my fellas in here",
+          "rhyme":"eR",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Pour up one more glass of scotch, stick around for a little bit",
+          "rhyme":"it",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"And all the ladies",
+          "rhyme":"iz",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"What I want you to do right now",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"I want you to look me directly in my eyes",
+          "rhyme":"Ej",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"9",
+          "text":"I can promise you this, I will be looking back at you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"10",
+          "text":"And I see you, I see you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDEFGHICC",
+      "rhyme_vowel":"ABCCDAAEBCC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Baby, you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Your smile remind me of sunshine, girl",
+          "rhyme":"9Rl",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"You smile just like roses",
+          "rhyme":"oz",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"You say you don't, don't need a man",
+          "rhyme":"#",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Well, I just want your lovin', darlin'",
+          "rhyme":")",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"I, I wonder how I can tell you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"The way you make me feel",
+          "rhyme":"El",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"You make me feel high",
+          "rhyme":"Eg",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"Baby, oh, we could change the world forever",
+          "rhyme":"e",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"9",
+          "text":"We should turn it into somethin' better",
+          "rhyme":"e",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"10",
+          "text":"Than good",
+          "rhyme":"ud",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"11",
+          "text":"You were cryin' as things changed before your eyes",
+          "rhyme":"Ej",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"12",
+          "text":"Me and you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"13",
+          "text":"Do what normal people do",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"14",
+          "text":"And your soul, so beautiful",
+          "rhyme":"9l",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"15",
+          "text":"Your body just the vehicle, baby",
+          "rhyme":"i",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDEAFGHHIJAKLM",
+      "rhyme_vowel":"ABCDEAFFGGAFACBH"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Baby, you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"You took me by surprise",
+          "rhyme":"iz",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"I swear I see the whole world in your eyes",
+          "rhyme":"Ej",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Next time you're sad and alone",
+          "rhyme":"On",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Please let my love take you home",
+          "rhyme":"om",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Baby, you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"No one but you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"It's only you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"Nobody, nobody but you, oh-oh-oh-oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDEAAAF",
+      "rhyme_vowel":"ABCDEAAAE"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Why, why must I lay here awake",
+          "rhyme":"Ejk",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"When I could be dreamin' of your face?",
+          "rhyme":"as",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"You wait up",
+          "rhyme":"9p",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Go to sleep, then I'll see you in a second, baby",
+          "rhyme":"i",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Try, just try to love me again",
+          "rhyme":")",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"And if not, just pretend",
+          "rhyme":"#",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"I'm scared you'll, you'll fall in love",
+          "rhyme":"Ov",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"Love with somebody else",
+          "rhyme":"yls",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"And, who can save you from yourself?",
+          "rhyme":"Elf",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"9",
+          "text":"Because there's not life without you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"10",
+          "text":"There's somethin' about you, I know",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"11",
+          "text":"Something's special, I'm sure",
+          "rhyme":"yR",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"12",
+          "text":"'Cause, girl, your love is so pure",
+          "rhyme":"yR",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"13",
+          "text":"And I want it all, oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDEFGHIJKLLK",
+      "rhyme_vowel":"ABCDEFGHAIJHHJ"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Baby, you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"You took me by surprise",
+          "rhyme":"iz",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"I swear I see the whole world in your eyes",
+          "rhyme":"Ej",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Next time you're sad and alone",
+          "rhyme":"On",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Please let my love take you home",
+          "rhyme":"om",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"5",
+          "text":"Baby, you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"6",
+          "text":"No one but you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"7",
+          "text":"It's only you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"8",
+          "text":"Nobody, nobody but you, oh-oh-oh-oh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABCDEAAAF",
+      "rhyme_vowel":"ABCDEAAAE"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"But you, nobody but you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"1",
+          "text":"Baby, I'm not gonna leave you, I know",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"2",
+          "text":"Baby, said no one but you",
+          "rhyme":"u",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"3",
+          "text":"Nobody but you, ooh",
+          "rhyme":"o",
+          "persona_id":"Larry_Lovestein"
+        },
+        {
+          "n":"4",
+          "text":"Said nobody, nobody",
+          "rhyme":"i",
+          "persona_id":"Larry_Lovestein"
+        }
+      ],
+      "rhyme":"ABABC",
+      "rhyme_vowel":"ABABC"
+    }
+  ]
+}
