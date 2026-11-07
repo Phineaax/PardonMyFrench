@@ -1,0 +1,400 @@
+{
+  "song_id":5861683,
+  "title":"Ayye",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hey, hahaha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I'm all grownsed up, man",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Yeah, ha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Alright, look, hey",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABAC",
+      "rhyme_vowel":"ABAC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I'm so drunk, it's a bad idea to talk",
+          "rhyme":"Ok",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"'Cause I ain't makin' any sense, I'm just here to rock",
+          "rhyme":"Ok",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Not sleepin', all grown up",
+          "rhyme":"9p",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Now the places that we go, they know us",
+          "rhyme":"ys",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Tell me, \"Mac, it's so good to see you blow up\"",
+          "rhyme":"9p",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"'Cause now I be with cheese like cold cuts",
+          "rhyme":"yt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"And I ain't dealin' with a ho got no butt",
+          "rhyme":"yt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Gotta do more than chillin', just show up",
+          "rhyme":"9p",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I'm just out my mind",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Stay dealin' with some girls who be out all the time",
+          "rhyme":"ajm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"And the higher that I get on this mountain I climb",
+          "rhyme":"$",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"To the clouds, I'ma rise over balcony, shine",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"From the light of the sun, tonight'll be fun",
+          "rhyme":"yn",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"'Cause the night is still young and the rhyme to the drum",
+          "rhyme":"Om",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Is flowin', an island",
+          "rhyme":"#d",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"See the ocean when I'm chillin', got me smilin', like",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCBDDBEFGHIJKL",
+      "rhyme_vowel":"AABCBCCBDEFGCADH"
+    },
+    {
+      "section_id":"section_2",
+      "type":"pre-chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"\"Ayy\", tonight will be great",
+          "rhyme":"at",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Walkin' through the door with a smile on my face",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Like hate me or love me",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Chase dreams, ain't worried 'bout money",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"I'ma get it then spend it, the way it's gon' be",
+          "rhyme":"ab",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And you ain't know me if you ain't part of the team",
+          "rhyme":"im",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"If you ain't part of the team",
+          "rhyme":"im",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"You ain't know me if you ain't part of the team, like",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFFG",
+      "rhyme_vowel":"AABCADDC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayy-ayy, hey, hey, hey, hey (Hey, hey)",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hey, hey (Hey, hey, hey, hey)",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Ayy, tonight will be great (Ayy-ayy, hey, hey, hey, hey)",
+          "rhyme":"at",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Walkin' through the door with a smile on my face",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Like hate me or love me (Hey, hey)",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Chase dreams, ain't worried 'bout money (Hey, hey)",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDA",
+      "rhyme_vowel":"AABBCA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Too many people always thought I wouldn't ever do shit",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I'm ruinin' my life and I'll never get rich",
+          "rhyme":"ik",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Forever I'm this, never goin' back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Don't fade to black, I'ma stain the map",
+          "rhyme":"ap",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Yeah, I'm changin' rap and my name is Mac",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Trust me, then I'm ready when the cameras flash",
+          "rhyme":"aS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"'Cause the boy got presents like Santa's bag",
+          "rhyme":"ag",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Travel everywhere, homie, Alabama and back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"My fans in the back in the stand and they clap",
+          "rhyme":"ap",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Give me love all day so I'm handin' it back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"They believe, so they family",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"I'm ready right now, kinda antsy",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"And I don't got nothin' like a plan B",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Just go and cop a crib in Miami",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Get a Grammy and a Oscar",
+          "rhyme":"aR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"'Cause mother always said, \"Act proper,\" hey",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDCEFCDCGGHGIJ",
+      "rhyme_vowel":"AABBBBBBBBAACABD"
+    },
+    {
+      "section_id":"section_5",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayy-ayy, hey, hey, hey, hey (Hey, hey, hey, hey)",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hey, hey (Hey, hey, hey, hey)",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Ayy, tonight will be great (Ayy-ayy, hey, hey, hey, hey)",
+          "rhyme":"at",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Walkin' through the door with a smile on my face",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Like hate me or love me (Hey, hey)",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Chase dreams, ain't worried 'bout money",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDA",
+      "rhyme_vowel":"AABBCA"
+    }
+  ]
+}

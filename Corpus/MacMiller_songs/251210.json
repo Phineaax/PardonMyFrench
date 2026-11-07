@@ -1,0 +1,520 @@
+{
+  "song_id":251210,
+  "title":"Grandpa Used to Carry a Flask",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"What happens when I'm suicidal? Vibrations all through my spinal",
+          "rhyme":"al",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"From the hiss of the vinyl, my mind will be in the Bible",
+          "rhyme":"ibl",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"I will see the signs and I'll probably not understand a lot",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Rode into town yesterday, straight from Camelot",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"The prayers are not in common language, they don't mean a thing",
+          "rhyme":"iN",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"The evil king of underworlds accumulating bodies",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"This rap shit is turning into nothin' but a hobby",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"'Cause the pussy's already been fucked or in the lobby waitin'",
+          "rhyme":")",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"Dominatin' the matrix, kick it with God and Satan",
+          "rhyme":"#",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"Oscillation through my veins into these constellations",
+          "rhyme":"$",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"Drug users, they wouldn't let us join the club",
+          "rhyme":"9b",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"11",
+          "text":"So now it's Spanish bitch massage, give my joints a rub",
+          "rhyme":"Ob",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"12",
+          "text":"What's the purpose of everything, who the fuck cares?",
+          "rhyme":"aR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"13",
+          "text":"We run scared 'cause nothin' fair, and we don't become aware",
+          "rhyme":"aR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"14",
+          "text":"Pretend it don't exist, ignorance the only bliss",
+          "rhyme":"ajs",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"15",
+          "text":"I think it's me, well, I hope it is",
+          "rhyme":"E",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"16",
+          "text":"With no kids and no responsibilities",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"17",
+          "text":"I'm writin' soliloquies that transcend visually",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"18",
+          "text":"Intelligent idiots who never be serious",
+          "rhyme":"u",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"19",
+          "text":"'Cause the world around is fucked up, so we'd rather get fucked up",
+          "rhyme":"9p",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCCDEEFGHIJKKLMEENO",
+      "rhyme_vowel":"ABCCBBBDEFGHAAAIBBJG"
+    },
+    {
+      "section_id":"section_2",
+      "type":"interlude",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"What? What?",
+          "rhyme":"a",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"My grandpa used to carry a flask",
+          "rhyme":"ask",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"What? What?",
+          "rhyme":"a",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABA",
+      "rhyme_vowel":"AAA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"As I'm pacin' back and forth, waitin' 'til they pass the torch",
+          "rhyme":"ERS",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Life a bitch who 'bout forty in a sad divorce",
+          "rhyme":"ORs",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Voice is hoarse, gettin' harder to speak",
+          "rhyme":"Ek",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Remarkable themes, talkin' mark of the beast",
+          "rhyme":"ost",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"I saw them caught on the leash, we walk in common",
+          "rhyme":"on",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"Asleep in coffins, talkin' to Stephen Hawking",
+          "rhyme":"iN",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"Evil, we see it often",
+          "rhyme":"En",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"So we close our eyes, hopin' we forgot to die",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"Shit, it must have slipped my mind, why?",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"Well, I haven't seen a genuine smile in a while",
+          "rhyme":"il",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"Mostly everybody stuck in denial",
+          "rhyme":"al",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCDEFGHHIJ",
+      "rhyme_vowel":"ABACCDADDDE"
+    },
+    {
+      "section_id":"section_4",
+      "type":"verse",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"So I'm comin' out a cryogenic tube just to taste the air",
+          "rhyme":"ER",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"You ain't aware, outer space is there",
+          "rhyme":"eR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"I'm talkin' about Natalie the cattle eater with nasty features",
+          "rhyme":"yR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Rappin' with a flaccid wiener",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"Shit, that's only half a Peter",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"Takin' out the dogs, murder half of PETA",
+          "rhyme":"a",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"No, no hummus with that, right?",
+          "rhyme":"ajt",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCDDEF",
+      "rhyme_vowel":"ABCBBDD"
+    },
+    {
+      "section_id":"section_5",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah, look",
+          "rhyme":"uk",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Havin' conversations with myself, gettin' into arguments",
+          "rhyme":"#",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"When I'm out in London, I be posted at the Parliament",
+          "rhyme":"am",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Coke in the Parliaments, chillin' by some monuments",
+          "rhyme":"#",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"Ominous when I fill your body with godly hollow tips",
+          "rhyme":"ip",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"To leave you holy, prepare for the apocalypse",
+          "rhyme":"ips",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"Sixty thousand on a Rollie, cookies with the chocolate chips",
+          "rhyme":"ips",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"Rappin' hippopotamus, motherfuck a zookeeper",
+          "rhyme":"9R",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"I don't do features, I snort glue and chew aether",
+          "rhyme":"ER",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"Hand full of sleepin' pills, it's only me I kill",
+          "rhyme":"il",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"If Jack wouldn't sleep with Jill, she'd spill on my penis drill",
+          "rhyme":"il",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCBDEEFGHH",
+      "rhyme_vowel":"ABCBDDDEFDD"
+    },
+    {
+      "section_id":"section_6",
+      "type":"verse",
+      "performer":", , , ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Mr. Jesus, can you save my life?",
+          "rhyme":"ajf",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Yeah, yeah",
+          "rhyme":"E",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Lookin' at a man's casket",
+          "rhyme":"Et",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Turn him into ham salad",
+          "rhyme":"ad",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"How I'm feelin'? Fantastic",
+          "rhyme":"ik",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"The finish line, I ran past it",
+          "rhyme":"it",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"Bitches love me 'cause I got a tan phallus",
+          "rhyme":"ys",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"Get your house sandblasted",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"Your damn ass kicked",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"Damn, Gladys",
+          "rhyme":"iz",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"Another fan's ballad is transact",
+          "rhyme":"akt",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"11",
+          "text":"And I demand gadgets at the sand palace",
+          "rhyme":"as",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"12",
+          "text":"Far away, I Amtrak it",
+          "rhyme":"it",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"13",
+          "text":"My safe is great, a saint couldn't, can't crack it",
+          "rhyme":"it",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"14",
+          "text":"Came through swaggin' in a all-tan wagon",
+          "rhyme":"$",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"15",
+          "text":"With the land of the dragons, I just stand for the balance",
+          "rhyme":"#s",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"16",
+          "text":"I'm just tryna play with my band on Fallon",
+          "rhyme":"$",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"17",
+          "text":"(Rallin') I don't got no talent",
+          "rhyme":"#",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCDEFGHHIJKFFLMLN",
+      "rhyme_vowel":"ABBACCDEECAACCFGFG"
+    },
+    {
+      "section_id":"section_7",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"He's not dead, he's just delicious",
+          "rhyme":"u",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    }
+  ]
+}

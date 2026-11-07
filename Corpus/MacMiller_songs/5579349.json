@@ -1,0 +1,331 @@
+{
+  "song_id":5579349,
+  "title":"Mac Is Like",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yo",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"This one right here",
+          "rhyme":"eR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"To the haters",
+          "rhyme":"9R",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Mac is like, \"How?\" (Tell 'em)",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDA",
+      "rhyme_vowel":"ABCDA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Guns drawn, stay on, say it's spawned a kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Beyond the response to my pops, mom forbid",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Blunts of reefer, believe I'm the leader",
+          "rhyme":"9R",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"A different creature, more respect than Aretha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"I see ya, wouldn't want to be ya",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Look at you, I'm cookin' you enough paper for a book or two (Damn)",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"I warned ya, I'm the truth like Sojourner",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Up on the former, kickin' flows on the corner",
+          "rhyme":"ER",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I appreciate applause and enthusiasm",
+          "rhyme":"Om",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"But you're an actor to the public, throwin' movies at 'em",
+          "rhyme":"Em",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Mac is like, \"You ain't half as tight\" (Nope)",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"So please, cast a light",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Let me jog a mic and you can get sacrificed",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"'Cause I'ma rap for life, it'll leave you hypnotized",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Or get ya high, spittin' knives that'll slit your eyes",
+          "rhyme":"Ej",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"I can write some shit down or kill it improvised",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"You wanna fill my shoes? Boy, they ain't made in your size",
+          "rhyme":"Ez",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCBBDEFGHIIEEJEK",
+      "rhyme_vowel":"ABCBBDEFGFBBEEFEF"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"'Cause Mac is like, 'cause Mac is like",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"And let the beat drop",
+          "rhyme":"Op",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"(Come back)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I'm comin' back like a recap",
+          "rhyme":"ap",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Stay strapped with a gat to your kneecap",
+          "rhyme":"ap",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Runnin' ya city, askin', \"Where the weed at?\"",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Turn the mic down (Why?), it's givin' feedback",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Hand it to me, I'ma grab that like a half-back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Take the cash back, man, I'll jack your backpack",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"I smack tracks, y'all cast rap whack",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Y'all pussy rappers might as well tuck your sack back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"A habit like some acid givin' you some flashbacks",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"But you can have that blunt, you needa pass that",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Where your stash at? The code to your safe",
+          "rhyme":"af",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Or I'ma take my dick in your bitch and blow in her face",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Yes, I will, I do talk shit and I rap it",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Cross me, I'ma introduce you to your casket",
+          "rhyme":"Et",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"I'm a savage, stealin' cabbage from you faggots",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Right out your jacket, it's like you never had it",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"I bust shots in your mug, three slugs",
+          "rhyme":"yg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"We thugs, this is what the tree does",
+          "rhyme":"is",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"One time for your mind, Point Breeze love",
+          "rhyme":"Ov",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"This is Lil' Mac, shout-out to B.DuBBs",
+          "rhyme":"9b",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCCCCCCBDEFGHFIJKL",
+      "rhyme_vowel":"AAAAAAAAAAAABCDBEBFG"
+    },
+    {
+      "section_id":"section_4",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah, it's Mac, baby",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    }
+  ]
+}

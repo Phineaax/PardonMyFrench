@@ -1,0 +1,232 @@
+{
+  "song_id":4061598,
+  "title":"Once a Day",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Once a day, I rise",
+          "rhyme":"iz",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Once a day, I fall asleep with you",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Once a day, I try but I can't find a single word",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I wonder what they know",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"I wonder if they ever even cared at all",
+          "rhyme":"ol",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I wonder, do they see their own reflection in the rain",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"And look away?",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFG",
+      "rhyme_vowel":"ABCDDEF"
+    },
+    {
+      "section_id":"section_1",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Everybody keep rushin'",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Why aren't we taking our time?",
+          "rhyme":"ajm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Every now and again, baby, I get high",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_2",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Don't ask me what I think",
+          "rhyme":"ink",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"It never really mattered what I had to say",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I just keep waiting for another open door",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"To come up soon",
+          "rhyme":"un",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Don't keep it all in your head",
+          "rhyme":"Ed",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"The only place that you know nobody ever can see",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"You're running low on regret",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"No tears, that's keeping you wet",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I think you gettin' it now",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFBBG",
+      "rhyme_vowel":"ABCDBABBE"
+    },
+    {
+      "section_id":"section_3",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"But everybody keep rushin'",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Why aren't we taking our time?",
+          "rhyme":"ajm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Every now and again, baby, I get high",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"bridge",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"And everybody means something",
+          "rhyme":"iN",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"When they're stuck on your mind",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"But every now and again, why can't we just be fine?",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Once a day, I rise",
+          "rhyme":"iz",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Once a day, I fall asleep with you",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Once a day, I try but I can't find a single word",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "song_id":251689,
+  "title":"Melvin",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ha-da-da-dum",
+          "rhyme":"um",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Yo, yo, yo, yo, yo, yo, yo",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Cool intro, take one, take two",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Chinese kids playin' in the snow",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABBBC",
+      "rhyme_vowel":"ABBBC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I cordially invite you to performances in Normandy",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"I formally was more of a morally",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Well-rounded human (Human), zoomin' through this industry",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Boomin' with opportune movements, I moved units (Cha-ching)",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"We the new Christ and new Judas (Yeah)",
+          "rhyme":"a",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"Priest when I feast on these beats I'm producin' (Uh-huh)",
+          "rhyme":")",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"This mind that I'm losin', got time that I'm watchin' pass",
+          "rhyme":"as",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"Think you 'bout had it up to here with my obnoxious ass",
+          "rhyme":"as",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"The bottom apple out the rotten batch (Batch)",
+          "rhyme":"atS",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"Your little sister probably kill you for my autograph, pow",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"I tell a bitch sample the misogyny",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"11",
+          "text":"All black Benz, but the inside mahogany (Flex)",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"12",
+          "text":"Comedy, drop bombs, and humbly kill shit",
+          "rhyme":"it",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"13",
+          "text":"You got that one homie you be fuckin' with pills with",
+          "rhyme":"it",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"14",
+          "text":"The illness, medicated natural phosphor",
+          "rhyme":"OR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"15",
+          "text":"Sippin' cold lagers to turn to Kevin Costner",
+          "rhyme":"ER",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"16",
+          "text":"Dip out in a tripped out flyin' saucer",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"17",
+          "text":"Head out to the jungle sippin' ayahuasca",
+          "rhyme":"a",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"18",
+          "text":"Say it's bad luck to go and sit in a casket",
+          "rhyme":"Et",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"19",
+          "text":"So me and my homies, we be spittin' that wack shit only",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"AAAABCDDEFAAGGHIJBKA",
+      "rhyme_vowel":"AAAABCBBBDAAAAEFGBFA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Am I rolling?",
+          "rhyme":"iN",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Would you wash the feet of ugly Jesus when he's coming for your pontoon boat?",
+          "rhyme":"Owt",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Everybody's going to jail this time",
+          "rhyme":"ajm",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    }
+  ]
+}

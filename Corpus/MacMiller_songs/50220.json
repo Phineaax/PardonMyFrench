@@ -1,0 +1,535 @@
+{
+  "song_id":50220,
+  "title":"Love Lost",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Our love was lost)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Hey, hey, haha (Where'd you go? Where'd you—)",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"(But now we've found it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Oh yeah, uh (Where'd you go? Where'd you go? Where'd you go?)",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"(Our love was lost, oh, lost)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Doin' the happy dance (Where'd you—, where'd you go?)",
+          "rhyme":"#s",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"(And hope was gone)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Doin' the happy dance (Where'd you go? Haha)",
+          "rhyme":"#s",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Doin' the happy dance (Haha, yeah)",
+          "rhyme":"#s",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABACADADD",
+      "rhyme_vowel":"ABACADADD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Our love was lost)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Where'd you go? What'd you do?",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"How the hell you make me fall in love with you?",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"(But now we've found it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And then you leave, now you're gone",
+          "rhyme":"on",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"All I got is this damn song",
+          "rhyme":"$g",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"(And if you flash your heart, oh, heart)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I can feel but I can't touch",
+          "rhyme":"uS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"You said my love was a bit too much",
+          "rhyme":"9tS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"(I won't deny it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Broke my heart, can't find no crutch",
+          "rhyme":"itS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"So why don't you come on back home? (Can I spit?)",
+          "rhyme":"om",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCADEAFGAHI",
+      "rhyme_vowel":"ABCABDACEAFB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hey, I'm a fuckin' workaholic with a passion in my heart",
+          "rhyme":"aR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Treatin' rappin' as a art in which ya have to be a part of",
+          "rhyme":"Of",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I just copped a new car to hear it start up",
+          "rhyme":"9p",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Try to do the right thing and please karma",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"All I want to know is where the fuck did ya have to go?",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I've been waitin' on you, baby",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Why don't you leave and come on home?",
+          "rhyme":"om",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I can't be mad, I'm livin' my dream (Goin' all around the globe)",
+          "rhyme":"im",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Though you said you think you love me (You need to let me know)",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"So I've been fuckin' all these hoes and I've been blowin' all this cash",
+          "rhyme":"aS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"'Cause, baby, this just the beginnin' and I'ma make all of it back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFGHIJK",
+      "rhyme_vowel":"ABCADEDEFAA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Our love was lost)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Where'd you go? What'd you do?",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"How the hell you make me fall in love with you?",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"(But now we've found it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And then you leave, now you're gone",
+          "rhyme":"on",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"All I got is this damn song (Hey, hey, hey)",
+          "rhyme":"$g",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"(And if you flash your heart, oh, heart)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I can feel but I can't touch (Hey, hey, hey)",
+          "rhyme":"uS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"You said my love was a bit too much (Hey)",
+          "rhyme":"9tS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"(I won't deny it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Broke my heart, can't find no crutch",
+          "rhyme":"itS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"So why don't you come on back home? (Hey)",
+          "rhyme":"om",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCADEAFGAHI",
+      "rhyme_vowel":"ABCABDACEAFB"
+    },
+    {
+      "section_id":"section_4",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hey, hey, it's all good, everybody tryna eat tonight",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Tryna go to sleep, havin' good dreams tonight",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"You go home, it might get better",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"All I know, it don't last forever",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"So take it while you got it, try to get a little more",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"They say I'm gettin' better than I ever been before",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Well, that's for sure, tell 'em what I do",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Rap keep me fed like a spoon gettin' soup",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I've been out here on the road and now they missin' me at home",
+          "rhyme":"om",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"All these ex-girls that I used to know are hittin' up my phone",
+          "rhyme":"on",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"But I ain't here, I guess you can call back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Sex, drugs, and rock-and-roll, I think I'll take all that, haha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABBCCDEFGHI",
+      "rhyme_vowel":"AABBCCDEDDAA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Our love was lost)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Where'd you go? What'd you do?",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"How the hell you make me fall in love with you?",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"(But now we've found it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And then you leave, now you're gone",
+          "rhyme":"on",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"All I got is this damn song",
+          "rhyme":"$g",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"(And if you flash your heart, oh, heart)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I can feel but I can't touch",
+          "rhyme":"uS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"You said my love was a bit too much",
+          "rhyme":"9tS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"(I won't deny it)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Broke my heart, can't find no crutch",
+          "rhyme":"itS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"So why don't you come on back home?",
+          "rhyme":"om",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCADEAFGAHI",
+      "rhyme_vowel":"ABCABDACEAFB"
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Huh-huh, and it gets no better than this",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Huh, yeah, it gets no better than this",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Yeah, It gets no better, yeah, It gets no better",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Yeah, It gets no better, this shit forever",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Get no better, it get no better",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Yeah, it get no better, yeah, this shit forever",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Bum-bada-bum-bum-bum-bum-bum, ba-dum",
+          "rhyme":"um",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"You can cut it here and then we're done",
+          "rhyme":"On",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBCCCCDE",
+      "rhyme_vowel":"ABBCCCCDE"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "song_id":5579347,
+  "title":"The World Is Mine",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"It's yours",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"The world is ours (Easy Mac)",
+          "rhyme":"uRs",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"The world is yours",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"The world is yours (Yo, yeah)",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"(Welcome to the world of Easy Mac)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCBABABD",
+      "rhyme_vowel":"ABABABABC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Please, things ain't always what they seem to be",
+          "rhyme":"ab",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"'Cause, me, I got dreams to be the greatest MC",
+          "rhyme":"ik",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Muhammad Ali with punchlines that sting like a bee",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"But I float like a butterfly, prove this nation I'm the god",
+          "rhyme":"ud",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"What am I? A coward, only if I run from God? (Yeah)",
+          "rhyme":"ud",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"From the bottom I came, to the top of my game",
+          "rhyme":"Ejm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Rippin' and spittin' licks off the top of the brain (Uh)",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I spit heat, fireman, why you stoppin' my flames?",
+          "rhyme":"am",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Nothin' makes sense, so you can find me shoppin' for change",
+          "rhyme":"#Z",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"It's comin' from Nas, he told us that the world is ours",
+          "rhyme":"uRs",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"I spit SARS, can't talk, gotta lock my jaws",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"I got the Earth in my paws, and the stars in my eyes",
+          "rhyme":"Ej",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDDEFGHIJK",
+      "rhyme_vowel":"ABBCCDEAFCGD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"pre-chorus",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"The sky seems lonely, why don't we get high? (Say what?)",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"The sky seems lonely, why don't we get high? (Say what?)",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"The sky seems lonely 'cause the world is mine",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AAB",
+      "rhyme_vowel":"AAB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"chorus",
+      "performer":", , , ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"The world is yours (It's yours)",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"The world is yours",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"The world is yours (It's yours)",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABABABAA",
+      "rhyme_vowel":"ABABABAA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"See, in the Steel City we don't feel pity on you itsy bitsy",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Gypsies (Nope) that feel pretty chill and heal quickly",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"And we deal midis and anything to get the cheese",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"We also got the haze if you tryna get skeed (Yeah)",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"But if you want the weed, needa talk to me",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"'Cause I be on my grind like some coffee beans (Yeah)",
+          "rhyme":"ins",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"And we hear no evil, see no evil, speak no evil, streets is lethal",
+          "rhyme":"al",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Fiends with needles, lead the people, Nas came first, now read the sequel (Woo)",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Should be illegal, but a legendary, all is secondary",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"More vocabulary than a dictionary (Yeah)",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"I'm a visionary, in time the world will be mine",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Until then, I fill it with rhymes and leave it behind",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Way behind 'til my state of mind is clearer",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Lookin' at the cross hangin' on your rear-view mirror",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"'Cause mankind actin' pure and divine",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"So I proceed to MC 'til the world is mine",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDEFGAAHIBJHH",
+      "rhyme_vowel":"AABACADEAAAFBGAA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"chorus",
+      "performer":", , , ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Yeah, it's mine (It's yours)",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"The world is yours",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"The world is yours",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"It's mine, it's mine, it's mine—whose world is this?",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"It's yours",
+          "rhyme":"uR",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBCBCBC",
+      "rhyme_vowel":"AAABABAB"
+    }
+  ]
+}

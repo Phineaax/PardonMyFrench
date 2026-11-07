@@ -1,0 +1,472 @@
+{
+  "song_id":1894,
+  "title":"On Some Real Shit (100,000 Bars)",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I know you gotta feel this",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I'm on some real shit, I'm on some real shit, I'm on some real shit",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I know you gotta feel this",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I'm on some real shit, I'm on some real shit, I'm on some real shit",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"(Let's go) Check it out",
+          "rhyme":"awt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I'm on some real shit (One time), I'm on some real shit (One time), I'm on some real shit",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"I know you gotta feel this (Your boy Mac)",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I'm on some real shit, I'm on some real shit, I'm on some real shit",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"(And let's go)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABABCBABD",
+      "rhyme_vowel":"AAAABAAAC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I pull my hoodie down and take a look around",
+          "rhyme":"awnd",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Sounds that shook a town, man, it feel good to smile",
+          "rhyme":"ajl",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"So I shouldn't frown when the night is lookin' down",
+          "rhyme":"awn",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Mirror, mirror on the wall, who the smoothest crook around?",
+          "rhyme":"awnd",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Takin' some dollars and makin' away from Impalas",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Shakin' the Jakes 'cause they chasin' the face of a robber",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Actin' goofy, absolutely",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"'Cause my passion suits me, so blast the tunes, please",
+          "rhyme":"iz",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I see the world with four eyes, hip-hop tour guide Hear the war cries, rap or die",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Wanna get signed, drive a four-door ride",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Be more fly, 'til then I'll just soar by with a wave",
+          "rhyme":"ejv",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"I'm a bat in the cave",
+          "rhyme":"av",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Sit back in the shade when I'm passin' the haze",
+          "rhyme":"az",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Misbehave, I'm a trouble-makin' teenager",
+          "rhyme":"9R",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Beat reaper who eats paper to please haters",
+          "rhyme":"9R",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Seat taker, three-term mayor",
+          "rhyme":"OR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Gettin' re-elected just three terms later, uh",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"I've seen greater days, so let the haters play their game",
+          "rhyme":"Ejm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"Dreams fade away when you make the predator the prey",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"The ace of spades can make it's way to save the day",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"But from the start a club of heart was diamond",
+          "rhyme":"$",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"21",
+          "text":"Now I'm in Zion flyin' through the skyline",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"22",
+          "text":"The game on my back, I got five spines",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"23",
+          "text":"Black cat with nine lives, time flies by",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"24",
+          "text":"So I got one life to lose it, but how will I use it? Uh",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"25",
+          "text":"I put it all in the music, 'cause y'all pussy",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"26",
+          "text":"Fold away before they hand you cards",
+          "rhyme":"aR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"27",
+          "text":"Broke-ass rapper, now you dancin' with the stars",
+          "rhyme":"aR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"28",
+          "text":"I'm handlin' these bars like a simple situation",
+          "rhyme":"$",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"29",
+          "text":"Bassin' on them cats who don't fit in the equation",
+          "rhyme":"$",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"30",
+          "text":"Patience is a virtue, but fuck it, I want it now",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"31",
+          "text":"Get my record deal ready, get Diddy up on the dial",
+          "rhyme":"al",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"32",
+          "text":"Hello, what's up, Puffy? I'm on my grind and hungry",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"33",
+          "text":"Throw me to the people, they gon' love me, trust me, ha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"34",
+          "text":"'Cause these older cats is gettin' a little rusty",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"35",
+          "text":"It's time for a change like Barack said",
+          "rhyme":"Ed",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"36",
+          "text":"And I don't care, hip-hop is not dead",
+          "rhyme":"Ed",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"37",
+          "text":"Spit hot lead, but none of these haters get shot dead",
+          "rhyme":"Ed",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"38",
+          "text":"They don't bother me, I'll even play 'em for my wife",
+          "rhyme":"ajf",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"39",
+          "text":"Kick back, have a laugh while you complain about your life",
+          "rhyme":"ajf",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"40",
+          "text":"Grr, you hate Mac and you say you gon' fight",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"41",
+          "text":"It's all good, bro, you entertainment for tonight",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"42",
+          "text":"Like I'ma be mad you hatin' 'cause I'm white",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"43",
+          "text":"Do a lot of cryin', lettin' pain out on the mic",
+          "rhyme":"ik",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"44",
+          "text":"'Cause overall I'm iller than most of y'all, y'all pussy",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"45",
+          "text":"Never ever goin' for it all, you scared of a little risky coachin' call",
+          "rhyme":"ol",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"46",
+          "text":"What happened? I thought you was a know-it-all?",
+          "rhyme":"ol",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"47",
+          "text":"I stay smokin' well, haze got a potent smell",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"48",
+          "text":"It take me back to kickin' raps back in show-and-tell",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"49",
+          "text":"I wanted to show people, all of my bro's peoples",
+          "rhyme":"ipl",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"50",
+          "text":"Have a dude come up like, \"Yo, I know people\"",
+          "rhyme":"9l",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"51",
+          "text":"The need for Dead Presidents, this dough evil",
+          "rhyme":"il",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"52",
+          "text":"So lethal, police'll always try to beat you",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"53",
+          "text":"Seat you down, try and have you run your mouth",
+          "rhyme":"ut",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"54",
+          "text":"Bring your mother out, \"Look what your son is now,\" haha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"55",
+          "text":"See, my mom, she know her son is well",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"56",
+          "text":"The youngest child, she been through it for a while",
+          "rhyme":"il",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"57",
+          "text":"9-1-1 on the dial with a smile",
+          "rhyme":"ajl",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"58",
+          "text":"'Cause I'm wild, foul child style, haha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"59",
+          "text":"Too focused on my grind to ever catch an \"F\"",
+          "rhyme":"Ef",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"60",
+          "text":"My heart in it, down eight with five seconds left",
+          "rhyme":"aft",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"61",
+          "text":"I want the best, won't settle for nothin' less",
+          "rhyme":"Es",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"62",
+          "text":"And I always stay dressed in somethin' fresh",
+          "rhyme":"aS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"63",
+          "text":"So keep your head on straight and show respect to the game",
+          "rhyme":"Ejm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"64",
+          "text":"And that's what this beat messaged my brain",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCADEFGFHIJKLLMNOPPQRRFNFSSQQTUFDFVVVWWXXYZF[[\\\\]^_N`D\\_BDabcdOe",
+      "rhyme_vowel":"AAAAABCCCCBAADDEFGGGHCCCFCAAHHIACACGGGAAAACCCIIGGCDCFFAGCAAGAGAGJ"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "song_id":251705,
+  "title":"Labido",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"This man TreeJay on the boards",
+          "rhyme":"ORd",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Yeah, Delusional Thomas, yeah",
+          "rhyme":"E",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I'm a motherfuckin' god, I swear",
+          "rhyme":"ER",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Everybody gonna die soon, I'll meet you guys there",
+          "rhyme":"eR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Somewhere in the afterlife imagined by the livin'",
+          "rhyme":")",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"All my brothers sinnin', I just pray they all forgiven",
+          "rhyme":")",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"But as for me, I'll take my consequence in stride",
+          "rhyme":"id",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"I got way too much pride to be along just for the ride",
+          "rhyme":"id",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"I'm way too high to go to Hell, I'll be somewhere in between her",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"Look beyond horizons where the grass is always greener, uh",
+          "rhyme":"u",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"Get lunch at the strip club",
+          "rhyme":"9b",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"Bitch complainin', always sayin' I don't tip enough",
+          "rhyme":"O",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"I already blew my son's college fund down at the casino",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"11",
+          "text":"Bettin' on Pitino's boys, I lost by a free throw",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"12",
+          "text":"Hella weed smoke, me and my amigos",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"13",
+          "text":"Stackin' C-notes, prayin' like Tim Tebow",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"14",
+          "text":"I'm a has-been, word to Uncle Rico",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"15",
+          "text":"Keep on smashin' these freak hoes, high off libido",
+          "rhyme":"o",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCCDDEFGHIIIIII",
+      "rhyme_vowel":"ABCCDDBEFGHHHHHH"
+    },
+    {
+      "section_id":"section_2",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I couldn't kill myself if I tried",
+          "rhyme":"e",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"1",
+          "text":"Suicide doors on my ride, comin' down the 105 backwards",
+          "rhyme":"aR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"2",
+          "text":"Wonder if Heaven got a password",
+          "rhyme":"OR",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"3",
+          "text":"Playin' Sega Saturn, I ball like Jamal Mashburn",
+          "rhyme":"9Rn",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"4",
+          "text":"Mm, still we fastin' on the holidays",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"5",
+          "text":"Nut inside a bitch's mouth, tell her that it's hollandaise",
+          "rhyme":"Ez",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"6",
+          "text":"Sauce, Star of David and a cross",
+          "rhyme":"Os",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"7",
+          "text":"Garage door closed, tryna inhale exhaust",
+          "rhyme":"9st",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"8",
+          "text":"Exhausted, better call the cops quick",
+          "rhyme":"ik",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"9",
+          "text":"'Cause I'm by myself, goin' crazy in a moshpit",
+          "rhyme":"i",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"10",
+          "text":"Left hook, right hook, uppercut",
+          "rhyme":"yt",
+          "persona":"Delusional_Thomas"
+        },
+        {
+          "n":"11",
+          "text":"God and the Devil playin' double-dutch",
+          "rhyme":"itS",
+          "persona":"Delusional_Thomas"
+        }
+      ],
+      "rhyme":"ABCDEFGHIEJK",
+      "rhyme_vowel":"ABCDEFCDEEGE"
+    }
+  ]
+}

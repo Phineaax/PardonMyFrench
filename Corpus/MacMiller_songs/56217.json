@@ -1,0 +1,475 @@
+{
+  "song_id":56217,
+  "title":"Sound Like",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"DJ CapCom is about to fuck up hip-hop with this joint",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"(Damn straight)",
+          "rhyme":null,
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"So all you haters out there, get back",
+          "rhyme":"ak",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"This is a DJ Haze exclusive",
+          "rhyme":"iv",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCD",
+      "rhyme_vowel":"ABCD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayo Mac, what it is?",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"We wanna know what you sound like, kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"So what you sound like? Who you sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"How you sound like? Why you sound like that?",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Ayo Mac, what it is?",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"We wanna know what you sound like, kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"So what you sound like? Who you sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"How you sound like? Why you sound like that?",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDABCD",
+      "rhyme_vowel":"ABACABAC"
+    },
+    {
+      "section_id":"section_2",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I sound like old (What?), I sound like new (Uh-huh)",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I sound like me and I sound like you",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I sound like yes, I sound like fresh (Fresh)",
+          "rhyme":"aS",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I sound like a bird first flyin' out the nest (Ha-ha)",
+          "rhyme":"Est",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"I sound like rap, I sound like rock (Uh)",
+          "rhyme":"Ok",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I sound like every single type of hip-hop",
+          "rhyme":"Op",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"I sound like pain, I sound like fame (Fame)",
+          "rhyme":"am",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I sound like water and I sound like flame (Flame)",
+          "rhyme":"am",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I sound like cash, you sound like change (Cha-ching)",
+          "rhyme":"#Z",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"I sound like style, and I sound like bang (Bang)",
+          "rhyme":"#g",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Sound like trash, sound like ecstasy",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Sound like a harmony on a melody",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"To determine what I sound like, please come listen (Come listen)",
+          "rhyme":"En",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"This ain't no ordinary white boy spittin' (Boy spittin')",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Mac Miller, here to give you sound bytes (What?)",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"So why do people wanna know what I sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AABCDEFFGHIIJKLM",
+      "rhyme_vowel":"AABCDDBBEEFFCGFC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayo Mac, what it is?",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"We wanna know what you sound like, kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"So what you sound like? Who you sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"How you sound like? Why you sound like that?",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Ayo Mac, what it is?",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"We wanna know what you sound like, kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"So what you sound like? Who you sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"How you sound like? Why you sound like that?",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDABCD",
+      "rhyme_vowel":"ABACABAC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I sound like death (Death), I sound like life (Life)",
+          "rhyme":"ajf",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"'Cause good things don't come around twice (Uh-huh)",
+          "rhyme":"is",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I sound like feathers and I sound like steel",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Yeah, I sound like real",
+          "rhyme":"il",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Sound like the next dude up to get a deal (That's me)",
+          "rhyme":"il",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Sound hungry like I never had a meal",
+          "rhyme":"il",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Sound like Heaven, sound like Hell (Hell)",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"And it sound a lot better than it smell (Haha)",
+          "rhyme":"El",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"And it taste a lot better than it look like (Look like)",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"So, I'ma make sure it cook right",
+          "rhyme":"ajt",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Sound like Diddy vs. Suge Knight, sound like heat (Heat)",
+          "rhyme":"at",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Sound like the suburbs, sound like the streets (Yup)",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Sound like a bomb, sound like boom!",
+          "rhyme":"um",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Sound like a kid writin' raps in his room (Room)",
+          "rhyme":"um",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Don't sound like your everyday rap cat spittin'",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"You wanna know what I sound like? Listen",
+          "rhyme":"En",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDDDCCEFGHIIJK",
+      "rhyme_vowel":"ABCBBBCCCAABDDEC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayo Mac, what it is?",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"We wanna know what you sound like, kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"So what you sound like? Who you sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"How you sound like? Why you sound like that?",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Ayo Mac, what it is?",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"We wanna know what you sound like, kid",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"So what you sound like? Who you sound like?",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"How you sound like? Why you sound like that?",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDABCD",
+      "rhyme_vowel":"ABACABAC"
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"These motherfuckers know how I sound",
+          "rhyme":"awnd",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I sound like fresh, I sound like the new",
+          "rhyme":"u",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I sound like the motherfuckin' future",
+          "rhyme":"yR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"So if you ain't listenin', then don't ask me what I sound like",
+          "rhyme":"Ejk",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"But if you know, then you closer to the future",
+          "rhyme":"yR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Mac Miller, East End Empire",
+          "rhyme":"iR",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Sounds right, ha-ha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDCEF",
+      "rhyme_vowel":"ABCDCEA"
+    }
+  ]
+}

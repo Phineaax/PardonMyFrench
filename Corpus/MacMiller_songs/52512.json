@@ -1,0 +1,361 @@
+{
+  "song_id":52512,
+  "title":"Just a Kid",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"They either hate or they on your side",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Fuck it, we ridin' (Fuck it, we ridin')",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Playin' games just to ease your mind",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Damn, I'm high (Damn, I'm high)",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And I know (I know) that they (That they) never understand",
+          "rhyme":"#d",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"'Cause I'm just (I'm just) a kid (A kid), but they tell me I'm the man",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"(Hey, hey) Hey",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDECF",
+      "rhyme_vowel":"ABCDCCD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I be goofy, kind of funny, actin' stupid, but they love me",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"We don't do it for the money, just some food up in my tummy",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Feelin' cool, livin' great, in the mood, tryna sway",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Ice cubes in my drink, never doin' what they say",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"They some losers full of hate, the nuisance gettin' cake",
+          "rhyme":"Ek",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"What I'm doin' every day probably ruin all your game",
+          "rhyme":"Ejm",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Got some brand new clothes, fresh, right out the package",
+          "rhyme":"aZ",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"The moon lookin' like I could reach right up and grab it",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"So close to the sky, I'm high",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Was a youngin who would hope to be fly, oh my",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"God, now I'm everywhere with my squad",
+          "rhyme":"ad",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"When I spit a rhyme, they applaud",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"And I say, \"Thank you, thank you, you're far too kind\" (Too kind)",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"You heard everybody's music, but wait 'til you hear mine (Mine)",
+          "rhyme":"in",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFGHIBJKLM",
+      "rhyme_vowel":"ABCDDDEBDBEFGB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"They either hate or they on your side",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Fuck it, we ridin' (Fuck it, we ridin')",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Playin' games just to ease your mind",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Damn, I'm high (Damn, I'm high)",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And I know (I know) that they (That they) never understand",
+          "rhyme":"#d",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"'Cause I'm just (I'm just) a kid (A kid), but they tell me I'm the man",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"(Hey) Hey",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDECF",
+      "rhyme_vowel":"ABCDCCD"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"If you know me, you ain't hatin', listen, homie, I've been waitin'",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"For a golden opportunity to know that I'ma make it",
+          "rhyme":"it",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Where I'm goin', I could take it, went from flowin' in the basement",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"To shows in all stages, on the road to different places",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Got they thumbs in the air, smile on they faces",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Fans with gray hair and fans rockin' braces",
+          "rhyme":"as",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Fans who be buyin' me drinks to get me wasted",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Groupie hoes, thirsty as hell and wanna taste it, heh",
+          "rhyme":"e",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"See, this life even shocks me",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"I got some people on my nuts, call 'em jockey, haha",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"And I ain't even gettin' cocky",
+          "rhyme":"i",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"But if you hatin', I'ma tell you this, watch me",
+          "rhyme":"@",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"'Bout to do somethin' amazin', bro",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"World changin', my brain got a gang of flows",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"And this for those who always came to shows",
+          "rhyme":"o",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"And who are still by my side with no bank to blow, woah",
+          "rhyme":"a",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDDDEEFGHFIIIG",
+      "rhyme_vowel":"ABCDDDEEFDBFGGGD"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"They either hate or they on your side",
+          "rhyme":"id",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Fuck it, we ridin' (Fuck it, we ridin')",
+          "rhyme":")",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Playin' games just to ease your mind",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Damn, I'm high (Damn, I'm high)",
+          "rhyme":"Eg",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And I know (I know) that they (That they) never understand",
+          "rhyme":"#d",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"'Cause I'm just (I'm just) a kid (A kid), but they tell me I'm the man",
+          "rhyme":"#",
+          "persona":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Hey",
+          "rhyme":"E",
+          "persona":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDECF",
+      "rhyme_vowel":"ABCDCCD"
+    }
+  ]
+}
