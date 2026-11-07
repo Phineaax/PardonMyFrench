@@ -15,19 +15,19 @@
           "n":"0",
           "text":"Yeah, yah",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Yeah, yeah, yeah, yeah",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Yeah (Yeah), um",
           "rhyme":"Om",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABC",
@@ -42,103 +42,103 @@
           "n":"0",
           "text":"On Fourth Street, the orphan children play on the jungle gym",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Little Timmy broke his arm again on the monkey bars",
           "rhyme":"aR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Johnny's dad got a nicer car than all the other kids",
           "rhyme":"id",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"He becomes the alpha and picks on everybody else",
           "rhyme":"yls",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Max protects Claire from all the bullies",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Claire always wish she was as pretty as Julie",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"The boys always chase Julie around the sandbox",
           "rhyme":"Oks",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Claire just waits ’til she gets picked up by her grandpa",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"All of this before the brainwash starts",
           "rhyme":"aR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"Before they get polluted, start thinkin' like adults",
           "rhyme":"Olt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"Life is fantasy and somersaults then",
           "rhyme":"En",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"Before the world tear apart imagination",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"Before there were rules, before there were limits",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"Your only enemies were (Br-Brussels sprouts and spinach)",
           "rhyme":"eR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"Me, I used to want to be a wizard, when did life get so serious?",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"Whatever happened to apple juice and cartwheels?",
           "rhyme":"El",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"16",
           "text":"Whatever happened to apple juice and cartwheels?",
           "rhyme":"El",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEEFGBHIJEKLMM",
@@ -153,37 +153,37 @@
           "n":"0",
           "text":"Abracadabra",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Abracadabra",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Abra-cadabra (Hahaha)",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Abracadabra!",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Vadacadous!",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Excelsior!",
           "rhyme":"OR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"AAAABC",

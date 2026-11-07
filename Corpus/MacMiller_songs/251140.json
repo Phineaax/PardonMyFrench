@@ -15,25 +15,25 @@
           "n":"0",
           "text":"*Children laughing*",
           "rhyme":"iN",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"1",
           "text":"*Gunshots*",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"2",
           "text":"Yo-yo-yo",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"3",
           "text":"Yo, yo",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         }
       ],
       "rhyme":"ABBB",
@@ -48,139 +48,139 @@
           "n":"0",
           "text":"I'm sicker than a biohazard psychopathic murderer",
           "rhyme":"e",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"1",
           "text":"Speak to Jews in German words, I go to church with burglars",
           "rhyme":"aR",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"2",
           "text":"Further further, world of the undead, blunt to the head",
           "rhyme":"Ed",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"3",
           "text":"Fuck feds, I eat a pussy 'til my tongue red",
           "rhyme":"e",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"4",
           "text":"Period, or redder than it is already, serious",
           "rhyme":"u",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"5",
           "text":"But they laugh and read at my obituary",
           "rhyme":"i",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"6",
           "text":"He's clinically braindead",
           "rhyme":"Ed",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"7",
           "text":"Load up a semi-automatic, start aimin' for these saints' heads",
           "rhyme":"Ed",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"8",
           "text":"I'm pure evil",
           "rhyme":"il",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"9",
           "text":"This a rogue world with more AIDS and more needles",
           "rhyme":"abl",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"10",
           "text":"I cure people from starvation when I forcefeed you",
           "rhyme":"u",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"11",
           "text":"Illuminati party, I'm gettin' sworn in",
           "rhyme":"in",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"12",
           "text":"Tattoos of baby Jesus burned in my foreskin",
           "rhyme":"in",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"13",
           "text":"I fuck with God",
           "rhyme":"ud",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"14",
           "text":"The world treat me like the underdog",
           "rhyme":"Og",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"15",
           "text":"Bitch-ass rappers, all they do is hug a lot",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"16",
           "text":"But fuck love, put a gun to my head and pull it",
           "rhyme":"it",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"17",
           "text":"Just to show you that I'm not defeated by a bullet",
           "rhyme":"E",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"18",
           "text":"*Gunshot*",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"19",
           "text":"My soul live forever full of addictive pleasures",
           "rhyme":"yR",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"20",
           "text":"Chivalry, Satan conversation from the ministry",
           "rhyme":"i",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"21",
           "text":"Army of fans like a hundred million mini-me's",
           "rhyme":"ins",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"22",
           "text":"Take 'em to the top of the mountain, have 'em drink the punch",
           "rhyme":"$S",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         }
       ],
       "rhyme":"ABCADECCFGDHHIJKLMKNEOP",
@@ -195,13 +195,13 @@
           "n":"0",
           "text":"Mmm, watch the bodies drop",
           "rhyme":"Op",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"1",
           "text":"Yo-yo-yo-yo, yo",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         }
       ],
       "rhyme":"AB",
@@ -216,91 +216,91 @@
           "n":"0",
           "text":"I shoot you with a bow and arrow just to watch you die slow",
           "rhyme":"o",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"1",
           "text":"My eyes glow, hues from the times of the Mayans",
           "rhyme":"#",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"2",
           "text":"Sniff lines of coke until my septum start fryin' and my face melt",
           "rhyme":"Olt",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"3",
           "text":"Get some road head, wearin' a safe-belt",
           "rhyme":"Olt",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"4",
           "text":"Body full of hate cells, all this shit is science",
           "rhyme":"#s",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"5",
           "text":"Went to Zion just to talk to God and form alliance",
           "rhyme":"#s",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"6",
           "text":"It's best to know your enemies better than they know themselves",
           "rhyme":"alv",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"7",
           "text":"Read the Bible overwhelmed, knowin' I'ma go to hell",
           "rhyme":"El",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"8",
           "text":"Chivalry, same conversation with the ministry",
           "rhyme":"i",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"9",
           "text":"Tell God the world he gifted me is full of misery",
           "rhyme":"i",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"10",
           "text":"These sharp needles in the veins of dark people",
           "rhyme":"9l",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"11",
           "text":"That's the harsh evil, all these snakes, rats, and weasels",
           "rhyme":"El",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"12",
           "text":"Who are waitin' for us all to die, just to see who qualifies",
           "rhyme":"i",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"13",
           "text":"To watch the choir harmonize",
           "rhyme":"Ez",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         },
         {
           "n":"14",
           "text":"It all is lies",
           "rhyme":"i",
-          "persona":"Delusional_Thomas"
+          "persona_id":"Delusional_Thomas"
         }
       ],
       "rhyme":"ABCCDDEFGGHFGIG",

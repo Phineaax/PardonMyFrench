@@ -15,31 +15,31 @@
           "n":"0",
           "text":"Hey, hey, hey",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"(9th Wonder) Hi, hey, hey, hey",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"92 'til infinity and beyond (Hey)",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"And on (I hear it's like), and on (I hear it's kinda like)",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"And on (I hear it's kinda like), and on (I hear it—)",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"AABBB",
@@ -54,97 +54,97 @@
           "n":"0",
           "text":"Hey, I heard they got nice cars up in Heaven",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Free liquor out the bar and the brightest fuckin' stars up in Heaven",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Heard that you can chill, not worry 'bout the police",
           "rhyme":"is",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Not worry 'bout someone fightin' 'cause everything just at peace",
           "rhyme":"as",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Heard the streets paved with gold, the women all gorgeous",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"You just float, can't even feel where the floor is",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"I heard Heaven got a brand new venue",
           "rhyme":"y",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Next to that restaurant, you love their menu",
           "rhyme":"y",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"And everything free, so everyone cool",
           "rhyme":"ul",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"Look out any window, it's an incredible view",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"Everyone you speak to always tellin' you the truth",
           "rhyme":"yt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"And it's only good shit when you gettin' all your news",
           "rhyme":"uz",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"Ooh, I imagine that",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"Just a place that we can kick it, be happy at",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"Satisfaction or maybe I'm dreamin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"Tell you what it's like when I see it",
           "rhyme":"it",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"AABCDEFFGDHIJJAK",
@@ -159,49 +159,49 @@
           "n":"0",
           "text":"If you hear what Heaven's like, can you tell me?",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Please, I'm really tryin' to know",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"'Cause I do what I do, when it's all said and done",
           "rhyme":"On",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Shit, I'm just tryin' to go",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"If you hear what Heaven's like, could you tell me?",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Please, I'm really tryin' to know",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"'Cause I do what I do, when it's all said and done",
           "rhyme":"On",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Shit, I'm just tryin' to go",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCBABCB",
@@ -216,67 +216,67 @@
           "n":"0",
           "text":"I heard ain't nobody famous up in Heaven, everybody the same",
           "rhyme":"am",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Just kick it up there in Heaven 'cause nobody goin' change",
           "rhyme":"#Z",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Nobody can complain, the parties are all insane",
           "rhyme":"an",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"The people all know your name, shit, you entertain",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"See everybody you want, always keepin' in touch",
           "rhyme":"uS",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"And go and chill by yourself when everything get too much",
           "rhyme":"9tS",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"Never a fuckin' rush, you there for a million plus",
           "rhyme":"ys",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"You probably got a Mercedes, but always could take the bus",
           "rhyme":"ys",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"So fuck, that's what Heaven's like, I guess I think it is",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"But come to think of it, I've been drinkin', shit, I don't know the truth",
           "rhyme":"yt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"This is what I imagined when I was standin' in the booth, haha",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEFGGHIJ",
@@ -291,49 +291,49 @@
           "n":"0",
           "text":"If you hear what Heaven's like, can you tell me?",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Please, I'm really tryin' to know",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"'Cause I do what I do, when it's all said and done",
           "rhyme":"On",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Shit, I'm just tryin' to go",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"If you hear what Heaven's like, could you tell me?",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Please, I'm really tryin' to know",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"'Cause I do what I do, when it's all said and done",
           "rhyme":"On",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Shit, I'm just tryin' to go",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCBABCB",
@@ -348,7 +348,7 @@
           "n":"0",
           "text":"Fuck you",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"A",

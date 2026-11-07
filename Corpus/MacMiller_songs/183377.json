@@ -15,61 +15,61 @@
           "n":"0",
           "text":"Yo",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"You have now reached the back of The High Life (Aha)",
           "rhyme":"ajf",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Thanks for comin' out (Comin' out)",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"I've been your host, Mac Miller (What?)",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Been great spendin' the evenin' with you (What? What?)",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Let's ride out (Ride out; Ayo, Jerm, make sure they feel this)",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"For one last time (Big)",
           "rhyme":"ajm",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"East End Empire (What?)",
           "rhyme":"iR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"DJ Shef (What's good? Light it up)",
           "rhyme":"Ef",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"Let's get it",
           "rhyme":"it",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDECFGHI",
@@ -84,49 +84,49 @@
           "n":"0",
           "text":"So lay back in your seat (What?), with your feet up on your couch (Uh-huh)",
           "rhyme":"uS",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Thanks for comin' out (What?)",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"It's been good (Been good), it's been great (Been great)",
           "rhyme":"at",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"See you later (Later)",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Time's runnin' out (Out), and y'all know what I'm about",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Thanks for comin' out",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"It's been good (It's been good), it's been great (It's been great)",
           "rhyme":"at",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"See you later (Aha)",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEBCD",
@@ -141,115 +141,115 @@
           "n":"0",
           "text":"Uh",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"So it's the end of the tape, the last page (Last page)",
           "rhyme":"aZ",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Hoes backstage, party like my last day (Last day)",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Matter fact, bitch, I ain't even half-way finished (Nah)",
           "rhyme":"Ed",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Y'all fragile, held up in your glass case (Bitch)",
           "rhyme":"az",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Your grind sleepy like that foreign dude runnin' the Rat Race (Haha)",
           "rhyme":"as",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"Ass face, all your music nothin' but bad taste",
           "rhyme":"ast",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"I murder beats, you can ask Ma$e, homie",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"My shit I drop stinkier than trash day (Trash day)",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"I ain't gotta change shit, I'm so dangerous (Uh-huh)",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"And my style like a smile, so contagious",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"Bitches givin' me they hearts",
           "rhyme":"aR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"So consistent, never smart",
           "rhyme":"aRt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"'Cause they always beggin' me not to break it (Break it)",
           "rhyme":"it",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"And I'ma make it (Make it)",
           "rhyme":"it",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"I'm somethin' you don't really see often",
           "rhyme":"En",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"16",
           "text":"Gonna be the greatest and that just ain't just the weed talkin' (Nah)",
           "rhyme":"in",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"17",
           "text":"I tell these people, \"Give me a clue\"",
           "rhyme":"y",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"18",
           "text":"'Cause the boy be chasin' honeys like Winnie-the-Pooh (Aha)",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEFGHCAAIJKKLMNO",
@@ -264,49 +264,49 @@
           "n":"0",
           "text":"So lay back in your seat (What?), with your feet up on your couch (Okay)",
           "rhyme":"uS",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Thanks for comin' out (Uh-huh)",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"It's been good (It's been good), it's been great (It's been great)",
           "rhyme":"at",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"See you later (See you later)",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Time's runnin' out (Haha), and y'all know what I'm about",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Thanks for comin' out (Yep)",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"It's been good (It's been good), it's been great (It's been great)",
           "rhyme":"at",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"See you later",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEBCD",
@@ -321,103 +321,103 @@
           "n":"0",
           "text":"Uh",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Raindrops fallin' on my brain (Brain)",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Stayin' on track like I'm followin' a train (Train)",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"And I'm grindin' like your teeth when you angry (Haha)",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Go 'head, cry yourself to sleep, you a baby (Yep)",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Just a bum, gotta hand you some change",
           "rhyme":"#Z",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"Too smart, y'all can call me Andy Dufresne (Aha)",
           "rhyme":"En",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Still got a inbox full of textin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"Hoes tell me that I make a great first impression (What's up?)",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"Never stick around, so they never learn they lesson",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"Hit it, then I'm Nick Cage, gone in sixty seconds (Yep)",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"But you already know that, pimpin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"Fish outta water, need to go back swimmin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"They trippin', every time I roll in, they dippin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"'Cause my style dope, call me Homer Simpson",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"In the sky like Santa, I'm fly (What?)",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"16",
           "text":"You a loser, Meg Griffin on Family Guy, aha (What? What? What?)",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABBCCDEBFFFBBBFCG",
@@ -432,37 +432,37 @@
           "n":"0",
           "text":"So lay back in your seat, with your feet up on your couch",
           "rhyme":"uS",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Thanks for comin' out",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"It's been good, it's been great, see you later",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Time's runnin' out, and y'all know what I'm about",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Thanks for comin' out",
           "rhyme":"awt",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"It's been good, it's been great, see you later",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDBC",
@@ -477,235 +477,235 @@
           "n":"0",
           "text":"Yo (Aha)",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Thank y'all (Yep)",
           "rhyme":"ol",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"I appreciate your support",
           "rhyme":"OR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"For real, Mac Miller (Mac Miller)",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"This has been The High Life (The High Life)",
           "rhyme":"ajf",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Ayo (What?)",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"Q Cuff",
           "rhyme":"9f",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"TreeJay",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"Big Will",
           "rhyme":"il",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"Big Jerm",
           "rhyme":"ERm",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"Bill The Kid",
           "rhyme":"id",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"Tip Tha Ill-Spit (Yep)",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"Beedie (Yep)",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"Franchise (Yep)",
           "rhyme":"iz",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"Vintage (Yep)",
           "rhyme":"aZ",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"GhostWriter (Yep)",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"16",
           "text":"JFK (Haha)",
           "rhyme":"ik",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"17",
           "text":"I got all y'all, man (Yep)",
           "rhyme":"#",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"18",
           "text":"John Record (Yep)",
           "rhyme":"OR",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"19",
           "text":"I see you",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"20",
           "text":"Fab 5",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"21",
           "text":"Uh, Gary Sheffield, haha",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"22",
           "text":"Boe Banks",
           "rhyme":"#k",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"23",
           "text":"Mom, Dad, my brother ($weet Jame$)",
           "rhyme":"ER",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"24",
           "text":"Uh, Obama",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"25",
           "text":"Tom Hanks",
           "rhyme":"#k",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"26",
           "text":"Dru-Tang",
           "rhyme":"#g",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"27",
           "text":"Eddie Harris",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"28",
           "text":"Um, Taylor Allderdice",
           "rhyme":"is",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"29",
           "text":"Benjy",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"30",
           "text":"Artie",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"31",
           "text":"Josh",
           "rhyme":"oS",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"32",
           "text":"Jenesis Magazine",
           "rhyme":"in",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"33",
           "text":"ID Labs",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"34",
           "text":"And all y'all man",
           "rhyme":"#",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"35",
           "text":"Thanks for listenin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"36",
           "text":"Lettin' me do what I do",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"37",
           "text":"You just lived the high life",
           "rhyme":"ajf",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"38",
           "text":"Aha",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEAFGHIJKKLMDNOCPQRSTRSUKVKKWXQOYAER",

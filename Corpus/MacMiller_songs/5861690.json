@@ -15,49 +15,49 @@
           "n":"0",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"'Cause I'ma be okay",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"'Cause I'ma be okay",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDABCD",
@@ -72,145 +72,145 @@
           "n":"0",
           "text":"I used to have a dream, now it seem that I'ma live it in real life",
           "rhyme":"ajf",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Gettin' free jeans, good weed, feelin' real nice",
           "rhyme":"is",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Used to think that I was too short or too dumb",
           "rhyme":"$",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Just a newcomer to the game tryna do somethin'",
           "rhyme":"in",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Used to runnin' after ice cream trucks",
           "rhyme":"yk",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"But now I just stroll, lacе my Nikes up",
           "rhyme":"9p",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"I'm a nice, clean cut, good lookin' individual",
           "rhyme":"al",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Fillin' up a notebook with rhymes when I be in the school",
           "rhyme":"ul",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"Learn quick that nobody here invincible",
           "rhyme":"ibl",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"We feel big, but in reality, we minuscule",
           "rhyme":"yl",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"Try and make a million bucks before I reach my pinnacle",
           "rhyme":"akl",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"Supernova status from basically invisible",
           "rhyme":"ibl",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"Growin' up thinkin' it was cool to be a criminal",
           "rhyme":"al",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"Until I saw a couple homies go down",
           "rhyme":"awn",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"See, now that isn't me or anything I'm finna be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"I want the money, cars, hoes, clothes, a kid can dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"16",
           "text":"I used to talk to girls that wasn't even into me",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"17",
           "text":"Now they hit me up wantin' intimacy",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"18",
           "text":"But nah, I got a girl and she down for me",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"19",
           "text":"My little Juliet chillin' on the balcony",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"20",
           "text":"If I need it, she gon' run a hundred miles for me",
           "rhyme":"@",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"21",
           "text":"Love me for me, not who I'm 'bout to be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"22",
           "text":"And if they didn't believe, then I can do without 'em",
           "rhyme":"Em",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"23",
           "text":"'Cause at the end of the day I'm just Malcolm",
           "rhyme":"ilm",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEFGHIJKIGLMNOPOPOMQR",
@@ -225,49 +225,49 @@
           "n":"0",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"'Cause I'ma be okay",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\" (Yeah)",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"'Cause I'ma be okay (Hey, hey)",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDABCD",
@@ -282,145 +282,145 @@
           "n":"0",
           "text":"Just a little snotty nose tryna find his pot of gold",
           "rhyme":"Old",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Stayin' up late on the phone, always callin' hoes",
           "rhyme":"is",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Never thought I'd blow, no one took me serious",
           "rhyme":"u",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"Now they see me walkin' down the street like, \"Oh, there he is\"",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"As a kid, anything was possible",
           "rhyme":"ibl",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"But mama knows the hottest flow don't put me on the honor roll",
           "rhyme":"Ol",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"Grades started slippin', the classes I be skippin'",
           "rhyme":")",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"Tried to tell me that I was a fool, I wouldn't listen, no",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"8",
           "text":"As a youngin' I was playin' pretend",
           "rhyme":"#",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"9",
           "text":"My wonder years, never woulda thought they could end",
           "rhyme":"End",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"10",
           "text":"Back, back in my glory days, way before the haze",
           "rhyme":"az",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"11",
           "text":"A good night sleep had me energized for the day",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"12",
           "text":"When I would look up at the planets in they orbit",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"13",
           "text":"Before this life got distorted",
           "rhyme":"e",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"14",
           "text":"Before the money was a plan",
           "rhyme":"#",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"15",
           "text":"Before I ever thought that I would need to be a man",
           "rhyme":"#",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"16",
           "text":"Somethin' like a Peter Pan, nah, I ain't tryna grow up",
           "rhyme":"9p",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"17",
           "text":"'Cause bein' old sucks, I just wanna go nuts",
           "rhyme":"9ts",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"18",
           "text":"Before I drank a beer or ever took a hit of weed",
           "rhyme":"id",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"19",
           "text":"When entertainment was my mom's readin' mysteries",
           "rhyme":"i",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"20",
           "text":"Takin' you back to them nursery rhymes",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"21",
           "text":"When I thought the world just deserved to be mine",
           "rhyme":"in",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"22",
           "text":"Said I'm takin' you back to them nursery rhymes",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"23",
           "text":"Back to the beginning, put the verse in rewind",
           "rhyme":"#",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDEFGHIJKDLMIINOPLQRQI",
@@ -435,49 +435,49 @@
           "n":"0",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"'Cause I'ma be okay",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"4",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"5",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"6",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"7",
           "text":"'Cause I'ma be okay",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCDABCD",
@@ -492,25 +492,25 @@
           "n":"0",
           "text":"Back in the day, when it was a dream",
           "rhyme":"im",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"Nobody believed in what I could be",
           "rhyme":"ab",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"But now I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"I'm laughin' at 'em like, \"Ha-ha-ha\"",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCC",
@@ -525,25 +525,25 @@
           "n":"0",
           "text":"Haha, yeah",
           "rhyme":"E",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"1",
           "text":"So this goes out to",
           "rhyme":"o",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"2",
           "text":"Any of y'all, haha",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         },
         {
           "n":"3",
           "text":"That ain't tryna get old, haha",
           "rhyme":"a",
-          "persona":"Mac_Miller"
+          "persona_id":"Mac_Miller"
         }
       ],
       "rhyme":"ABCC",
