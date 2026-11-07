@@ -100,8 +100,8 @@ def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
 
     return vocab_w2i
 
-def n_grams_mots(lines_chunk:List[str], **kwargs) -> np.array:
-    vocab_w2i = kwargs["voc_n_mots"]
+def n_grams_mots(lines_chunk:List[str], voc_n_mots, **kwargs) -> np.array:
+    vocab_w2i = voc_n_mots
     n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
@@ -163,35 +163,23 @@ def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]:
 
     return vocab_w2i
 
+
 def create_vocab_n_grams_phonem(all_lines, n) -> Dict[str, int]: 
     """Phonétise puis crée le vocabulaire de phonemes pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
 
     #Phonétisation
-    f = lambda x : x
-    all_lines = list(map(f, all_lines))#Remplacer f par une fonction de phonétisation str->str
+    phonetize = lambda x : x
+    all_lines = list(map(phonetize, all_lines))#Remplacer f par une fonction de phonétisation str->str
 
-    vocab_w2i = dict()
-    i_last = 0
+    return create_vocab_n_grams_char(all_lines, n) 
 
-    for line in all_lines :
 
-        for i in range(len(line)-n-1) :
-            t = line[i:i+n]
+def n_grams_char(lines_chunk:List[str], voc_n_char=None, voc_n_phonem=None, **kwargs) -> np.array:
 
-            if " " not in t[1:n-1] :            
-                t = tuple(t)
-                
-                if t not in vocab_w2i :
-                    vocab_w2i[t] = i_last
-                    i_last += 1
-
-    return vocab_w2i
-
-def n_grams_char(lines_chunk:List[str], **kwargs) -> np.array:
-    if "voc_n_char" in kwargs :
-        vocab_w2i = kwargs["voc_n_char"]
-    elif "voc_n_phonem" in kwargs :
-        vocab_w2i = kwargs["voc_n_phonem"]
+    if voc_n_char :
+        vocab_w2i = voc_n_char
+    elif voc_n_phonem :
+        vocab_w2i = voc_n_phonem
 
     n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
