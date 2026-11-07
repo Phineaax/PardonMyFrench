@@ -14,7 +14,7 @@ from collections import Counter
 
 def wordify(lines_chunk:List[str]) -> int:
     """Transforme une liste de phrase en liste de mots"""
-    words = [word_tokenize(line) for line in lines_chunk]
+    words = [word_tokenize(line.lower()) for line in lines_chunk]
     return sum(words, start=[])
 
 
@@ -24,7 +24,7 @@ def longueur_moyenne(lines_chunk:List[str]) -> float:
     
     return sum(words_length)/len(words_length)
 
-def diversite_lexicale_HDD(lines_chunk:List[str], language) -> float:
+def diversite_lexicale_HDD(lines_chunk:List[str]) -> float:
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).hdd()
 
@@ -73,7 +73,7 @@ def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
     i_last = 0
 
     for line in all_lines :
-        words = word_tokenize(line)
+        words = word_tokenize(line.lower())
         for i in range(len(words)-n-1) :
             t = tuple(words[i:i+n])
             if t not in vocab_w2i :
@@ -88,7 +88,7 @@ def n_grams_mots(lines_chunk:List[str], vocab_w2i) -> np.array:
     v = np.zeros(len(vocab_w2i))
 
     for line in lines_chunk :
-        words = word_tokenize(line)
+        words = word_tokenize(line.lower())
 
         for i in range(len(words)-n-1) :
             t = tuple(words[i:i+n])
