@@ -112,8 +112,7 @@ def lyrics_to_df(lyrics_json) :
 def artist_folder_to_artist_df(json_folder_path) :
     total_data = pd.DataFrame()
     for s in os.listdir(json_folder_path) :
-        print(s)
-        with open(f"{json_folder_path}/{s}", 'r') as f :
+        with open(f"{json_folder_path}/{s}", 'r', encoding="utf-8") as f :
             x = json.load(f)
         
         try :

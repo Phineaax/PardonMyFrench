@@ -17,26 +17,42 @@ def wordify(lines_chunk:List[str]) -> int:
     words = [word_tokenize(line.lower()) for line in lines_chunk]
     return sum(words, start=[])
 
+class Mesure() :
+    def __init__(self, name, application, description) :
+        self.name = name
+        self.application = application
+        self.description = description
 
-def longueur_moyenne(lines_chunk:List[str]) -> float:
+    def __repr__(self) : 
+        return f"<scorer_{self.name}>"
+
+def longueur_moyenne(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
     words_length = list(map(lambda w : len(w), words))
     
     return sum(words_length)/len(words_length)
+longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
 
-def diversite_lexicale_HDD(lines_chunk:List[str]) -> float:
+
+def diversite_lexicale_HDD(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).hdd()
+divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "diversité lexicale (méthode HDD)")
 
-def diversite_lexicale_MTLD(lines_chunk) :
+
+def diversite_lexicale_MTLD(lines_chunk, **kwargs) :
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).mtld()
+divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "diversité lexicale (méthode MTLD)")
 
-def densite_lexicale(lines_chunk:List[str], language) -> float:
+
+def densite_lexicale(lines_chunk:List[str], **kwargs) -> float:
+    language = kwargs["language"]
     stop_words = set(stopwords.words(language))
     words = wordify(lines_chunk)
     full_words = [w for w in words if w not in stop_words]
     return len(full_words)/len(words)
+densLex = Mesure("densLex", densite_lexicale, "densité lexicale")
 
 
 #BOW
@@ -54,8 +70,9 @@ def create_vocab_bow(all_lines) -> Dict[str, int]:
 
     return vocab_w2i
 
-def bow(lines_chunk:List[str], vocab_w2i) -> np.array:
+def bow(lines_chunk:List[str], **kwargs) -> np.array:
     """Renvoie un vecteur Bag Of Words"""
+    vocab_w2i = kwargs["voc_bow"]
     v = np.zeros(len(vocab_w2i))
 
     words = wordify(lines_chunk)
@@ -64,6 +81,7 @@ def bow(lines_chunk:List[str], vocab_w2i) -> np.array:
         v[vocab_w2i[w]] = c[w]/len(words) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
 
     return v
+bowVec = Mesure("bowVec", bow, "vecteurs bag of words")
 
 
 #N-grams mots
@@ -82,8 +100,9 @@ def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
 
     return vocab_w2i
 
-def n_grams_mots(lines_chunk:List[str], vocab_w2i) -> np.array:
-    n = len(list(vocab_w2i.values)[0]) #On déduit la taille de n depuis le vocab
+def n_grams_mots(lines_chunk:List[str], **kwargs) -> np.array:
+    vocab_w2i = kwargs["voc_n_mots"]
+    n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
 
@@ -98,6 +117,7 @@ def n_grams_mots(lines_chunk:List[str], vocab_w2i) -> np.array:
     for n_gr in c :
         v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
     return v
+n_grams_motsVec = Mesure("n_grams_motsVec", n_grams_mots, "vecteurs bag of words depuis les n-grams de mots")
 
 
 #N-grams char
@@ -121,7 +141,8 @@ def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]:
 
     return vocab_w2i
 
-def n_grams_char(lines_chunk:List[str], vocab_w2i) -> np.array:
+def n_grams_char(lines_chunk:List[str], **kwargs) -> np.array:
+    vocab_w2i = kwargs["voc_n_char"]
     n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
     n_grams = []
     v = np.zeros(len(vocab_w2i))
@@ -138,10 +159,14 @@ def n_grams_char(lines_chunk:List[str], vocab_w2i) -> np.array:
     for n_gr in c :
         v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
     return v
+n_grams_charVec = Mesure("n_grams_charVec", n_grams_char, "vecteurs bag of words depuis les n-grams de caractères")
 
 
-def chunk_to_embedding(lines_chunk:List[str]) :
-    model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
-    vector_sentences = model.encode(lines_chunk)
-    vectorized = np.mean(vector_sentences, axis=0)
-    return vectorized
+# def chunk_to_embedding(lines_chunk:List[str]) :
+#     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
+#     vector_sentences = model.encode(lines_chunk)
+#     vectorized = np.mean(vector_sentences, axis=0)
+#     return vectorized
+# sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
+
+available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, bowVec, n_grams_motsVec, n_grams_charVec]
