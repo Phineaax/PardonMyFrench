@@ -1,0 +1,193 @@
+{
+  "song_id":243099,
+  "title":"Passe mon truc",
+  "language":"fr",
+  "lyricists":[
+
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet1",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- Heu salut, c'est toi le dj?",
+          "rhyme":"adZ",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Ouais c'est bien ouais",
+          "rhyme":"E",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Ouais alors je te laisse une cassette c'est la musique que je fais",
+          "rhyme":"E",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"Et si t'as le temps de la passer... 'fin bon, jte la laisse là",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"4",
+          "text":"Tiens j'te la met là",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABBCC",
+      "rhyme_vowel":"ABBAA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet2",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- Hey hey hey ouais salut on c'etait vu talleur",
+          "rhyme":"9R",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Et jt'avais laisser une tite cassette et ouais",
+          "rhyme":"E",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Ah, ah tu la passe après ce morceau là, okay c'est cool",
+          "rhyme":"ul",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet3",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- Ouais c'est encore moi",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Tu m'avais dis que t'allais passer mon truc apres ce morceau",
+          "rhyme":"o",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Euh en fait t'as oublié j'crois mais...",
+          "rhyme":"E",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"D'accord... D'accord, juste après Lenny Kravitz, okay",
+          "rhyme":"E",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABCC",
+      "rhyme_vowel":"ABCC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet4",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- Putain mais tu vas la passer ma cassette",
+          "rhyme":"Et",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Et y a personne là",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Alors putain mais passe la merde !",
+          "rhyme":"ERd",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"...Ouais, c'est ça, c'est ça",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"4",
+          "text":"Et en plus Sunday Bloody Sunday tu l'as passé trois fois",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"5",
+          "text":"...Ouais c'est ça",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"6",
+          "text":"En fait tu fais genre le dj...",
+          "rhyme":"adZ",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"7",
+          "text":"Mais c'est genre t'aimes pas la musique",
+          "rhyme":"ik",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"8",
+          "text":"Et t'as aucun respect",
+          "rhyme":"E",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABCBBBDEF",
+      "rhyme_vowel":"ABABBBBCA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet5",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- Maintenant tu dégage !",
+          "rhyme":"aZ",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"J'vais la passer ma cassette",
+          "rhyme":"Et",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "song_id":7353453,
+  "title":"Interlude",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- \"Ça fait longtemps qu’tu mijotes ça ?\"",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"- \"Euh, disons qu’ça fait un p'tit moment qu’j'y pense.\"",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    }
+  ]
+}

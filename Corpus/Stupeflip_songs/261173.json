@@ -1,0 +1,109 @@
+{
+  "song_id":261173,
+  "title":"Invasion",
+  "language":"en",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Walecrou, walecrou, walecrou, walecrou, wa-walecrou, wa-walecrou, wa-walecrou...",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le Stupeflip Crou ne mourra jamais !",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Invasion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Aaaaarrrghh !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Bizarre !",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"L'ère du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"The Hypnoflip Invasion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Formé en 1972",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ils sont beaucoup trop nombreux commandant !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"J'ai des frissons",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Larguez les amarres",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Non, négatif, ça n'empêchera rien commandant !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"The Hypnoflip Invasion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Bienheureux vous qui pleurez maintenant car vous serez dans la joie",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Bienheureux serez-vous si les hommes vous haïssent, s'ils vous frappent d'exclusion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFCGGCEGCDC",
+      "rhyme_vowel":"ABCDDECFFCDFCDC"
+    }
+  ]
+}

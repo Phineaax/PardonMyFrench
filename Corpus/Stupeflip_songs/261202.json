@@ -1,0 +1,37 @@
+{
+  "song_id":261202,
+  "title":"Dangereux",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"extrait",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ouais, Stupeflip !",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Réveille-toi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Stéphane Bellanger, le membre caché du Stupeflip Crou, n'apparaîtra qu'en de très rares occasions. Son rôle est déterminant. Il reste néanmoins le membre le plus dangereux du Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    }
+  ]
+}

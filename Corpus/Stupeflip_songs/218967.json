@@ -1,0 +1,435 @@
+{
+  "song_id":218967,
+  "title":"A bas la hiérarchie",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"-Mais ou vous étiez ,je vous cherche depuis une heure?",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"-Désolé mais j étais encore au self ,ils ont un très bon gratin dauphinois aujourd'hui",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"-Vous m'avez fais perdre une belle occasion de gagner un marché ! et vous m'avez coûté de l'argent !",
+          "rhyme":"aRZ",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"...Je sais pas ce qui me retient de vous foutre a la porte !",
+          "rhyme":"ORt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"-Vous pouvez pas désolé j'suis qu'un simple stagiaire , l'oubliez pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"-C'est tout c'que vous trouvez a dire..?",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"-Ouais ... allez vous faire foutre",
+          "rhyme":"utR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFG",
+      "rhyme_vowel":"ABCDCBE"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"A bas la hierarchie! pour tous les mecs qui sont dans les boîtes",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"La hiérarchie ! Pour tout ceux qu'ont les mains moites",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"A bas la hierarchie ! pour tous les mecs qui sont dans les boîtes",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"La hiérarchie ! Pour tout ceux qu'ont les mains moites",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAA",
+      "rhyme_vowel":"AAAA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"C'est ça bosse, bosse, bosse, coco !",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Écrase toi et met ton orgueil au porte manteau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tout le monde y pense, tout le monde oublie !!",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Personne se barre, tout le monde subit !!",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Alors tu bosses quinze plombes sur un macintosh",
+          "rhyme":"oS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"C'est moche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Y'a le boss qu'est vénère comme un bosch",
+          "rhyme":"iS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Il te crache dessus, tu stress c'est l'angoisse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Mais tu continues",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Parce qu'il t'faut d'la caillasse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"C'est le biz' qui prime",
+          "rhyme":"im",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et ça t fout la déprime",
+          "rhyme":"im",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Tu veux en parler mais jamais tu t'exprime",
+          "rhyme":"im",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Se faire prendre pour un con par des gens qu'on déteste",
+          "rhyme":"Est",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Payé au lance pierre t'as plus qu'à bouffer les restes",
+          "rhyme":"Est",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Harcèlement moral, ambiance carcérale",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Espèce de connard qui s'habille super mal",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Pense à « Rosetta » , à «ressources humaines »",
+          "rhyme":"En",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Chaque fois que tu te feras ken par ce putain de système",
+          "rhyme":"Em",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCDEFGFHHHIIJJKL",
+      "rhyme_vowel":"AABBACBDEDBBBFFDDFF"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    },
+    {
+      "section_id":"section_4",
+      "type":"2ème",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Mais qui t'es toi pour me parler comme ça ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"T'es placé par papa et tu te crois plus fort que moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Mais qui t'es toi pour me stresser comme ça",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et qu'est-ce qui te donne le droit d'te croire au d'sus d'moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Tu te crois supérieur parce que t'es mon supérieur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Espèce de bâtard je vais te péter le postérieur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Et quand tu feras le bouffon dans ta caisse de fonction",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Fais gaffe, j'aurais peut être scié la direction",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"... \"Tu sais de toute façon la société elle fonctionne comme ça",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Excuse moi mais c'est genre t'enfonce les porte ouverte\"",
+          "rhyme":"ERt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Hé ben je les enfoncerai, jusqu’à ce que j'en crève",
+          "rhyme":"Ev",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et comme Goldman j'irais au bout de mes rève",
+          "rhyme":"Ev",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Et même si la chanson et ben elle sert à rien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"J'crois qu'ça fera du bien de gueuler ce refrain",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"A BAS LA HIERARCHIE",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"LA HIERARCHIE",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"A BAS LA HIERARCHIE",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"LA HIERARCHIE",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCCADEEFFGGGG",
+      "rhyme_vowel":"AAAABBCCADDDEEFFFF"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"A BAS LA HIERARCHIIIIIIIIIIIIIIIE",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"POUR TOUS LES MECS QUI SONT DANS LES BOÎTES",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"POUR TOUS CEUX QU'ONT LES MAINS MOITES",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"STUPEFLIP, 2003",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"A BAS LA HIERARCHIIIIIIIIIIIIIIIE",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Écoutes, écoutes, écoutes moi bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Je fais un chiffre d'affaire de vingt million de francs par an",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Est-ce que tu comprends ?",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Je vous déteste!",
+          "rhyme":"Est",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Je vous déteste tous!",
+          "rhyme":"us",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Allez brûler en enfer!",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"En enfer-euh!",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBCADEEFGHI",
+      "rhyme_vowel":"ABBAACDDEFEG"
+    }
+  ]
+}

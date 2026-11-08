@@ -1,0 +1,520 @@
+{
+  "song_id":104292,
+  "title":"Visions",
+  "language":null,
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"king",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Je suis assis dans un café, j'attends le café",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Parce que sans lui j'peux pas écrire ce texte et la combinaison café-clope",
+          "rhyme":"Op",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C'est super",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'aurais pas dû prendre ce sandwich saucisson",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Le pain est trop dur et j'avais d'mandé des cornichons",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Pas grave",
+          "rhyme":"av",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Je vois passer les gens et c'est plus science-fiction que la Guerre des Étoiles",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"À côté d'moi y'a un pigeon",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Je m'demande comment son corps tient sur ses petites pattes si fines",
+          "rhyme":"in",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Mais finalement j'm'en fous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Tout est tellement dingue que j'cherche même plus à comprendre",
+          "rhyme":"#dR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"La génération des p'tites meufs",
+          "rhyme":"9f",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Elles sont toutes si fines",
+          "rhyme":"in",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Elles ont toutes des p'tites bottes courtes",
+          "rhyme":"uRt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Et leur mec c'est un peu moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Car ils ont les mêmes fringues que moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Genre des blousons Zara",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Parce que j'y passe mon temps à Zara place d'It' depuis la fin d'Stupeflip",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Tu sais ces p'tits blousons près du corps",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"J'ai passé toute ma vie à les chercher et maintenant n'importe quel connard l'a",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"Alors que dans les années 90 ils avaient tous des gros blousons d'merde",
+          "rhyme":"ERd",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"Faudra quand même que j'pense à faire un morceau un peu plus commercial pour le prochain Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"Parce que sinon ça va être chaud",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"23",
+          "text":"Avec le système RSA",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"24",
+          "text":"Faut accepter les boulots pourris même avec des trajets d'deux heures",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"25",
+          "text":"Genre Boissy-Saint-Léger",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"26",
+          "text":"Mais j'prendrai pas une gratte sèche pour faire un truc genre",
+          "rhyme":"#R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"27",
+          "text":"Toi, plus moi, plus tous ceux qui le veulent",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"28",
+          "text":"J'en ai un peu marre de cette image punk de Stupeflip",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"29",
+          "text":"Genre qui s'adresse aux inadaptés",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"30",
+          "text":"Moi j'suis pas un inadapté",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"31",
+          "text":"J'sais faire plein d'trucs",
+          "rhyme":"yk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"32",
+          "text":"J'sais faire ça avec les mains",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"33",
+          "text":"J'peux tourner sur moi-même regarde",
+          "rhyme":"aRd",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"34",
+          "text":"J'peux même dessiner un chien dans un hamac ou un aspirateur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"35",
+          "text":"Je ne supporte plus les gens qui pètent les plombs sous alcool",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"36",
+          "text":"L'alcool ça mène à la guerre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"37",
+          "text":"Quel fléau putain",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"38",
+          "text":"J'pense à mon père qui devenait fou dès qu'il buvait un p'tit fond d'verre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"39",
+          "text":"Je suis toujours dans ce café",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"40",
+          "text":"Le Coche, croisement Tolbiac, avenue de Choisy",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"41",
+          "text":"Et le temps s'obscurcit",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"42",
+          "text":"J'dois avoir l'air un peu con avec mes miettes de sandwich sur mon manteau Zara",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"43",
+          "text":"Manteau genre pas bonne qualité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"44",
+          "text":"Genre gavotte côte noir avec un tissu mais beaucoup moins cher",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"45",
+          "text":"Tu sais, moi j'suis pas un torturé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"46",
+          "text":"Plutôt quelqu'un d'positif",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"47",
+          "text":"Mais j'suis juste lucide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"48",
+          "text":"Et la lucidité c'est dangereux",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"49",
+          "text":"Surtout en c'moment en France, où il vaut mieux fermer sa gueu-",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"50",
+          "text":"Ce matin, à la cellule Appui Artistes Insertion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"51",
+          "text":"Ils m'avaient convoqués à neuf heures du matin",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"52",
+          "text":"Y'avait trois personnes pour me juger",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"53",
+          "text":"Des artistes entre guillements du treizième",
+          "rhyme":"Em",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"54",
+          "text":"Alors quand c'était mon tour",
+          "rhyme":"uR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"55",
+          "text":"Fallait qu'on dise c'qu'on a fait",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"56",
+          "text":"Et moi j'ai dit « J'ai fait Stupeflip »",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"57",
+          "text":"Et là y'avait des gars qui connaissaient",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"58",
+          "text":"« Quoi !? King Ju au RMI ? Mais c'est pas croyable !! »",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"59",
+          "text":"Z'étaient là pour juger",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"60",
+          "text":"Si on avait droit au RMI",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"61",
+          "text":"Alors j'ai ouvert ma gueule",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"62",
+          "text":"J'ai dit qu'les artistes c'était important",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"63",
+          "text":"Parce qu'ils s'creusaient la tête pour faire réfléchir les gens",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"64",
+          "text":"Qui travaillent honnêtement",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"65",
+          "text":"Après faudrait définir c'que c'est un bon artiste ou pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"66",
+          "text":"Putain et j'ai pas envie d'payer pour les autres nazes qui font du macramé ou de la poterie putain",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDDEFDGHIJGKLLLMNLOPQLRASTMAAUVWRXCVCAYYLACAZ[\\\\DVA]^_M_`AYTaaaLV",
+      "rhyme_vowel":"ABCDDEEDFGHIFGEEEFBECJKEIAHIFAAJLEIBCLCAFFEACAFFMMDLACGCFCEAFIHHHEL"
+    },
+    {
+      "section_id":"section_1",
+      "type":"mc",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Y'a un angle...",
+          "rhyme":"#gl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Y'a un angle obtu d'vant moi...",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C'est l'angle de la géométrie !",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Il manque que des p'tites mouches",
+          "rhyme":"uS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Mais elles vont arriver parce que...",
+          "rhyme":"@",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Parce que j'suis avec Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Et dès qu'y'a Ju, y'a des mouches",
+          "rhyme":"uS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Ça fait semblant d'te pomper l'sang...",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Mais en fait ça nettoie rien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Michel Blanc euh...",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"C'est un génie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Il fait d'la muscu",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Et il a une petite bite, mais il fait d'la muscu",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Il est rasé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Il est rasé... Il est pas rasé, il est chauve",
+          "rhyme":"ov",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFDGHICFFJK",
+      "rhyme_vowel":"ABCDEFDAGHCFFIJ"
+    }
+  ]
+}

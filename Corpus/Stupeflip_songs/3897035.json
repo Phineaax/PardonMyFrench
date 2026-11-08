@@ -1,0 +1,205 @@
+{
+  "song_id":3897035,
+  "title":"MISS YOU POP-HIP (daim maket version 9)",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'ai vu dans ce magasin ce petit blouson en daim, j'irai l'essayer demain il me plait bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'ai vu dans ce magasin ce petit blouson en daim, ah ouais, ça ouais, je suis sûr qu'il m'ira bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ils font 79 euros",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Évidemment, ça ça fait un peu cher",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Mais le problème, ils sont supers beaux",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et niveau tunes c'est un peu la misère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Le magasin était fermé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Depuis qu'j'les ai vus, j'ai trop hâte",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"J'ai trop envie de les essayer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Quand j'les aurais, je retrouverai la patate !",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABABCDCD",
+      "rhyme_vowel":"ABABCDCD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'ai vu dans ce magasin cette paire de mocassins, j'les essayerai demain, ils me plaisent bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'ai vu dans ce magasin cette paire de mocassins, ah ouais, ça ouais, je suis sûr qu'ils m'iront bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(72.8)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sa coupe est top et ajustée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Elle a des poches fermetures éclairs",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'ai trop envie de la posséder",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Trop agréable ! C'est une super matière",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Elle ira bien avec ces pompes là",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Je la mettrai avec ce futal",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Je l'aimerai, elle sera à moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Avec ce sous-pull rouge, ça va faire mal !",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBCDEDE",
+      "rhyme_vowel":"ABCBCDDDD"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'ai vu dans ce magasin cette fille aux jolis seins, j'irai l'essayer demain elle me plait bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'ai vu dans ce magasin cette fille aux jolis seins, ah ouais, ça ouais, je suis sûr qu'elle m'ira bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Outro :",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"( ? ) à la société de consommation",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABC",
+      "rhyme_vowel":"AABC"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "song_id":241969,
+  "title":"Je fume pu d’shit",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Depuis que j'fume pu d'shit",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Je m' rappelle de mes rêves",
+          "rhyme":"Ev",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"J'ai pris conscience que le temps passe",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et que la vie est brève",
+          "rhyme":"Ev",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis bien dans la rue",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je suis bien dans ma tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Et dans mes sweat-shirts et mes pulls",
+          "rhyme":"yl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Je n'ai plus d'trou d' boulette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"J' fais du sport",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Je m'lève à huit heures",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Finies les grasses mat' interminables",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Jusqu'à quatre heures",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Ch'uis plus vif",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Et j'me trouve plus beau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Finis les yeux rouges",
+          "rhyme":"uZ",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Le teint pale et la parano",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBDEFEGHIHJKLK",
+      "rhyme_vowel":"ABCBDBDBEFCFAGHG"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Depuis qu' je fume pu d'shit",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Depuis qu' je fume pu d'shit (J'fais des hits)",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Depuis qu'je fume pu d'shit",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'ai d'la conversation",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je suis plus tout seul dans mon coin",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"A flipper comme un con",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"J'peux aborder une femme",
+          "rhyme":"am",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Sans m'poser trop d'questions",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Depuis qu'j'ai arrête les joints",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"J'me sens moins con",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"J'me sens léger",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Comme un albatros",
+          "rhyme":"os",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Finies les recherches à quat'pattes",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Pour un bout d'matos",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"J'ai la pêche (et l'abricot)",
+          "rhyme":"ES",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Et ch' uis plus sympa",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Finie la drogue scotchée dans mon pyjama",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBDBCBEFGHIJJ",
+      "rhyme_vowel":"ABCBDBCBEFDFGDD"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Depuis qu' je fume pu d'shit",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Depuis qu' je fume pu d'shit (J'fais des hits)",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Depuis qu' je fume pu d'shit",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'ai pu des yeux d'cobaye",
+          "rhyme":"aj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je vais plus à l'ANPE",
+          "rhyme":"Op",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'ai trouvé du travail",
+          "rhyme":"aj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ch'uis vach'ment positif",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"J'fais du ukulélé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Depuis qu' j'ai arrêté les spliffs",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"J'regarde plus la télé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"J'me sens tranquille",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Vach'ment moins débile",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Finie la tune foutue en l'air",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Pour du Tchernobyl",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Chui moins mou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"J'ai pu peur de tout",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Finies les heures",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Obnubilé par un p'tit bout",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBDEDEFFGFHHIH",
+      "rhyme_vowel":"ABCBADADAAEAFFGF"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Depuis qu' je fume pu d'shit",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Depuis qu' je fume pu d'shit (J'fais des hits)",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    }
+  ]
+}

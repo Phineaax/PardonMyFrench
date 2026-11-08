@@ -1,0 +1,460 @@
+{
+  "song_id":10953228,
+  "title":"Haterz Killah 2024",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ils sont comme des serpents, ils pissent sur mes sentiments",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Incroyables cons et dans mon cou ils plantent leurs dents",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"De quoi devenir paranoïde",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pov' nazes, z'ont la haine",
+          "rhyme":"En",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Font chier bourrés sous stéroïdes",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Arrogants, ils s'la jouent testostérone",
+          "rhyme":"On",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Va falloir lâcher l'affaire (le membre caché du)",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Ils sont jaloux",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ils observent leurs voisins",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Z'ont pas envie de les voir heureux, cette seule vision lеs rend zinzins",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Ça les renvoiе à leur triste réalité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Vie d'merde, taf de merde, du cervelas dans l'cervelet",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Z'ont du flamby dans l'slop",
+          "rhyme":"Op",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Bande de salopes",
+          "rhyme":"Op",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Faut qu'ils restent tranquilles ou j'les découpe comme une escalope",
+          "rhyme":"Op",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCBDEFGGHIJJJ",
+      "rhyme_vowel":"AABCBDCEFFGCDDD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Stupeflip c'est pas n'importe quoi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Ça fout l'feu, fait l'fou, ça t'handicape quand tu l'as pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C't'une construction mathématique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Un truc pataphysique qui t'pique comme un aspic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Stupeflip c'est pas n'importe quoi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ça fout l'feu, fait l'fou, ça t'handicape quand tu l'as pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"C't'une construction mathématique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Un truc pataphysique qui t'pique comme un aspic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le Crou, un truc crade cru qui t'fout une trempe",
+          "rhyme":"#p",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Accro du micro mon style en crr t'fout des crampes",
+          "rhyme":"#p",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C'truc je l'crie comme une truie contre rien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Mes textes pourris pour faire triper les gamins",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ma force était la farce maintenant gaffe si ça s'corse",
+          "rhyme":"ORs",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"J'suis fort comme un arbre et la zic est mon écorce",
+          "rhyme":"ORs",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"La course, au fric j'en ai rien à carrer !",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Et y'aura pas Je fume plus d'shit sur mon troisième CD",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Le matos merde à mort mais je m'accroche comme un tique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Encore un p'tit effort et tu pourras m'appeler PATRICK",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Moi j'suis King Ju, celui qui crie fort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Fasciné par la moisissure",
+          "rhyme":"yR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDEFFGH",
+      "rhyme_vowel":"AABBCCDEFFCG"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Stupeflip c'est pas n'importe quoi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Ça fout l'feu, fait l'fou, ça t'handicape quand tu l'as pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C't'une construction mathématique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Un truc pataphysique qui t'pique comme un aspic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Stupeflip c'est pas n'importe quoi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ça fout l'feu, fait l'fou, ça t'handicape quand tu l'as pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"C't'une construction mathématique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Un truc pataphysique qui t'pique comme un aspic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Moi c'est Sado-modo, tranquillo, cent-trente kilos d'viande de veau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les cheeses dans mon ventre pèsent lourd comme un sac à dos",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"J'suis de l'époque du Wu, Ice Cube, pas des rigolos",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'digère le bon son : Big Du, pas Calozéro",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Pas rasé, gros zéro, muchacho en pancho",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Cool avec les gos, sans gros mots",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Besame mucho, punch coco, poule au pot, style Celentano",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"J'peux être intello même si plat est mon encéphalo (Yeah)",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Pas d'allo maman bobo, pas d'problème d'égo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Sado-modo est réglo, j'me sens lourd, menthe à l'eau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Sueur qui coule, slow tempo, pas d'alu même si fait chaud",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Toujours classe en pédalo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAAAAAAAAA",
+      "rhyme_vowel":"AAAAAAAAAAAA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Stupeflip c'est pas n'importe quoi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Ça fout l'feu, fait l'fou, ça t'handicape quand tu l'as pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C't'une construction mathématique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Un truc pataphysique qui t'pique comme un aspic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Stupeflip c'est pas n'importe quoi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ça fout l'feu, fait l'fou, ça t'handicape quand tu l'as pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"C't'une construction mathématique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Un truc pataphysique qui t'pique comme un aspic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"(Crou, n'apparaitra qu'en de très rares occasions",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Son rôle, réduit en apparence à celui de simple patron de la menuiserie, est déterminant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Il reste néanmoins le membre le plus dangereux du crou)",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABBCDE",
+      "rhyme_vowel":"AABBAABBCDE"
+    }
+  ]
+}

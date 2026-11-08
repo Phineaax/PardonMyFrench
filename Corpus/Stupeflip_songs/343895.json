@@ -1,0 +1,263 @@
+{
+  "song_id":343895,
+  "title":"Le coeur qui cogne",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Moi j'veux mon coeur qui cogne, un truc esthétique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Pas d'vacances en Sologne, un truc excentrique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"J'veux une histoire sensuelle, pas qui fout les boules",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Un truc pas consensuel, j'veux la chair de poule !",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Moi j'veux mon coeur qui cogne, un truc esthétique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Pas d'vacances en Sologne, un truc excentrique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"J'veux une histoire sensuelle, pas qui fout les boules",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Un truc pas consensuel, j'veux la chair de poule !",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Tu chlingues, change de fringues !",
+          "rhyme":")g",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Jamais envie d'faire la bringue !",
+          "rhyme":")g",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"(Enfin avec moi)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"J'me la pète dans ma Twingo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Je me trouve trop rigolo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"T'es ringard au plumard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"(J'en ai marre)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Tu me fous trop le cafard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"(Moi, j'préfère les fourmis)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Je rentre bourré tous les soirs",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Je te raconte des histoires",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"(Ouais, j'en ai marre !)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABBCCDEEFDFDFFD",
+      "rhyme_vowel":"AABBAABBCCDEEFDFDFFD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu sens l'pipi",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mais bon sang, qu'est-ce qui m'a pris ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"(Bah j'sais pas)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tronche de con, mauvaise haleine",
+          "rhyme":"En",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Jean pourri from H&M",
+          "rhyme":"m",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"T'es chiant, tu mens",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"T'appelles sans arrêt maman",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"(oh ça craint )",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Mais si y'avait pas ma mère, j's'rais sans arrêt en galère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Trop la misère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDEEBFF",
+      "rhyme_vowel":"AABCDEEBCC"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    },
+    {
+      "section_id":"section_3",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salut. Je te présente le crou Stupéflip",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Formé en 1972, le groupe se compose de trois membres :",
+          "rhyme":"#bR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Flip, l'âme damnée du groupe, sans arrêt sous pression",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"(d'où son pseudonyme)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Pop Hip, véritable tête de turc du groupe, qui veut absolument faire du rock n'roll",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ainsi que King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEF",
+      "rhyme_vowel":"ABCDEF"
+    }
+  ]
+}

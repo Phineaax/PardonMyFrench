@@ -1,0 +1,382 @@
+{
+  "song_id":395633,
+  "title":"Le Fléau",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Bandes de p'tites *bip*",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"C'est King Ju au microphone",
+          "rhyme":"On",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Eh ouais, hahaha !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et toi petite tu veux savoir où c'est le prochain concert de Stupeflip ?!",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est la semaine prochaine et c'est dans ton cul",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCAD",
+      "rhyme_vowel":"ABCAD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Y'a des gens qui pensent que l'être humain il est mauvais",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Qu'il est méchant qu'il changera jamais bref qu'il est mauvais",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Si les gens pensent ça on va droit vers la guerre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Si on va droit vers la guerre y'a plus qu'à faire ses prières",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Alors pense pas ça, pense pas que l'homme est mauvais !",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Il est bon comme moi à part quand j'étais enfant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Décapitais les mouches torturer les fourmis",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Oui je me vengeais sur ce qui était plus petit",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBACDD",
+      "rhyme_vowel":"AAAAABCC"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le fléau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ras-Ras-Rascar Capac",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Le fléau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ras-Ras-Rascar Capac",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCABC",
+      "rhyme_vowel":"ABCABC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ce que je t'écris je le crie et c'est le secret de ma secte",
+          "rhyme":"Ekt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mes textes claquent, t'agacent comme un insecte",
+          "rhyme":"Ekt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Mon son cradingue, crack, pète comme une cracotte",
+          "rhyme":"Ot",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tout le monde se frotte alors à quat' pattes, cocotte",
+          "rhyme":"Ot",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ouais j'trippe sur les trucks trash",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"J'suis pas sûr de sucrer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Sous [crom' ?] cramé, j'ai l'sacré à massacrer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Stup et Flip c'est pas fait pour les crétins",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"A bas la hiérarchie jusqu'à la saint glinglin",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCDDEE",
+      "rhyme_vowel":"AABBCDDEE"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le fléau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ras-Ras-Rascar Capac",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Le fléau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ras-Ras-Rascar Capac",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCABC",
+      "rhyme_vowel":"ABCABC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Oui le Crou est cracra, cramé et grotesque",
+          "rhyme":"Esk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le Crou est cra",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tout ce qui craint enfin presque",
+          "rhyme":"Esk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le Crou cravache dans la boue",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Casse la cruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Le Crou en cravate agressif comme une perruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Quant à toi mon gars je sais tout ce que tu fais ?",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'es assis, debout, couché, en train d'écouter un cd",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Tu écoutes du son à travers du matériel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Scotché comme une grosse mouche à miel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABACDDEFGG",
+      "rhyme_vowel":"ABACDDABAA"
+    },
+    {
+      "section_id":"section_6",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le fléau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ras-Ras-Rascar Capac",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_7",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Alors les petits canards ça va les p'tis canards",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le Crou Stupéflip est là, entre autres, pour terroriser la population",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Et par là-même instaurer une nouvelle ère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    }
+  ]
+}

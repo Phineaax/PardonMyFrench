@@ -36,7 +36,7 @@ def create_dendrogram(result_dict, labels, title) :
     plt.tight_layout()
     plt.show()
 
-def get_final_results(path, scorers=scoring.available_metrics, n=3) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
@@ -70,7 +70,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3) :
     for p in personas :
         p_lines[p] = lyrics_df[lyrics_df["persona_id"] == p] #On récupère les lines de persona p
         shuffled_p_lines = p_lines[p].sample(frac=1).reset_index(drop=True) #Randomise
-        total_chunks.update(chunking.format_chunk_for_scoring(shuffled_p_lines, persona_id = p)) #On ajoute les lignes
+        total_chunks.update(chunking.format_chunk_for_scoring(shuffled_p_lines, persona_id = p, chunk_tokens_nb=chunk_tokens_nb)) #On ajoute les lignes
 
     chunk_ids = list(total_chunks.keys())
 
@@ -122,8 +122,8 @@ def create_dendrogram(result_dict, labels, title, ax=None, color_map=None):
     return ax
 
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
-                         figsize_per_plot=(9, 5)):
-    total_chunks, results, chunk_ids = get_final_results(path, scorers=scorers, n=n)
+                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=1500):
+    total_chunks, results, chunk_ids = get_final_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb)
 
     nrows = math.ceil(len(scorers) / ncols)
     fig, axes = plt.subplots(nrows, ncols,
@@ -134,7 +134,7 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
     color_map = make_color_map(chunk_ids)  # mêmes couleurs dans tous les sous-graphes
 
     for ax, scorer in zip(axes, scorers):
-        create_dendrogram(results[scorer.name], chunk_ids, scorer.description,
+        create_dendrogram(results[scorer.name], chunk_ids, scorer.description, 
                           ax=ax, color_map=color_map)
 
     for ax in axes[len(scorers):]:  # on cache les axes en trop

@@ -1,0 +1,37 @@
+{
+  "song_id":7353472,
+  "title":"King jah derrrr",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tes idées puent la merde, faudra qu'tu jettes à la poubelle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"T'es tellement persuadé d'être dans la vérité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Pour toi l'intelligence ce n'est pas ta priorité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABB",
+      "rhyme_vowel":"ABB"
+    }
+  ]
+}

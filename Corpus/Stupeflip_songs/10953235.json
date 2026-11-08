@@ -1,0 +1,292 @@
+{
+  "song_id":10953235,
+  "title":"Psycho Girl (FR)",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- \"Bon bah écoute, c'est encore moi et t'es encore pas là",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Bon bah écoute, c'est pas grave, j'rappelerai\"",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Adelaide t'es en plein délire",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tu sais que mentir, tu sais que faire souffrir",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tu fais la dingue, tu veux monter chez moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as beau chialer je ne t'ouvrirai pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABB",
+      "rhyme_vowel":"AABB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu n'es qu'une psycho girl (une psycho girl)",
+          "rhyme":"9Rl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"A fucking fucking freak",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je suis bien mieux tout seul (bien mieux tout seul)",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu n'еs qu'une dingue et unе tarée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Faudrait te faire interner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDD",
+      "rhyme_vowel":"ABACC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu te rappelles dans cet hôpital ?",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tu m'avais dit que tu aimais faire du mal",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"À l'interphone tu es hystérique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Reste pas là ou je t'envoie les flics",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABB",
+      "rhyme_vowel":"AABB"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu n'es qu'une psycho girl (une psycho girl)",
+          "rhyme":"9Rl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"A fucking fucking freak",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je suis bien mieux tout seul (bien mieux tout seul)",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu n'es qu'une dingue et une tarée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Faudrait te faire interner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDD",
+      "rhyme_vowel":"ABACC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Adelaide t'es en plein délire",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tu sais que mentir, tu sais que faire souffrir",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tu fais la dingue, tu veux monter chez moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as beau chialer je ne t'ouvrirai pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABB",
+      "rhyme_vowel":"AABB"
+    },
+    {
+      "section_id":"section_6",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu n'es qu'une psycho girl (une psycho girl)",
+          "rhyme":"9Rl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"A fucking fucking freak",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je suis bien mieux tout seul (bien mieux tout seul)",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu n'es qu'une dingue et une tarée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Faudrait te faire interner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDD",
+      "rhyme_vowel":"ABACC"
+    },
+    {
+      "section_id":"section_7",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Psycho girl (psycho girl)",
+          "rhyme":"9Rl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"A fucking fucking freak",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je suis bien mieux tout seul (bien mieux tout seul)",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu n'es qu'une dingue et une tarée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Faudrait te faire interner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"(Psycho)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDDE",
+      "rhyme_vowel":"ABACCD"
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "song_id":242964,
+  "title":"L.E.C.R.O.U",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Alors paraît qu'il y'a un buzz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sur le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Le truc qui t'fracasse la tête à base de caisses claires qui claquent",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu veux l'truc qui t'prend aux couilles ?",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Écoute le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Mangu, MC Salo, Cadillac",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDBC",
+      "rhyme_vowel":"ABABBA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Si j'fais de la musique, c'est un petit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Je crois qu'c'est c'qui m'plaît le plus",
+          "rhyme":"ys",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"La musique c'est ce qu'y a de mieux (c'est ce qu'y a d'mieux)",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"À l'époque j'faisais des loops un peu loupés",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Des trucs sales, qui collaient mais ça m'plaisait",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Et c'était cool comme ça",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Y'avait personne pour me faire chier, pour me dire « fais ça »",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Quelqu'un qui m'explique comment qu'elle marche, la photocopieuse",
+          "rhyme":"2z",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"J'avais le truc dans la tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Fallait que j'le sorte",
+          "rhyme":"ORt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Mais y avait trop d'factures qui rampaient sous ma porte",
+          "rhyme":"ORt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et j'adore me plaindre !",
+          "rhyme":")dR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Alors j'ai trouvé du travail",
+          "rhyme":"aj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Mais ça m'a pas plu :",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Relations hypocrites",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Fausses, pour gagner sa croûte",
+          "rhyme":"ut",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Mais heureusement y'avait l'rêve :",
+          "rhyme":"Ev",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Faire de la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Faire un truc qui tape dingue à base de kicks",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"Prendre des p'tits bouts de trucs et puis les assembler ensemble",
+          "rhyme":"#bl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"Et écouter le résultat tranquille, dans ma chambre",
+          "rhyme":"#bR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"Maintenant j'ai signé (j'ai signé)",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"Et y en a plein qu'ça a excédé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"23",
+          "text":"Mais c'était ça ou décéder",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"24",
+          "text":"Sans CDD, sans avoir fait d'CD",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"25",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"26",
+          "text":"Alors paraît qu'il y'a un buzz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"27",
+          "text":"Sur le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"28",
+          "text":"Le truc qui t'fracasse la tête à base de caisses claires qui claquent",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"29",
+          "text":"Tu veux l'truc qui t'prend aux couilles ?",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"30",
+          "text":"Écoute le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"31",
+          "text":"Mangu, MC Salo, Cadillac",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCADEEFGHHIJKLMNOOPQAAARSTUVWUV",
+      "rhyme_vowel":"ABCADEECDFFGEBHIDHHJJAAAEHEIEIIE"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hey yo, Mangu is too rare for this fucking wack labels",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Who're thinkin' that they could",
+          "rhyme":"Old",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"But they're just not able",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"We all make mistakes",
+          "rhyme":"Eks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"And those mistakes are fatal",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Now the boss is runnin' and hide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"And he duck under the table",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"The Stup is too rare for these fucking wack labels",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Who're thinkin' that they could",
+          "rhyme":"Old",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"But they're just not able",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"We all make those mistakes",
+          "rhyme":"Eks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"And mistakes are fatal",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Now the boss is runnin' and hide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"And he duck under the table",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Everybody wanna be a star (star)",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"For livin' a good life",
+          "rhyme":"ajf",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"While drivin' a big car",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Be a V.I.P in the club Champagne",
+          "rhyme":"aJ",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"On tour bitches screamin' your name",
+          "rhyme":"am",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"Makin' money, livin' life like Johnny",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"So much pay! Everyday's a Hallyday",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"So take an application for the Star Academy",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"And find a Pop Star, and bring 'em onto me",
+          "rhyme":"@",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"23",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"24",
+          "text":"Alors paraît qu'il y'a un buzz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"25",
+          "text":"Sur le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"26",
+          "text":"Le truc qui t'fracasse la tête à base de caisses claires qui claquent",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"27",
+          "text":"Tu veux l'truc qui t'prend aux couilles ?",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"28",
+          "text":"Écoute le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"29",
+          "text":"Mangu, MC Salo, Cadillac",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFCABCDEFCGHGIJKLKMNOPQRPQ",
+      "rhyme_vowel":"ABCACDCABCACDCCCCCCDADEDCFCFFC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"1, 2, 3, j'ai signé un contrat (tralala)",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"4, 5, 6, me voila dans l'show biz' (eh ouais)",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"7, 8, 9, y paraît qu'y'a plein d'meufs",
+          "rhyme":"9f",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"10, 11, 12, mais surtout des tarlouzes",
+          "rhyme":"uz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On dit que pétrir, c'est modeler",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Moi j'dis que péter, c'est démolir",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Avant la musique, c'était une passion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Maintenant c'est devenu, une occupation",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFGG",
+      "rhyme_vowel":"ABCDEBFF"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'fais du Rock'n'Roll, j'en démords pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Ça fait longtemps déjà que j'traîne, mes grolles, dans l'Rock'n'Roll",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Chaque paire de tiags, j'garde chaque paire de tiags",
+          "rhyme":"ag",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Leur cuir brille, étonne dans l'milieu du rock'n'roll",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"T'es tombé de ton chariot, en chantant le Notre-Père",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"T'y croyais dur comme fer, avant de toucher terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Noyé dans un ruisseau, obligé de, te taire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Ta carriole, et tes chevaux t'ont laissé seul derrière, ière, ière !",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Alors paraît qu'il y'a un buzz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Sur le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Le truc qui t'fracasse la tête à base de caisses claires qui claquent",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Tu veux l'truc qui t'prend aux couilles ?",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Écoute le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Mangu, MC Salo, Cadillac",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBDDDDEFGHIGH",
+      "rhyme_vowel":"ABABCCCCDAEAEEA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ah Stupeflip, Stupeflip, qu'est ce que c'est qu'ce truc ?",
+          "rhyme":"yk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Ils veulent des explications, mais ils sauront rien !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Z'ont pas compris qu'il faut garder qu'un tout petit peu d'mystère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Exactement comme le mystère au chocolat",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Mais faut qu'y mettent une étiquette genre ça ressemble à machin, machin ou machin",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Et toi machin, tu ressembles à quoi ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ils étaient pas là à la création de l'ère du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Quand la Région d'l'Ouest est devenue autonome, ça ils s'en tapent !",
+          "rhyme":"ap",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Alors, fous l'son à fond et respecte un peu le truc",
+          "rhyme":"yk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"C'est pas de la house genre Ibiza on n'a pas baissé notre froc",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Y'a du fric à se faire : je vais pas cracher dans la soupe",
+          "rhyme":"up",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Je crois que même Noir Désir y z'ont signé sur une major",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Et j'ai du temps à rattraper sur les putains d'pistonnés",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Qui s'la coulent douce dans les boîtes en train de se curer le nez",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Et si y en a qui font des critiques négatives sur l'album...",
+          "rhyme":"Om",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Eh ben, eh ben, eh ben c'est pas bien !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Alors paraît qu'il y'a un buzz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Sur le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"Le truc qui t'fracasse la tête à base de caisses claires qui claquent",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"Tu veux l'truc qui t'prend aux couilles ?",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"Écoute le Stupeflip Crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"Mangu, MC Salo, Cadillac",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDBDEFAGHIJJKBLMNOPNO",
+      "rhyme_vowel":"ABCDBDADAEFEGGEBHDFDFFD"
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Don't talk to me!",
+          "rhyme":"@",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(Yo, yo)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"These motherfuckers don’t understand",
+          "rhyme":"#d",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"These motherfuckers just don’t feel me, son",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Eh yo, King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"I'm motherfuckin' angry, these motherfuckers...",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"These motherfuckers don't know",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Turn the motherfucking mic up",
+          "rhyme":"9p",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"I'm fuckin' hungry (Bring the shit)",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"I'm fuckin' hungry (The shit motherfucker)",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Give me a fucking greek sandwich",
+          "rhyme":"itS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"I need a fucking greek sandwich",
+          "rhyme":"itS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"With a lot of fucking onions",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Give me a greek sandwich with a lot of fucking onions!",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"S'il vous plait!",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"You motherfuckers!",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"This is Stupeflip and Mangu",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"You motherfuckin' stupid motherfuckers",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFGHIIJJDDKFEF",
+      "rhyme_vowel":"ABCDEFGFHHHHDDIFEF"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "song_id":226166,
+  "title":"Les cages en métal",
+  "language":"fr",
+  "lyricists":[
+    1019559
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Aaaaaaaaah!",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Ah ah ah ah ah ah!",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"On va faire du pognon avec celle-là!",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"On va faire du pognon avec celle-là!",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"4",
+          "text":"On veut du poignon!",
+          "rhyme":"$",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"5",
+          "text":"Du pognon!",
+          "rhyme":"$",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"6",
+          "text":"On veut du pognon!",
+          "rhyme":"$",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"7",
+          "text":"On va faire du pognon avec celle-là!",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"8",
+          "text":"Avec celle-là on va faire du pognon!",
+          "rhyme":"$",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"9",
+          "text":"Ah ah ah!",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"10",
+          "text":"Réveille-toi",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"11",
+          "text":"Et il- il est- tr-, il est trop fort, c'est le château méchant, c'est un mastodonte... musculaire... tu vois ?",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"AAAABBBABAAA",
+      "rhyme_vowel":"AAAABBBABAAA"
+    }
+  ]
+}

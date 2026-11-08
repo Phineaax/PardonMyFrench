@@ -1,0 +1,223 @@
+{
+  "song_id":7994784,
+  "title":"Gluô",
+  "language":"fi",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"cris",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Hou ! Ha !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBA",
+      "rhyme_vowel":"ABCBA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"cris",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hou ! Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Ha ! Heille !",
+          "rhyme":"Ej",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Hou ! Ha ! Hou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABABABABABABABAB",
+      "rhyme_vowel":"ABABABABABABABAB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ouh là là là là",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Hin hin",
+          "rhyme":"in",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Dédicaces",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"(Non, non)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Pascal",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Mh mh",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Treizième section",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Chamar, Gomez",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Pzac (Pzac, Pzac...)",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFAGHA",
+      "rhyme_vowel":"ABCADAAEFA"
+    }
+  ]
+}

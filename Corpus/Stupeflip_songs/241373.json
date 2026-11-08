@@ -1,0 +1,130 @@
+{
+  "song_id":241373,
+  "title":"Présentation du Crou",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salut. Je te présente le crou Stupéflip",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Formé en 1972, le groupe se compose de trois membres :",
+          "rhyme":"#bR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Flip, l'âme damnée du groupe, sans arrêt sous pression",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"(d'où son pseudonyme)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Pop Hip, véritable tête de turc du groupe, qui veut absolument faire du rock n'roll",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ainsi que King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"King Ju, ayant subi de sérieux traumatismes durant son enfance",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Se servira du Crou Stupéflip pour régler ses comptes avec la société",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Le Crou Stupeflip est là, entre autres, pour terroriser la population",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Et par là-même instaurer une nouvelle ère : l'ère du Stup (l'ère du Stup)",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Je tiens à signaler à mon auditoire que j'ai actuellement un pistolet collé sur la tempe",
+          "rhyme":"#p",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Je crains pour ma... (Coups de feu)",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFGHCIJK",
+      "rhyme_vowel":"ABCDEFBGCFBH"
+    },
+    {
+      "section_id":"section_1",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Stupéflip, truc stupide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Qui tape dans l'bide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Trop d'vin",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Trop d'joints",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Et voilà l'résultat",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBC",
+      "rhyme_vowel":"AABBC"
+    }
+  ]
+}

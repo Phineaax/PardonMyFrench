@@ -1,0 +1,549 @@
+{
+  "song_id":98375,
+  "title":"Gem lé moch’",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'aime les pauv' meufs qui rouillent",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Maquillage qui part en couille",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tronche en ratatouille",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Cou qui fout la trouille",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Et cul d'citrouille",
+          "rhyme":"uj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Celles qu'ont un truc qui foire",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Qui font chialer les miroirs",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Tête d'arrosoir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Qui font peur dans l'noir le soir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Seules au bar",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"J'aime celles qui sont toutes cassées",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Les trop grosses et les ratées",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Les ravagées toutes ridées",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Café clope au p'tit déjeuner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"J'aime celles qui sont plus toutes belles",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Qui s'font pousser les aisselles",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"37 ans toujours pucelles",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Mais des yeux d'veau qui t'ensorcèlent",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"J'aime les filles qui s'laissent aller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"Feu au cul et mal fringuées",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"Odeur de sueur et gros nénés",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"Disposées à tout essayer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"J'aime celles qui s'prennent pas la tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"23",
+          "text":"Peau d'orange et tartiflette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"24",
+          "text":"Cuisseau d'porc, nez en trompette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"25",
+          "text":"Et prêtes à faire des galipettes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"26",
+          "text":"[Refrain] (x2) :",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"27",
+          "text":"Gem lé moch'",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"28",
+          "text":"Les vieilles sous les yeux qu'ont des poches",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"29",
+          "text":"Gem lé moch'",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"30",
+          "text":"Les grosses avec de la brioche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"31",
+          "text":"Gem lé moch'",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"32",
+          "text":"Les thons du poil sur les guibolles",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"33",
+          "text":"Gem lé moch'",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"34",
+          "text":"Les monstres qu'ont pas b'soin d'antivol",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAABBBBBCCCCDDDDCCCCEEEEFGHGHGIGI",
+      "rhyme_vowel":"AAAAABBBBBCCCCDDDDCCCCDDDDEFFFFFFFF"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'les aime pas trop malhabiles",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"'vec sous les bras des auréoles",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je les veux grosses à la peau molle",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et qui s'en branle du danacol",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Thon qui passe tu m'intéresses",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Laisse ton phone et ton adresse",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"J't'ai acheté une jolie laisse",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Avec toi je f'rai des prouesses",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ouais bien sûr c'est plus facile",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Mais elles sont toutes vachement plus cool",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Du p'tit boudin au nez qui coule",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Au gros tas d'boue qui fend la foule",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"J'les trouve patientes, touchantes, pas chiantes et attachantes",
+          "rhyme":"#t",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Pas d'pression elles sont mignonnes",
+          "rhyme":"On",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Et bien plus bonnes que toutes ces connes",
+          "rhyme":"On",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Fille moche t'as la classe",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Et j'adore ton postérieur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"N'écoute pas toutes ces connasses",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Qui prennent ce p'tit air supérieur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"Toi t'as du sex appeal",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"Et t'es bonne comme un flan coco",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"J'te relaisse mon numéro",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"Appelle-moi après ton boulot",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBBCCCCADDDEFFGHGHAIII",
+      "rhyme_vowel":"ABBBCCCCADDDEBBFGFGAHHH"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ouais ma'mselle moche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Viens qu'j'te claque une galoche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"T'as la top classe pupuce",
+          "rhyme":"ys",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"'vec ta dégaine d'ananas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Et même si tu sues sous l'pif",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Comme la p'tite Karen Cher**",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Bah y a plus d'place dans l'soutif",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Quand tu ondules sous Lexomil",
+          "rhyme":"il",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Moi j'te trouve formidable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Et trop mega extraordinaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Et tes p'tites œillades bovines",
+          "rhyme":"in",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"M'ont transporté vers la Lumière",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Qu'tu sois p'tit bonnet au cul bas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Que tu sois maigre aux grands bras",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Que tu sois ronde avec des couettes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Ça m'dérange absolument pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Toi t'as l'look cocotte",
+          "rhyme":"Ot",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Et j'aime tes p'tits boutons dans l'dos",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"J'adore ta fine moustache",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"19",
+          "text":"Et quand t'imites le cachalot",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"20",
+          "text":"T'as du style, t'as du chien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"21",
+          "text":"Toujours libre pas de copain ?",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"22",
+          "text":"T'es pas chiante et je t'aime bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"23",
+          "text":"Ça t'brancherait qu'on s'voit demain ?",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDEDFGEHECCICJKLKMMMM",
+      "rhyme_vowel":"AABCDEDDCEDECCECAFCFGGGG"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    }
+  ]
+}

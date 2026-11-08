@@ -1,0 +1,25 @@
+{
+  "song_id":2938110,
+  "title":"Interlude 2",
+  "language":"en",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Terror Maxi",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    }
+  ]
+}

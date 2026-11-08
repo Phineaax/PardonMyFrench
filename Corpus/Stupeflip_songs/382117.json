@@ -1,0 +1,295 @@
+{
+  "song_id":382117,
+  "title":"Argent",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Argent,  mon ami, tu n'es pas très fidèle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et tu n'es pas souvent là quand j'ai vraiment besoin de toi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Mais où es-tu Argent quand mon frigo fait pipi ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Quand j'ai beaucoup trop perçu mon ami le RMI",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCC",
+      "rhyme_vowel":"ABCC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Argent, je t'aurais avec ta couleur bizarre",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sans que j'ai à faire le canard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Regarde moi je ne suis pas transparent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et prends un air intelligent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Argent Argen-ent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBB",
+      "rhyme_vowel":"AABBB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Argent, je te remarque quand t'es plus avec moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mais la plupart du temps, j'en ai rien à foutre de toi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tu t'incrustes dans ma tête pourtant j'tai pas invité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et tu m'as bien nargué les jours où j'ai pas pu payer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABB",
+      "rhyme_vowel":"AABB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Argent, je t'aurais avec ta couleur bizarre",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sans que j'ai à faire le canard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Regarde moi je ne suis pas transparent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et prends un air intelligent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Argent Argen-ent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBB",
+      "rhyme_vowel":"AABBB"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Argent pov' nul, tu m'fais un peu pitié",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Pi t'as pas l'air très malin vec' ta dégaine en papier",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Alors rampe comme un chien et surtout excuse-toi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Toute façon t’existeras plus quand j'aurais plus besoin d'toi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABB",
+      "rhyme_vowel":"AABB"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Argent, je t'aurais avec ta couleur bizarre",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sans que j'ai à faire le canard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Regarde moi je ne suis pas transparent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et prends un air intelligent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Argent, je t'aurais avec ta couleur bizarre",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Sans que j'ai à faire le canard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Regarde moi je ne suis pas transparent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Maintenant baisses les yeux",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Et prends un air intelligent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABCB",
+      "rhyme_vowel":"AABBAABCB"
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le règlement de votre facture",
+          "rhyme":"yR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Du 14\/10\/2003 d'un montant de 168,45 euros",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ne nous est pas encore parvenu",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Sans nouvelles de votre part avant le 17\/11\/2003",
+          "rhyme":"@",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Nous serions malheureusement dans l'obligation de limiter très fortement nos fournitures ou de les suspendre",
+          "rhyme":"#dR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je vous rappelle que les locataires devront...",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEF",
+      "rhyme_vowel":"ABACDE"
+    }
+  ]
+}

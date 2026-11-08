@@ -1,0 +1,451 @@
+{
+  "song_id":10953218,
+  "title":"L.A.R.",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"- Vas-y t'écoutes quoi là ? C'est le dernier Stup ? Vas-y fais-moi écouter ! Vas-y fais-moi écouter s'il te plait... C'est le dernier Stup là ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"- Non",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"- Fais-moi écouter deux secondes !",
+          "rhyme":"$d",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"- Mais non putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCD",
+      "rhyme_vowel":"ABBC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Je fais partie du stup, section 4577",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Extermine les violents, les soupes au lait, les gens qui s'excitent",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les gentils ? Ça les excèdent",
+          "rhyme":"Ed",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"C'est leurs cœurs qui s'oxydent",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Qu'il décède",
+          "rhyme":"Ed",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"T'façon maintenant c'est moi qui décide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ça les obsèdе, le flip, ses 75 divisions",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Altruiste à 100%, jamais là pour divisеr",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ma rythmique te frappe, premier sur l'indépendance",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Les mioches hochent la tête, le son qui fait la différence",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDCEAFGG",
+      "rhyme_vowel":"ABCDCBAEDD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"On est le Flip Flip Crou, terroriste bienveillant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les autres trucs c'est chiant, va falloir vous réveiller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Car nous sommes l'Understup, la ligue anti-réactionnaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le Stup persévère, stoppera les guerres sur la Terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On est le Flip Flip Crou, terroriste bienveillant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les autres trucs c'est chiant, va falloir vous réveiller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Car nous sommes l'Understup, la ligue anti-réactionnaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Le Stup persévère, stoppera les guerres sur la Terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCABCC",
+      "rhyme_vowel":"ABCCABCC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Y'a des gens qui pensent que l'être humain il est mauvais",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Qu'il est méchant, qu'il changera jamais, bref, qu'il est mauvais",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Si les gens pensent ça, on va droit vers la guerre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et si on va droit vers la guerre y'a plus qu'à faire ses prières",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Alors pense pas ça ! Pense pas que l'homme est mauvais",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Il est bon comme moi, à part quand j'étais enfant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Décapitais les mouches, torturais les fourmis",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Oui, je me vengeais sur ce qui était plus petit",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBACDD",
+      "rhyme_vowel":"AAAAABCC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"On est le Flip Flip Crou, terroriste bienveillant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les autres trucs c'est chiant, va falloir vous réveiller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Car nous sommes l'Understup, la ligue anti-réactionnaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le Stup persévère, stoppera les guerres sur la Terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On est le Flip Flip Crou, terroriste bienveillant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les autres trucs c'est chiant, va falloir vous réveiller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Car nous sommes l'Understup, la ligue anti-réactionnaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Le Stup persévère, stoppera les guerres sur la Terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCABCC",
+      "rhyme_vowel":"ABCCABCC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le biz amène au chaos",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Avide et matérialiste",
+          "rhyme":"ist",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Brute à visage humain",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Taré, prédateur surréaliste",
+          "rhyme":"ist",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Le stup est idéaliste",
+          "rhyme":"ist",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Tendu comme une catapulte",
+          "rhyme":"ylt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"T'écoutes le groupe culte",
+          "rhyme":"ylt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Qui refuse le monde adulte",
+          "rhyme":"ylt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Fuck les discours réac'",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Pilier de comptoir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Chauffeur de taxi",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Mon son te fous des claques",
+          "rhyme":"ak",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Tes arguments sont dépassés",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"J'taf à la menuiserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"J'fais dans la bisounourserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Et les traders d'la bourserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Tous baisés dès la nurserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBBDDDEFGEHGGGG",
+      "rhyme_vowel":"ABCBBDDDEEBEFBBBB"
+    },
+    {
+      "section_id":"section_6",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"On est le Flip Flip Crou, terroriste bienveillant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les autres trucs c'est chiant, va falloir vous réveiller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Car nous sommes l'Understup, la ligue anti-réactionnaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le Stup persévère, stoppera les guerres sur la Terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On est le Flip Flip Crou, terroriste bienveillant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les autres trucs c'est chiant, va falloir vous réveiller",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Car nous sommes l'Understup, la ligue anti-réactionnaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Le Stup persévère, stoppera les guerres sur la Terre",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCABCC",
+      "rhyme_vowel":"ABCCABCC"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "song_id":7362715,
+  "title":"La Formule Secrète",
+  "language":"fr",
+  "lyricists":[
+    1019559
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"À base de fraises Tagada",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Et des soirées comme quand on était p'tits",
+          "rhyme":"i",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Allez, à bientôt, les lapins !",
+          "rhyme":")",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Pour faire un tube qui claque",
+          "rhyme":"ak",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Faut une ritournelle sympa",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Un p'tit synthé moqueur au goût de barbe à papa",
+          "rhyme":"a",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"Un truc qui passe en boucle à midi dans les brass'ries",
+          "rhyme":"i",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"4",
+          "text":"Une mélodie sucrée, un truc pas trop réfléchi",
+          "rhyme":"i",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"5",
+          "text":"Pour faire un tube qui claque",
+          "rhyme":"ak",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"6",
+          "text":"Faut un beat bien cadencé",
+          "rhyme":"e",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"7",
+          "text":"Un truc qui tape et frappe, qui donne envie de gigoter",
+          "rhyme":"e",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"8",
+          "text":"Un truc simple et malin, trois couplets et trois refrains",
+          "rhyme":")",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"9",
+          "text":"Qui restent dans la tête du soir jusqu'au matin",
+          "rhyme":")",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABBCCADDEE",
+      "rhyme_vowel":"AAABBACCDD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Mais moi, Pop-Hip, j'ai la formule secrète",
+          "rhyme":"Et",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Pour faire danser dans les bals et les fêtes",
+          "rhyme":"Et",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Pour faire bouger les gens, petits et grands",
+          "rhyme":"#",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"De 7 à 77 ans",
+          "rhyme":"#",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"AABB",
+      "rhyme_vowel":"AABB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Pour faire un tube qui claque",
+          "rhyme":"ak",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Faut un-",
+          "rhyme":"(",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    }
+  ]
+}

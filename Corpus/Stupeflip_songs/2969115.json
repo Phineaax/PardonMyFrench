@@ -1,0 +1,457 @@
+{
+  "song_id":2969115,
+  "title":"Crou Anthem",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Motherfucker...)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(Hardcore)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le CROU ne s'est jamais crashé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Se la pète pas, Manu Katché",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C'est pas faux comme le catch",
+          "rhyme":"atS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Jamais kitsch et toujours scotché",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Tu te chies dessus, ce style tue",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"C'est vieux comme Chantal Ladesou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Le hardcore du CROU te coupes la chique tu t'demandes c'qui a dessous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"C'est au dessus, c'est ouf ça ! Ça déchire faut que t'écoutes ça !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Tu kiffes, tu kiffes pas, m'en bat les steaks m'en fout de ça",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"T'es fou de ça ! Tu t’astique , le CROU te bouffes, te mastique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Y'a pas de flop, c'est non-stop, j'débouche tes feuilles au Destop, Bunny",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABACDDEEFG",
+      "rhyme_vowel":"AABACDDBBEE"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Qu'est-ce que tu peux faire contre le Stupeflip CROU",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(Hardcore)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"On a la méthode et le son qui rend fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le hardcore du CROU te coupes la chique tu t'demandes c'qui a dessous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On a la méthode et le son qui rend fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"(Ça déchire sa mère ce truc !)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Qu'est-ce que tu peux faire contre le Stupeflip CROU",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Le hardcore du CROU te coupes la chique tu t'demandes c'qui a dessous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABAAABAA",
+      "rhyme_vowel":"ABAAABAA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Les zig aïe, je les zigouille, je les nique j'en fait des bonzaïs",
+          "rhyme":"aj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et les canailles, se taillent quand le CROU pose avec ses entrailles",
+          "rhyme":"aj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les 60' c'était naze, je préfère Ilie Năstase",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les phases de Frukwan, Geto Boys ou les Gravediggaz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je lui à l'aise en cortèze, tue comme en 93",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"J'suis king'ju le fossile celui qui rap avec ses prothèses",
+          "rhyme":"Ez",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"J'suis le croc-mort, trop flippant, l'épouvantail mort-vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"L'égocentrique freak qui nique ta clique se barre en s'marrant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCDCC",
+      "rhyme_vowel":"AAAABCBB"
+    },
+    {
+      "section_id":"section_5",
+      "type":"sandrine",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"The CROU Stupeflip is terrifying",
+          "rhyme":"iN",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"That’s all about rage, straight motherfucker",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"I’m Sandrine Cacheton",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"The Crou's spoke woman",
+          "rhyme":"an",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"If I kick the shit, rule like ODB and Method Man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDE",
+      "rhyme_vowel":"ABCDE"
+    },
+    {
+      "section_id":"section_6",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Qu'est-ce que tu peux faire contre le Stupeflip CROU",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(Hardcore)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"On a la méthode et le son qui rend fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le hardcore du CROU te coupes la chique tu t'demandes c'qui a dessous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On a la méthode et le son qui rend fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"(Ça déchire sa mère ce truc !)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Qu'est-ce que tu peux faire contre le Stupeflip CROU",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"(Hardcore)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABAAABAB",
+      "rhyme_vowel":"ABAAABAB"
+    },
+    {
+      "section_id":"section_7",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Mologué, pologué, exikitapélogué belmaksakt",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tepac élimatol sépascséploqué",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Drag' bonjé pélicalé ; drag block sélémokéfloqué",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tré pa brin dorgué",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Beletek sambel, catapesta-blogué",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Felenastoî, capitan doî",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Esteros quiban fallaban' doî, qué pastor cabo mystère au choc' pisskelélémanloî",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Alytoî! alytoî!",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Stup Krou drine golaille, étoparafin' étoparabaill' guélébaille draille tit' goulaille...",
+          "rhyme":"aj",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Stup Crou mec !",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBBBCCCDE",
+      "rhyme_vowel":"ABBBBCCCDE"
+    },
+    {
+      "section_id":"section_8",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Qu'est-ce que tu peux faire contre le Stupeflip CROU",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(Hardcore)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"On a la méthode et le son qui rend fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le hardcore du CROU te coupes la chique tu t'demandes c'qui a dessous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On a la méthode et le son qui rend fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"(Ça déchire sa mère ce truc !)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Qu'est-ce que tu peux faire contre le Stupeflip CROU",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Le hardcore du CROU te coupes la chique tu t'demandes c'qui a dessous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABAAABAA",
+      "rhyme_vowel":"ABAAABAA"
+    },
+    {
+      "section_id":"section_9",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Hardcore)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    }
+  ]
+}

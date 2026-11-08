@@ -1,0 +1,410 @@
+{
+  "song_id":8101455,
+  "title":"Salope de 2006",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    },
+    {
+      "section_id":"section_1",
+      "type":"ouais,",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Hahahahahahahahahaha...",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"T'as 35 ans, tu vis à Neuilly",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Le soir avec tes amis, tu t'éclates dans ta Mini",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu flippes pour tes deux bagnoles, ta résidence secondaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"J'aimerais te voir te faire latter sur un quai de RER",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"T'es vieux, t'as la haine des jeunes",
+          "rhyme":"9n",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'as connu les trente glorieuses",
+          "rhyme":"2z",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Pour toi c'était bien plus fun",
+          "rhyme":"yn",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"T'appelles sans arrêt les flics parce que ta vie est trop vite",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Et dans la bouffe de ton caniche, je fout'rai bien du pesticide",
+          "rhyme":"id",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBCDAEFGHI",
+      "rhyme_vowel":"ABBCDAEFGBB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAA",
+      "rhyme_vowel":"AAAAA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"T'as 22 ans et t'es à Sciences Po",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"T'es vraiment trop méprisant, arrogant comme un cabot",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu veux une société d'l'effort mais toi t'auras du boulot",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Placé par papa, maman",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Bien au chaud dans un bureau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Tu vis dans un bled à la cambrouse",
+          "rhyme":"uz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Chez toi y'a pas d'étranger",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Et toi pourtant t'as la frousse",
+          "rhyme":"us",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Le soir tu fermes tes volets parce que t'as peur du noir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"T'as trop maté la télé, TF1 et L'Droit de Savoir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBBCBADEFGG",
+      "rhyme_vowel":"ABBBCBADEDAA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAA",
+      "rhyme_vowel":"AAAAA"
+    },
+    {
+      "section_id":"section_6",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tu galères et t'es au RMI",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Tu t'fais traiter comme une merde, alors t'es dev'nu aigri",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'en veux à la Terre entière, alors tu t'venges comme tu peux",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Arrête d'envier ton voisin, tu verras ça ira mieux",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"C'est sûr pour moi : les gens tu t'en fous",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Et t'as aucune compassion, des idées tout-à-l'égout",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Et que tu sois riche ou pauvre, tu nous inspires le dégoût",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Écoute Lily d'Pierre Perret, les poulaillers d'acajou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBCCADDDD",
+      "rhyme_vowel":"ABBCCADDDD"
+    },
+    {
+      "section_id":"section_7",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAA",
+      "rhyme_vowel":"AAAAA"
+    },
+    {
+      "section_id":"section_8",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Salaud de droite",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAA",
+      "rhyme_vowel":"AAAA"
+    }
+  ]
+}
