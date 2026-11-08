@@ -15,24 +15,28 @@
           "n":"0",
           "text":"J'adore ton look 80 et tes yeux qui jettent des lasers",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"J'aime ton style américain, je ferai tout pour te plaire (te plaire, te plaire, te plaire)",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Les mecs t'en ont fait baver, t'as pas toujours été heureuse",
           "rhyme":"2z",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"J'aimerais te faire oublier, j'aimerais te rendre amoureuse ('moureuse, 'moureuse, 'moureuse)",
           "rhyme":"2z",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -48,24 +52,28 @@
           "n":"0",
           "text":"Oh Gaëlle, si tu savais comme j'en ai ma claque",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"De cette vie qui part en slip et me laisse le cœur en vrac",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Toi au moins tu me comprends, toi au moins tu me rassures",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Pour guérir mes blessures, j'ai besoin d'une femme mature",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -81,24 +89,28 @@
           "n":"0",
           "text":"J'sais bien qu't'es pas un canon et moi j'sais bien qu'j'suis pas Brad Pitt",
           "rhyme":"it",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"T'as bientôt 47 ans mais toi au moins tu m'excites (m'excites, m'excites, m'excites)",
           "rhyme":"it",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Quand je suis seul avec toi, j'adore ta faculté d'écoute",
           "rhyme":"ut",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Toi au moins tu me comprends alors que les aut'es s'en foutent (s'en foutent, s'en foutent, s'en foutent)",
           "rhyme":"ut",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -114,24 +126,28 @@
           "n":"0",
           "text":"Oh Gaëlle, si tu savais comme j'en ai ma claque",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"De cette vie qui part en slip et me laisse le cœur en vrac",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Toi au moins tu me comprends, toi au moins tu me rassures",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Pour guérir mes blessures, j'ai besoin d'une femme mature",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -147,24 +163,28 @@
           "n":"0",
           "text":"J'ai traîné sur Internet, ça m'a bousillé la cafetière",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Ma vie est triste et morose, je suis souvent solitaire ('litaire, 'litaire, 'litaire)",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Je s'rai doué, attentif, avec toi je f'rai des efforts",
           "rhyme":"OR",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Je ne suis plus dépressif quand j'suis tout contre ton corps (ton corps, ton corps, ton corps)",
           "rhyme":"OR",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -180,24 +200,28 @@
           "n":"0",
           "text":"Oh Gaëlle, si tu savais comme j'en ai ma claque",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"De cette vie qui part en slip et me laisse le cœur en vrac",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Toi au moins tu me comprends, toi au moins tu me rassures",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Pour guérir mes blessures, j'ai besoin d'une femme mature",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -213,6 +237,7 @@
           "n":"0",
           "text":"Oh Gaëlle",
           "rhyme":"El",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],

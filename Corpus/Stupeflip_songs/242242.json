@@ -15,18 +15,21 @@
           "n":"0",
           "text":"I got no friends but I carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"I got no job but I carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"I've lost my dreams but I carry on, carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -42,24 +45,28 @@
           "n":"0",
           "text":"I got to carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Carry on, carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"I got to carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Carry on, carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -75,18 +82,21 @@
           "n":"0",
           "text":"I got no friends but I carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"I got no job but I carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"I've Lost my dreams but I carry on, carry on",
           "rhyme":"$",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],

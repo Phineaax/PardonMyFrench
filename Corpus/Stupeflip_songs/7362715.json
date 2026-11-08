@@ -15,18 +15,21 @@
           "n":"0",
           "text":"À base de fraises Tagada",
           "rhyme":"a",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Et des soirées comme quand on était p'tits",
           "rhyme":"i",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Allez, à bientôt, les lapins !",
           "rhyme":")",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -42,60 +45,70 @@
           "n":"0",
           "text":"Pour faire un tube qui claque",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Faut une ritournelle sympa",
           "rhyme":"a",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Un p'tit synthé moqueur au goût de barbe à papa",
           "rhyme":"a",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Un truc qui passe en boucle à midi dans les brass'ries",
           "rhyme":"i",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"4",
           "text":"Une mélodie sucrée, un truc pas trop réfléchi",
           "rhyme":"i",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"5",
           "text":"Pour faire un tube qui claque",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"6",
           "text":"Faut un beat bien cadencé",
           "rhyme":"e",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"7",
           "text":"Un truc qui tape et frappe, qui donne envie de gigoter",
           "rhyme":"e",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"8",
           "text":"Un truc simple et malin, trois couplets et trois refrains",
           "rhyme":")",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"9",
           "text":"Qui restent dans la tête du soir jusqu'au matin",
           "rhyme":")",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -111,24 +124,28 @@
           "n":"0",
           "text":"Mais moi, Pop-Hip, j'ai la formule secrète",
           "rhyme":"Et",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Pour faire danser dans les bals et les fêtes",
           "rhyme":"Et",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Pour faire bouger les gens, petits et grands",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"De 7 à 77 ans",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -144,12 +161,14 @@
           "n":"0",
           "text":"Pour faire un tube qui claque",
           "rhyme":"ak",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Faut un-",
           "rhyme":"(",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],

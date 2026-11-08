@@ -15,30 +15,35 @@
           "n":"0",
           "text":"\"Mais, moi, j'aime bien aussi, Pop-Hip",
           "rhyme":"ip",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Et puis, il est mort mais il faudrait le ressusciter",
           "rhyme":"e",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"Pourquoi tu ressuscites pas Pop-Hip ?\"",
           "rhyme":"ip",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Pop-Hip",
           "rhyme":"ip",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"4",
           "text":"Réveille-toi",
           "rhyme":"a",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -54,54 +59,63 @@
           "n":"0",
           "text":"Perdu dans mon enfer, j'reçois, du monastère",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Des menaces, des SMS",
           "rhyme":"Om",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"J'visais le haut d'l'affiche, faire de la variétoche",
           "rhyme":"OS",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"À l'abri dans ma forteresse",
           "rhyme":"Es",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"4",
           "text":"J'ai pourri les albums 'vec mes sous qui t'assoment",
           "rhyme":"um",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"5",
           "text":"Bubble gum",
           "rhyme":"Om",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"6",
           "text":"J'voulais pas faire mal",
           "rhyme":"al",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"7",
           "text":"Mais j'ai vendu mon âme, c'est la gloire qui m'anime",
           "rhyme":"im",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"8",
           "text":"J'ai visé l'international",
           "rhyme":"al",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -117,24 +131,28 @@
           "n":"0",
           "text":"J'suis Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"J'suis Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -150,60 +168,70 @@
           "n":"0",
           "text":"En enfer, je m'ennuie, dans la lave, je me noie",
           "rhyme":"a",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Plus de fête",
           "rhyme":"Et",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"J'ai des hématomes",
           "rhyme":"om",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"J'voulais sauver mon âme pour éviter les drames",
           "rhyme":"am",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"4",
           "text":"Mais, la nuit, j'erre comme un fantôme",
           "rhyme":"om",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"5",
           "text":"J'voudrais ressusciter, être dans le Top 50",
           "rhyme":"Op",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"6",
           "text":"Faire le buzz",
           "rhyme":"az",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"7",
           "text":"Revenir sur Terre",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"8",
           "text":"Ma tête est mise à prix dans 3 systèmes solaires",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"9",
           "text":"J'connais pas les commanditaires",
           "rhyme":"ER",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -219,48 +247,56 @@
           "n":"0",
           "text":"J'suis Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"1",
           "text":"Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"2",
           "text":"J'suis Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"3",
           "text":"Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"4",
           "text":"J'suis Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"5",
           "text":"Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"6",
           "text":"J'suis Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         },
         {
           "n":"7",
           "text":"Pop-Hip le mort-vivant",
           "rhyme":"#",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
@@ -276,6 +312,7 @@
           "n":"0",
           "text":"Uniquement sur 72.8",
           "rhyme":"yR",
+          "persona":"pophip",
           "persona_id":"pophip"
         }
       ],
