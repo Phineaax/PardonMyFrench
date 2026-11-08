@@ -1,0 +1,386 @@
+{
+    "song_id": 18007,
+    "title": "Real Raw",
+    "language": "en",
+    "lyricists": [
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "With yellow eyes, my green face, my pink and white afro",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm no toy kid, your style is made by Hasbro",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "2",
+                    "text": "Gnip Gnop, you think you got that real hip-hop",
+                    "rhyme": "Op",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "3",
+                    "text": "I soar the chart so quickly, watched your album flop",
+                    "rhyme": "Op",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm Doctor Octo', curlin' weights, tourin' rhinos",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "5",
+                    "text": "Liftin' horses, throwin' cows at your fake forces",
+                    "rhyme": "ORs",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "6",
+                    "text": "You know my gold style, rabbit fur coat style",
+                    "rhyme": "il",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "7",
+                    "text": "You be freezin' with the flu watch you keep sneezin'",
+                    "rhyme": ")",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "8",
+                    "text": "Like Breezly Brewin', your style I'mma have to ruin",
+                    "rhyme": ")",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "9",
+                    "text": "Chop up your tactics, you gimmick groups need to practice",
+                    "rhyme": "is",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "10",
+                    "text": "You beat it, like Michael Jackson in my atmosphere",
+                    "rhyme": "eR",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "11",
+                    "text": "Gerbils for rectums, I break you off like Richard Gere",
+                    "rhyme": "eR",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "12",
+                    "text": "I'm so fantastic, your metal fist is still plastic",
+                    "rhyme": "ik",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "13",
+                    "text": "Compelled with no threats, your rhymes bounce off my shield",
+                    "rhyme": "ild",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "14",
+                    "text": "New York City, California, roll my Ampex reel",
+                    "rhyme": "El",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "15",
+                    "text": "No corny loops and assemble with Timberland boots",
+                    "rhyme": "uts",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "16",
+                    "text": "I'm strictly monster with turtlenecks like Frankenstein",
+                    "rhyme": ")",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "17",
+                    "text": "Drop that mic kid, you lost, so that ass is mine",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "hook",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "1",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "2",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "3",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "4",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "5",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "6",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "7",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "8",
+                    "text": "Superspeed",
+                    "rhyme": "id",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "9",
+                    "text": "Flowin'!",
+                    "rhyme": ")",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "10",
+                    "text": "\"Check it, check it\"",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "11",
+                    "text": "\"The rhythm is nice\"",
+                    "rhyme": "is",
+                    "persona": "Dr. Octagon"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Doctor Octo', mental disorder, person in alias",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "1",
+                    "text": "Fifty-five-six computer tracks on your ass cracks",
+                    "rhyme": "ak",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "2",
+                    "text": "Bellevue patient ignored your rhymes in the train station",
+                    "rhyme": "$",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "3",
+                    "text": "You don't want none, the vomit's on your cinnamon bun",
+                    "rhyme": "(",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "4",
+                    "text": "You still rappin' in the city talkin' pig latin",
+                    "rhyme": ")",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "5",
+                    "text": "In fact you no test, you tired man, won't you rest?",
+                    "rhyme": "Est",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "6",
+                    "text": "Take that sleep with NoDoz, that common style is cheap",
+                    "rhyme": "ip",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "7",
+                    "text": "You bought your mic cord, payola scams the Billboard",
+                    "rhyme": "ORd",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "8",
+                    "text": "Slots that's not hot, you settle for the nuts you got",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "9",
+                    "text": "Record releases, your crew is wack like chocolate Reese's",
+                    "rhyme": "ins",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "10",
+                    "text": "Urine stains are spread out, fly colours on your brains",
+                    "rhyme": ")",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "11",
+                    "text": "You beware, orangutans tappin' on your window",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "12",
+                    "text": "Bulls and coyotes, while roaches walk around your poodle",
+                    "rhyme": "odl",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "13",
+                    "text": "Like Shakespeare, genius thoughts pumpin' every year",
+                    "rhyme": "ER",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "14",
+                    "text": "MCs know, retire quick rap like Paul Monroe",
+                    "rhyme": "is",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "15",
+                    "text": "Joe C. Meriweather with blocks on your skin is clever",
+                    "rhyme": "e",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "16",
+                    "text": "Upright direction, I battle any yeast infection",
+                    "rhyme": "$",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "17",
+                    "text": "Put missiles to work, my needles in your midsection",
+                    "rhyme": "$",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "18",
+                    "text": "Hold upright, I burn your anus with the purple light",
+                    "rhyme": "ajt",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "19",
+                    "text": "Use up your power, make phone calls for an hour",
+                    "rhyme": "uR",
+                    "persona": "Dr. Octagon"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "hook",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "1",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "2",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "3",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "4",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "5",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "6",
+                    "text": "I get real raw",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "7",
+                    "text": "Change arrangements on your face",
+                    "rhyme": "as",
+                    "persona": "Dr. Octagon"
+                }
+            ]
+        }
+    ]
+}
