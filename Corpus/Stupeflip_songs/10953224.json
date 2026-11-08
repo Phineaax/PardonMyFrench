@@ -1,0 +1,799 @@
+{
+  "song_id":10953224,
+  "title":"Sauvé par l’arpégiator (SPA)",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Sauvé par l’arpégiator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Par l’impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas peur de la mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCC",
+      "rhyme_vowel":"AAAABBCC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Sauvé par l'arpégiator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas peur de la mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"(Ma musique)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCCD",
+      "rhyme_vowel":"AAAABBCCD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Elle est ma certitude",
+          "rhyme":"yd",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Me donne un courage fou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Combat ma solitude",
+          "rhyme":"yd",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Quand je suis dans mon trou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Elle m'hypnotise la tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Me rend intelligеnt",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Elle me fait faire la fêtе",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me fait aimer les gens",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Toujours je crois en elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Même quand elle m'laisse tomber",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Elle revient de plus belle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Pour me relever (Ma musique)",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"J'aurais rien fait sans elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Et elle n'a pas de prix",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Et quand elle m'ensorcelle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"C'est l'paradis",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABABCDEDFGFGFHFH",
+      "rhyme_vowel":"ABABCDEDCFCFCGCG"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Sauvé par l'arpégiator (Sauvé)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas peur de la mort (Ma musique)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sauvé par l'arpégiator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Pas peur de la mort (Come on) (Ma musique)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCCAAAABBCC",
+      "rhyme_vowel":"AAAABBCCAAAABBCC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Elle est ma liberté",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Elle me fait espérer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Elle me fera danser",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Quand j'suis désespéré (Ma musique)",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Elle est là dans mon cœur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"C'est pour moi comme ma sœur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Elle m'aide bien quand je pleure",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me soutient quand j'ai peur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Elle m'a ouvert les yeux",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Sans elle je s'rais capout",
+          "rhyme":"ut",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Elle rallum'ra le feu",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Quand j'en ai rien à fout' (Ma musique)",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Elle détruit mes angoisses",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Elle allume la lumière",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Quand je suis à la masse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"J'y vois plus clair",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBBBCDCEFGFG",
+      "rhyme_vowel":"AAAABBBBCDCDEFEF"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Sauvé par l'arpégiator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas peur de la mort (Ma musique)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sauvé par l'arpégiator (Sauvé)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Pas peur de la mort (Ma musique)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Me tire du néant (Yeah)",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCCAAAABBCC",
+      "rhyme_vowel":"AAAABBCCAAAABBCC"
+    },
+    {
+      "section_id":"section_6",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Parfois certaines personnes",
+          "rhyme":"On",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Voudraient la transformer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ils voudraient la salir",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et la manipuler (Ma musique)",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ils veulent faire du business",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Ils sont pas passionnés",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Mais personne la tient en laisse",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Elle s'laiss'ra pas bouffer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Elle va sauver le monde",
+          "rhyme":"$d",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"C'est notre seul espoir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Quand tout est trop immonde",
+          "rhyme":"$d",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Quand nous sommes dans le noir (Ma musique)",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Certains la banalisent",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"La noient sur Internet",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Voudraient lui faire la bise",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Mais c'est pas une starlette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBDBDBEFEFGHGH",
+      "rhyme_vowel":"ABCBDBDBEFEFCDCD"
+    },
+    {
+      "section_id":"section_7",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Sauvé par l'arpégiator (Sauvé)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas peur de la mort (Ma musique)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sauvé par l'arpégiator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Par l'impérator",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Jamais je n'ai tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Pas peur de la mort (Ma musique)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Je suis immortel",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Je me bats pour elle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Me tire du néant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Me rend vivant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCCAAAABBCC",
+      "rhyme_vowel":"AAAABBCCAAAABBCC"
+    },
+    {
+      "section_id":"section_8",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Sauvé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(Ma musique)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"(Ma musique)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"(Yeah, motherfucker)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"(Ma musique)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBBB",
+      "rhyme_vowel":"ABBBB"
+    }
+  ]
+}

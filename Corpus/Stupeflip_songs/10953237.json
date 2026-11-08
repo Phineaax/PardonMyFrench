@@ -1,0 +1,616 @@
+{
+  "song_id":10953237,
+  "title":"Flip Klub",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Dans le premier manifeste du C.R.O.U. il était question de reconstruction fragmentaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Nous verrons donc son implicite efficacité auprès des différentes couches composant la tetra-connexion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"(connexion)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Individu évidé de tout son sens est vidé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sa vie, un vide évident",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Où donc est ta vie d'avant ?",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as pas de copain d'avant ?",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Tu ne fais plus de lové",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Trop maté Sophie Davant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Tout ça fait pas saliver",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"C'est pas Garou \"Sous Le Vent\"",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Et si tu veux mon avis",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"On reprendra les devants",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Car le Stup еst ton ami",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Le C.R.O.U. te fout la pétoche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Y'еn a marre d'ces groupes de taches",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Aux sons du Stup tu t'attaches",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Tu trippes sur comme [?]",
+          "rhyme":"Om",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBBABABCBCDEEF",
+      "rhyme_vowel":"ABBBABABCBCDEED"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Si j'fais d'la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"C'est un p'tit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Toujours en mode chapî chapo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"À base d'H-I-P-H-O-P",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Qui a l'truc ? Qui a l'style ? Qui a vraiment compris ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Qui a saisi toutes les nuances à part quelques tout petits ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Si j'fais d'la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"C'est un p'tit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Toujours en mode chapî chapo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"À base d'H-I-P-H-O-P",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Qui a la clef du FLIP KLUB ? Et qui n'l'a pas ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et surtout qui saura vraiment ce qu'il y a dans le mystère au chocolat ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEEABCDFF",
+      "rhyme_vowel":"ABCDAAABCDEE"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le showbiz, que d'la baise",
+          "rhyme":"Ez",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Y'a pas d'rap de mayonnaise",
+          "rhyme":"Ez",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Pas d'voyou dans mon diocèse",
+          "rhyme":"Ez",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Sont pires que des métastases",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ça m'blase tous ces nazes",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Sont jamais francs du collier",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Gros sourire de prédateur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Et plans chelous dans le chéquier",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ça bafouille, ça s'emmêle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Intonation paternelle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Grosse major ou p'tit label",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Fous-moi ça à la poubelle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"J'fais mon son tranquillos",
+          "rhyme":"os",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Évitant les trucs qui lassent",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Prends-toi ça dans la face",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Spéculos est dans la place fils",
+          "rhyme":"is",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAABBCDCEEEEFGGH",
+      "rhyme_vowel":"AAABBCDCAAAAEBBF"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Si j'fais d'la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"C'est un p'tit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Toujours en mode chapî chapo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"À base d'H-I-P-H-O-P",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Qui a l'truc ? Qui a l'style ? Qui a vraiment compris ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Qui a saisi toutes les nuances à part quelques tout petits ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Si j'fais d'la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"C'est un p'tit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Toujours en mode chapî chapo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"À base d'H-I-P-H-O-P",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Qui a la clef du FLIP KLUB ? Et qui n'l'a pas ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et surtout qui saura vraiment ce qu'il y a dans le mystère au chocolat ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEEABCDFF",
+      "rhyme_vowel":"ABCDAAABCDEE"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le Stup faut pas les mettre on t'sent à un kilomètre",
+          "rhyme":"EtR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"C'est qui les maîtres ?",
+          "rhyme":"EtR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C'est les nôtres",
+          "rhyme":"otR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas d'bâtards chez mes apôtres",
+          "rhyme":"otR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Qui est neutre ? Quoi émettre ?",
+          "rhyme":"EtR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Dans l'concept tu t'empêtres",
+          "rhyme":"EtR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Prends la porte, t'es qu'un pitre",
+          "rhyme":"itR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Pas d'pitié si tu t'emportes",
+          "rhyme":"ORt",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Stup Salut, club privé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Bienveillance et dérivé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Faudra bien y arriver",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Mec t'empêcher de dériver",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"J'suis sans rivaux",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"J'suis ravi",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Check le Stup Charivari",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Mec le C.R.O.U. va te dévorer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Mais sans teuteu j'arrive a rien (chaud)",
+          "rhyme":")",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAACDEEEEFGGEH",
+      "rhyme_vowel":"AABBAACDEEEEBCCEF"
+    },
+    {
+      "section_id":"section_6",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Si j'fais d'la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"C'est un p'tit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Toujours en mode chapî chapo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"À base d'H-I-P-H-O-P",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Qui a l'truc ? Qui a l'style ? Qui a vraiment compris ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Qui a saisi toutes les nuances à part quelques tout petits ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Si j'fais d'la musique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"C'est un p'tit peu pour m'échapper",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Toujours en mode chapî chapo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"À base d'H-I-P-H-O-P",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Qui a la clef du FLIP KLUB ? Et qui n'l'a pas ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et surtout qui saura vraiment ce qu'il y a dans le mystère au chocolat ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"(Rou-Rouuuuuuu)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEEABCDFFG",
+      "rhyme_vowel":"ABCDAAABCDEEF"
+    },
+    {
+      "section_id":"section_7",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le cris du Lapin dans la nuit",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    }
+  ]
+}

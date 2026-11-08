@@ -1,0 +1,451 @@
+{
+  "song_id":171757,
+  "title":"Check Da Crou",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"GrrOoOoOoWwW !",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"MOTHERFUCKA",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Aujourd'hui c'est comme d'habitude je n'ai rien à dire j'ai rien à faire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'attends que s'écoulent les jours que s'écoule le temps jusqu'au cimetière",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Le biz, m'a pressé comme une serpillière",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'suis pas un petit bobo choyé par sa mère, aidé par son père",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Aujourd'hui j'ai refais la queue à la queue-leu-leu derrière les gens",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je m'dis qu'ils sont pas comme moi, mais sont comme moi, c'est un peu rageant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"J'aimerais me dire que j'suis bien mieux que ce petit con fait de muscles et d'os",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Mais je ne suis qu'un petit merdeux-deux, faudrait qu'je bosse",
+          "rhyme":"Os",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABBCD",
+      "rhyme_vowel":"AAAABBCD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Crou, cracra, le crou qui creuse comme une pelleteuse",
+          "rhyme":"2z",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Fait des trous dans l'crâne, tue les oreilles comme une agrafeuse",
+          "rhyme":"2z",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Vise la tronche des mecs qu'ont rien bité quand j'déblatère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Mes tablatures tuent, c'est excellent quand j'mixe ta mère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est du freestyle débile, c'est super-cool, ça sert à rien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Pas là pour s'la péter ni pour épater les copains",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"J'ai l'cortex en compote et les viscères bousillées",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Touche pas à ma glotte, qu'est trop cramée par la fumée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"[Refrain : King Ju] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Check da crou, motherfucka",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Le crou ne mourra pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"C'est à demander qui l'encula",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Stup se réveille comme Dracula !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Check da crou, motherfucka",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Le Crou ne mourra pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Toncar dans l'stick, pathétique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"72 une date hystérique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDDEFFFFFFGG",
+      "rhyme_vowel":"AABBCCDDEFFFFFFEE"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Oui ce son fout des coups, casse tout",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Stupeflip crou !",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Jette tes bras en l'air car tu finiras dans un trou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Ouais ma troupe tripe sous crack, ça va vite, bande de parasites",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Pression d'enfer, insupportable comme la sinusite",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"C'est l'ASFH, Association de Stup-Fanatiques",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"À but non-lucratif, interdit aux fans en toc",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Notre groupement propose des solutions très radicales",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Le truc brutal, torture mentale, penthotal, la totale",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAABBCDEE",
+      "rhyme_vowel":"AAABBBCDD"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Je m'repère, sur le beat, grâce à ces, vibrations",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"La musique, c'est mon truc, mon dada, ma passion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"J'ai du style, j'ai du chien, j'kiffe par tous, les moyens",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Je suis pas, mongolien, je suis sourd, j'y peux rien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je me bats, pour l'amour, pour la cau-se des sourds",
+          "rhyme":"uR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Je connais, Lova Moor, et Ingrid, Betancourt",
+          "rhyme":"uR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Pour l'asso', elles m'aident bien, la récolte, de l'argent",
+          "rhyme":"aRZ",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'fous pas d'moi, je vais bien, j'suis juste mal-entendant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"[Refrain : King Ju] x 1,5",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDEF",
+      "rhyme_vowel":"AABBCCDEF"
+    },
+    {
+      "section_id":"section_5",
+      "type":"pont",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Eh, faut baisser c'est trop fort là...",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Pop-Hip !",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ouais, ça va...",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABA",
+      "rhyme_vowel":"ABA"
+    },
+    {
+      "section_id":"section_6",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu tapes dans le fiacre, crac, crac, gratte le fond",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"T'envoûtes les gamines, formidable, pas un rond",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Même si t'es pas riche, t'es mignon, tends l'oignon",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Ça racle les tiroirs, tous les soirs, dans le noir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Ta p'tite gueule de mec, tranchée, paf paf, fais-le tard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Folle de ton p'tit corps, du sport, sans effort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"T'es l'ténor qui bouillave à mort, dans l'plumard",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Je suis dans ta grotte, grotte, grotte, ça résonne",
+          "rhyme":"On",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"[Refrain : King Ju] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"[Outro : King Ju] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Check da crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Stup se réveille comme Dracula !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Check da crou",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"72 une date hystérique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Check da crou (x4)",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAABBCBDEEFGFHF",
+      "rhyme_vowel":"AAABBCBCDDEBEDE"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "song_id":343909,
+  "title":"C’est un tube (Bonus)",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Et si tu lèves les bras en l'air, c'est un tube",
+          "rhyme":"yb",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et si t'as renversé ta bière c'est un tube",
+          "rhyme":"yb",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Si tu d'viens ouf quand ça passe, même quand ta pouffiasse se casse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et si cette grosse caisse te masse, c'est un tube",
+          "rhyme":"yb",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABA",
+      "rhyme_vowel":"AABA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'suis le steak qui t'embête, qui t'angoisse la tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"L'athlète low-kick clac, blanc comme un squelette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Y'a plein d'trucs débiles qui s'baladent dans ma cervelle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Alors prends-moi tel quel, jeune fille au boul' en ribambelle",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"J'suis un ouf, mais j'suis doux comme un tapitouf",
+          "rhyme":"uf",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Trop nice and smooth, alors fais bien gaffe à ta touffe",
+          "rhyme":"uf",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Moi j'suis king ju l'king du karaoké",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Le type même du type devant qui tu flippes, le plus toqué",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDDE",
+      "rhyme_vowel":"AAAABBCCD"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Quand j'jacte dans l'mic c'est mururoa",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mon rap dingue t'assassine, toxique comme la mort aux rats",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Quand j'parle ça fait boom comme AZF",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"C'est sincère, jamais faux-cul comme le medef",
+          "rhyme":"Ef",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Me traites pas d'artiste, c'est un gros-mot",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Tu m'verras jamais faire l'canard dans leur promo",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Mon attaque laisse des marques, comme une casquette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Moi, mon matos, ma musique et ma p'tite quéquette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDDEEF",
+      "rhyme_vowel":"AABCDDCCB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(ouais, ouais)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Moi c'est Glou Kazor, représente pour les oufs",
+          "rhyme":"uf",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Stupeflip crou raboule toujours quand le vent souffle",
+          "rhyme":"ufl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Gare aux \"u\"",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"J'balance des lyrics en \"u\", ça fait flipper les 'ricains qui n'ont jamais capté le \"u\"",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"J'm'en bas les steaks, pas d'frites dans mon grec",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"C'est pas d'la pâte à crêpe, pas d'trucs qui chlinguent dans ma discothèque",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Glou Kazor tue avec un style Romejko",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Prends garde avec tes potes au métro Denfert-Rochereau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"[Refrain] x2",
+          "rhyme":"iks",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDDEEFFG",
+      "rhyme_vowel":"ABBCCDDEEF"
+    }
+  ]
+}

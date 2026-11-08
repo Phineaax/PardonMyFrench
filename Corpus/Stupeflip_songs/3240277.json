@@ -1,0 +1,107 @@
+{
+  "song_id":3240277,
+  "title":"Le Street CD",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Street CD, donne, donne, donne moi le street CD",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Street CD, donne, donne, donne moi le street CD",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Donne moi le Street CD, comme les trix dans les 80'",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Street CD, le genre de son qui fait du bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Donne moi le Street CD, celui que tu garde dans la poche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le Street CD, pour que la vie soit moins moche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCC",
+      "rhyme_vowel":"ABCC"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Donne moi le Street CD, comme les trix dans les 80'",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Street CD, le genre de son qui fait du bien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Donne moi le Street CD, celui que tu garde dans la poche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le Street CD, pour que la vie soit moins moche",
+          "rhyme":"OS",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCC",
+      "rhyme_vowel":"ABCC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"outro}\ndonne",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    }
+  ]
+}

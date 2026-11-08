@@ -2,6 +2,8 @@ import re
 import json
 from typing import List, Dict, Tuple, Optional, T
 import pandas as pd
+import ast
+import os
 
 MIN_CHUNK_SIZE = 900
 
@@ -68,23 +70,68 @@ def chunk(
 
     return chunks
 
+def format_chunk_for_scoring(lyrics_dataframe: str, # = lyrics dataframe pour une persona.
+                             persona_id:str,
+                             chunk_tokens_nb:int=1500, 
+                             min_chunk_size:int=MIN_CHUNK_SIZE) -> Optional[Dict[str, List[List[str]]]]:
+
+    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
+    return {f"{persona_id}_{ind}": chunk for (ind, chunk) in enumerate(chunks)}
+    
+
+def chunks_to_big_list(chunks) :
+    return sum(chunks, start=[])
+
+def repare_cyrillic_error(t) : 
+    H = str.maketrans("аеорсухіјАЕОРСХТНКМВ", "aeopcyxijAEOPCXTHKMB")
+    return t.translate(H)
 
 def make_lyrics_dataframe(artist_dataframe: pd.DataFrame) -> pd.DataFrame:
     rows = []
 
-    for i in range(len(artist_dataframe)):
-        song_id = artist_dataframe["song_id"].iloc[i]
-        lyrics_obj = artist_dataframe["lyrics"].iloc[i]
-
-        sections = lyrics_obj if isinstance(lyrics_obj, list) else [lyrics_obj]
-
+    for song_id, sections in zip(artist_dataframe["song_id"], artist_dataframe["lyrics"]):
         for section in sections:
             for line in section.get("lines", []):
                 rows.append({
                     "song_id": song_id,
                     "section_id": section.get("section_id"),
-                    "performer_id": line.get("performer_id"),
-                    "text": line.get("text"),
+                    "persona_id": line.get("persona_id"),
+                    "text": repare_cyrillic_error(line.get("text")),
                 })
 
     return pd.DataFrame(rows)
+
+def lyrics_to_df(lyrics_json:Dict[T, T]) -> pd.DataFrame:
+    x = lyrics_json
+    d = pd.DataFrame([
+        {
+          'song_id' : x['song_id'],
+          'song_title' : x['title'],
+          'lyricists_id' : x['lyricists'],  
+          'language' : x['language'], 
+          'section_id' : section['section_id'], 
+          'section_type' : section['type'], 
+          'n_line' : line['n'], 
+          'persona_id' : line['persona_id'], 
+          'text' : line['text']
+        }
+
+  for section in x['lyrics'] for line in section['lines']])
+    return d
+
+def artist_folder_to_artist_df(json_folder_path:str) -> pd.DataFrame:
+    total_data = pd.DataFrame()
+    for s in os.listdir(json_folder_path) :
+        if not s.endswith(".json"):
+            continue
+        with open(f"{json_folder_path}/{s}", 'r', encoding="utf-8") as f :
+            x = json.load(f)
+        
+        try :
+            d=lyrics_to_df(x)
+        except Exception as e: 
+            print(f"problème avec le son {s}\n{e}")
+            continue;
+        total_data = pd.concat([total_data, d])
+
+    return total_data

@@ -1,0 +1,506 @@
+{
+  "song_id":62811,
+  "title":"Got a Clue",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayo",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"You see that girl walk by, man?",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Oof, she's somethin' else",
+          "rhyme":"yls",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"I gotta say somethin', you know what I'm sayin'?",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCD",
+      "rhyme_vowel":"ABCD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Uh, glance at her when she walkin' by",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"The type that never stop to talk to guys",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"She alone and you not surprised",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"'Cause she ain't fit for no other man",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"So you approach as a gentleman",
+          "rhyme":"an",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"\"Hello, ma'am, today you lookin' pretty damn elegant\"",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"I think she get the message like a telegram",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I'ma be your cab or your yellow van",
+          "rhyme":"an",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Tell me where, I'll take you where you wanna go",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"To the top, she perfect and she oughta know",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"When she walkin' by the studio",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"You can see my heart beatin' through my clothes",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"She ain't around, time movin' slow",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"I wanna be wherever you gon' go",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"And I wonder if she know my name",
+          "rhyme":"am",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"She shine like she ain't know what rain is",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"The game is the same as it was as some lame kids",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"You wanna hang with her every single day, it's funny",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"'Cause your friends say you whipped",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"Every late night, you gotta go and dip",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"To pick her up, and I've been sick of sluts",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"21",
+          "text":"And this girl? She ain't gon' give it up",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"22",
+          "text":"She want me puttin' in work like school",
+          "rhyme":"ul",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"23",
+          "text":"And I be smitten when she here, like a fool",
+          "rhyme":"ul",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"24",
+          "text":"But keep my cool, gotta be smooth",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"25",
+          "text":"Eyes like Elmer, got me glued",
+          "rhyme":"Ed",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"26",
+          "text":"These other dudes is not for you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"27",
+          "text":"I think Cupid must've shot you, too",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEDFEGGGHGGFBIACJKLMMGNOG",
+      "rhyme_vowel":"ABCDEDEEFFFEFFEBAACAGHIIFBIF"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Girl, I just wanna talk to you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"And I don't think you got a clue",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"When you around, it's so hard to move",
+          "rhyme":"Ov",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"So I wrote a couple bars for you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Girl, I just wanna talk to you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And I don't think you got a clue",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"When you around, it's so hard to move",
+          "rhyme":"Ov",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I had to write a couple bars for you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCAABCA",
+      "rhyme_vowel":"ABCAABCA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I seen her at the dry cleaner, locked eyes",
+          "rhyme":"Ej",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"It was rainin', she lookin' like sunshine",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I told her we could have a fun time",
+          "rhyme":"ajm",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Let me just take you out to lunch",
+          "rhyme":"9ntS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"I'm a really nice guy, I ain't gon' hurt you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I ain't even 'bout to flirt, too",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"'Cause I'ma be straight up with you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"And don't bring no makeup with you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I just wanna chill, kick it at the crib",
+          "rhyme":"ib",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Every time we kiss, it tickle on my lips",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"I love the way that you lookin' at me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"I just wanna see you lookin' happy",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"You grab me, pull me, tease me, fool me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Ain't gon' let me get it at the movies",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Why you sittin' over a few seats?",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Come and move closer to me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Uh, I hope you know that you got me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"Here's my number, girl, you can call me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"And if you guessin', don't stress",
+          "rhyme":"Es",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"'Cause I ain't havin' no mess",
+          "rhyme":"Es",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFEEGHIJIJKIIILL",
+      "rhyme_vowel":"ABCDEFEEBBGBGBCGGGAA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"bridge",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"She the only thing on my mind",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I think about her all the time",
+          "rhyme":"ajm",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"And it's hard 'cause I'm on my grind",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"But I think I'ma call her mine",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABAC",
+      "rhyme_vowel":"ABAC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Girl, I just wanna talk to you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"And I don't think you got a clue",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"When you around, it's so hard to move",
+          "rhyme":"Ov",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"So I wrote a couple bars for you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Girl, I just wanna talk to you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And I don't think you got a clue",
+          "rhyme":"y",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"When you around, it's so hard to move",
+          "rhyme":"Ov",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"So I had to write a couple bars for you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCAABCA",
+      "rhyme_vowel":"ABCAABCA"
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    }
+  ]
+}

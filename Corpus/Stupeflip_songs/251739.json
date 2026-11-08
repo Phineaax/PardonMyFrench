@@ -1,0 +1,445 @@
+{
+  "song_id":251739,
+  "title":"La religion du stup",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"La religion du Stup, avec une foi inébranlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"La religion du Stup, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les gens prosternés saisissent le Crou comme une chance",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"La religion du Stup, avec une foi inébranlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"La religion du Stup, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Stup a changé ma vie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCABCD",
+      "rhyme_vowel":"AABBAABC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Le stup monastère est maintenant plongé dans le noir",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le son du Crou se multiplie comme une bande de cafards",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Une religion, comme un discours de Raël",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"À genoux, les petits enfants devant le père Noël",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"La pupille dilatée, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les gens prosternés saisissent le Crou comme une chance",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Stupéfiant, le truc t'obsède et tout s'efface",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Les humains flippent, les annexions laissent des traces",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDD",
+      "rhyme_vowel":"AABBCCAA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"La religion du Stup, avec une foi inébranlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"La religion du Stup, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les gens prosternés saisissent le Crou comme une chance",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"La religion du Stup, avec une foi inébranlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"La religion du Stup, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Maître, qu'est-ce exactement que l'ère du Stup ?",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCABCD",
+      "rhyme_vowel":"AABBAABC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Pourquoi y en a qui trippent ? Pourquoi y en a qui trippent pas ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les infidèles au Crou n'ont toujours rien compris",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Demande à Cadillac les clés sacrées de la menuiserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est sûr, pour moi, maintenant, le temps n'existe plus",
+          "rhyme":"ys",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Tes critiques de merde sont localisées dans ton cul",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"(Veltère 2008), le TeÏ unifie les régions",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"L'océan comme un père, rien à faire, Stup religion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCDEE",
+      "rhyme_vowel":"AABBCCDD"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"La religion du Stup, avec une foi inébranlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"La religion du Stup, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les gens prosternés saisissent le Crou comme une chance",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"La religion du Stup, avec une foi inébranlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Certains rencontrent Dieu et d'autres le rencontrent pas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"La religion du Stup, les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCABC",
+      "rhyme_vowel":"AABBAAB"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"La journaliste qui pleure, une femme dans la douleur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Un enfant mort de peur, qui s'exprime dans la terreur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Stup Crou, avec l'énigme pour emblème",
+          "rhyme":"Em",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Une armée de dingues, motivés par la peine",
+          "rhyme":"En",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est l'exception et de la compassion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Pour la seule religion qui fait naître des vocations",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"La caisse claire claque et fait son travail de sape",
+          "rhyme":"ap",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Les neurones s’arrêtent, c'est Stup qui tape",
+          "rhyme":"ap",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDDEE",
+      "rhyme_vowel":"AABBCCDD"
+    },
+    {
+      "section_id":"section_6",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"La religion du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Je suis prête à me sacrifier pour la religion du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je ferai tout ce qu'il me demandera",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Jusqu'à donner ta vie ?",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"La religion du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Formé en 1972...",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Tu savais que le Crou Stupeflip est incontrôlable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Stup a changé ma vie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Et comme le gars va te le dire bientôt...",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Les adeptes en transe",
+          "rhyme":"#s",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Il ne mourra jamais",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"La religion du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"La religion du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"La religion du Stup",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDAEFCGDHAAA",
+      "rhyme_vowel":"AABCDADBCEDFAAA"
+    }
+  ]
+}

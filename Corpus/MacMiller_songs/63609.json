@@ -1,0 +1,418 @@
+{
+  "song_id":63609,
+  "title":"Swing Set",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I wanna be on you",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Wait",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Wait, wait, wait, wait, wait, wait",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Yeah (Ayo, Jerm)",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"(Ayy, turn that up in my headphones) It's your boy, Mac Miller",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"(We about to go in) Triple E's",
+          "rhyme":"ins",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Ayo, Jenesis Magazine, Fab 5, I see y'all, man",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Most Dope, motherfuckers",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Let's get it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBBCDEFG",
+      "rhyme_vowel":"ABBBCDEFD"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Cruisin' through the city with the windows down",
+          "rhyme":"awn",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Blowin' through a pound, ready for another round",
+          "rhyme":"und",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Some hoes in the back of the whip and they rollin' (Rollin')",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Servin' pussy like the U.S. Open",
+          "rhyme":"@n",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Blowin' on this potent, different flavors, I done saw them all (Saw them all)",
+          "rhyme":"ol",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I be stayin' higher than the Taj Mahal, straight epic",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"So now you can't forget it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Kickin' girls out the crib like they got some bad credit (Peace)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"When you blowed and you drunk (Drunk) and you ain't give a fuck",
+          "rhyme":"yk",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Take this soul and this funk (Funk), tell the DJ, \"Turn it up\" (Turn it up)",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Purple stuff, got it stirrin' in my cup",
+          "rhyme":"yp",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"With hoes, I get around like the wheels on the bus (Wheels on the bus)",
+          "rhyme":"ys",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"I'm a true player, original Mac",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"And I keep the pussy poppin', here, listen to that",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Hoes showin' me some love, so I'm givin' it back (Back, back)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"She wanna be Mrs. Mac, how you figure that?",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFGHIJKLMNMN",
+      "rhyme_vowel":"ABCDEFFFGHGGAAAA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Swang, and swang, and swang to the left",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Pop-Pop my trunk and dip, dip, dip",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Swang, swang, and swang, and swang to the left",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Pop-Pop my trunk and dip, dip, dip",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Swang, swang, and swang, and swang to the left (Go 'head and ride me like a swing set)",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Pop-Pop my trunk and dip, dip, dip (Go on and ride me like a swing set)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Swang, swang, and swang, and swang to the left (Up and down)",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Pop-Pop my trunk and dip, dip, dip (Up and down, ride me like a swing set)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABABABAB",
+      "rhyme_vowel":"ABABABAB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ride (Ride), swerve (Swerve)",
+          "rhyme":"ERv",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"That's how you do it in the 'Burgh ('Burgh)",
+          "rhyme":"yg",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"When you high off the herb and you fly as a bird",
+          "rhyme":"ER",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"With some horny hoes waitin' in the 'burbs (Haha)",
+          "rhyme":"9b",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"You gotta go (Go), lookin' fresh like the cap on",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And your girlie still wet from the last song",
+          "rhyme":"$g",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Ladies like, \"Mac Miller? Ooh, I wanna marry him\" (Haha)",
+          "rhyme":"im",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"'Cause if sex a drug, then I'm heroin",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"I pick her up just to ride around",
+          "rhyme":"awnd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Twistin' somethin' purple, have us flyin' to a higher ground (Higher ground)",
+          "rhyme":"awnd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"She love ridin' with the kid right here (Uh-huh)",
+          "rhyme":"eR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"She's still gon' be in love this time next year (Uh-huh)",
+          "rhyme":"ER",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"'Cause I'm a heartbreaker, mover and shaker",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"She love watchin' what I do with my paper",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"Lovin' how I play her, loud like a banger",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Lil' Mama lip gloss, mouthful of flavor",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFGHIIJCKLLM",
+      "rhyme_vowel":"ABACDDEFGGHACHHI"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Swang, swang, and swang, and swang to the left",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Pop-Pop my trunk and dip, dip, dip",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Swang, swang, and swang, and swang to the left",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Pop-Pop my trunk and dip, dip, dip",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Swang, swang, and swang, and swang to the left (Go 'head and ride me like a swing set)",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Pop-Pop my trunk and dip, dip, dip (Go on and ride me like a swing set)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Swang, swang, and swang, and swang to the left (Up and down)",
+          "rhyme":"aft",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Pop-Pop my trunk and dip, dip, dip (Up and down, ride me like a swing set)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABABABAB",
+      "rhyme_vowel":"ABABABAB"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Go 'head and ride me like a swing set",
+          "rhyme":"Et",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Go on and ride me like a swing set",
+          "rhyme":"Et",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AA",
+      "rhyme_vowel":"AA"
+    }
+  ]
+}

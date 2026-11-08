@@ -1,0 +1,18 @@
+id,title,album_id,persona_id,confidence_score,source
+83613,If I Were a Boy,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+52158,Halo,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+78577,Disappear,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+52683,Broken-Hearted Girl,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+55885,Ave Maria,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+4948,Smash Into You,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+75936,Satellites,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+152215,That’s Why You’re Beautiful,610619,persona_beyonce_baseline,1.0,disque 1 « I Am... » de l'édition deluxe (étiquetage de l'artiste)
+50873,Single Ladies (Put a Ring on It),610619,persona_sasha_fierce,1.0,disque 2 « Sasha Fierce » de l'édition deluxe (étiquetage de l'artiste)
+152213,Radio,610619,persona_sasha_fierce,1.0,disque 2 « Sasha Fierce » de l'édition deluxe (étiquetage de l'artiste)
+68973,Diva,610619,persona_sasha_fierce,1.0,disque 2 « Sasha Fierce » de l'édition deluxe (étiquetage de l'artiste)
+56878,Sweet Dreams,610619,persona_sasha_fierce,1.0,disque 2 « Sasha Fierce » de l'édition deluxe (étiquetage de l'artiste)
+1829007,Video Phone,610619,persona_sasha_fierce,1.0,disque 2 « Sasha Fierce » de l'édition deluxe (étiquetage de l'artiste)
+80249,Hello,610619,persona_sasha_fierce,0.7,"disque 2 « Sasha Fierce », mais ballade au piano placée sur le disque Sasha Fierce"
+152217,Ego,610619,persona_sasha_fierce,0.7,"disque 2 « Sasha Fierce », mais musicalement Sasha, textuellement vulnérable (MTV News)"
+152218,Scared of Lonely,610619,persona_sasha_fierce,0.7,"disque 2 « Sasha Fierce », mais musicalement Sasha, textuellement vulnérable (MTV News)"
+85389,Poison,610619,,,piste bonus hors des deux disques : non attribuée

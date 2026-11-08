@@ -1,0 +1,29 @@
+{
+    "song_id": 6173,
+    "title": "I Got to Tell You",
+    "language": "en",
+    "lyricists": [
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "skit",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hello, this is the offices of Dr. Octagon. If you have insurance or medical problems, I'm here for you for any type of intestine surgery, rectal rebuilding, relocated saliva glands, and chimpanzee acne—and of course, moosebumps. You can call 1-800-PP5-1-doodoo. ",
+                    "rhyme": "o",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm in your corner. ",
+                    "rhyme": "ER",
+                    "persona": "Dr. Octagon"
+                }
+            ]
+        }
+    ]
+}

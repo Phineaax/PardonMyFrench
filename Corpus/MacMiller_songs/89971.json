@@ -1,0 +1,427 @@
+{
+  "song_id":89971,
+  "title":"Get It on the Floor",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Haha) Turn it up a little bit",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Even more, I'm deaf as fuck (Haha)",
+          "rhyme":"yk",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Uh, ayy (Uh-huh), The Class Clown comin' soon (Uh-huh)",
+          "rhyme":"un",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"East End Empire (Chyeah)",
+          "rhyme":"iR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"All day, all night, let's go (Let's get it), uh (Let's get it)",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDE",
+      "rhyme_vowel":"ABCAC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Y'all ain't doin' jack shit (Uh-uh), just a bunch of has-beens (Yep)",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"What the fuck happened? Why you stop rappin', huh?",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I'm the future, tryna ball like a hooper, uh",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Attack a beat like a cougar, Ruger (Yup)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Who the dude that wanna come and talk shit? (I don't know)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I'm so fly, high up in my cockpit (Zoom)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"The tape's comin', boy, wait until I drop it (Drop it)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"It's some hot shit, I know y'all gon' cop it (Cop it)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"It's like Tha Carter III mixed with The Chronic (Classic)",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Plus some Big L and Nas hits (Magic)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"I tell 'em, \"Watch this\" (Watch this), start spittin' out rockets",
+          "rhyme":"Et",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Light a beat up like your fiber optics",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Pause (Pause, pause), you ain't seen this yet, kid (Uh-uh)",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Resurrectin' this DMX diff",
+          "rhyme":"if",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"On tracks, I be doin' mad BMX flips (Chyeah)",
+          "rhyme":"ip",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Sex chicks and move on up to the next bitch (What's up, baby?)",
+          "rhyme":"itS",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Big like Texas, don't mess with the freshest (Nope)",
+          "rhyme":"Est",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"Yeah, I spit electric, my set is the best (Uh-huh)",
+          "rhyme":"Est",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"In the PA, country, continent, the world (World)",
+          "rhyme":"Old",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"Cryin' lil' bitches, I ain't startin' with you girls",
+          "rhyme":"9Rl",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"It's Mac (It's Mac), it's Mac, jump back (Uh-huh)",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"21",
+          "text":"Dumb raps and my lungs is black, uh (Chyeah)",
+          "rhyme":"u",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"22",
+          "text":"Yeah, it's Mac, say it again, yeah",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"23",
+          "text":"Chest collapse when you takin' it in",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"24",
+          "text":"I'm playin' to win, spittin' it right (Right)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"25",
+          "text":"We just a couple of kids livin' the life (Life)",
+          "rhyme":"ajf",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"26",
+          "text":"I'm stayin' sharp like the end of a knife",
+          "rhyme":"ajf",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"27",
+          "text":"And your girl come to me 'cause you ain't hittin' it right (Haha)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBCDDDDEDFEGHIJKKLMNBOAPQQP",
+      "rhyme_vowel":"ABBCAAAAAADAAAAADDEFGBDAGGGG"
+    },
+    {
+      "section_id":"section_2",
+      "type":"interlude",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ayy, that's how it go down (Yup, yup)",
+          "rhyme":"awn",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"I ain't even need a hook for this shit, you know what I'm sayin'? (Yup, yup)",
+          "rhyme":")",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I'm just gon' keep on spittin', let this camera keep rollin' and shit, um (All day, all day, triple Es, motherfucker, haha)",
+          "rhyme":"Om",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABC",
+      "rhyme_vowel":"ABC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Lesson, if you wanna play with the kid (Kid)",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"See, don't come bullshittin', sayin' you spit (Haha)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Say you up and comin' but just buggin', you a gnat",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"And I don't rap for the stacks, I rap 'cause I rap (Rap)",
+          "rhyme":"ap",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"And Mac be the cat with the haze and the dro (Uh-huh)",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Games for the dough, I'm the next up to blow (Blow)",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Stretchin' the flows, I'm that all-white (All-white), yeah",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"And spark mics like a shark bite (Shark bite)",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"You as bright, 'bout as bright as a car light (Haha)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"And you ain't tight, you just alright (Uh-huh)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"I'm as nice as a calm night",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"Chillin' with some broads, 'bout as raw as a bar fight (Get it, get it)",
+          "rhyme":"ajt",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Can't ignore me anymore, the bass bumpin' through the floor (Floor)",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Make veterans feel like they ain't did it before",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"I'm a black belt, bitch, get ya ass kicked (Ass kicked)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"My weed bomb, you could smell it through the plastic",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Take a whiff (Ah), please all ya senses (Uh-huh)",
+          "rhyme":"#s",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"On this rap shit, they call me God's apprentice (What up?)",
+          "rhyme":"is",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"'Cause they say the kid got the hardest sentence",
+          "rhyme":"#s",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"Feelin' like a pitch from Roger Clemens",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEEFGHHHHIIJKLMLN",
+      "rhyme_vowel":"AABBCCDABBBBEEFAGAGG"
+    },
+    {
+      "section_id":"section_4",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"That's how it go down",
+          "rhyme":"awn",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"You know how it is, all day",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Mac Miller, EZ Mac, The Jukebox",
+          "rhyme":"Oks",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Play any beat, motherfucker, I'ma murder it",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Career criminal, haha",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Serial killer, haha",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEE",
+      "rhyme_vowel":"ABCDAA"
+    }
+  ]
+}

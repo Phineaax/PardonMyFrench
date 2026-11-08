@@ -1,0 +1,314 @@
+{
+  "song_id": 7738598,
+  "title": "hate myself",
+  "language": "en",
+  "lyricists": [
+    1638941,
+    250301,
+    1325287,
+    1258628
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can say things I don't always mean",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "When people get too close to me",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Don't know where it comes from honestly",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "And you weren't perfect, yeah, you have your lows",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "But I'd say you got pretty close",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Don't know how you could put up with me",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I was so caught up in my own thoughts",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Don't think that I understood",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "When you said that you just couldn't take it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "That I would lose you for good",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, I didn't think this over",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Fell back when you got closer",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "After I just put you right through hell",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You couldn't hate me more than I hate myself",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I'd always act so selfish",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Had shit I hadn't dealt with",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "After I just put you right through hell",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "You couldn't hate me more than I hate myself",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We both know I might be the worst at goodbyes",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But I looked at you straight and I lied",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And acted like I'd be fine",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Sometimes when I care, I think I tend to shut off",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Like nothing could matter enough",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Why would you let me keep doing that?",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "You should've stopped me, but",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I was so caught up in my own thoughts",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Don't think that I understood",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "When you said that you just couldn't take it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "That I would lose you for good",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, I didn't think this over",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Fell back when you got closer",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "After I just put you right through hell",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You couldn't hate me more than I hate myself",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I'd always act so selfish",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Had shit I hadn't dealt with",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "After I just put you right through hell",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "You couldn't hate me more than I hate myself",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So off I go to hurt you again",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I shut you out to try to forget",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "That I'm the one who's fucked in the end",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "'Cause, baby, you'll be happier with someone else",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "So off I go to hurt you again",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I shut you out to try to forget",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "That I'm the one who's fucked in the end",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "'Cause you couldn't hate me more than I hate myself",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I didn't think this over",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Fell back when you got closer",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "After I just put you right through hell",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You couldn't hate me more than I hate myself",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ]
+}

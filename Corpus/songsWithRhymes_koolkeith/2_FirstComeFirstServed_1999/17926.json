@@ -1,0 +1,815 @@
+{
+    "song_id": 17926,
+    "title": "Leave Me Alone",
+    "language": "en",
+    "lyricists": [
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yeah",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "To all my fans",
+                    "rhyme": "an",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "The people that don’t know",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "What I been going through to make my own",
+                    "rhyme": "awn",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Now it’s time to hurt your feelings as it upsets music industry fan",
+                    "rhyme": "an",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Hey, yo my man, look at my hand, they look human right?",
+                    "rhyme": "ajt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "You think I’m a monster, ill circus clown",
+                    "rhyme": "un",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "I’m not a specimen don’t look at me funny when I come around",
+                    "rhyme": "awnd",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "A&R been trying to figure me out for years",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Trying to re-duplicate me",
+                    "rhyme": "@",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "But they can’t, so they hate me",
+                    "rhyme": "@",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "While white boys run the head of black music",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "With a Japanese assistant",
+                    "rhyme": "#",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "What does a Chinese kid know about the rap game?",
+                    "rhyme": "Ejm",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "That’s a shame",
+                    "rhyme": "am",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "As I see and watch BET there’s a million uncreative rappers",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "Trying to be me",
+                    "rhyme": "@",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "I’m startin to feel like Jimi Hendrix when they covered the story",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "“Who Started Rock”",
+                    "rhyme": "Ok",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "Magazines putting blankets over my interviews",
+                    "rhyme": "u",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "16",
+                    "text": "They don’t wanna see me on Channel 7 news, tellin the truth",
+                    "rhyme": "yt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "17",
+                    "text": "Off the project roof they always have secret spies with eyes",
+                    "rhyme": "Ej",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "18",
+                    "text": "Watchin me recordin’ my album",
+                    "rhyme": "Om",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "19",
+                    "text": "Sendin’ producers with wack tracks and dats",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "20",
+                    "text": "Messin up my whole format",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "21",
+                    "text": "Can you imagine doin’ somethin’ on a Neve board with Con Funk Shun",
+                    "rhyme": "(",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "22",
+                    "text": "With an alternative hippy kid from the label watchin’ your back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "23",
+                    "text": "Talkin’ about “Mariah Carey’s funky!”",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "24",
+                    "text": "Makin’ the average group buck dance like a barrel full of monkeys",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "25",
+                    "text": "While I break out to the shopping mall",
+                    "rhyme": "ol",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "26",
+                    "text": "He’s making a quick phone call",
+                    "rhyme": "ol",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "27",
+                    "text": "About my sound is too new and different",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "28",
+                    "text": "I need to be regular like Dru Hill",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "29",
+                    "text": "And a little more ill",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Of course I’m hard to work with cuz you hard to work with",
+                    "rhyme": "it",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "I don’t wanna meet Insane Clown Posse and collaborate",
+                    "rhyme": "at",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "I’m tryin’ to innovate and think quick at a fast rate",
+                    "rhyme": "at",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Why you mad? Cuz I’m original",
+                    "rhyme": "al",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "And you can’t do the material?",
+                    "rhyme": "al",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "When I sit back and watch you act big",
+                    "rhyme": "ig",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Spend your budget on your video",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "I’m into one of my three luxury apartments",
+                    "rhyme": "#",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "Eatin’ Raisin Bran cereal",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "While you front low",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "I take my bike, ride down to Wells Fargo",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "How long is it gon’ take? nine hundred thousand and clear",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "Talkin’ wit’ a clerk, “I don’t need a Benz this year.”",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "Took care of my paperwork",
+                    "rhyme": "9Rk",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "Takin a United taxi out to Vegas",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "While the average R&B group is doin’ a promo concert",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "16",
+                    "text": "Ignorin’ yo’ phone calls from broke labels",
+                    "rhyme": "El",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "17",
+                    "text": "Who try to put out underground MC’s",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "18",
+                    "text": "Tryin’ to get me to rap on a wacky ass track for one G",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "19",
+                    "text": "How dare you try to insult me",
+                    "rhyme": "@",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "20",
+                    "text": "I got forty grand for three minutes to write a song wit Prodigy",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "21",
+                    "text": "Other crews don’t get budgets",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "22",
+                    "text": "Got the nerve to call me",
+                    "rhyme": "@",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "23",
+                    "text": "Welcome to the business, stand as a witness",
+                    "rhyme": "Es",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "24",
+                    "text": "Work on your stomach, do physical fitness",
+                    "rhyme": "Es",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "25",
+                    "text": "I ain’t playin, all this African stuff, all look the same",
+                    "rhyme": "am",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "26",
+                    "text": "I don’t need a Joe Neckbone puttin’ his artwork on my CD",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "27",
+                    "text": "Drawin’ Apple Jacks and Honey Comb",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "28",
+                    "text": "Wit me sittin on a throne",
+                    "rhyme": "on",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "29",
+                    "text": "No, I’m takin’ a regular picture",
+                    "rhyme": "yR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "30",
+                    "text": "By the Hotel St. Bonaventure",
+                    "rhyme": "yR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "31",
+                    "text": "Besides, I do wear a coat in the Winter",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "32",
+                    "text": "And eat at beautiful restaurants",
+                    "rhyme": "#",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Why do think I should wear a motorcycle helmet?",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Why don’t you wear it, put on some wings like a parrot",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Let’s discuss this contract",
+                    "rhyme": "akt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "While you hypin’ up a normal female group wit fat cellulite",
+                    "rhyme": "it",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "That sound wack",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Most of y’all goin’ out like Uncle Toms",
+                    "rhyme": "um",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Like Louis Armstrong",
+                    "rhyme": "$g",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Wearin’ a tattoo and goin’ on stage like Tracy Chapman",
+                    "rhyme": "an",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "I canceled a big tour cuz I was prepared",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "Y’all on the road with per diem money and y’all scared",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "While y’all walk and look hard",
+                    "rhyme": "aRd",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "Yo’ manager’s got his name all over your versatile card",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "And plus this video treatment sucks",
+                    "rhyme": "yk",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "The fish lens effects",
+                    "rhyme": "Ekt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "The lens to the camera only costs a hundred bucks",
+                    "rhyme": "yk",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "Look at the director trying to tell me what to do",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "16",
+                    "text": "I done this before, fourteen degrees freezin’ cold",
+                    "rhyme": "old",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "17",
+                    "text": "Doin’ “Poppa Large” wit a cage on my head",
+                    "rhyme": "Ed",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "18",
+                    "text": "That’s dead",
+                    "rhyme": "Ed",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "19",
+                    "text": "Don’t get yo’ imagination too messed up",
+                    "rhyme": "9p",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "20",
+                    "text": "I’m wearin’ a Yankee Hat and a Starter, I’m not dressin’ up",
+                    "rhyme": "9p",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "21",
+                    "text": "How you gon’ tell me what to wear?",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "22",
+                    "text": "I don’t need Mascara and a stylist",
+                    "rhyme": "ist",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "23",
+                    "text": "Save that for a big group like Pantera",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "24",
+                    "text": "Experience, Next Plateau, Mercury, Wild Pitch",
+                    "rhyme": "itS",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "25",
+                    "text": "BMI, Capitol, Dreamworks",
+                    "rhyme": "aRk",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "26",
+                    "text": "Never got dropped",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "27",
+                    "text": "Put my lyrics away and stopped",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "28",
+                    "text": "Too many people wit hands in my project",
+                    "rhyme": "Ekt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "29",
+                    "text": "Havin’ fantasies of me bein’ Superman",
+                    "rhyme": "an",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "30",
+                    "text": "You actin’ stupid man",
+                    "rhyme": "#",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "31",
+                    "text": "I’m like Prince, you might see me once every five years",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "32",
+                    "text": "At the record company",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "33",
+                    "text": "While most of y’all live at the label beggin for yo’ rent and car notes to be paid",
+                    "rhyme": "Ed",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "34",
+                    "text": "Under the table doing routine dances for advances",
+                    "rhyme": "#s",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Leave me alone, Leave me alone",
+                    "rhyme": "On",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Politics, politics",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        }
+    ]
+}

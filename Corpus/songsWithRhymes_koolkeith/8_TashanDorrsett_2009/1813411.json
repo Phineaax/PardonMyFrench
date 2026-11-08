@@ -1,0 +1,326 @@
+{
+    "song_id": 1813411,
+    "title": "New Shhhiiit",
+    "language": "en",
+    "lyricists": [
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yeah, this is some old NEW shit that you ain't never heard before",
+                    "rhyme": "OR",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "1",
+                    "text": "\"Th-th-th-th-th-th-this is the new\" \"new shit\"",
+                    "rhyme": "it",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "2",
+                    "text": "Yeah, this is some old NEW shit that you ain't never heard before",
+                    "rhyme": "OR",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "3",
+                    "text": "\"New shit\" \"Th-th-th-th-th-th-this is the new\"",
+                    "rhyme": "u",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "4",
+                    "text": "Yeah, this some old NEW shit",
+                    "rhyme": "it",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "5",
+                    "text": "That you ain't never never never heard before",
+                    "rhyme": "OR",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "6",
+                    "text": "\"Th-th-th-th-th-th-this is the new\"",
+                    "rhyme": "u",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "7",
+                    "text": "Yeah, this is some old new NEW shit",
+                    "rhyme": "it",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "8",
+                    "text": "That you ain't never never never heard before",
+                    "rhyme": "OR",
+                    "persona": "Kool Keith"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "kool",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Metaphysics, the new cats, they on the dizzicks",
+                    "rhyme": "ik",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "1",
+                    "text": "The kinetic waveform, you got a retarded welcome backwards",
+                    "rhyme": "aR",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "2",
+                    "text": "They full potential against the mental the frental",
+                    "rhyme": "al",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "3",
+                    "text": "The conventional the Kingdome cream of Sonya, Sonya",
+                    "rhyme": "a",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "4",
+                    "text": "Take Shaun Dorrsetty, I'm ready beat every freakin fairy",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "5",
+                    "text": "Confetti, them niggas are Betty - they can't worry",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "6",
+                    "text": "Soft they crunchin up like the prune and strawberry",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "7",
+                    "text": "Jello to jelly they live in our belly",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "8",
+                    "text": "Ladies with thongs movin booties in the ho-telly",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "9",
+                    "text": "[Chorus] - variations of the Intro",
+                    "rhyme": "o",
+                    "persona": "Kool Keith"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "kool",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Sham doo, sham Kool",
+                    "rhyme": "ul",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "1",
+                    "text": "You bitch I'm tellin 'round like Clam Do",
+                    "rhyme": "o",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "2",
+                    "text": "Legend like Wamboo",
+                    "rhyme": "o",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm grand dude, reclining chair and the fan too",
+                    "rhyme": "o",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "4",
+                    "text": "Double otter, boat on the water",
+                    "rhyme": "ER",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "5",
+                    "text": "B sail, I'm a rider (I'm a rider)",
+                    "rhyme": "e",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "6",
+                    "text": "From Nevada, Afrika Bam, Jam",
+                    "rhyme": "am",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "7",
+                    "text": "Planet Rock all like badda, deep dada",
+                    "rhyme": "a",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "8",
+                    "text": "Leap over Kotter, I'm full of V8 granada",
+                    "rhyme": "a",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "9",
+                    "text": "I stay hotter, like an enchilada",
+                    "rhyme": "a",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "10",
+                    "text": "You gotta watch my pockets or get smacked",
+                    "rhyme": "e",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "11",
+                    "text": "With a knotter you wet Siotta{?}",
+                    "rhyme": "a",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "12",
+                    "text": "When the motorcycle club come up I'm a rider",
+                    "rhyme": "e",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "13",
+                    "text": "Male outer dam a gram, from Scotland to Amsterdam",
+                    "rhyme": "am",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "14",
+                    "text": "Cut off your hamster's hand",
+                    "rhyme": "#d",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "15",
+                    "text": "You don't wanna bring a child to rap against a man",
+                    "rhyme": "#",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "16",
+                    "text": "Gifted, lifty, shifty",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "17",
+                    "text": "Mixey ladies at the bar gettin tipsy",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "18",
+                    "text": "My Huskie name was Shisky",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "19",
+                    "text": "Y'all drunk red lips on whiskey",
+                    "rhyme": "i",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "20",
+                    "text": "[Chorus] - more variations of the Intro",
+                    "rhyme": "o",
+                    "persona": "Kool Keith"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "kool",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I pull you out of the sheepskin, you deep skin",
+                    "rhyme": "in",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "1",
+                    "text": "You peep when your pager beepin when I freaks in",
+                    "rhyme": "in",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "2",
+                    "text": "You see what a deep blend, I call you Tom McCougar",
+                    "rhyme": "aR",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "3",
+                    "text": "You ain't strong, you a 100 pound weakling",
+                    "rhyme": "iN",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "4",
+                    "text": "Eatin franks to build your chest up on the weekend",
+                    "rhyme": "#",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "5",
+                    "text": "I was down, and I'm still what you speaking",
+                    "rhyme": "iN",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "6",
+                    "text": "While you tweaking your crack pots and keep cooking",
+                    "rhyme": "iN",
+                    "persona": "Kool Keith"
+                },
+                {
+                    "n": "7",
+                    "text": "Soaked your radiator leaking, fuck with the world",
+                    "rhyme": "Old",
+                    "persona": "Kool Keith"
+                }
+            ]
+        }
+    ]
+}

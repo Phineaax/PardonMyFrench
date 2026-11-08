@@ -1,0 +1,314 @@
+{
+  "song_id": 9759851,
+  "title": "run for the hills",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1256784,
+    1653,
+    1502045,
+    1039827
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hotels, late nights, hands through my hair",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Long talks, red eyes, clothes everywhere",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Missin' a moment when you're still there",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You got a thing you can't find nowhere",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "(Yeah, yeah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Kissin', screamin', straight back to war",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "I'm walkin' out until I lock the door",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Maybe the danger's covered by the thrill",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "'Cause I know I should be runnin' for the hills",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The way you touch me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Straight to the heart, yeah, it cuts me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "'Cause I know deep down that it's",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Never gon' ever be us, uh-uh-uh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Never gon' ever be more than just something that's fuckin' me up",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Don't tease me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "And keep me around (Ah, ah) like it's easy (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "When you know deep down that it's (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "Never gon' ever be us (Huh, huh), uh-uh-uh (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "9",
+          "text": "Never gon' ever be more (Huh, huh) than just something that's fuckin' me up (Huh)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I know that when it's all done",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I'll hate you bad in the long run, but",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Somehow, it never ends",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "My heel's on the edge of your bed again, yeah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I get obsessive with you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "All that I want is attention from you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Break into my life and break all my rules, it's true",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The way you touch me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Straight to the heart (Huh, huh), yeah, it cuts me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "'Cause I know deep down that it's (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Never gon' ever be us (Huh, huh), uh-uh-uh (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Never gon' ever be more (Huh, huh) than just something that's fuckin' me up (Huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Don't tease me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "And keep me around (Ah, ah) like it's easy (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "When you know deep down that it's (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "Never gon' ever be us (Huh, huh), uh-uh-uh (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "9",
+          "text": "Never gon' ever be more (Huh, huh) than just something that's fuckin' me up (Huh)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Should run for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Should run for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Should be runnin' for the hills (Yeah; Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "The way you touch me (Huh, huh; Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Should run for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Should run for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Should be runnin' for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "The way you touch me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "(Oh) Should run, run (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "9",
+          "text": "Run for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "10",
+          "text": "Should be runnin' for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "11",
+          "text": "The way you touch me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "12",
+          "text": "(Should run for the hills)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "13",
+          "text": "Should run, run (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "14",
+          "text": "Run for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "15",
+          "text": "Should be runnin' for the hills (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "16",
+          "text": "The way you touch me (Huh, huh)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}

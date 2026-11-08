@@ -1,0 +1,442 @@
+{
+  "song_id":5147397,
+  "title":"Mackin’ Ain’t Easy",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":", ",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Listen you fuckers, you screw-heads",
+          "rhyme":"Ed",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Here is a man who would not take it anymore",
+          "rhyme":"oR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"A man who stood up against the scum, the cunts, the dogs, the filth, the shit",
+          "rhyme":"it",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Here is someone who stood up",
+          "rhyme":"9p",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Here is—",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"Easy Mac, yo",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Yeah",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEFE",
+      "rhyme_vowel":"ABCDABA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I start wars like Star Wars, I'm The Emperor",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Waitin' with patience in this nation, I'm the predator",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"And if you hatin', you'll get served with some metaphors",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"You in the cypher spittin' shit that you've said before",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Your shit's regular, I've heard it before",
+          "rhyme":"OR",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"I murder it raw, when it switch, it droppin' your jaw",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"I'm never stoppin', I got more options than a quarterback",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I'm more than that, I'm dedicated, you just sorta rap",
+          "rhyme":"ap",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"A gram of haze for twenty-five, that's a quarter sack",
+          "rhyme":"ak",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"I gotchu on the half if you wanna order that",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Yeah, it'll cost ya, I'm not a slave",
+          "rhyme":"av",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"But you can shop and save if you cop an eighth",
+          "rhyme":"at",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Watch the block for cops, cops coppin' dro",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Call 'em corrupt but they (Pigs) got a lotta dough",
+          "rhyme":"O",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"You're monotone, you're actin' like it's hard to flow",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"Homie, you're at fourth down with forty yards to go",
+          "rhyme":"o",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"I'm a junior but I rap like a veteran",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"Get more cheddar than anybody that I'm better than",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"Let me tell you, I spit the shredder",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"It's sharp, guaranteed to put the marks in your sweater",
+          "rhyme":"9R",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"AAAAABCDCEFGBHBBIIJK",
+      "rhyme_vowel":"AAAAABCCCCCCBABBDDEF"
+    },
+    {
+      "section_id":"section_2",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Easy Mac, but my mackin' ain't easy",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"See the rapper, instant satisfaction when you see me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Be the rapper but you lackin' what it takes to be me (Yup)",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"And you can find me where the trees be",
+          "rhyme":"ab",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBC",
+      "rhyme_vowel":"ABBC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"verse",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Cash before ass 'cause I'm out to get rich",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Bitches surroundin' my dick, I'm countin' my chips",
+          "rhyme":"ips",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Without it I slip, trip over the foot that they kick",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Ain't got cheese for the trees, then don't look at my brick (Nope)",
+          "rhyme":"ik",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"The industry's infantry, penalties in vanity",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"The enemy up in the streets, secondaries up in the beef",
+          "rhyme":"if",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"Chemically, I break you down, shots, then I take the pound",
+          "rhyme":"awnd",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"Funeral, I fake the frown, lay you down and take the crown",
+          "rhyme":"awn",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"Had to take a stand against his castle made of sand",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Win the battle with the man, takin' apples from a dam",
+          "rhyme":"#",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"10",
+          "text":"Had to bomb Babylon, the weed you needs in catalog",
+          "rhyme":"Og",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"11",
+          "text":"If you were cream, I had it wrong",
+          "rhyme":"$g",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"12",
+          "text":"Who gives a shits about his mom?",
+          "rhyme":"Om",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"13",
+          "text":"Kickin' competition with the limited edition",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"14",
+          "text":"And my ambition is to have the proper composition",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"15",
+          "text":"I deserve the recognition, I'm amazin', definition",
+          "rhyme":"$",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"16",
+          "text":"Puttin' victims in submission, spittin' each and every sentence (Yup)",
+          "rhyme":"#s",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"17",
+          "text":"Too hot like the pot up in your kitchen",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"18",
+          "text":"And if you quit your bitchin', the bitches'll stop snitchin'",
+          "rhyme":"in",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"19",
+          "text":"I spit it ill, sick like raw chicken",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"20",
+          "text":"But I'm finger lickin', freestyle king, watch me kill a written",
+          "rhyme":"En",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABAACDEFGGHIJKKKLMNMM",
+      "rhyme_vowel":"AAAAAABBCCDEDEEECFAFF"
+    },
+    {
+      "section_id":"section_4",
+      "type":"chorus",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Easy Mac, but my mackin' ain't easy",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"See the rapper, instant satisfaction when you see me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Be the rapper but you lackin' what it takes to be me",
+          "rhyme":"@",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"And you can find me where the trees be, it's easy",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABBA",
+      "rhyme_vowel":"ABBA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Chyeah",
+          "rhyme":"E",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Easy Mac, homie (Yeah)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"Put your blunts out, song's over",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"Pittsburgh, Point Breeze",
+          "rhyme":"iz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Shoutout to my man $weet Jame$, D-Wreck, BJ",
+          "rhyme":"2Z",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"P-Doom, Sammy Slick, B.DuBB, the whole crew, homie",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"You know where you at",
+          "rhyme":"a",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDEBF",
+      "rhyme_vowel":"ABCBDBE"
+    }
+  ]
+}

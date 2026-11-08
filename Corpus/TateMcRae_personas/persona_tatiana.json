@@ -1,0 +1,14 @@
+{
+  "persona_id": "persona_tatiana",
+  "persona_name": "Tatiana",
+  "artist_id": "1258628",
+  "period": {
+    "start": "2023",
+    "end": null
+  },
+  "anchored_releases": [
+    "963023",
+    "1489439"
+  ],
+  "is_baseline": false
+}

@@ -1,0 +1,419 @@
+{
+  "song_id": 68973,
+  "title": "Diva",
+  "language": "en",
+  "lyricists": [
+    498,
+    2147,
+    27665
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm a, a diva (Hey), I'm a, I'm a, a diva (Hey)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a—",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh, first)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Stop the track, let me state facts",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "I told you, give me a minute and I'll be right back (First)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Fifty million 'round the world and they said that I couldn't get it",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "I done got so sick and filthy with Benjis, I can't spend it (First)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "How you gon' be talking shit? You act like I just got up in it",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "Been the number one diva in this game for a minute (First)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "6",
+          "text": "I know you read the paper, the one that they call the Queen",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "7",
+          "text": "Every radio 'round the world know me 'cause that's where I be (First)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm a, a diva (Hey), I'm a, I'm a, a diva (Hey)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a div—",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh, first)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "When he pull up (Up), wanna pop my hood up (Up)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Bet he better have a six-pack in the cooler (First)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Gettin' money (Money), diva's gettin' money (Money)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "If you ain't gettin' money, then you ain't got nothing for me (First)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "Tell me something (Tell me something)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "Where your boss at? (Where your boss at?)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "6",
+          "text": "Where my ladies up in here that like to talk back? (That like to talk back, first)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "7",
+          "text": "I wanna see her (I wanna see her)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "8",
+          "text": "I'd like to meet ya (I'd like to meet her)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "9",
+          "text": "What you say? (Not to me)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "10",
+          "text": "She ain't no diva (She ain't no diva, first)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Since fifteen in my stilettos, been struttin' in this game (Game)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "\"What's your age?\" was the question they asked when I hit the stage (Stage)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "I'm a diva, best believe her, you see her? She gettin' paid (Paid)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "She ain't calling him to greet her, don't need him, her bed's made (Made)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "This is a stick-up, stick-up! I need them bags, all that money",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "You heard me, stick-up, stick-up! You see the mask, \"Where that money?\"",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "6",
+          "text": "All my ladies get it up, I see you, I do the same",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "7",
+          "text": "Take it to another level, no passengers on my plane",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm a, a diva (Hey), I'm a, I'm a, a diva (Hey)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "(This is a stick-up, stick-up, I need them bags, all that money)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "(Stick-up, stick-up, you see the mask, \"Where that money?\")",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "I'm a, I'm a, a diva (Hey), I'm a, I'm a, a div—",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "Na-na-na, diva is a female version of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "Of a hustla, of a, of a hustla (Oh-oh)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "1",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "2",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "3",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "4",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "5",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "6",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "7",
+          "text": "I'm a, I'm a, a diva, I'm a, I'm a, a diva",
+          "persona_id": "persona_sasha_fierce"
+        },
+        {
+          "n": "8",
+          "text": "(Hey)",
+          "persona_id": "persona_sasha_fierce"
+        }
+      ]
+    }
+  ]
+}

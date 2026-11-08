@@ -1,0 +1,79 @@
+{
+  "song_id":1065128,
+  "title":"Jerome Weinberg Speaks (Interlude)",
+  "language":"en",
+  "lyricists":[
+    820
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"jerome",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Boo! Fuck this dude! You're a clown",
+          "rhyme":"un",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"1",
+          "text":"Good afternoon, Class of 2010, my name is Jerome Weinberg (Ha ha!)",
+          "rhyme":"ERg",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"2",
+          "text":"I'm running for class president this year because I believe I can bring positive things to the student body (Wow)",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"3",
+          "text":"My opponent, as you might've already heard, is Mac Miller (Chyeah!)",
+          "rhyme":"e",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"4",
+          "text":"Now, I know, he's the rapper, he gets all the ladies (Damn right)",
+          "rhyme":"iz",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"5",
+          "text":"And he's that popular guy",
+          "rhyme":"i",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"6",
+          "text":"But do you really want somebody running your school that smokes that much marijuana? Is that safe for your environment here at school?",
+          "rhyme":"ul",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"7",
+          "text":"I've been in the bathroom and seen him lighting those... \"Dutch Masters\" in the stall, and that is not cool",
+          "rhyme":"ul",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"8",
+          "text":"So, vote for me, and not for weed",
+          "rhyme":"id",
+          "persona_id":"Mac_Miller"
+        },
+        {
+          "n":"9",
+          "text":"Thank you, again, Jerome Weinberg",
+          "rhyme":"ERg",
+          "persona_id":"Mac_Miller"
+        }
+      ],
+      "rhyme":"ABCDECFFGB",
+      "rhyme_vowel":"ABCDCCAACB"
+    }
+  ]
+}

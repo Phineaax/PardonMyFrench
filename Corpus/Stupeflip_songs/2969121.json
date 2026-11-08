@@ -1,0 +1,295 @@
+{
+  "song_id":2969121,
+  "title":"Tales from the Crou",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Dans le premier manifeste du Crou il était question de reconstruction fragmentaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Nous verrons donc son implicite efficacité auprès des différentes couches composant la tétra connexion",
+          "rhyme":"$",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AB",
+      "rhyme_vowel":"AB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ma zik-mu ça t'envoie dans l’espace",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et le Crou va sauver ton espèce",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les manipulateurs je déteste",
+          "rhyme":"Est",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Paye en espèces si tu fais des sales trucs",
+          "rhyme":"yk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est le son qui te fous de l'herpès",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Tu te grattes, tu te grattes, tu te grattes !",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Personne ne me sort de ma grotte",
+          "rhyme":"Ot",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Lâche-moi la grappe ou je te file ma grippe",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Pourquoi tu t'agrippes, t'es pas de mon groupe",
+          "rhyme":"up",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"T'es pas de ma trempe et t'es pas de ma troupe",
+          "rhyme":"up",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Ta clique passe à la trappe, mais c'est quoi ce trip et pourquoi ça t’attrape ?",
+          "rhyme":"ap",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Le Stup t'as filé le déclic, ta vie va changer en un clic",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Tu chies dans ton froc, car je suis un freak et je fais pas ça pour le fric",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDBEFGHHIJJ",
+      "rhyme_vowel":"ABBCBADEFFAEE"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"C'est le retour de Reverb-man, flow doliprane et coups de tatane",
+          "rhyme":"an",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Vend des sonotones et des tétines j'en ai des tonnes, sous ma doudoune",
+          "rhyme":"un",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Mon style est fluide comme l'eau qui coule, j'fais peur aux mômes qu'ont le nez qui coulent",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Je suis très cool et pas gentil, schizophrénie, voix de déjanté",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"J'vais tout démonter tu sais pas qui je suis, trop de rumeurs je fais des démentis",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Gaffe à ton menton, à tes abbatis, jamais abattu, jamais d'apathie, j'ai d'l'antipathie pour les tout petits, je tue les enfants qui sont pas gentils",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Je suis pas gent-, je l'ai déjà dit, petit j'étais doux mais ça c'est fini...",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEEE",
+      "rhyme_vowel":"ABBCDDD"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"T'attrapes le trac, le truc qui tracasse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tu tâches ton slop, ton stress te tue",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Cadillac est là pour toi ! Écrase ton spliff",
+          "rhyme":"if",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Tu portes des tongs toute l'année",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Va nu-pieds, ça craint du genoux ! Tends la joue",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"La tête hors de l'eau, le cœur ouvert",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Cadillac est avec toi ! (Toi !)",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Cadillac est toujours là ! (Là !)",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFGG",
+      "rhyme_vowel":"ABCDEFAA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Les gens connus, on les r'connaît",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Sont pas comme nous, sans déconner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ils ont tout fait pour être connus",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et c'est pour ça qu'on les connaît",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"On se fout de leur gueule pour déconner",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"On les a vus à la télé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Y'en à qui kiffent qu'on les r'connaît",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Y'en à qui s'plaignent, fallait pas la montrer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Ha ha ha...",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"(C'est vraiment très sympa ce truc)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCABBABDE",
+      "rhyme_vowel":"ABCABBABDE"
+    }
+  ]
+}

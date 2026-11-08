@@ -1,0 +1,415 @@
+{
+    "song_id": 3712062,
+    "title": "Pk tu m’intéresse",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Haaan, haaan",
+                    "rhyme": "an",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Han, han, han, han",
+                    "rhyme": "an",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Han, han, han Benjay",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mais pourquoi tu m’intéresses ? Tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J’peux pas lui briser le cœur mais j’lui casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J’comprends pas l’comment du pourquoi tu m’intéresses, tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J’peux pas lui briser le cœur mais je casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mexico, Mexico, Mexico babe",
+                    "rhyme": "ab",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Trente-huit degrés dans la fosse, j’sors la canette de Tropico fraîche, hey",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Qu’j’arrive en tro-mé, qu’j’arrive en Cabriolet, c’est toujours all eyes on me",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Girls, niggas d’vant la son-mai, all eyes on me",
+                    "rhyme": "i",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Forcément, j’ai vision rouge",
+                    "rhyme": "uZ",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Deux heures du mat’ jusqu’au lever du jour",
+                    "rhyme": "uR",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Moteur de moto fait vroum, vroum, vroum, vroum",
+                    "rhyme": "um",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Toi, t’as pas toqué, t’es rentrée puis boum, boum, boum",
+                    "rhyme": "um",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mais pourquoi tu m’intéresses ? Tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J’peux pas lui briser le cœur mais j’lui casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J’comprends pas l’comment du pourquoi tu m’intéresses, tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J’peux pas lui briser le cœur mais je casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés, j’comprends pas comment",
+                    "rhyme": "an",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J’t’oublierai pas, tu m’as nominé, j’suis métissé, cheveux gominés, taureau dans corrida",
+                    "rhyme": "a",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Hey, va pour les dominer, pas pour le copinage, fumée d'un Cohiba, flex (Flex)",
+                    "rhyme": "Eks",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J’kicke et c’est terminé, vite fait, bien fait comme préliminaires",
+                    "rhyme": "ER",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Toute ton équipe est éliminée, limitée, mon potentiel est illimité",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Really bitch ? Accepte toutes sortes de liquides",
+                    "rhyme": "id",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J’suis sur la côte, j’ai mon jus d’litchi, nouveau flow technique comme ju-jitsu",
+                    "rhyme": "y",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J’suis 2-25, toi, qui es-tu ? J’illumine la ville comme Billie Jean",
+                    "rhyme": "in",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "En 82, mille excuses, 93 est le millésime",
+                    "rhyme": "im",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mais pourquoi tu m’intéresses ? Tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J’peux pas lui briser le cœur mais j’lui casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J’comprends pas l’comment du pourquoi tu m’intéresses, tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J’peux pas lui briser le cœur mais je casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J’ride dans la ciudad, bébé, toute la night",
+                    "rhyme": "ajt",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J’refais l’tour du périph’, j’refais l’tour d’ma life",
+                    "rhyme": "ajf",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Nigga, faut pas m’louper si tu sors le nine",
+                    "rhyme": "in",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "2018, j’suis phénoménal, yeah, yeah, yeah, yeah",
+                    "rhyme": "E",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mais pourquoi tu m’intéresses ? Tu m’intéresses",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Sûrement pour une photo postée sur Internet, sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J’peux pas lui briser le cœur mais j’lui casse le reste, j’te casse les reins",
+                    "rhyme": "un",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "2018, j’suis phénoménal, big up à ceux qui m’ont nominés",
+                    "rhyme": "e",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J’comprends pas l’comment du pourquoi tu m’intéresses (Pourquoi tu m’intéresses ?)",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Sûrement pour une photo postée sur Internet (Une photo postée sur Internet)",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "J’peux pas lui briser le cœur donc j’lui casse le reste (Oh, je casse le reste)",
+                    "rhyme": "Est",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "2018, j’suis phénoménal",
+                    "rhyme": "al",
+                    "personna_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Pourquoi tu m’intéresses ?",
+                    "rhyme": "Es",
+                    "personna_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Sûrement pour une photo postée sur Internet",
+                    "rhyme": "Et",
+                    "personna_id": "002"
+                }
+            ]
+        }
+    ]
+}

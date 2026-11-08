@@ -1,0 +1,65 @@
+{
+  "song_id":3794749,
+  "title":"Sektion Fantome",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(voix1) Et après ?",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"(voix2) Après ?",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"(voix1) Après l'avoir acheté, qu'est-ce que qu'on fait ?",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"(voix3) Bah ! On le mets dans le jardin, on monte dessus, on rigole bien, et puis, on l'aime !",
+          "rhyme":"Em",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"(voix1) Et la nuit, il dort, où ?",
+          "rhyme":"u",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"(voix4) Dans le garage !",
+          "rhyme":"aZ",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAABCD",
+      "rhyme_vowel":"AAAABC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"instrumental",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    }
+  ]
+}

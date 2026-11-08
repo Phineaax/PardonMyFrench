@@ -1,0 +1,298 @@
+{
+  "song_id": 12711221,
+  "title": "ANYTHING BUT LOVE",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1039827,
+    409643
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Listen",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "My dad hates you, my dog hates you, my brother hates you, and I do too",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I asked all of California, they all happy that you moved",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Tryna step on my neck, I'm tryna step in Jimmy Choo's",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "The shit your punk-ass does for views",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You see my name on billboards, on skyscrapers, on monster trucks",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Sit at home, you see I'm good, you— you mad as fuck, oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "You say that I cashed out, well, lucky me, it's payin' off",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Oh no",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I saw you at the hair salon",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Is that really what you want?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "'Cause I know that you're not that blunt, oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Yeah, I know that you want",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "That upper echelon",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "But we know you don't make that cut, oh",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You (Uh-uh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I got anything but love for you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I mean it, like, na-na-na, na-na-na",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You (Uh-uh-uh, so take a walk, baby)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I got anything but love for you (So take a walk, baby, make it long)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Na-na-na, na-na-na",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "My fans hate you, my friends hate you, and Ryan hates you, and I do too",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "You're tryna make this competition, but no one lets you in these rooms",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "You say you hate me, but let's be real, you only here 'cause you like the drama",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And if you hate me, then why you keep on jacking off to Tatiana?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I saw you at the hair salon",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Is that really what you want?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "'Cause I know that you're not that blunt, oh-oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Yeah, I know that you want",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "That upper echelon",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "But we know you don't make that cut, oh",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You (Uh, yeah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I got anything but love for you (Anything but love for you)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I mean it, like, na-na-na, na-na-na",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You (So take a walk, baby)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I got anything but love for you (For you)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "(So take a walk, baby, make it long)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Na-na-na, na-na-na",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So take a walk, baby, make it long (My dad hates you, and I do too)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "So take a walk, baby, make it long (My dog hates you, and I do too)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "So take a walk, baby, make it long (My brother hates you, and I do too)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "So take a walk, baby, so take a walk, baby (Hey)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "So take a walk, baby, make it long (Take a walk, baby)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "So take a walk, baby, make it long (Take a walk, baby)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "So take a walk, baby, make it long (Take a walk)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "So take a walk, baby, so take a walk, baby",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "song_id":256667,
+  "title":"Mon style en Crr",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mon style en CRR, viens faire la fête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Est ce qu'y en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"T'frotte pas au Crou ou on t'fracasse la cruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"On a l'crâne en friche trépané dès la crèche",
+          "rhyme":"ES",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Mon style en crrr, viens faire la fête ! Est ce qu'y'en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Ceux qui nous crachent dessus c'est des rats",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Allez plutôt cracher sur Hélagrh arrages",
+          "rhyme":"aZ",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABCAAADE",
+      "rhyme_vowel":"AAAABAAAACC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Mais moi j'aime bien la guitare électrique",
+          "rhyme":"ik",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'aime bien c'est grave, ça fout la triqueu",
+          "rhyme":"2",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"J'aime bien les CRRCRR qu'ça fait quand ça crache",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'aime bien quand ça s'fâche comme dans un groupe de thrash",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Un gros truc qui tache, genre qui arrache",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Un truc qui s'mâche, qui s'mouche et s'recrache",
+          "rhyme":"aS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Alors t'frotte pas au Crou, ou on t'fracasse la cruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"On a l'crâne en friche trépané dès la crèche",
+          "rhyme":"ES",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCCCCDE",
+      "rhyme_vowel":"ABCCCCDE"
+    },
+    {
+      "section_id":"section_2",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mon style en CRR, viens faire la fête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Est ce qu'y en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"T'frotte pas au Crou ou on t'fracasse la cruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"On a l'crâne en friche trépané dès la crèche",
+          "rhyme":"ES",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Mon style en crrr, viens faire la fête ! Est ce qu'y'en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Ceux qui nous crachent dessus c'est des rats",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Allez plutôt cracher sur Hélagrh arrages",
+          "rhyme":"aZ",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABCAAADE",
+      "rhyme_vowel":"AAAABAAAACC"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ainsi font font font les petites marionnettes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les gens s'pètent la tête on les ramasse à la brouette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les litres de Get 27 se déversent",
+          "rhyme":"ERs",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"La piste trempée comme après une grosse averse",
+          "rhyme":"ERs",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Un gros truc qui crache, genre qui dégage les bronches",
+          "rhyme":"$S",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les trucs qui t'tranchent, genre qui t'agressent la tronche",
+          "rhyme":"$S",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ouais j'suis crade comme une sale fripe et gras comme une frite",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Te frotte pas au Crou ou on t'cloue comme la grippe !",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDE",
+      "rhyme_vowel":"AAAABBCC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mon style en CRR, viens faire la fête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Est ce qu'y en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"T'frotte pas au Crou, on t'fracasse la cruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"On a l'crâne en friche trépané dès la crèche",
+          "rhyme":"ES",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Mon style en crrr, viens faire la fête ! Est ce qu'y'en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Ceux qui nous crachent dessus c'est des rats",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Allez plutôt cracher sur Hélagrh arrages",
+          "rhyme":"aZ",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABCAAADE",
+      "rhyme_vowel":"AAAABAAAACC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Eh ouais j'fais de l'art comme d'autres égorgent un porc",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"J'y vais au coupe-coupe j'continuerai jusqu'à la mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les gens semêm-xue rus ruomuh 'd sap tno' uq m'emmerdent à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les gens qui jugent les gens au premier abord ont tort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Les artistes font leur promo sans prendre de risques",
+          "rhyme":"isk",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Viennent tous les 3 ans pour un nouveau tour de piste",
+          "rhyme":"ist",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Mon nouveau concept featuring avec Priscilla",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Ça pulse au camping entre Alizée et Madonna !",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABCDD",
+      "rhyme_vowel":"AAAABBCC"
+    },
+    {
+      "section_id":"section_6",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mon style en CRR, viens faire la fête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Est ce qu'y en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"T'frotte pas au Crou ou on t'fracasse la cruche",
+          "rhyme":"yS",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"On a l'crâne en friche trépané dès la crèche",
+          "rhyme":"ES",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Tu t'sens pas dans ton assiette ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Mon style en crrr, viens faire la fête ! Est ce qu'y'en a qui aiment les casse-têtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Sans queue ni tête ?",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Ceux qui nous crachent dessus c'est des rats",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Allez plutôt cracher sur Hélagrh arrages",
+          "rhyme":"aZ",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Allez plutôt cracher sur Hélène Ségara",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAABCAAADED",
+      "rhyme_vowel":"AAAABAAAACCC"
+    }
+  ]
+}

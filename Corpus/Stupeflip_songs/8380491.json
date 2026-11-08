@@ -1,0 +1,64 @@
+{
+  "song_id":8380491,
+  "title":"Electro",
+  "language":"en",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Don't want you to close the door",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Don't put my life on the floor",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Don't want to cry anymore",
+          "rhyme":"oR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"I told you before",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBCB",
+      "rhyme_vowel":"ABBCB"
+    },
+    {
+      "section_id":"section_1",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"I",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"A",
+      "rhyme_vowel":"A"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "song_id":242220,
+  "title":"Les Monstres",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"-Est-ce que t'aimes bien les monstres ?",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"- Les monstres ? Nan",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Pourquoi t'aimes pas ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"- Parce que ça me ferait... ça me ferait trop peur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"- Pourquoi ça te fait peur ?",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"- Parce que parfois il peut avoir ceux qui sont sales, très sales",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDDE",
+      "rhyme_vowel":"ABCDDC"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Déjà tout petit j'aimais bien les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les monstres, les monstres, les monstres, les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAA",
+      "rhyme_vowel":"AAA"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Déjà tout petit j'aimais bien les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les bestioles bizarres dans les cauchemars(les monstres)",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les trucs verts avec des poils",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Où les petits rampants",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Les machins pas cools avec des bras touts gluants",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Des trucs sans forme qui se transforment",
+          "rhyme":"ORm",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Un bonhomme avec un corps tout difforme",
+          "rhyme":"ORm",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Des araignées grosses poilues toutes mastocs",
+          "rhyme":"Ok",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Avec des mandibules faîtes pour bouffer un steak",
+          "rhyme":"Ek",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Des gros trucs qu'avancent qu'on sait pas ce que c'est",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Tout noir avec des pinces et c'est là pour bouffer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Des goules qu'ont la gale avec des sales gueules",
+          "rhyme":"9l",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Des momies toutes molles",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Avec des têtes de mongole",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Des bidules qui suintent marronnasses terrifiants",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Des trucs qui pourrissent de partout pétrifiants",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Des grosses bêtes",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"17",
+          "text":"Des choses pas sympa",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"18",
+          "text":"Des gros trucs cracra qui craignent grouillent et qu'ont les crocs",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDDEEFGHIJKKDDLMN",
+      "rhyme_vowel":"ABBCCDDDEEFGDDCCEBH"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Déjà tout petit j'aimais bien les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les monstres, les monstres, les monstres, les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAA",
+      "rhyme_vowel":"AAA"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Aujourd'hui encore j'aime bien les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les trucs étranges oranges et qui dérangent",
+          "rhyme":"#Z",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les morts vivants, les squelettes les fantômes",
+          "rhyme":"om",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les trucs mal faits, comme à la foire du trône",
+          "rhyme":"on",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Les trains fantômes super flippants mieux qu' Alien",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Un barbe à papa avec des poils de hyène",
+          "rhyme":"En",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Des trucs qui s'collent et qui t'bouffent à l'intérieur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Des sangsues qui t'attaquent au coeur parce que là c'est meilleur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Une grosse mygale avec une tête de poule",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Qui te fout la chaire de poule",
+          "rhyme":"ul",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Quand elle te tombe sur l'épaule",
+          "rhyme":"ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Des trucs genre Muppet show en plus sale",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Des créatures dingues qui t'font perdre les pédales",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Des trucs bizarres tu sais pas où qu'elle est la tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"Des bébêtes sanguinolentes, molles comme une omelette",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"15",
+          "text":"Des machins qui se traînent mi chenille mi humain",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"16",
+          "text":"Des trucs pas câlins qu'ont toujours super faim bref...",
+          "rhyme":"Ef",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDEFGGHHIJJKKEL",
+      "rhyme_vowel":"ABCCDEFFGGCHHEEDE"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Déjà tout petit j'aimais bien les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Les monstres, les monstres, les monstres, les monstres",
+          "rhyme":"$stR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAA",
+      "rhyme_vowel":"AAA"
+    }
+  ]
+}

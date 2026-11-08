@@ -1,0 +1,258 @@
+{
+    "song_id": 18004,
+    "title": "Al Green",
+    "language": "en",
+    "lyricists": [
+        2533,
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "kool",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yeah...",
+                    "rhyme": "E",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "1",
+                    "text": "Fuck this whole shit, all the indian look",
+                    "rhyme": "uk",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "2",
+                    "text": "And everybody dressed like they from Pakistan",
+                    "rhyme": "#",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "3",
+                    "text": "Th-th-th-they, dressed like they from Pakistan",
+                    "rhyme": "#",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "4",
+                    "text": "Th-th-th-they, dressed like they from Pakistan",
+                    "rhyme": "#",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "5",
+                    "text": "Fuck this whole shit, all the indian look",
+                    "rhyme": "uk",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "6",
+                    "text": "And everybody dressed like they from Pakistan",
+                    "rhyme": "#",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "7",
+                    "text": "Th-th-th-they, dressed like they from Pakistan",
+                    "rhyme": "#",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "8",
+                    "text": "Th-th-th-they, dressed like they from Pakistan",
+                    "rhyme": "#",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "9",
+                    "text": "Suckers! Pack yo' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "10",
+                    "text": "Pack yo' shit, pack, pack-pack yo' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "11",
+                    "text": "All you motherfuckers tryin to be Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "12",
+                    "text": "Muh'fuckers are weak",
+                    "rhyme": "Ek",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "13",
+                    "text": "Pack yo' shit - motherfuckers tryin to be Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "14",
+                    "text": "Pack yo' shit - Al Green, Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "15",
+                    "text": "All you motherfuckers tryin to be Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "16",
+                    "text": "Muh'fuckers are weak",
+                    "rhyme": "Ek",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "17",
+                    "text": "Pack yo' shit, pack yo' shit - motherfuckers tryin to be Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "18",
+                    "text": "Pack yo'.. pack yo' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "19",
+                    "text": "Suckers! Suckers!",
+                    "rhyme": "9R",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "20",
+                    "text": "Suckers! Suckers!",
+                    "rhyme": "9R",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "21",
+                    "text": "Muh'fuckers, grabbin a guitar",
+                    "rhyme": "aR",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "22",
+                    "text": "Like they Tracy Chapman or some shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "23",
+                    "text": "Suckers, pack yo' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "24",
+                    "text": "From St. Louis to the Maine",
+                    "rhyme": "En",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "25",
+                    "text": "Don't fight the feeble shit, the feeble split",
+                    "rhyme": "i",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "26",
+                    "text": "Check yo' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "27",
+                    "text": "Fee-fee-fee, fee-fee-feeble",
+                    "rhyme": "abl",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "28",
+                    "text": "Muh'fuckers, grabbin a guitar",
+                    "rhyme": "aR",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "29",
+                    "text": "Like they Tracy Chapman or some shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "30",
+                    "text": "P-pa-pa-pa-pa-pack yo' shit {*repeat 5X*}",
+                    "rhyme": "iks",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "31",
+                    "text": "Check yo' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "32",
+                    "text": "Suckers, yeah...",
+                    "rhyme": "E",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "33",
+                    "text": "P-pa-pa-pa-pa-pack yo' shit {*repeat 2X*}",
+                    "rhyme": "iks",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "34",
+                    "text": "When I come through, that's right like a tractor trailer",
+                    "rhyme": "e",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "35",
+                    "text": "You get off the ship and walk to motherfuckin 42nd street",
+                    "rhyme": "it",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "36",
+                    "text": "Like a motherfuckin sailor",
+                    "rhyme": "OR",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "37",
+                    "text": "All you motherfuckers tryin to be Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "38",
+                    "text": "All you motherfuckers tryin to be Al Green",
+                    "rhyme": "in",
+                    "persona": "Dr. Octagon"
+                },
+                {
+                    "n": "39",
+                    "text": "Muh'fuckers are weak",
+                    "rhyme": "Ek",
+                    "persona": "Dr. Octagon"
+                }
+            ]
+        }
+    ]
+}

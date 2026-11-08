@@ -1,0 +1,349 @@
+{
+  "song_id": 6820454,
+  "title": "she’s all i wanna be",
+  "language": "en",
+  "lyricists": [
+    55444,
+    1258628
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Ooh, ooh-ooh, ooh-ooh)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "(Ooh, ooh-ooh, ooh-ooh)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "(Ooh, ooh-ooh, ooh-ooh)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "(Ooh)",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You want the girl with the small waist",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "And the perfect smile",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Someone who's out every weekday",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "In her dad's new car",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "You tell me I shouldn't stress out",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Say, \"It's not that hard\"",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "But I just got a feeling",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "This will leave an ugly scar",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "If you say, \"She's nothing to worry about\"",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Then why'd you close your eyes when you said it out loud?",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Stupid boy making me so sad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Didn't think you could change this fast",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "How could I ever compete with that?",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I know you'll go and change your mind",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "One day wake up and be bored with mine",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "And she's all I wanna be, all I wanna be so bad, so bad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "8",
+          "text": "She's got everything that I don't have, hm-mm",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You want someone you can show off",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Whenever you go out",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "She'll wear a tight mini black dress",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "With all her friends around",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "And then you'll probably spend the night at",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Her nice big house",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "And by then I'll just be someone",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "You've forgotten about, oh",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "If you say, \"She's nothing to worry about\"",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Then why'd you close your eyes when you said it out loud?",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Stupid boy making me so sad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Didn't think you could change this fast",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "How could I ever compete with that?",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I know you'll go and change your mind",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "One day wake up and be bored with mine",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "And she's all I wanna be, all I wanna be so bad, so bad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "8",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "9",
+          "text": "And she's all I wanna be, all I wanna be",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "She's all I wanna be so bad, oh-ooh",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Stupid boy making me so sad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Didn't think you would hurt this bad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "How could I ever compete with that?",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I know you'll go and change your mind",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "One day wake up and be bored with mine",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "She's got everything that I don't have",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "And she's all I wanna be, all I wanna be so bad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "8",
+          "text": "All I wanna be so bad (So bad)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "9",
+          "text": "She's got everything that I don't have (So bad)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "10",
+          "text": "And she's all I wanna be, all I wanna be so bad",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ]
+}

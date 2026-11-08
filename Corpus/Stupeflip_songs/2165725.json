@@ -1,0 +1,67 @@
+{
+  "song_id":2165725,
+  "title":"Crou Genesis",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Voici la région Sud",
+          "rhyme":"yd",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Elle tourne sur elle-même à une vitesse phénoménale",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Si les régions Sud et Ouest se télescopaient",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le choc provoqué serait d'une puissance considérable",
+          "rhyme":"abl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Voici la région Est",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Cette gigantesque boule de gaz est tellement légère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Que si on la posait sur l'eau",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Elle flotterait",
+          "rhyme":"E",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDCEFC",
+      "rhyme_vowel":"ABCBCCDC"
+    }
+  ]
+}

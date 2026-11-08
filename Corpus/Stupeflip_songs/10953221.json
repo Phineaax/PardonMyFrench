@@ -1,0 +1,653 @@
+{
+  "song_id":10953221,
+  "title":"Esprits frappeurs (2018 c.t.)",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_1",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Rap mort, squelette, très étrange cérémonie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Mosh pit de fous provoque terrible pneumonie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Des psalmodies sur cette boucle circulaire",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Circulez, y'a rien à faire, personne ne cautionne tout ce cirque, alors",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Bouge tes cartilages, faudra qu’je te vois te désosser",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Désaxer, sortir de ce corps et tout casser",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Tu penses qu'à ça",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'aimes les sons glauquеs comme un crustacé",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"T’en as pas plus qu'assez, tu sais qu'c'еst beaucoup plus que ça",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDDEDE",
+      "rhyme_vowel":"AABCDDEDE"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Je suis le super inconnu qui nique sa mère à la célébrité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Un maximum de sons qui font tripper c'est ma priorité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"J'suis dépité, ma bonne humeur s'est effritée",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Les connards prétentieux feront les frais de ma sévérité",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Chez nous pas d'people, juste un projet qui va tout déchirer",
+          "rhyme":"e",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Prends toi ça dans les dents, si ça s’arrête ce sera déchirant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"C’est pas marrant",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Fuck le net et ses intolérants",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Je suis le bien-pensant qui brise le mât de leurs catamarans",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAABBBB",
+      "rhyme_vowel":"AAAAABBBB"
+    },
+    {
+      "section_id":"section_3",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'achètes douze chouquettes, je sors de la boulangerie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Une sorte de françoiserit à l’entrée du Franprix",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je marche vite, je vois ce chien, je l'évite",
+          "rhyme":"it",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Le ciel devient rouge et tout le monde s'arrête net",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Un laser fuse, tue une vieille dame",
+          "rhyme":"am",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Un énorme vaisseau atterrit sur le toit",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Je cours vite, ma vie défile dans ma tête",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"J'me cache sous une caisse et j’attends qu'ça passe",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABCDECF",
+      "rhyme_vowel":"AAABCCBC"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Je suis le Stup-messager, l'oiseau quadricéphale",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Le super champignon qui pénètre ton encéphale",
+          "rhyme":"al",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Je suis gardien du précipice, ton reflet dans la glace",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"J'infiltre ton espace, sans sortir de ma carapace",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Je suis l'énigme, le fou, la seule échappatoire",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Un ultime rempart aux catastrophes prémonitoires",
+          "rhyme":"aR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Je suis le poux dans tes cheveux, le chewing sous ta pompe",
+          "rhyme":"$p",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"La poutre dans ton œil, je suis la veine sur tes tempes",
+          "rhyme":"#p",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBCCDE",
+      "rhyme_vowel":"AAAAAABC"
+    },
+    {
+      "section_id":"section_5",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"(Très, très loin des plateaux télé et du star système)",
+          "rhyme":null,
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Je comprends rien, à ce qu'ils disent",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Mais j'vois très bien, où ils veulent en venir",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Je suis vénère, je déblatère",
+          "rhyme":"ER",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"J'vais les forcer, à déglutir",
+          "rhyme":"iR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Cette farce atroce, laissera des traces",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Sourire complice, look dégueulasse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Chien chien pas cool, tenu en laisse",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Je suis le com-pas dans ta trousse",
+          "rhyme":"us",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Je deviens rouge, une écrevisse",
+          "rhyme":"is",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Sur mon visage, qui se crevasse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Et ces tarés, d'la bourserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Facent à la bi-sounourserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"13",
+          "text":"Ya rien à faire, à fortiori",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"14",
+          "text":"C'est comme ça d'puis la nurserie",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDCEEFGHEIIII",
+      "rhyme_vowel":"ABBCBDDCEBDBBBB"
+    },
+    {
+      "section_id":"section_6",
+      "type":"pont",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABABABAB",
+      "rhyme_vowel":"ABABABAB"
+    },
+    {
+      "section_id":"section_7",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ton espèce, sent la pisse",
+          "rhyme":"is",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Ton aigreur, est une impasse",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Pas d'gloss, sur ma face",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Pas d'place, pour le stress",
+          "rhyme":"Es",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"À la masse, Anti-strass",
+          "rhyme":"as",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Rosse le molosse du boss",
+          "rhyme":"Os",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Pas d'pote, dans l'showbiz",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Pas d'bouse, dans mes Bose",
+          "rhyme":"oz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Rien d'rose, triple buses",
+          "rhyme":"yz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Ti abuse, tu m'les brise",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"King Ju, pique sa crise",
+          "rhyme":"iz",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Bad buzz, tu t'écrases",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABBCBDEFGEEH",
+      "rhyme_vowel":"ABBCBDAEFAAB"
+    },
+    {
+      "section_id":"section_8",
+      "type":"pont",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Arrête de filmer, putain !",
+          "rhyme":")",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Arrête !",
+          "rhyme":"Et",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Groui groui, groui groui groui groui groui, groui groui groui",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Ça c'est l'ère du Stup !",
+          "rhyme":"yp",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABABABABCD",
+      "rhyme_vowel":"ABABABABCD"
+    },
+    {
+      "section_id":"section_9",
+      "type":"bruits",
+      "performer":"",
+      "lines":[
+
+      ],
+      "rhyme":"",
+      "rhyme_vowel":""
+    },
+    {
+      "section_id":"section_10",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Un peu parti un peu naze, je rentre dans la boite de Jazz",
+          "rhyme":"az",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et qu'est-ce que je tombe sur quoi ?",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Le DJ passait du Stupeflip",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Whatever I feel now",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Whatever I know",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Whatever you love now",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Whatever you go",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Whatever I feel now (Whatever I feel now)",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"Whatever I know (Whatever I know)",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"9",
+          "text":"Whatever you love now (Whatever you love now)",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"10",
+          "text":"Whatever you go (Whatever you go)",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"11",
+          "text":"Whatever I feel now (Whatever I feel now)",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"12",
+          "text":"Whatever I know...",
+          "rhyme":"o",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCDDDDDDDDDD",
+      "rhyme_vowel":"AABCCCCCCCCCC"
+    }
+  ]
+}

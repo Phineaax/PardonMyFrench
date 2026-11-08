@@ -1,0 +1,505 @@
+{
+  "song_id":7994783,
+  "title":"Les gens qui s’énervent",
+  "language":"fr",
+  "lyricists":[
+    55334
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"intro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"??Batcha??, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"King Ju",
+          "rhyme":"y",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"From France, Paris",
+          "rhyme":"i",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Watcha man! (bou, bou) (bababaï)",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est King Jah ! (brr !)",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Écoute celle-là, man !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCADA",
+      "rhyme_vowel":"ABCADA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les caractériels, chez moi, ça finit en minerve",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ton caca nerveux a tué le sense of humor",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent (brr !)",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les caractériels, chez moi, ça finit en minеrve",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ton caca nerveux a tué lе sense of humor (brr, brr !)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_2",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'étais à la supérette en train d'faire mes courses et y'avait une longue queue d'trois kilomètres, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et y'avait une petite dame devant moi",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Et d'vant elle, une espèce de connard qui lançait déjà des mauvaises vibes, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et là y'a une aut'e caisse qui s'libère, alors la p'tite dame, elle y va et i' commence à lui gueuler d'ssus : \"C'est à moi ! C'est mon tour ! T'as compris, co- [bip] ?!\"",
+          "rhyme":"ip",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Aah, j'lui dis : \"Oh doucement, man !\"",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Un mal élevé, man !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABACAA",
+      "rhyme_vowel":"ABACAA"
+    },
+    {
+      "section_id":"section_3",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les caractériels, chez moi, ça finit en minerve",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ton caca nerveux a tué le sense of humor (bouya !)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les caractériels, chez moi, ça finit en minerve",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ton caca nerveux a tué le sense of humor (watcha man!)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_4",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"J'étais dans une soirée parisienne genre pince-fesses, tu vois l'genre ? (woh oh)",
+          "rhyme":"#R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et là on m'présente un comique assez connu, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Le mec était en mode précieuse ridicule",
+          "rhyme":"yl",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Et là j'lui dis : \"Man, j'suis musicien et j'viens d'refuser un Bercy, man\"",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Pas méchamment, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Et là direct, il m'gueule dessus : \"Quoi ! T'as pas l'droit d'dire ça ! À c'moment-là, moi, j'vais refuser un Olympia !\"",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Après on m'dit qu'i' galérait pour trouver des dates",
+          "rhyme":"at",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Mais c'est pas mon problème, man !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCBBDEB",
+      "rhyme_vowel":"AABAACCA"
+    },
+    {
+      "section_id":"section_5",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les caractériels, chez moi, ça finit en minerve (bouya !)",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ton caca nerveux a tué le sense of humor (sacrilège, man !)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les caractériels, chez moi, ça finit en minerve",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ton caca nerveux a tué le sense of humor (brr !)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_6",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ça d'vait êt' en 82, on partait en vacances, en famille, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Et mon père i' commence à fout' les bagages sur le toit d'la bagnole",
+          "rhyme":"Ol",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Il essaye de fixer l'bordel avec un gros tendeur",
+          "rhyme":"9R",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Mais il y arrive pas, ça lui pète régulièrement à la gueule, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Alors il commence à gueuler, gueuler, 20 minutes de souffrance, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Et j'te raconte pas l'voyage",
+          "rhyme":"aZ",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Dramas sur dramas",
+          "rhyme":"a",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Perte d'énergie, man !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"ABCAADEA",
+      "rhyme_vowel":"ABCAADDA"
+    },
+    {
+      "section_id":"section_7",
+      "type":"refrain",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Les caractériels, chez moi, ça finit en minerve (brr !)",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"Ton caca nerveux a tué le sense of humor (mais tu vas t'calmer ?!)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"Écoute bien ce son, c'est pour les gens qui s'énervent",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Les caractériels, chez moi, ça finit en minerve",
+          "rhyme":"ERv",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Ton caca nerveux a tué le sense of humor (brr, brr !)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"T'as tué l'ambiance et tout le monde t'en veut à mort (woh !...)",
+          "rhyme":"OR",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AABBAABB",
+      "rhyme_vowel":"AABBAABB"
+    },
+    {
+      "section_id":"section_8",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Ouais, c'est vraiment pas cool, man !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"1",
+          "text":"Tu vois, les gens qui s'énervent comme ça, sans raison, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"2",
+          "text":"C'est comme un hold-up mental, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"3",
+          "text":"Alors, qu'i' viennent pas troubler mon sense of humor, man (King Jah !)",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"4",
+          "text":"C'est tout c'que j'demande, man ! (bababaï, bababaï, bababaï...)",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"5",
+          "text":"Jacques Martin était soupe au lait, man",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"6",
+          "text":"Un caractériel !",
+          "rhyme":"El",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"7",
+          "text":"Et pourtant il était respecté, man (drr, drr !)",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        },
+        {
+          "n":"8",
+          "text":"C't'à n'y rien comprendre, man !",
+          "rhyme":"#",
+          "persona_id":"kingju"
+        }
+      ],
+      "rhyme":"AAAAAABAA",
+      "rhyme_vowel":"AAAAAABAA"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "song_id":243042,
+  "title":"La bavure de Pop Hip",
+  "language":"en",
+  "lyricists":[
+    1019559
+  ],
+  "lyrics":[
+    {
+      "section_id":"section_0",
+      "type":"couplet",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"I'm watching the sky but it's all grey",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Now I'm all alone I can feel the pain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"You're still in my mind and you're still in my brain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"4",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"5",
+          "text":"I'm watching the sky but it's all grey",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"6",
+          "text":"Now I'm all alone I can feel the pain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"7",
+          "text":"You're still in my mind and you're still in my brain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"8",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"9",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"10",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"11",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"12",
+          "text":"I'm watching the sky but it's all grey",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"13",
+          "text":"Now I'm all alone I can feel the pain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"14",
+          "text":"You're still in my mind and you're still in my brain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"15",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"16",
+          "text":"Seven years ago, but it's yesterday",
+          "rhyme":"E",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"AABBAABBAAAAABBAA",
+      "rhyme_vowel":"AABBAABBAAAAABBAA"
+    },
+    {
+      "section_id":"section_1",
+      "type":"outro",
+      "performer":"",
+      "lines":[
+        {
+          "n":"0",
+          "text":"Octobre 2003",
+          "rhyme":"ObR",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"1",
+          "text":"Le Crou connait de sérieux dysfonctionnement",
+          "rhyme":"#",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"2",
+          "text":"Pop Hip se désintéresse du rock",
+          "rhyme":"Ok",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"3",
+          "text":"Et commence à écrire des chansons pour Florent Pagny",
+          "rhyme":"i",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"4",
+          "text":"\"L'agonie en Patagonie\"",
+          "rhyme":"i",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"5",
+          "text":"King Ju qui a fait copain copain",
+          "rhyme":")",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"6",
+          "text":"Avec le show business",
+          "rhyme":"Es",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"7",
+          "text":"Commence à fréquenter ...",
+          "rhyme":"e",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"8",
+          "text":"Tandis que Flip voudrait le beurre et l'argent du beurre (monté à l'envers)",
+          "rhyme":"9R",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"9",
+          "text":"C'est à cette époque",
+          "rhyme":"Ok",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"10",
+          "text":"Qu'MC Salo et Cadillac",
+          "rhyme":"ak",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"11",
+          "text":"Rejoignent le Crou in-extrémis",
+          "rhyme":"i",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"12",
+          "text":"Accompagnant l’abominable Ju",
+          "rhyme":"y",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"13",
+          "text":"Dans une série de concerts",
+          "rhyme":"ER",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"14",
+          "text":"Que ça fait rigoler tout le monde",
+          "rhyme":"$d",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        },
+        {
+          "n":"15",
+          "text":"Alors qu'en fait c'est pas drole",
+          "rhyme":"Ol",
+          "persona":"pophip",
+          "persona_id":"pophip"
+        }
+      ],
+      "rhyme":"ABCDDEFGHCIDJKLM",
+      "rhyme_vowel":"ABACCDEFGAHCIEJA"
+    }
+  ]
+}

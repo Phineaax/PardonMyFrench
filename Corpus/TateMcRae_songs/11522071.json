@@ -1,0 +1,295 @@
+{
+  "song_id": 11522071,
+  "title": "Siren sounds",
+  "language": "en",
+  "lyricists": [
+    278305,
+    1258628,
+    1046457
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I wanna kiss you when I hate you and then leave instead",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I wanna kill you, then I call you and say, \"Get in my bed\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Been a full year now and we both know that it's bound to end",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "But kinda like just how hot it gets",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So stay for the night",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "It'll bury the crime",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Tell me a lie",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "It'll buy us some time",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, one more minute, it all burns down",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "They're all telling us to get out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "But you and I, and I",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "We'd keep living in a burning house",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Might be crazy to stick this out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "But we can't see all the flames around",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "You and I, and I",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "We're just dancing to the siren sounds",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can get real cold when I need you, and you don't show up",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "You can get cocky when you want me, and I say, \"I'm done\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Been a full year now, and we both know it's not good for us",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "But we both love the smoke in our lungs",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So stay for the night",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "It'll bury the crime",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Tell me a lie",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "It'll buy us some time",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, one more minute, it all burns down",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "They're all telling us to get out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "But you and I, and I",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "We'd keep living in a burning house",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Might be crazy to stick this out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "But we can't see all the flames around",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "You and I, and I",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "We're just dancing to the siren sounds",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Siren sounds",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Siren sounds",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Siren, siren",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "(Ooh) Siren sounds",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, one more minute, it all burns down",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "They're all telling us to get out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "But you and I, and I",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "We'd keep living in a burning house",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Might be crazy to stick this out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "But we can't see all the flames around",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "You and I, and I",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "We're just dancing to the siren sounds",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ]
+}
