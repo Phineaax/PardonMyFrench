@@ -1,0 +1,410 @@
+{
+    "song_id": 17924,
+    "title": "Mental Case",
+    "language": "en",
+    "lyricists": [
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "dr.",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yo, fuck Octagon!",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Don't ask me about that fuckin' shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Fuckin' ask me about that fuckin shit again!",
+                    "rhyme": ")",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "I ain't doin' that type of shit (I ain't doin' that shit)",
+                    "rhyme": "it",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "You motherfuckers think I'm crazy, right?  (Yeah, you crazy)",
+                    "rhyme": "ajt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "I know—but I am",
+                    "rhyme": "im",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "I have to show niggas, word G, I have to blow niggas",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "TEC-9s, Carbines—pointin' in your fuckin' faces",
+                    "rhyme": "as",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": ".38 Magnum-butcher knife, man, watch me stab 'em",
+                    "rhyme": "Em",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "Jewish kid left there, with ambulances, by the wheelchair",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "Dangerous Action, I'm the movie, I'm the main attraction",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "Fuck up your front lawn with M&M's, Jiffy Popcorn",
+                    "rhyme": "ORn",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "Piss in your mailbox, throw shitty Pampers every two blocks",
+                    "rhyme": "Ok",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "Cut up your great dane, with charcoal out, leavin great flame",
+                    "rhyme": "am",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "You fuckin bastard, don't fuck with me, you gettin blasted",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "Niggas get fucked up, you black niggas actin white",
+                    "rhyme": "it",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "16",
+                    "text": "Your Rolex gone, my project's on your airplane flights",
+                    "rhyme": "ajt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "17",
+                    "text": "First time you check out, baggage claim will blow your neck out",
+                    "rhyme": "awt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "18",
+                    "text": "Cut off your bodyguards, fast start with razor scars",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "19",
+                    "text": "Come grab the submachines, Joe step to seminars",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "20",
+                    "text": "Niggas with diamonds, armed crackheads, clock y'all rhymin",
+                    "rhyme": ")",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "21",
+                    "text": "Take your girl's necklace, stare at the cops, lookin reckless",
+                    "rhyme": "Es",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "22",
+                    "text": "Ass on the corner, think you safe workin at Warner Brothers?",
+                    "rhyme": "ER",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "23",
+                    "text": "Polygram building heard some shots, they want me to chill then",
+                    "rhyme": "En",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "24",
+                    "text": "Security ran, Russell Simmons saw me in a black van",
+                    "rhyme": "an",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "25",
+                    "text": "I ran the tight intersection, and caught a big erection",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "26",
+                    "text": "Spinnin on 3rd, Lexington, through the fuckin red",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "27",
+                    "text": "I'm in Manhattan, naked wigs, on my fuckin head",
+                    "rhyme": "Ed",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "28",
+                    "text": "Streets full of traffic, drive on sidewalks, that's my habits",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "dr.",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Your style is bitch kid, you fucked up, sound like a woman",
+                    "rhyme": "an",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm not impressed when you sport mics and touch your breast",
+                    "rhyme": "ost",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "You transvest with small flows, you can't, proper digest",
+                    "rhyme": "Est",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "You open mic stands, you catch one, with sperm in your hand",
+                    "rhyme": "#d",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "I leave you thinkin in your hotels, with pussy stinkin",
+                    "rhyme": ")",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Massengil thrills flow through New York, to Hollywood hills",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Your male flow, I'm wipin asscracks like Mop-N-Glo",
+                    "rhyme": "o",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "MC's get inserts, thrash style selectin bad words",
+                    "rhyme": "OR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "Move with your silk suits, I stomp your mics with combat boots",
+                    "rhyme": "uts",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "Make up your rap that's feeble, small you think it's major",
+                    "rhyme": "OR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "I pull your rectum out, erase your girl, off my pager",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "International feedback, I make you twist your knee back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "I got your crew on camcorders, tryin to rhyme in Teaback's",
+                    "rhyme": "ins",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "Garter belts on DJ's, sportin tryin to spin on felts",
+                    "rhyme": "Olt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "I see that rugged kid comin through, gimme that screwface",
+                    "rhyme": "as",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "He's wearin girdles, your back-up man, sportin pink lace",
+                    "rhyme": "as",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "16",
+                    "text": "Hey man you better watch your back up in here man",
+                    "rhyme": "#",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "17",
+                    "text": "They rapin little boys!",
+                    "rhyme": "Oj",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "dr.",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I stop your intro, move your mic at your birthday party",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Your group set up, takin turns, Y'ALL SHUT THE FUCK UP",
+                    "rhyme": "9p",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Walk, grabbin your nuts, leave the Kangol's and scratch your butts",
+                    "rhyme": "at",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Stage shows get messed up, you're hardcore, zippin your dress up",
+                    "rhyme": "9p",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Move on your projects, new shit, that's how I do shit",
+                    "rhyme": "it",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Word up G, y'all niggas sound PUSS, lick my pee-pee veteran nasty",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Don't even try to fuckin ask me, fax you my phone number",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "I beat you down with steel cans and wood lumber",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "Open your face up, dress you with makeup",
+                    "rhyme": "u",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "Have your bitch-made, makin Kool-Aid with your ass out",
+                    "rhyme": "awt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "In a glass house, where convicts wear big dicks",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "Strong niggas, got your assholes in the mix",
+                    "rhyme": "iks",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "You need protection for that type of infection",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "dr.",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "You boys comin in hard, I'm the warden",
+                    "rhyme": "En",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "You go out soft",
+                    "rhyme": "Oft",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,606 @@
+{
+    "song_id": 17922,
+    "title": "I Run Rap",
+    "language": "en",
+    "lyricists": [
+        1692
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yeah",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Number one MC in the world, a.k.a. Dr. Dooom",
+                    "rhyme": "um",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Straight out of solitary",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "I got the block locked down",
+                    "rhyme": "awn",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Transfer me to Corcoran to Pelican Bay",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "You don't wanna step in my cell",
+                    "rhyme": "El",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "I eat your ass for real",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Even veterans go out with tight pants and lipstick",
+                    "rhyme": "ik",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Most rappers flex up, they vexed up, they actin hard",
+                    "rhyme": "aRd",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "Attendin Catholic school at mom's house, they soft as lard",
+                    "rhyme": "aR",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "They roll in packs, carryin yo-yo's, and balls and jacks",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "That kid you peeped it, his boys wearin Victoria's Secret",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Mean mugs get crushed up, your bra's showin, pickin dust up",
+                    "rhyme": "9p",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "You light your trees up, I'm just the man to skin yo' knees up",
+                    "rhyme": "9p",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Walk behind you, tuck your stomach in, I redesign you",
+                    "rhyme": "u",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Urgent emergency, your girl is cryin, they can't find you",
+                    "rhyme": "u",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "I move with bowling ball bags, you try to ask for Zig-Zags",
+                    "rhyme": "ag",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "You got your panties on with wigs on, y'all playin tag",
+                    "rhyme": "ag",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "Walkin in tough kid, your girdle's showin, watch your doo-rag",
+                    "rhyme": "ag",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "G-strings get touched, watch your skid marks like Starsky and Hutch",
+                    "rhyme": "itS",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "Y'all scope erections, while rappers run to different sections",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "I ride in limos pull your thongs in, from here to Wisconsin",
+                    "rhyme": ")",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "Drivin' to Sav-On, make tough MC's put on Avon",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "Eject your wigs in Hunts Point, your pumps in truckers rigs",
+                    "rhyme": "ig",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "hook",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Rappers with panty-liners, rent cars, with no recliners",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "I get ill, serve the best MC's with Massengill",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "While crowds chill, take your halter-tops, down to Big Bill",
+                    "rhyme": "il",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Write on your mic stand, your flower shorts, you've been hurt",
+                    "rhyme": "uRt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Male with a dildo, your ass is low, call policemen",
+                    "rhyme": "En",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Three million rappers on labels, sportin skirts release men",
+                    "rhyme": "En",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "I teach men, pull my pants down, piss on each men",
+                    "rhyme": "En",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Fly straight through rectums on the night flight, I cruise on Eastern",
+                    "rhyme": "ERn",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "Look at your contracts, while Vaseline, smears your buttcrack",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "I counteract tracks, while you around smokin crack",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "Skinny kid two pounds, with bony legs, bustin two rounds",
+                    "rhyme": "und",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "That man is slinky, jacks off, they rap is Hostess Twinkie",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "Underarm smell, keep the mics warm, y'all shirts is stinky",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "Panties look great on you with wedding rings around your pinkie",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "Now stop fiesta, then cut your weight down, you'd be like Vesta",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "Facin your whole crew, with condoms on like Uncle Fester",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "16",
+                    "text": "Lo-lo-lo-Lopez, your moms call me Frankie Sanchez",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "17",
+                    "text": "On deck with penis out, pine tar like Tony Perez",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "18",
+                    "text": "Big battin average, send your girlfriend out, tossin salad",
+                    "rhyme": "ad",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "19",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "hook",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Rappers get Maxi-pads and O.B., their time of the month",
+                    "rhyme": "at",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "No time for phone calls from tough guys, y'all puff them blunts",
+                    "rhyme": "(",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "Caesarean stretch marks, cock-diesel MC's end up pregnant",
+                    "rhyme": "#",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "Nine months in Comstock, you rhyme, grabbin inmates jock",
+                    "rhyme": "Ok",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "Sportin your white dress, with Timberlands, you try to impress",
+                    "rhyme": "Es",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Petro with bulletproof vest, your man is havin incest",
+                    "rhyme": "Est",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "Lock up your cell then, your big group, they roll with Elvin",
+                    "rhyme": ")",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "Drag queen on Front Street, program, all your SP-12 beats",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "8",
+                    "text": "Y'all roll up dust, smokin PCP, I come with big heat",
+                    "rhyme": "at",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "9",
+                    "text": "Y'all run y'all knowledge down, send your Rolex down to Big Pete",
+                    "rhyme": "Et",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "10",
+                    "text": "Lipstick is smeared on, your Pele shirt, get your fear on",
+                    "rhyme": "$",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "11",
+                    "text": "Hard rappers with stockings and tunafish, smell like Starkist",
+                    "rhyme": "ist",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "12",
+                    "text": "I call him Miss, rappers tampons, I bought it for Christmas",
+                    "rhyme": "as",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "13",
+                    "text": "I call you Anna make you sniff balls, back to Atlanta",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "14",
+                    "text": "Change all your grammar and have you call home, bleedin to Grandma",
+                    "rhyme": "a",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "15",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "hook",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "6",
+                    "text": "I'm the man of the hour, watchin' girls takin shower",
+                    "rhyme": "9R",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "7",
+                    "text": "I run rap, tell MC's to watch they back",
+                    "rhyme": "ak",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "That's right",
+                    "rhyme": "ajt",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "1",
+                    "text": "When you see in the mess hall",
+                    "rhyme": "ol",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "2",
+                    "text": "All new jacks, even if you're old, give me that respect",
+                    "rhyme": "E",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "3",
+                    "text": "YouknowhatI'msayin? You might get neglected",
+                    "rhyme": "e",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "4",
+                    "text": "That's right, send me all the commisary",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                },
+                {
+                    "n": "5",
+                    "text": "Battlin me ain't necessary",
+                    "rhyme": "i",
+                    "persona": "Dr. Dooom"
+                }
+            ]
+        }
+    ]
+}
