@@ -1,0 +1,328 @@
+{
+    "song_id": 3136698,
+    "title": "Bad romance",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh, là, j'suis dans cette merde depuis des années",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Trop la flemme de rester poli, j'vais lui parler comme un sauvage",
+                    "rhyme": "aZ",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Rester spontané, j'fais mon show et j'prends mon cash et j'vais pas ger-chan pour une poignée d'dollars",
+                    "rhyme": "aR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Juste une poignée d'dollars, RocknRolla bébé, ferme ton Motorola",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'suis sur l'corner, j'ai mes corro', ma Corona, quelques gouttes en hommage à tout ceux en haut",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Oh, j'le vois bien, t'es en trance, tu veux danser",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "C'est chaud, j'ai mes torts, t'as les tiens, qui peut trancher ?",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "T'es bonne mais tu snobes comme si j'te parlais pas français",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "La taille, les détails, t'avais tout donc j'ai flanché",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Oh mama, oh mama, oh mama, tu sais, j'pense à toi, toutes les fois où elle me rend malade",
+                    "rhyme": "ad",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "Oh, oh, oh mama, oh mama, oh mama, tu sais, j'pense à toi toutes les fois où elle me-",
+                    "rhyme": "@",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Tu déchaines mes démons",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Dès minuit, ça commence et sans cesse, tu relances, tu demandes, tu demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Mais j'ai pas les réponses à tes questions, retente dans deux mois, dans deux mois",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Dès minuit, ça commence et sans cesse, tu relances, tu demandes, tu demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Mais j'ai pas les réponses à tes questions, retente dans deux mois, dans deux mois",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh, j'le vois bien, t'es en trance, tu veux danser",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "C'est chaud, j'ai mes torts, t'as les tiens, qui peut trancher ?",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Hey, tu connais mon name (Tu connais mon name)",
+                    "rhyme": "am",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Tu connais mes règles (Tu connais mes règles)",
+                    "rhyme": "Egl",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'ai que mon honneur (J'ai que mon honneur)",
+                    "rhyme": "9R",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Et un peu d'oseille (Et un peu d'oseille)",
+                    "rhyme": "Ej",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Les condés nous testent (Les condés nous testent)",
+                    "rhyme": "Est",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "J'réponds pas quand ils nous questionnent",
+                    "rhyme": "On",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "J'appuie jamais sur le frein (J'appuie jamais sur le frein)",
+                    "rhyme": ")",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Même quand j'ai crevé la roue (Même quand j'ai crevé la roue)",
+                    "rhyme": "u",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "J'suis à cent-quatre-vingt-dix (J'suis à cent-quatre-vingt-dix)",
+                    "rhyme": "is",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "J'ai doublé la Subaru (J'ai doublé la Subaru)",
+                    "rhyme": "y",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "On est v'nu défier la vie (On est v'nu défier la vie)",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "Souviens-toi d'c'qu'on avait dit (Souviens-toi d'c'qu'on avait dit)",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "Qu'on niquerait tout sur un feeling, hey",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh, j'le vois bien, t'es en trance, tu veux danser",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "C'est chaud, j'ai mes torts, t'as les tiens, qui peut-",
+                    "rhyme": "2",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Oh, oh, j'le vois bien, t'es en trance, tu veux danser",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "C'est chaud, j'ai mes to-",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Tu déchaines mes démons",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Dès minuit, ça commence et sans cesse, tu relances, tu demandes, tu demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Mais j'ai pas les réponses à tes questions, retente dans deux mois, dans deux mois",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Dès minuit, ça commence et sans cesse, tu relances, tu demandes, tu demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Mais j'ai pas les réponses à tes questions, retente dans deux mois, dans deux mois",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Moi, j'suis dans cette romance, romance, romance",
+                    "rhyme": "#s",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Et toi, tu demandes, demandes, demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Moi, j'suis dans cette romance, romance, romance",
+                    "rhyme": "#s",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Et toi, tu demandes, demandes, demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Moi, j'suis dans cette romance, romance, romance",
+                    "rhyme": "#s",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Et toi, tu demandes, demandes",
+                    "rhyme": "#d",
+                    "persona_id": "001"
+                }
+            ]
+        }
+    ]
+}

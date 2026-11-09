@@ -1,0 +1,382 @@
+{
+    "song_id": 2910354,
+    "title": "Promi",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Arrête tes mensonges",
+                    "rhyme": "onZ",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Sans contrefaçon, je n'ai que mon son bitch, en club hier, c'était un incendie",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "On s'en bat les de qu'est-c't'en dis",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Digitalova dans la son-mai, toi, t'es une puta, pas ma women",
+                    "rhyme": "En",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Flex comme Serge Aurier, dans la Lamborghini, dans le tro-mé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Mais pourquoi tu fais jamais c'que t'as promis ? Toi, t'es une puta, pas mon homie",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "On s'en bat les si les keumés veulent nous relayer, j'ai pas oublié, yeah, c'que tu disais hier (Salope, j'ai pas ton temps)",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Les derniers seront les premiers (Je sais que t'es pas content) Ça tombe bien, j'vais pas dormir (Appuie sur la détente)",
+                    "rhyme": "iR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "On s'est tué mais on renait, dans la chambre d'hôtel, tu nous connais",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Real shit, éteins la télé, débranche le Wi-Fi",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Elle connait le riddim, envoie la prod, on la cuisine",
+                    "rhyme": "in",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Yeah, gimme, really, à la cool, on fait au feeling",
+                    "rhyme": "iN",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Y'avait ta copine à la soirée, elle a oublié son maillot dans la piscine",
+                    "rhyme": "in",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "Du flow à l'infini, remets-nous des Martini",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "J'rappe comme un malade, sur le moto, on l'a levée comme à Philly, youuuu",
+                    "rhyme": "y",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "C'est pas pour rien si t'es là, si j't'ai croisé sur ma route",
+                    "rhyme": "ut",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "J'roule à 220 rue de la haine, cherche route de l'amour",
+                    "rhyme": "uR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "Dis-moi c'est où bitch ? Les autres sont pas assez oufs",
+                    "rhyme": "uf",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "15",
+                    "text": "J'lis dans leurs cerveaux et c'est tout vide",
+                    "rhyme": "id",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "16",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Arrête tes mensonges",
+                    "rhyme": "onZ",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Sans contrefaçon, je n'ai que mon son bitch",
+                    "rhyme": "itS",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "En club hier, c'était un incendie",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "On s'en bat les de qu'est-c't'en dis",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Arrête tes mensonges",
+                    "rhyme": "onZ",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Sans contrefaçon, je n'ai que mon son bitch",
+                    "rhyme": "itS",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "En club hier, c'était un incendie",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "On s'en bat les de qu'est-c't'en dis",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Han, han",
+                    "rhyme": "an",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Yeah yeah, yeah yeah yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Arrête tes mensonges, publicité mensongère",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "J'suis dans la troisième dimension, oh shit, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "C'est nous, on met le hella, hella sur la scène",
+                    "rhyme": "En",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Les tiens sont où ? Yeah, yeah, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Ouais, tes potos font du yoyo, yeah, que des trucs incroyables",
+                    "rhyme": "abl",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "J'te promets, c'est trop, tu s'ras la prochaine",
+                    "rhyme": "En",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "J'suis trop chaud, trop chaud, han, han, han",
+                    "rhyme": "an",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Les anciens font  \"Han, han, yeah\"",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "Fais-moi ton : \"Han, han yeah\"",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "Han",
+                    "rhyme": "an",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "Mais pourquoi tu fais jamais c'que tu as promis ? Han",
+                    "rhyme": "an",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "Pourquoi tu fais jamais c'que tu as promis ? Han",
+                    "rhyme": "an",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "Mais pourquoi tu fais jamais c'que tu as promis ? Han",
+                    "rhyme": "an",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Arrête tes mensonges",
+                    "rhyme": "onZ",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Sans contrefaçon, je n'ai que mon son bitch",
+                    "rhyme": "itS",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "En club hier, c'était un incendie",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "On s'en bat les de qu'est-ce t'en dis",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "En trois dimensions",
+                    "rhyme": "ion",
+                    "persona_id": "001"
+                }
+            ]
+        }
+    ]
+}

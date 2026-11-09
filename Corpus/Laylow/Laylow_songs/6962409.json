@@ -1,0 +1,530 @@
+{
+    "song_id": 6962409,
+    "title": "LOST FOREST",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Fuck the police comin' straight from the underground",
+                    "rhyme": "awnd",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "A young nigga got it bad 'cause I'm brown (Yeah)",
+                    "rhyme": "awn",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Fuck the police comin' straight from the underground",
+                    "rhyme": "awnd",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "A young nigga got it bad 'cause I'm brown",
+                    "rhyme": "awn",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Dix p'tits négros dans la vallée, le monde voudrait les avaler",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Dix p'tits rebeus dans la vallée, le monde voudrait les avaler",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Ok, le mondve voudrait les avaler",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Ok, ok, ok, ok",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Dans le Classe A, j'roule, j'suis à l'aise, début d'soirée comme il fallait",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "J'ai du khaliss, plus qu'y en fallait, y a des plavons, plus qu'y en fallait",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Y a mes potes qui m'disent \"Accélère\", en même temps ça roule des dorés",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "J'leur dis \"Putain, s'êtes des galères\", ils m'disent \"T'inquiète, on a une soirée\" (T'inquiète gros)",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Ok, j'hésite deux secondes, tout d'suite après, j'me dis \"En vrai, j'ai rien à perdre, si c'est claqué, on peut s'barrer\"",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "À c'moment-là, c'était carré, j'me doutais pas d'c'qui s'préparait, jusqu'à c'qu'on entende",
+                    "rhyme": "and",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Police, les fils de p'",
+                    "rhyme": "u",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "7",
+                    "text": "C'est quand tu crois qu't'es libre, qu'ils t'ramènent à la vérité qui est triste",
+                    "rhyme": "ist",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "8",
+                    "text": "On connait déjà leurs vices, on connait déjà le disque",
+                    "rhyme": "isk",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "9",
+                    "text": "Laissez-moi gérer la conversation avant qu'ça s'envenime",
+                    "rhyme": "im",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "10",
+                    "text": "Allez, fais pas le mariole ! Coupe le moteur, tends tes mains toi ! Tes mains !",
+                    "rhyme": "un",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "11",
+                    "text": "Monsieur l'agent, ces derniers temps j'ai fait pas mal d'argent",
+                    "rhyme": "aRZ",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "12",
+                    "text": "Vous faites erreur sur la personne, j'suis un peu nocif mais attachant",
+                    "rhyme": "an",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "13",
+                    "text": "\"Sois indulgent, please\" c'est c'que j'ai dit",
+                    "rhyme": "i",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "14",
+                    "text": "Avant qu'ils m'répondent : \"Ferme ta gueule, mets-toi à plat ventre\"",
+                    "rhyme": "antr",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "interlude",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "- Ami 1 : Wow wow, doucement",
+                    "rhyme": "an"
+                },
+                {
+                    "n": "1",
+                    "text": "- Ami 2 : Wow, wow, wow",
+                    "rhyme": "o"
+                },
+                {
+                    "n": "2",
+                    "text": "- Policier 1 : Éteins les radios, Philippe",
+                    "rhyme": "ip"
+                },
+                {
+                    "n": "3",
+                    "text": "- Philippe : Ouais j'fais ça tout d'suite",
+                    "rhyme": "it"
+                },
+                {
+                    "n": "4",
+                    "text": "- Ami 2 : C'est quoi c'délire, là ?",
+                    "rhyme": "a"
+                },
+                {
+                    "n": "5",
+                    "text": "- Policier : Vous faites moins les malins là, hein ?",
+                    "rhyme": ")"
+                },
+                {
+                    "n": "6",
+                    "text": "- Philippe : Ouais, ils font moins les malins ces bâtards !",
+                    "rhyme": "aR"
+                },
+                {
+                    "n": "7",
+                    "text": "- Policier : Apporte-moi les cagoules, on va s'les faire !",
+                    "rhyme": "ER"
+                },
+                {
+                    "n": "8",
+                    "text": "- Ami 2 : Comment ça les cagoules ?",
+                    "rhyme": "ul"
+                },
+                {
+                    "n": "9",
+                    "text": "- Ami 1 : Oh ! Qu'est-c'que vous allez faire, là ?",
+                    "rhyme": "a"
+                },
+                {
+                    "n": "10",
+                    "text": "- Philippe : Vous allez vite le comprendre",
+                    "rhyme": "#dR"
+                },
+                {
+                    "n": "11",
+                    "text": "- Policier : Hehehehehe",
+                    "rhyme": "af"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Dix p'tits négros dans la vallée, le monde voudrait les avaler",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Dix p'tits rebeus dans la vallée, le monde voudrait les avaler",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Ok, le monde pourrait les avaler, bah ouais",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Voilà, mets-les là, et ferme la porte",
+                    "rhyme": "ORt",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Quand j'me suis levé, j'ai vu que du bleu, j'sais même pas on était où",
+                    "rhyme": "u",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Mais y avait les keufs, ceux d't'à l'heure, l'un d'eux il avait un gun",
+                    "rhyme": "9n",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Il avait l'air zehef, il avait l'air sérieux, il avait l'air de vouloir en découdre, genre tout d'suite",
+                    "rhyme": "it",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Et moi j'étais nerveux, mais j'ai dit \"Tranquille, doucement, j'explique",
+                    "rhyme": "ik",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "J'crois vous avez confondu, on veut juste taper soirée tranquilles, peut-être qu'il y a un malentendu\"",
+                    "rhyme": "y",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Là, il a tapé une barre (Hahahahah), il s'est rapproché d'moi et il m'a dit :",
+                    "rhyme": "i",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "7",
+                    "text": "\"Maintenant tu fermes ta gueule, c'est moi j'vais t'expliquer les règles du jeu\"",
+                    "rhyme": "2",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "interlude",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "- Policier : Bon les gars, vous voyez cette arme, là ?",
+                    "rhyme": "a"
+                },
+                {
+                    "n": "1",
+                    "text": "- Philippe : Bien sûr qu'ils la voient",
+                    "rhyme": "a"
+                },
+                {
+                    "n": "2",
+                    "text": "- Policier : Bah c'est pas mon arme de service",
+                    "rhyme": "is"
+                },
+                {
+                    "n": "3",
+                    "text": "- Philippe : Non, non, non",
+                    "rhyme": "$"
+                },
+                {
+                    "n": "4",
+                    "text": "- Policier : C'est une autre arme. On va dire que c'est une arme de loisir",
+                    "rhyme": "iR"
+                },
+                {
+                    "n": "5",
+                    "text": "- Philippe : On va dire qu'elle est intraçable et on va dire qu'on peut faire c'qu'on veut avec",
+                    "rhyme": "Ek"
+                },
+                {
+                    "n": "6",
+                    "text": "- Policier : Ouais, et c'qui va s'passer, c'est tout simple : j'vais la j'ter au milieu d'vous trois, et j'vais vous laisser vous entretuer entre vous, jusqu'à c'qu'il y en reste plus qu'un",
+                    "rhyme": "("
+                },
+                {
+                    "n": "7",
+                    "text": "- Philippe : Un seul",
+                    "rhyme": "9l"
+                },
+                {
+                    "n": "8",
+                    "text": "- Policier : Et le grand gagnant pourra repartir la vie sauve. Compris ?",
+                    "rhyme": "i"
+                },
+                {
+                    "n": "9",
+                    "text": "- Philippe : Allez, c'est parti !",
+                    "rhyme": "i"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Il a jeté l'brolique au milieu, et c'est *** qui l'a eu (Wesh, tu fais quoi frère, lâche ça ! Eh, vas-y m'touche pas toi !)",
+                    "rhyme": "y",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Ça s'voyait il était pas zen, ça s'voyait il avait les nerfs à vif depuis 't'à'l'heure, p'tit regard accusateur, quand *** lui dit",
+                    "rhyme": "i",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "\"Poto, calma te, tu vois pas qu'ils veulent juste rentrer dans ta tête",
+                    "rhyme": "Et",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "On est des sahbs à la base, on est fratés, liés jusqu'à la fin\" (Ouais, ouais, c'est ça, ouais !)",
+                    "rhyme": "ouai",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Il lui a dit : \"Ferme ta gueule, c'est pas toi, là, qui tient la me-ar, qui tire les ficelles",
+                    "rhyme": "El",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "Ça s'voit t'es même pas sincère, tu veux juste sauver ta peau, ouais qu'est-c't'aurais fais à ma place ?",
+                    "rhyme": "as",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Allez, ferme-la ! T'façon t'as jamais respecté, t'as jamais fait gaffe à ma gueule",
+                    "rhyme": "9l",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "7",
+                    "text": "Tu t'es toujours cru un peu supérieur avec tes airs, genre \"J'suis au-d'ssus\"",
+                    "rhyme": "y",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "8",
+                    "text": "On n'est pas pareils, c'est d'nature, c'est dans l'sang",
+                    "rhyme": "an",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "9",
+                    "text": "Pas la même culture, pas l'même camp, j'ai jamais aimé tous tes bails de... k7al !\" (Quoi ? T'as dis quoi, là ?)",
+                    "rhyme": "al",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "10",
+                    "text": "D'un coup, *** il a pété un plomb, il lui a dit \"Comment tu parles fils de pute ?",
+                    "rhyme": "yt",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "11",
+                    "text": "Ça y est, c'est bon, t'en peux plus parce qu't'as un fer ?\"",
+                    "rhyme": "ER",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "12",
+                    "text": "*** il a dit \"Qu'est-ce qu'il y a ? T'es là, t'es tout l'temps sous pillave, maintenant tu fais la morale ?",
+                    "rhyme": "al",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "13",
+                    "text": "T'façon qu'est-c'tu peux faire ? C'est moi j'ai l'ke-tru, là !\"",
+                    "rhyme": "a",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "14",
+                    "text": "\"Ok t'as l'ke-tru là mais qu'est-c'tu vas faire ? T'as même pas les couilles\"",
+                    "rhyme": "uj",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "15",
+                    "text": "Il l'a mal pris, il lui a dit \"Me pousse pas gros !\"",
+                    "rhyme": "o",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "16",
+                    "text": "\"Gros, j'te pousse et qu'est-c'tu vas faire ?\" Finalité, il lui a tiré d'ssus",
+                    "rhyme": "y",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "17",
+                    "text": "- Putain !",
+                    "rhyme": "un",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "18",
+                    "text": "- Et de un",
+                    "rhyme": "un",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "19",
+                    "text": "- J'arrête ! J'arrête tout !",
+                    "rhyme": "u",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "20",
+                    "text": "- Non non non, t'arrêtes rien du tout ! Tu vas finir le travail !",
+                    "rhyme": "aj",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "21",
+                    "text": "Faut qu'tu visualises la scène (Allez) : y avait un corps mort et des policiers qui braquaient mon pote (Allez !)",
+                    "rhyme": "Ot",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "22",
+                    "text": "Donc lui m'a braqué à son tour (C'est bon, j'vais l'faire, c'est bon !)",
+                    "rhyme": "uR",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "23",
+                    "text": "Il m'a dit : \"J'suis désolé, khey, jamais j'aurais voulu t'faire ça, à la base, on était frères (Appuie sur la putain d'gâchette !)",
+                    "rhyme": "ER",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "24",
+                    "text": "Mais, la vie c'est traître, il faut qu'j'me sauve, là, c'est pas ma faute, ciao mon pote\" (Allez !) (Pan)",
+                    "rhyme": "Ot",
+                    "persona_id": "004"
+                }
+            ]
+        }
+    ]
+}

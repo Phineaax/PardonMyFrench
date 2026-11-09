@@ -1,0 +1,235 @@
+{
+    "song_id": 6962422,
+    "title": "R9R-LINE",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Air France, Brussels Airlines , ppe-fra d'enculé comme R9",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Dribbler la police en S Line, flex ",
+                    "rhyme": "Eks",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Crochet d'enculé comme R9 , quoi, tu veux tester ? Mais quel bail ?",
+                    "rhyme": "aj",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "J'suis loin, loin, loin, loin ",
+                    "rhyme": "oin",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Air France, Brussels Airlines, ppe-fra d'enculé comme R9 ",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Dribbler la police en S Line , flex",
+                    "rhyme": "Eks",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Crochet d'enculé comme R9, quoi, tu veux tester ? Mais quel bail ? ",
+                    "rhyme": "aj",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "J'suis loin, loin, loin, loin (ah ouais ?)",
+                    "rhyme": "oin",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Ah ouais, ouais, ouais, ouais, ouais, ah ouais ?",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "Air France, Brussels Airlines",
+                    "rhyme": "in",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Ah ouais, ouais, ouais, ouais, ouais, ah ouais ? ",
+                    "rhyme": "E"
+                },
+                {
+                    "n": "7",
+                    "text": "Dribbler la police en S Line",
+                    "rhyme": "in",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "8",
+                    "text": "Ah ouais, ouais, ouais, ouais, ouais, ah ouais ?",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "9",
+                    "text": "Ppe-fra d'enculé comme R9 , crochet d'enculé comme R9",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Répondeur direct quand tu m'appelles (Mais pourquoi t'appelles ?), là, j'ai la flemme",
+                    "rhyme": "Em",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Si, si, fais pas la bad bitch, me fais pas crari la princesse Sissi (Sissi)",
+                    "rhyme": "i",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "R1, Shifter Pro, ça veut michtonner comme si j'étais pro",
+                    "rhyme": "o",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "J'suis dans la street avec têtes d'escrocs, vision rouge brouillée par l'six, six, six",
+                    "rhyme": "is",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Moins cent quarante-sept, multiplié par trois : ça fait deux cent vingt-cinq (On y va)",
+                    "rhyme": "unk",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "Y a du bruit dans l'appart', y a les porcs à la porte, ils ont reçu plein d'plaintes (Toc, toc, toc, toc)",
+                    "rhyme": "unt",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Quoi, toi tu veux flex sur moi ? Dis-toi j'ai l'truc, dis-toi j'ai les réflexes",
+                    "rhyme": "Eks",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "7",
+                    "text": "Oh, nigga, reste cool, t'es éclaté au sol, on est loin dans les airs",
+                    "rhyme": "ER",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "8",
+                    "text": "Demande à",
+                    "rhyme": "a",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Air France, Brussels Airlines, ppe-fra d'enculé comme R9 ",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Dribbler la police en S Line , flex",
+                    "rhyme": "Eks",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Crochet d'enculé comme R9, quoi, tu veux tester ? Mais quel bail ? ",
+                    "rhyme": "aj",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "J'suis loin, loin, loin, loin",
+                    "rhyme": "oin",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Ah ouais, ouais, ouais, ouais, ouais, ah ouais ?",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "Air France, Brussels Airlines",
+                    "rhyme": "in",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Ah ouais, ouais, ouais, ouais, ouais, ah ouais ?",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "7",
+                    "text": "Dribbler la police en S Line ",
+                    "rhyme": "in",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "8",
+                    "text": "Ah ouais, ouais, ouais, ouais, ouais, ah ouais ?",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "9",
+                    "text": "Ppe-fra d'enculé comme R9 (Ah ouais ?), crochet d'enculé comme R9",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "song_id": 5263519,
+    "title": "Mieux vaut pas regarder, Pt. 2",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "interlude",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "- Trinity : Tous vos taux sont au minimum. Que diriez-vous d'un nouveau programme d'entrainement ? Le mode hélicoptère ou bien la simulation : tir au sniper",
+                    "rhyme": "9R"
+                },
+                {
+                    "n": "1",
+                    "text": "- Laylow : Arrête de parler dans ma tête, tu m'fais péter les plombs là. T'sais quoi ? Déconnecte-moi",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "- Trinity : D'accord. Choix confirmé",
+                    "rhyme": "e"
+                },
+                {
+                    "n": "3",
+                    "text": "- Mendiant : Ah Monsieur, Monsieur, s'il-vous-plait. Ah mais, mais j'vous ai d'jà vu vous, vous étiez dans la grosse voiture l'autre jour. Vous auriez pas une p'tite pièce cette fois-ci ?",
+                    "rhyme": "i"
+                },
+                {
+                    "n": "4",
+                    "text": "- Laylow : Attend j'regarde. Nan, nan désolé j'ai rien",
+                    "rhyme": "ien",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "5",
+                    "text": "- Mendiant : Mais c'est pas grave, pas grave mon gars, j'comprends. T'as l'air d'un bon gars t'façon",
+                    "rhyme": "on"
+                },
+                {
+                    "n": "6",
+                    "text": "- Laylow : Ouais si tu l'dis",
+                    "rhyme": "i",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "7",
+                    "text": "- Mendiant : Eh jeune homme, t'as quoi là dans la poche ? T'as du whisky là ? Hein ?",
+                    "rhyme": "un"
+                },
+                {
+                    "n": "8",
+                    "text": "- Laylow : Ouais c'est du whisky",
+                    "rhyme": "i",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "9",
+                    "text": "- Mendiant : Tu m'en donnes un peu ?",
+                    "rhyme": "2"
+                },
+                {
+                    "n": "10",
+                    "text": "- Laylow : Ouais allez pourquoi pas",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "11",
+                    "text": "- Mendiant : Ah merci mon gars, tu sais moi, à l'époque, j'étais comme toi, j'étais bien. Et un beau jour, bah, j'ai tout perdu. Écoute, j'vais t'raconter mon histoire...",
+                    "rhyme": "aR"
+                }
+            ]
+        }
+    ]
+}

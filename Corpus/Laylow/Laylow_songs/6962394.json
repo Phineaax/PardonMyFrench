@@ -1,0 +1,157 @@
+{
+    "song_id": 6962394,
+    "title": "UN RÊVE ÉTRANGE",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Nouveau shit, j'allume tout dans l'noir, personne n'anticipe",
+                    "rhyme": "ip",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Survêt' Nike, masqué tous les soirs, comme un scientifique",
+                    "rhyme": "ik",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Comment faire ? Personne va nous dire, pas d'passe décisive",
+                    "rhyme": "iv",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Nique sa mère, tout s'ra magnifique (Yeah-eah)",
+                    "rhyme": "ik",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Avant tout, frère, j'veux être libre, faire du biff",
+                    "rhyme": "if",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Faire des liasses toute ma vie, me mettre high, maladif",
+                    "rhyme": "if",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Comme le type qu'a l'doigt bloqué sur gâchette automatique",
+                    "rhyme": "ik",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Ça marche pas, j'réessaye, j'peux dormir dans l'stand de tir",
+                    "rhyme": "iR",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Laylow, si si, mec, c'est si funèbre, comme la mort, comme l'assassinat d'Jesse James",
+                    "rhyme": "am",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "J'fais des sons, c'est l'brouillard pas les holidays, okay",
+                    "rhyme": "E",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Concu' tous les jours comme si j'étais dans un Sofitel",
+                    "rhyme": "El",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "7",
+                    "text": "Y'a plus d'merci, y'a plus d'pitié",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "8",
+                    "text": "J'vois tout plein d'copies s'dupliquer, j'dois toujours rester au-d'ssus",
+                    "rhyme": "y",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "9",
+                    "text": "Mais, quand des fois j'me sens plus pisser, j'rappelle une pétasse du lycée (Wesh)",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "10",
+                    "text": "Back to 2010, celle qui méprisait, quel retourn'ment d'veste",
+                    "rhyme": "Est",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Maint'nant, j'ramène nouveau shit, j'allume tout dans l'noir, personne n'anticipe",
+                    "rhyme": "ip",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Survêt' Nike, masqué tous les soirs, comme un scientifique",
+                    "rhyme": "ik",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Comment faire ? Personne va nous dire, pas d'passe décisive",
+                    "rhyme": "iv",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Nique sa mère, tout s'ra magnifique",
+                    "rhyme": "ik",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Bonsoir mon vieil ami, ha ha ha ha ha ha",
+                    "rhyme": "a"
+                }
+            ]
+        }
+    ]
+}

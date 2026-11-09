@@ -1,0 +1,256 @@
+{
+    "song_id": 4118812,
+    "title": "Bruit de couloir",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh ouais la mif'",
+                    "rhyme": "if",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Et même si ça sent bon, j’suis toujours là dans l'ombre à répéter qu'j’suis l'homme de l'année, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'vois s'écouler le temps pendant qu'maman m'attend",
+                    "rhyme": "#",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Lay', j’arrive c’est tout noir, bitchy m'attend dans le fumoir (yeah yeah)",
+                    "rhyme": "aR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J’entends des bruits dans le couloir, fuck, c'est que des loux-ja, leurs comptes est tout dans le rouge",
+                    "rhyme": "uZ",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Fuck avec nous dans la loge, j'suis dans le club hallelujah",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Ouh wa, niquer la concu' c’est tout moi, yeah, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "225, on est sournois, yeah, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Baby, les culottes ont tournoyées, yeah yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Et le patron du club va nous vouvoyer, yeah yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Si y'a mon nom sur le flyer, yeah (yeah yeah) yeah (yeah yeah)",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "On n'oubliera pas les leçons d'hier, yeah (yeah yeah) yeah (yeah yeah)",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "Même si le club est sous coca' (ïne)",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh ouais la mif'",
+                    "rhyme": "if",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Et même si ça sent bon, j'suis toujours là dans l'ombre à répéter qu'j'suis l'homme de l'année, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'vois s'écouler le temps pendant qu'maman m'attend",
+                    "rhyme": "#",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'ressors du club, il est deux heures, j'ai laissé bitch au coin fumeur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J'recompte la liasse, y'a mille cinq cents eu et c'est trop peu",
+                    "rhyme": "2",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Déçu comme à l'époque où j'découpais mes plaquettes",
+                    "rhyme": "Et",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Comme quand j'perdais au basket et que j'prenais l'soixante-sept",
+                    "rhyme": "Et",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Bigo sonne, j'espère que c'est pour du sale",
+                    "rhyme": "al",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'viens pas dans ton after juste pour boire du sky'",
+                    "rhyme": "i",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Y'a rien à fêter mon négro, j'suis dans l'mal",
+                    "rhyme": "al",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "J'pense à stopper, j'te parle sah, donne-moi ce-for si t'as ça",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "J'suis dans l'flou de cinq à sept, j'fais des pompes, j'ai l'bras cassé",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "J'me d'mande si j'en fais assez, si j'dois tricher comme Nasser",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "Pour finir c'qu'est commencé, cracher sur c'qu'est romancé",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "Être prêt à tout r'commencer",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh ouais la mif'",
+                    "rhyme": "if",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Et même si ça sent bon, j'suis toujours là dans l'ombre à répéter qu'j'suis l'homme de l'année, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'vois s'écouler le temps pendant qu'maman m'attend",
+                    "rhyme": "#",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Digitalova, El Mundo",
+                    "rhyme": "o",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "225, jeune éléphant",
+                    "rhyme": "#",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Tremblement, tremblement d'terre",
+                    "rhyme": "ER",
+                    "persona_id": "002"
+                }
+            ]
+        }
+    ]
+}

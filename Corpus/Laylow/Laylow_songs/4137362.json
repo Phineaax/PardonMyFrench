@@ -1,0 +1,266 @@
+{
+    "song_id": 4137362,
+    "title": "Z-Machine",
+    "language": "en",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'me lève tard, j'leur fais la gueule, la gueule",
+                    "rhyme": "9l",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J'branche mon ordinateur, -nateur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'sais pas j'vais kicker laquelle, laquelle",
+                    "rhyme": "El",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Mais j'sais qu'j'vais lui faire la guerre, la guerre",
+                    "rhyme": "ER",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J'vois bien qu'leurs cerveaux laguent, laguent",
+                    "rhyme": "ag",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'vois ma clique est jet-laguée, laguée",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Qu'on surfe pas sur la vague, on surnage, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Deux-deux-cinq dans ta gueule, debout sur un fazer",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Et tes parents kiffent pas",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Ma gueule, j'leur en veux pas, j'kiffe pas trop non plus la leur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Lay' s'ra jamais c'tisse-mé trop fédérateur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'suis numéro 10, pas l'récupérateur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Cœur glacé, j'mets l'faya (Cœur glacé, j'mets l'faya)",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Énervé comme Saiyan (Énervé comme Saiyan)",
+                    "rhyme": "#",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'sens la fin d'la saga (J'sens la fin d'la saga)",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Me demande pas si ça va",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Moi, j'ai l'mort, j'le gueule à même le mic (Hey)",
+                    "rhyme": "ik",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Bientôt, j'arrête et je change de life (Wow)",
+                    "rhyme": "ajf",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "Ils captent même pas les détails, j'ai mal",
+                    "rhyme": "al",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "J'laisserais tout comme Princesse Diana",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'me lève tard, j'leur fais la gueule, la gueule",
+                    "rhyme": "9l",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J'branche mon ordinateur, -nateur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'sais pas j'vais kicker laquelle, laquelle",
+                    "rhyme": "El",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Mais j'sais qu'j'vais lui faire la guerre, la guerre",
+                    "rhyme": "ER",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J'vois bien qu'leurs cerveaux laguent, laguent",
+                    "rhyme": "ag",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'vois ma clique est jet-laguée, laguée",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Qu'on surfe pas sur la vague, on surnage, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Deux-deux-cinq dans ta gueule, debout sur un fazer",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Et tes parents kiffent pas",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'me lève tard, j'leur fais la gueule, la gueule",
+                    "rhyme": "9l",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "J'branche mon ordinateur, -nateur",
+                    "rhyme": "9R",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "J'sais pas j'vais kicker laquelle, laquelle",
+                    "rhyme": "El",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Mais j'sais qu'j'vais lui faire la guerre, la guerre",
+                    "rhyme": "ER",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "J'vois bien qu'leurs cerveaux laguent, laguent",
+                    "rhyme": "ag",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "J'vois ma clique est jet-laguée, laguée",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Qu'on surfe pas sur la vague, on surnage, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Deux-deux-cinq dans ta gueule, debout sur un fazer",
+                    "rhyme": "e",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Et tes parents kiffent pas",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                }
+            ]
+        }
+    ]
+}

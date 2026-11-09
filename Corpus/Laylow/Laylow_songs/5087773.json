@@ -1,0 +1,287 @@
+{
+    "song_id": 5087773,
+    "title": "MEGATRON",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Okay",
+                    "rhyme": "E",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Les yeux de ces gens n'ont jamais vu le soleil de près, je le vois",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "De montrerle chemin, d'rallumer la flamme qui s'éteint, je me dois",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Tu sais, loin des lois, je ne vis que le soir comme étoile dans le noir",
+                    "rhyme": "aR",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "4",
+                    "text": "Tu sais, loin de moi, demain, j'reviens de loin, j'ai plus vraiment le choix",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Augmente la pression (pression)",
+                    "rhyme": "ion",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Augmente la pression, oh",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Augmente la pression (pression)",
+                    "rhyme": "ion",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Augmente la pression, oh",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Y a v'là l'éléphant dans la maison, c'est toujours l'plus fort qui a raison (oui)",
+                    "rhyme": "on",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Éteins toutes les télévisions, fuck une représentation, j'suis en mission",
+                    "rhyme": "ion",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Ils ont chaud, c’est pas la saison (non) ; dans la cabine, pas de réseau",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Fais pas trop des comparaisons, j'ramène le flow, c'est la dernière livraison",
+                    "rhyme": "on",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "4",
+                    "text": "Baby, c'est chant-mé, j'vais pouvoir t'offrir ton sac Chanel",
+                    "rhyme": "El",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "5",
+                    "text": "Bien sûr que j'savais qu'on allait tout niquer, c'tait qu'une question d'années",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "6",
+                    "text": "Tout est gé-char, j'ai mis des lames de rasoir dans l'écharpe, bra",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "7",
+                    "text": "J'ai même pas sorti mes cartes, ils ont d'jà tous quitté la table, oh merde",
+                    "rhyme": "ERd",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Augmente la pression (pression)",
+                    "rhyme": "ion",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Augmente la pression, oh",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Augmente la pression (pression)",
+                    "rhyme": "ion",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Augmente la pression, oh",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Et bah ouais mec, bien sûr que l'jeune tisse-mé revient",
+                    "rhyme": "ien",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Celui l'plus chaud dans la ce-Fran, achète son album qui marche à la revente",
+                    "rhyme": "ant",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "J'm'arrête, j'mets l'plein, j'suis sur l'périph', t'es loin",
+                    "rhyme": "oin",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Laylow, bien sûr, DigitalMundo, j'suis l'Man of the Year",
+                    "rhyme": "ER",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "4",
+                    "text": "Ça date pas d'hier et j'peux leur trouer le boule et les yeuz",
+                    "rhyme": "y",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "5",
+                    "text": "Mes niggas font \"yes\", ça secoue la tête sur la banquette arrière",
+                    "rhyme": "ER",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "6",
+                    "text": "Mais c'est pas ma faute, va dire à l'OPJ qu'on va tout niquer",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "7",
+                    "text": "Qu'ils viennent même pas nous contrôle, fils d'immigrés sur un terrain miné",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "8",
+                    "text": "Oh, j'me d'mande comment ça va s'terminer",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "9",
+                    "text": "Yo, j'suis même pas sûr qu'on va trouver la paix",
+                    "rhyme": "E",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "10",
+                    "text": "Shit, j'connais pas mes limites, mes limites",
+                    "rhyme": "it",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "11",
+                    "text": "J'me d'mande comment ça va s'terminer",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Les yeux de ces gens n'ont jamais vu le soleil de près, je le vois",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "De montrer le chemin, d'rallumer la flamme qui s'éteint, je me dois",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Tu sais, loin des lois, je ne vis que le soir comme étoile dans le noir",
+                    "rhyme": "aR",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Tu sais, loin de moi, demain, j'reviens de loin, j'ai plus vraiment le choix",
+                    "rhyme": "a",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'augmente la pression, oh",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                }
+            ]
+        }
+    ]
+}

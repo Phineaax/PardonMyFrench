@@ -1,0 +1,286 @@
+{
+    "song_id": 3134653,
+    "title": "Bionic",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mami, yé le fuego dans la tête, deux heures du mat' dans la caisse",
+                    "rhyme": "Es",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "J't'ai même pas dit \"Hello, enchanté, moi c'est Laylow\"",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "J'ai peu d'temps à perdre, d'habitude j'fais des business",
+                    "rhyme": "Es",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Mais, mami, tu me plais trop, j'te vois depuis le rétro",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'essaie, j'réessaie, mais ces bâtards veulent pas me laisser brasser tout seul dans mon coin",
+                    "rhyme": ")",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Cet été, j'sors le TT, j'te le promets mami, j'vais les laisser parler, j'roul'rai loin, loin, loin, han",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Tu m'illumines, surtout après minuit une",
+                    "rhyme": "yn",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "T'es au top, t'es collée au rythme, j'en oublie tous mes a priori",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Tu danses, flex, bionic, j'suis déjà vintage comme G-Unit",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "T'as grillé toutes les priorités",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "T'es là mais j'ai du mal à me lancer, lancer, lancer, lancer, lancer",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Toute la nuit, t'as dansé, dansé, dansé, dansé, dansé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Comme si tu sentais même pas le danger, rentrer dans tes draps de dentelle",
+                    "rhyme": "El",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Écoutes pas les avis des gens, ils veulent t'enlever ta façon de penser, insensé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Baby, why you don't come tonight ? Ouh babe",
+                    "rhyme": "ab",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "We can do all the things you like, oh",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Come tonight, come and have some fun",
+                    "rhyme": "yn",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Baby, we can do all the things you like",
+                    "rhyme": "Ejk",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'reviens plus déter', second couplet coupe les têtes",
+                    "rhyme": "Et",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "J'ai toujours pas mon coupé, bébé, pourtant, j'ai rien loupé, chaud comme en Guadaloupe, faya man",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "T'es là, tu fais qu'rouler d'l'herbe, donc je m'endors dans tes bras un moment, un moment, un moment, un moment, un moment, un moment, un moment",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "T'as p't'être pris trop d'drogues cette nuit, et alors ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Mes ennemis reçoivent tête de mort, j't'envoies des smileys, ma baby love",
+                    "rhyme": "Ov",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "À chaque fois, j'sais pas à quoi m'en tenir, tu vois pas où j'veux en venir",
+                    "rhyme": "iR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "T'es dans ma ligne de mire, j'pense à toi, j'fais des vroum-vroum sur l'périph', han",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Tu m'illumines, surtout après minuit une",
+                    "rhyme": "yn",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "T'es au top, t'es collée au rythme",
+                    "rhyme": "itm",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "J'en oublie tous mes a priori",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Tu danses, flex, bionic, j'suis déjà vintage comme G-Unit",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "T'as grillé toute les priorités",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "T'es là mais j'ai du mal à me lancer, lancer, lancer, lancer, lancer",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Toute la nuit, t'as dansé, dansé, dansé, dansé, dansé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Comme si tu sentais même pas le danger, rentrer dans tes draps de dentelle",
+                    "rhyme": "El",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Écoutes pas les avis des gens, ils veulent t'enlever ta façon de penser, c'est insensé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Baby, why you don't come tonight ? Ouh babe",
+                    "rhyme": "ab",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "We can do all the things you like, oh",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Come tonight",
+                    "rhyme": "ajt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Come, have some fun",
+                    "rhyme": "yn",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Baby, we can do all the things you like",
+                    "rhyme": "Ejk",
+                    "persona_id": "001"
+                }
+            ]
+        }
+    ]
+}

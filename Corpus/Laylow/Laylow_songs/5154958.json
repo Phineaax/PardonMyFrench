@@ -1,0 +1,211 @@
+{
+    "song_id": 5154958,
+    "title": "VAMONOS",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mieux vaut pas r'garder, pas r'garder, nan",
+                    "rhyme": "an",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Faut pas r'garder, la vérité blesse",
+                    "rhyme": "Es",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Mieux vaut pas r'garder, pas r'garder, nan",
+                    "rhyme": "an",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Faut pas r'garder",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Vaut mieux pas regarder, elle a les jambes écartées, interdit aux moins d'seize",
+                    "rhyme": "Ez",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Y a moins d'mots, y a pas moins d'sens, j'suis loin d'moi, de mes ancêtres",
+                    "rhyme": "EtR",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Juste en face, c'est les enfers ‘’taf, fait des affaires’’ m'a répété mon frère",
+                    "rhyme": "ER",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Regarde pas trop les assiettes des autres, elles ont toujours l'air pleines, fuck té-ma la mienne",
+                    "rhyme": "En",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "4",
+                    "text": "Tous mes rêves d'ados en miettes, j'vais les réaliser en mieux",
+                    "rhyme": "ieu",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "5",
+                    "text": "Fuck un frère toujours en chien, dis-lui d'se ressaisir ou ciao (ciao)",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "6",
+                    "text": "Mieux vaut pas trop ter-ma l'ciel, si la réponse est d'vant tes yeux",
+                    "rhyme": "eu"
+                },
+                {
+                    "n": "7",
+                    "text": "Rien à foutre d'être un mec bien, j'veux le monde",
+                    "rhyme": "ond",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "8",
+                    "text": "Et j'vais pas r'garder l'price sur l'étiquette, guette la tête des mecs, tah la sécurité",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "9",
+                    "text": "La vie ils ont l'seum, j'sais pas, p't-être leurs femmes les trompent",
+                    "rhyme": "onp",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "10",
+                    "text": "J'veux pas regarder la misère du monde mais au fond",
+                    "rhyme": "on",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "11",
+                    "text": "Ton mal c'est p't-être mon bien, ça bosse comme cartel colombien",
+                    "rhyme": "ien",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "12",
+                    "text": "Y'en a qui en pleurent, y'en a d'autres qui en rêvent, moi, j'm'en bats les couilles",
+                    "rhyme": "uj",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "pont",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Laylow veut que faire la liasse pour la familia, puis Vamonos",
+                    "rhyme": "o",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Frérot, s'te-plaît reste fiable, joue pas les mafieux quand t'es au phone",
+                    "rhyme": "on",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "T'enflamme pas pour une bitch, j'm'enflamme pas pour un vieux contrat à vingt mille (vingt mille)",
+                    "rhyme": "il",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Tout ça c'est rien, c'est pas la vie, mon ami",
+                    "rhyme": "i",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "4",
+                    "text": "Sers-moi, ice, and 'sky, plus tout c'qu'il y a dans ton sachet",
+                    "rhyme": "E",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "5",
+                    "text": "Cette life, coup d’schlass, j'ai tâché l'sweat Versace",
+                    "rhyme": "as",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "6",
+                    "text": "J'leur donne qu'un smile, le reste j'vais l'garder caché",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "7",
+                    "text": "Vérité fait mal",
+                    "rhyme": "al",
+                    "persona_id": "003"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mieux vaut pas r'garder, pas r'garder, nan",
+                    "rhyme": "an",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "1",
+                    "text": "Faut pas r'garder, la vérité blesse",
+                    "rhyme": "Es",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "2",
+                    "text": "Mieux vaut pas r'garder, pas r'garder, nan",
+                    "rhyme": "an",
+                    "persona_id": "003"
+                },
+                {
+                    "n": "3",
+                    "text": "Faut pas r'garder",
+                    "rhyme": "e",
+                    "persona_id": "003"
+                }
+            ]
+        }
+    ]
+}

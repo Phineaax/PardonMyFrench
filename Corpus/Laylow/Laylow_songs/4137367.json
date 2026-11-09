@@ -1,0 +1,241 @@
+{
+    "song_id": 4137367,
+    "title": "Vent de l’est",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Pétasse, quand tu me laisses, j'me sens seul à la mort",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Pourquoi t'es partie si vite ? Pourquoi t'as claqué la porte ?",
+                    "rhyme": "ORt",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Comme un vent de l'Est, tu m'as refroidi les os",
+                    "rhyme": "Os",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Pourquoi t'as participé à ce jeu tellement ignoble ?",
+                    "rhyme": "Obl",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Oh, sors d'mes rêves, allez, sors d'ce monde",
+                    "rhyme": "$d",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Pourquoi j'ressens un vide ? Pourquoi j't'en veux encore ?",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Pétasse, quand tu me laisses, j'me sens seul à la mort",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Pourquoi t'as parlé si vite ? Pourquoi t'as parlé aux autres ?",
+                    "rhyme": "otR",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Han, j'ai cinquante raisons d’te faire la gueule, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Allez, fais pas la gueush yeah, m'envoie plus jamais de cœurs yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "T'façon, j'ai bloqué ton tel' et j'compte pas faire la trêve",
+                    "rhyme": "Ev",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Pour être sincère, y aura plus jamais d'après (Shit)",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Yeah, entre nous et c'est de ta faute",
+                    "rhyme": "ot",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Y en aura jamais un autre, t'as raté keu-mé en or",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "'teille de Jack Daniel's, faut qu'je sorte d'ce monde",
+                    "rhyme": "$d",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Que j'fasse du mal à une autre pour qu'j'me sente revivre un peu (Ou-ouuh)",
+                    "rhyme": "2",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Et j'kiffe pas ces mood des mauvais soirs",
+                    "rhyme": "aR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "J'suis tellement ivre que j'ferais honte à ma mama",
+                    "rhyme": "a",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "Et j'suis triste quand j'repense aux bons moments",
+                    "rhyme": "#",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "Han, han-han-han, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "12",
+                    "text": "J'te raconte pas c'qui m'est passé par la te-tê hier",
+                    "rhyme": "ER",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "13",
+                    "text": "T'façon, j'suis déjà mort à l'intérieur, j'ai éteint la lumière",
+                    "rhyme": "ER",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "14",
+                    "text": "Y a que des mélancolies quand j'regarde en arrière, yeah, yeah",
+                    "rhyme": "E",
+                    "persona_id": "002"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Pétasse, quand tu me laisses, j'me sens seul à la mort",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "1",
+                    "text": "Pourquoi t'es partie si vite ? Pourquoi t'as claqué la porte ?",
+                    "rhyme": "ORt",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "2",
+                    "text": "Comme un vent de l'Est, yeah, tu m'as refroidi les os",
+                    "rhyme": "Os",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "3",
+                    "text": "Pourquoi t'as participé, yeah, à ce jeu tellement ignoble ?",
+                    "rhyme": "Obl",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "4",
+                    "text": "Oh, sors d'mes rêves (Sors d'mes rêves)",
+                    "rhyme": "Ev",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "5",
+                    "text": "Allez, sors d'ce monde (Sors d'ce monde)",
+                    "rhyme": "$d",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "6",
+                    "text": "Pourquoi j'ressens un vide ? (Pourquoi j'ressens un vide ?)",
+                    "rhyme": "id",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "7",
+                    "text": "Pourquoi j't'en veux encore ? (Pourquoi j't'en veux encore ?)",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "8",
+                    "text": "Pétasse, quand tu me laisses (Pétasse, quand tu me laisses)",
+                    "rhyme": "Es",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "9",
+                    "text": "J'me sens seul à la mort (J'me sens seul à la mort)",
+                    "rhyme": "OR",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "10",
+                    "text": "Pourquoi t'as parlé si vite ? (Pourquoi t'as parlé si vite ?)",
+                    "rhyme": "it",
+                    "persona_id": "002"
+                },
+                {
+                    "n": "11",
+                    "text": "Pourquoi t'as parlé aux autres ? (Pourquoi t'as parlé aux autres ?)",
+                    "rhyme": "otR",
+                    "persona_id": "002"
+                }
+            ]
+        }
+    ]
+}

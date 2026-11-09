@@ -1,0 +1,237 @@
+{
+    "song_id": 2910357,
+    "title": "GTMotors",
+    "language": "fr",
+    "lyricists": [
+        308564,
+        146430,
+        515323
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "T'as découpé mon cœur en mille morceaux",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Puis ma naïveté s'est barrée, t'façon tout s'est barré trop tôt",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "À 2-20 sur la moto, le diable s'habille en Yamamoto, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "J'étais déjà loin quand tu passais la première, boîte de vitesse OTO",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Si j'perce, prend une photo, pourvu qu'elles deviennent tristement célèbres",
+                    "rhyme": "EbR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Toutes les plumes égarées dans les ténèbres",
+                    "rhyme": "EbR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "J'ai prié pour qu'on reste sur terre, prié pour qu'notre âme s'élève",
+                    "rhyme": "Ev",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Le mal j'sais qu'on sait l'faire, le bien, c'est plus compliqué mais on essaie, woh",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "J'te baise j'te laisse telle quelle, solo dans le motel",
+                    "rhyme": "El",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Tout le weekend, j'suis resté tout le weekend",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "À force de tter-ma la vie des gens, t'auras des migraines",
+                    "rhyme": "En",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "Même les rêves de tarés sont limités",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "Au fond, X recherche Y, plus une garrot à l'unité",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "Donc qui t'es pour chiffrer le coût d'un cœur brisé ?",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "Commence par rembourser c'qu'on a tisé, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "15",
+                    "text": "Y'a des cs-tru mieux vaut pas r'garder la vie d'ma reum",
+                    "rhyme": "2m",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Familia, la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Chaque jour que Dieu fait, je fais la liasse, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Pour la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Chaque jour que Dieu fait, je fais ma liasse",
+                    "rhyme": "as",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Pour la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": " la liasse, la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Chaque jour que Dieu fait, je fais ma liasse",
+                    "rhyme": "as",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Familia, la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Chaque jour que Dieu fait je fais ma liasse",
+                    "rhyme": "as",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "La familia, la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Chaque jour que Dieu fait, je fais la liasse, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Pour la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Chaque jour que Dieu fait, je fais ma liasse",
+                    "rhyme": "as",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Pour la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": " la liasse, la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Chaque jour que Dieu fait, je fais ma liasse",
+                    "rhyme": "as",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Familia, la familia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Chaque jour que Dieu fait je fais ma liasse",
+                    "rhyme": "as",
+                    "persona_id": "001"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "song_id": 6962410,
+    "title": "HELP !!!",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Elle a crié \"À l'aide, à l'aide\" pendant des heures",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Mais bien entendu, l'enfer c'est pas nous, l'enfer c'est les",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "L'enfer c'est les autres, la porte d'à côté",
+                    "rhyme": "e",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Là où y a toujours beaucoup d'bruit mais très peu de public, où on y fait des concerts",
+                    "rhyme": "ER",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Où l'on chante des chansons, que personne n'aime entendre, des chansons pour célébrer la mauvaise entente",
+                    "rhyme": "ant",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Qui font peur aux enfants, tard dans la nuit, c'est l'bruit des assiettes qui fait l'harmonie",
+                    "rhyme": "i",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "4",
+                    "text": "Une chanteuse anonyme qui crie son spleen",
+                    "rhyme": "in",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "5",
+                    "text": "À un moment donné, elle s'écroule sur le sol mais personne n'applaudit",
+                    "rhyme": "i",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "6",
+                    "text": "Crever sur scène comme Dalida, putain c'est triste",
+                    "rhyme": "ist",
+                    "persona_id": "004"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Elle a crié  \"À l'aide, à l'aide\" pendant des heures",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "1",
+                    "text": "Mais bien entendu, l'enfer c'est pas nous, l'enfer c'est les autres",
+                    "rhyme": "otR",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "2",
+                    "text": "Elle a crié \"À l'aide, à l'aide\" pendant des heures",
+                    "rhyme": "9R",
+                    "persona_id": "004"
+                },
+                {
+                    "n": "3",
+                    "text": "Mais bien entendu, l'enfer c'est pas nous, l'enfer c'est les autres",
+                    "rhyme": "otR",
+                    "persona_id": "004"
+                }
+            ]
+        }
+    ]
+}

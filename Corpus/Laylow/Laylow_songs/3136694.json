@@ -1,0 +1,413 @@
+{
+    "song_id": 3136694,
+    "title": "Ignore",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Génération tête brûlée, Laylow, Man of the Yea-ea-ear",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "J'veux toujours tout faire péter, surtout péter l'million",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Génération tête brûlée, donne-nous l'monde, on l'pilote",
+                    "rhyme": "Ot",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Flex, celle-là, c'est pour moi, t'inquiètes pas, j'te refais comme Madonna",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "J'vois ton rouge à lèvres, il est rouge, on voit rouge comme le maillot d'la Roma",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Mets des diamants pour la re-mè, si ça va vite, nigga, remets",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Rap jeu remis à jour, fait bisous sur ma joue, han",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Écoute pas ta pote à gauche, j'sais pas c'qu'elle mijote",
+                    "rhyme": "Ot",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Fais sortir le démon, desserre la camisole",
+                    "rhyme": "Ol",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Très, très cher comme Mona Lisa, plus d'aigu dans l'equalizer, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Fais c'ment-dou, y'a la banalisée, mec",
+                    "rhyme": "Ek",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "On sort la tendance, tu fais qu'analyser, wesh",
+                    "rhyme": "aS",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "T'es du genre tétanisé d'vant des grosses jantes métallisées",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "4-4-2 sur terrain usé, tu rentres pas où on s'est hissé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "J'roule ma fusée, t'sais qu'on les baise, abusé",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "J'suis pas là pour sympathiser, fuck ta Classe sur les Champs Élysées",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "Bébé, tu sais qui c'est, ch'mise hawaïenne, cheveux lissés",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "15",
+                    "text": "J'peux la glisser, tu l'sais",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Génération tête brûlée, Laylow, Man of the Yea-ea-ear",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "J'veux toujours tout faire péter, péter tout plein d'millions",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Génération tête brûlée, donne-nous l'monde, on l'pilote",
+                    "rhyme": "Ot",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Aïe, j'augmente le bénéf', tu fais faillite (Tu fais faillite)",
+                    "rhyme": "it",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Y'a deux-trois pétasses qui m'ont trahi (Qui m'ont trahi)",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Aïe, m'en veux pas, j'étais naïf (J'étais naïf)",
+                    "rhyme": "if",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Maintenant, j'suis focus sur le khalis (Khalis)",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Dérapage contrôlé comme en rallye (Rallye)",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "J't'ai vu au coin fumeur, j't'ais complètement high",
+                    "rhyme": "Eg",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Aïe, como esta mammi ? Mammi",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Han, j'ai ramené la flamme dans la ville, elle demande si j'suis l'Man of the Year (Man of the Year)",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "J'lui réponds : \"j'sais pas\" mais que j'protège les miens tout comme Manuel Neuer",
+                    "rhyme": "e",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "Négro, fait pas genre t'es pas mal à l'aise, quand ça parle en euros, t'es dans monde parallèle",
+                    "rhyme": "El",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "Ton flow pue la merde, j'te le laisse, comme mes exs, ouais",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "J'regarde la une, la deux, j'suis perplexe, j'te vois poser, t'es là, t'es pas flex",
+                    "rhyme": "Eks",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "Devant l'alignement des planètes, diplomatique comme la plaque d'la Lexus, hey",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "Tu captes pas le lexique, sur l'terrain, c'est le Brésil",
+                    "rhyme": "il",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "J'suis d'vant toi, je t'explique, le temps passe et t'hésites, girl",
+                    "rhyme": "9Rl",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Génération tête brûlée, Laylow, Man of the Yea-ea-ear",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "J'veux toujours tout faire péter, péter tout plein d'millions",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Génération tête brûlée, donne-nous l'monde, on l'pilote",
+                    "rhyme": "Ot",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Aïe, aïe, aïe, aïe, mamma mia",
+                    "rhyme": "a",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Génération tête brûlée, donne-nous l'monde, on l'pilote",
+                    "rhyme": "Ot",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "J'suis juste en face de toi bébé, pourquoi tu m'ignores ?",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Génération tête brûlée, donne-nous l'monde, on l'pilote",
+                    "rhyme": "Ot",
+                    "persona_id": "001"
+                }
+            ]
+        }
+    ]
+}

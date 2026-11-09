@@ -1,0 +1,237 @@
+{
+    "song_id": 3136697,
+    "title": "Enlève le shirt (Interlude)",
+    "language": "fr",
+    "lyricists": [
+        308564
+    ],
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "- ... message. Donc tout va bien ici, ravi. Tout l'monde, tout l'monde s'porte bien. J'voulais t'dire quoi : j'monte la s'maine prochaine, donc on va s'péter en stud' comme d'habitude et j'sais pas si t'as écouté la prod là, mais gros, elle est trop lourde",
+                    "rhyme": "uRd",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Enlève le shirt, enlève le",
+                    "rhyme": "@",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "couplet",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Wow, y'en a pas deux comme aç pour allumer ta ville au rayon gamma, genre",
+                    "rhyme": "#R",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Un point rouge sur ton thorax, headshot surtout quand j'ai pas l'moral",
+                    "rhyme": "al",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "J'ai pas l'moral et c'est pas l'moment (C'est pas l'moment), faut qu'tes gamins puissent se rappeler d'nos noms",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Kiffe mon son ou quitte ce monde, le vice me tente à chaque seconde",
+                    "rhyme": "$d",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Ah, c'est chelou mais mon cerveau peut pas servir, ces écervelés, j'vais les fuck si ça d'vient nécessaire",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "J'lui dis d'enlever le shirt mais elle veut pas s'laisser faire, elle est gaulée comme un poney, j'mets ses quatre jambes en l'air",
+                    "rhyme": "ER",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "J'suis l'gardien de ma que-cli comme Manuel Neuer, t'es l'employé du mois, j'suis l'Man of the Year, yeah, yeah",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "J'viens buter l'cœur de pierre, j't'enfonce toute ta team au marteau-piqueur",
+                    "rhyme": "9R",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "8",
+                    "text": "Ok, j'ai fait tomber mon ice cream au fond de ton décolleté, dans la chambre d'hôtel à la Kurt Cobain",
+                    "rhyme": ")",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "9",
+                    "text": "J'me suis barré, elle est révoltée, minuit passé, tout se passe au feeling",
+                    "rhyme": "iN",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "10",
+                    "text": "Pour mes gens qui vont de zéro à l'infini, lève le R1 comme à Philly",
+                    "rhyme": "i",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "11",
+                    "text": "On a fini d'faire les félés dans la ville, on est les félons",
+                    "rhyme": "$",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "12",
+                    "text": "Elle s'attache, le pénis est long comme le nom de famille d'un malgache",
+                    "rhyme": "aS",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "13",
+                    "text": "Oh l'bâtard, allez rajoute la beuh dans l'tobacco",
+                    "rhyme": "o",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "14",
+                    "text": "Le produit d'la folie des ados, plus r'cherché qu'El Chapo, han",
+                    "rhyme": "#",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "15",
+                    "text": "Dans l'building ",
+                    "rhyme": "iN",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "16",
+                    "text": ", han, l'insolence que t'adores",
+                    "rhyme": "OR",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "2",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "3",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "4",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "5",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "6",
+                    "text": "Enlève le shirt, enlève le shirt",
+                    "rhyme": "9Rt",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "7",
+                    "text": "Enlève le",
+                    "rhyme": "@",
+                    "persona_id": "001"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "*Glitch*",
+                    "rhyme": "itS",
+                    "persona_id": "001"
+                },
+                {
+                    "n": "1",
+                    "text": "Soixante-dix, le deuxième était...",
+                    "rhyme": "E",
+                    "persona_id": "001"
+                }
+            ]
+        }
+    ]
+}

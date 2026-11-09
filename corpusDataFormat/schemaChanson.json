@@ -15,15 +15,13 @@
           "persona_id": "persona_0001",
           "n": 1,
           "text": "J'ai le flow qui les choque, j'allume un gros cigare",
-          "syllables": 13,
-          "rhyme": "aʁ"
+          "syllables": 13
         },
         {
           "persona_id": "persona_0001",
           "n": 2,
           "text": "Gros, j'esquive l'époque, perdu dans le brouillard",
-          "syllables": 11,
-          "rhyme": "aʁ"
+          "syllables": 11
         }
       ]
     }

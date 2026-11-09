@@ -126,7 +126,7 @@ def artist_folder_to_artist_df(json_folder_path:str) -> pd.DataFrame:
             continue
         with open(f"{json_folder_path}/{s}", 'r', encoding="utf-8") as f :
             x = json.load(f)
-        
+
         try :
             d=lyrics_to_df(x)
         except Exception as e: 
