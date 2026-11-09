@@ -36,7 +36,7 @@ def create_dendrogram(result_dict, labels, title) :
     plt.tight_layout()
     plt.show()
 
-def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict()) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
@@ -46,22 +46,34 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
 
-    #On ne crée les vocabulaires QUE si ils sont demandés
+    #On ne crée les vocabulaires QUE si ils sont demandés, ou si on ne les a pas déjà dans les paramètres via vocabs_dict
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
 
     all_lines = list(lyrics_df["text"]) if any(do_voc) else None
     
-    voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
-    if voc_bow : print("vocabulaire Bag Of Words créé")
+    if 'voc_bow' not in vocabs_dict : 
+        voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
+        if voc_bow : print("vocabulaire Bag Of Words créé")
+    else : voc_bow = vocabs_dict["voc_bow"]
     
-    voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
-    if voc_n_mots : print("vocabulaire n-grams de mot créé")
     
-    voc_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
-    if voc_n_char : print("vocabulaire n-grams de caractères créé")
+    if 'voc_n_mots' not in vocabs_dict : 
+        voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
+        if voc_n_mots : print("vocabulaire n-grams de mot créé")
+    else : voc_n_mots = vocabs_dict["voc_n_mots"]
     
-    voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[2] else None
-    if voc_n_phonem : print("vocabulaire n-grams de phonemes créé")
+    
+    if 'voc_n_char' not in vocabs_dict : 
+        voc_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
+        if voc_n_char : print("vocabulaire n-grams de caractères créé")
+    else : voc_n_char = vocabs_dict["voc_n_char"]
+    
+    
+    if 'voc_n_phonem' not in vocabs_dict : 
+        voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[3] else None
+        if voc_n_phonem : print("vocabulaire n-grams de phonemes créé")
+    else : voc_n_phonem = vocabs_dict["voc_n_phonem"]
+    
     
     del all_lines
         #Fin de création des vocabulaires
@@ -96,13 +108,37 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     return total_chunks, results, chunk_ids
 
 def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=1) :
+
+    #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
+    do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
+    vocabs_dict = dict()
+    if any(do_voc) :
+        lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
+        all_lines = list(lyrics_df["text"])
+    else : 
+        all_lines = []
+        
+    voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
+    voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[0] else None
+    vocab_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[0] else None
+    voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[0] else None
+    vocabs_dict = {
+        "voc_bow" : voc_bow,
+        "voc_n_mots" : voc_n_mots,
+        "voc_n_char" : vocab_n_char,
+        "voc_n_phonem" : voc_n_phonem
+    }
+    for v in vocabs_dict : 
+        if vocabs_dict[v] :
+            print(f"Vocabulaire créé pour {v}")
+
     print(f"------------------------------\nRécupération des résultats n°1")
-    _, average_global_results, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb)
+    _, average_global_results, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict)
     scorers_names = [scorer.name for scorer in scorers]
 
     for i in range(n_sample-1) :
         print(f"------------------------------\nRécupération des résultats n°{i+2}")
-        _, results, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb)
+        _, results, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict)
         #On additione
         for scorer in scorers_names :
             for c_id in chunk_ids :
