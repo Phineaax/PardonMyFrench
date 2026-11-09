@@ -88,14 +88,32 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         for key in chunk_ids}
         print(f"resultats obtenus pour {scorer}")
 
-    labels = chunk_ids
-    for scorer in scorers : 
-        print(f"Affichage pour {scorer}")
-        create_dendrogram(results[scorer.name], labels, scorer.description)
+    # labels = chunk_ids
+    # for scorer in scorers : 
+    #     print(f"Affichage pour {scorer}")
+    #     create_dendrogram(results[scorer.name], labels, scorer.description)
 
     return total_chunks, results, chunk_ids
 
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=1) :
+    print(f"------------------------------\nRécupération des résultats n°1")
+    _, average_global_results, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb)
+    scorers_names = [scorer.name for scorer in scorers]
 
+    for i in range(n_sample-1) :
+        print(f"------------------------------\nRécupération des résultats n°{i+2}")
+        _, results, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb)
+        #On additione
+        for scorer in scorers_names :
+            for c_id in chunk_ids :
+                average_global_results[scorer][c_id] += results[scorer][c_id]
+
+    
+    for scorer in scorers_names :
+        for c_id in chunk_ids :
+            average_global_results[scorer][c_id] = average_global_results[scorer][c_id]/n_sample
+
+    return average_global_results
 ## Fonctions plot générées sauvagement
 
 
