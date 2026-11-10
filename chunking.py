@@ -134,4 +134,4 @@ def artist_folder_to_artist_df(json_folder_path:str) -> pd.DataFrame:
             continue;
         total_data = pd.concat([total_data, d])
 
-    return total_data
+    return total_data.reset_index()

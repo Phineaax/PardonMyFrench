@@ -1,9 +1,14 @@
 import score_utils as scoring
 import chunking 
+
 import pandas as pd
 import numpy as np
+
+from nltk.langnames import langname
+
 from scipy.cluster.hierarchy import linkage, dendrogram
 import matplotlib.pyplot as plt
+
 import math
 
 
@@ -44,7 +49,10 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     Le n c'est pour les n-grams, mais ça sert à rien si vous vous en servez pas
     """
 
-    lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
+    lyrics_df = chunking.artist_folder_to_artist_df(path)
+
+    #Pour les stop words, le langage le plus fréquent est considéré comme le langage global. On transforme le code de langue en nom de langue
+    language = langname(lyrics_df["language"].value_counts().index[np.argmax(lyrics_df["language"].value_counts())])
 
     #On ne crée les vocabulaires QUE si ils sont demandés, ou si on ne les a pas déjà dans les paramètres via vocabs_dict
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
@@ -95,7 +103,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     for scorer in scorers :
         results[scorer.name] = {key: scorer.application(total_chunks[key], 
-        language="english", voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem
+        language=language, voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem
             ) 
         for key in chunk_ids}
         print(f"resultats obtenus pour {scorer}")

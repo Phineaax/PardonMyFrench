@@ -11,6 +11,14 @@ import time
 
 metadatas_a_garder_albums = ['_type', 'full_title', 'title', 'id', 'path', 'release_date_components', 'primary_artists']
 
+def get_album_from_song_id(song_id:int, access_token:str) -> int :
+    genius = Genius(access_token)
+    s = genius.song(song_id)
+    if s['song']['album'] : 
+        return genius.song(song_id)['song']['album']['id']
+    else : 
+        return None
+
 def get_artist_id(artist_name:str, access_token:str) :
     genius = Genius(access_token)
     artist = genius.search_artist(artist_name, get_full_info=False, max_songs=0)
@@ -263,4 +271,3 @@ def get_releases_metadata(artist_name:str, access_token:str, output_folder:Optio
         album_recaps.append(album_recap)
     
     return pd.DataFrame(album_recaps)
-
