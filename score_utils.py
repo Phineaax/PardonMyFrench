@@ -12,9 +12,11 @@ from collections import Counter
 
 #from sentence_transformers import SentenceTransformer
 
+word_tokenizer = word_tokenize
+
 def wordify(lines_chunk:List[str]) -> int:
     """Transforme une liste de phrase en liste de mots"""
-    words = [word_tokenize(line.lower()) for line in lines_chunk]
+    words = [word_tokenizer(line.lower()) for line in lines_chunk]
     return sum(words, start=[])
 
 class Mesure() :
@@ -91,7 +93,7 @@ def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
     i_last = 0
 
     for line in all_lines :
-        words = word_tokenize(line.lower())
+        words = word_tokenizer(line.lower())
         for i in range(len(words)-n-1) :
             t = tuple(words[i:i+n])
             if t not in vocab_w2i :
@@ -107,7 +109,7 @@ def n_grams_mots(lines_chunk:List[str], voc_n_mots, **kwargs) -> np.array:
     v = np.zeros(len(vocab_w2i))
 
     for line in lines_chunk :
-        words = word_tokenize(line.lower())
+        words = word_tokenizer(line.lower())
 
         for i in range(len(words)-n-1) :
             t = tuple(words[i:i+n])

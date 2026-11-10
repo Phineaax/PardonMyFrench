@@ -9,6 +9,8 @@ from nltk.langnames import langname
 from scipy.cluster.hierarchy import linkage, dendrogram
 import matplotlib.pyplot as plt
 
+
+from random import shuffle
 import math
 
 
@@ -21,6 +23,18 @@ available_metrics = scoring.available_metrics
 #  <scorer_bowVec>,
 #  <scorer_n_grams_motsVec>,
 #  <scorer_n_grams_charVec>]
+
+def create_baseline(json_path) :
+    df = chunking.artist_folder_to_artist_df(json_path)
+
+    personas = list(df["persona_id"].unique())
+    songs = list(df["song_id"].unique())
+    shuffle(songs)
+    
+    baseline_song_to_persona = {s:personas[i%len(personas)] for i, s in enumerate(songs)}
+
+    df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
+    return df
 
 def create_dendrogram(result_dict, labels, title) : 
     X = np.array(list(result_dict.values()))
@@ -41,16 +55,18 @@ def create_dendrogram(result_dict, labels, title) :
     plt.tight_layout()
     plt.show()
 
-def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict()) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict(), optional_df = []) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
     Path est le chemin vers le DOSSIER qui contient les .json formatés comme on a dit
     Le n c'est pour les n-grams, mais ça sert à rien si vous vous en servez pas
     """
-
-    lyrics_df = chunking.artist_folder_to_artist_df(path)
-
+    if not any(optional_df) : 
+        lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
+    else : 
+        lyrics_df = optional_df
+    print(lyrics_df.loc[0]["persona_id"])
     #Pour les stop words, le langage le plus fréquent est considéré comme le langage global. On transforme le code de langue en nom de langue
     language = langname(lyrics_df["language"].value_counts().index[np.argmax(lyrics_df["language"].value_counts())])
 
@@ -78,7 +94,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     
     
     if 'voc_n_phonem' not in vocabs_dict : 
-        voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[3] else None
+        voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n, language) if do_voc[3] else None
         if voc_n_phonem : print("vocabulaire n-grams de phonemes créé")
     else : voc_n_phonem = vocabs_dict["voc_n_phonem"]
     
@@ -113,15 +129,18 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     #     print(f"Affichage pour {scorer}")
     #     create_dendrogram(results[scorer.name], labels, scorer.description)
 
-    return total_chunks, results, chunk_ids
+    return results, chunk_ids
 
-def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=1) :
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=5, optional_df=[]) :
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
     vocabs_dict = dict()
     if any(do_voc) :
-        lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
+        if not any(optional_df) : 
+            lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
+        else : 
+            lyrics_df = optional_df
         all_lines = list(lyrics_df["text"])
     else : 
         all_lines = []
@@ -141,12 +160,12 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
             print(f"Vocabulaire créé pour {v}")
 
     print(f"------------------------------\nRécupération des résultats n°1")
-    _, average_global_results, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict)
+    average_global_results, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df)
     scorers_names = [scorer.name for scorer in scorers]
 
     for i in range(n_sample-1) :
         print(f"------------------------------\nRécupération des résultats n°{i+2}")
-        _, results, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict)
+        results, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df)
         #On additione
         for scorer in scorers_names :
             for c_id in chunk_ids :
@@ -157,7 +176,8 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
         for c_id in chunk_ids :
             average_global_results[scorer][c_id] = average_global_results[scorer][c_id]/n_sample
 
-    return average_global_results
+    return average_global_results, chunk_ids
+
 ## Fonctions plot générées sauvagement
 
 
@@ -192,8 +212,9 @@ def create_dendrogram(result_dict, labels, title, ax=None, color_map=None):
     return ax
 
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
-                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=1500):
-    total_chunks, results, chunk_ids = get_final_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb)
+                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=1500, n_sample=20,
+                         optional_df = []):
+    results, chunk_ids = get_aggregated_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, n_sample=n_sample, optional_df=optional_df)
 
     nrows = math.ceil(len(scorers) / ncols)
     fig, axes = plt.subplots(nrows, ncols,
@@ -212,4 +233,4 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
 
     fig.tight_layout()
     plt.show()
-    return total_chunks, results
+    return results
