@@ -10,6 +10,9 @@ nltk.download('stopwords')
 
 from collections import Counter
 
+from nltk.langnames import langname, langcode
+import pyphen
+
 #from sentence_transformers import SentenceTransformer
 
 word_tokenizer = word_tokenize
@@ -35,6 +38,16 @@ def longueur_moyenne(lines_chunk:List[str], **kwargs) -> float:
     return sum(words_length)/len(words_length)
 longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
 
+from score_utils import *
+def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
+    lang = langcode(language, 2)
+    if lang == "en" : lang+="-us"
+    dic = pyphen.Pyphen(lang=lang)
+
+    syll_per_line = list(map(lambda l : len(dic.inserted(l).split("-")), lines_chunk))
+    
+    return sum(syll_per_line)/len(lines_chunk)
+syllMoy = Mesure("syllMoy", syllabe_moyenne, "moyenne de syllabes par lignes")
 
 def diversite_lexicale_HDD(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
@@ -48,8 +61,7 @@ def diversite_lexicale_MTLD(lines_chunk, **kwargs) :
 divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "score de diversité lexicale (méthode MTLD)")
 
 
-def densite_lexicale(lines_chunk:List[str], **kwargs) -> float:
-    language = kwargs["language"]
+def densite_lexicale(lines_chunk:List[str], language, **kwargs) -> float:
     stop_words = set(stopwords.words(language))
     words = wordify(lines_chunk)
     full_words = [w for w in words if w not in stop_words]
@@ -72,9 +84,9 @@ def create_vocab_bow(all_lines) -> Dict[str, int]:
 
     return vocab_w2i
 
-def bow(lines_chunk:List[str], **kwargs) -> np.array:
+def bow(lines_chunk:List[str], voc_bow, **kwargs) -> np.array:
     """Renvoie un vecteur Bag Of Words"""
-    vocab_w2i = kwargs["voc_bow"]
+    vocab_w2i = voc_bow
     v = np.zeros(len(vocab_w2i))
 
     words = wordify(lines_chunk)
@@ -165,7 +177,6 @@ def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]:
 
     return vocab_w2i
 
-
 def create_vocab_n_grams_phonem(all_lines, n) -> Dict[str, int]: 
     """Phonétise puis crée le vocabulaire de phonemes pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
 
@@ -174,7 +185,6 @@ def create_vocab_n_grams_phonem(all_lines, n) -> Dict[str, int]:
     all_lines = list(map(phonetize, all_lines))#Remplacer f par une fonction de phonétisation str->str
 
     return create_vocab_n_grams_char(all_lines, n) 
-
 
 def n_grams_char(lines_chunk:List[str], voc_n_char=None, voc_n_phonem=None, **kwargs) -> np.array:
 
@@ -211,4 +221,4 @@ n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words
 #     return vectorized
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
 
-available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
+available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, syllMoy]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
