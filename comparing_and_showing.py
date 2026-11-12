@@ -114,8 +114,8 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         
         if not by_song :
             shuffled_p_lines = c_p_lines.sample(frac=1).reset_index(drop=True) #Randomise
-            total_chunks.update(chunking.format_chunk_for_scoring(shuffled_p_lines, persona_id = p, chunk_tokens_nb=chunk_tokens_nb)) #On ajoute les lignes
-            
+            new_chunks = chunking.format_chunk_for_scoring(shuffled_p_lines, persona_id = p, chunk_tokens_nb=chunk_tokens_nb)
+            total_chunks.update(new_chunks) #On ajoute les lignes
         if by_song : 
             unique_songs = list(c_p_lines["song_title"].unique())
             total_chunks.update({f"{p}_{s_id}" : list(c_p_lines[c_p_lines["song_title"] == s_id]["text"]) for i, s_id in enumerate(unique_songs)})

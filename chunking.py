@@ -5,8 +5,6 @@ import pandas as pd
 import ast
 import os
 
-MIN_CHUNK_SIZE = 900
-
 TOKENS_FR_REG = re.compile(
     r"""
     aujourd['’]hui                                # cas particulier
@@ -42,7 +40,6 @@ def count_tokens(line: str, lang: str = "fr") -> int:
 def chunk(
     lyrics_dataframe: pd.DataFrame,
     chunk_tokens_nb: int = 1500,
-    min_chunk_size: int = MIN_CHUNK_SIZE,
     lang: str = "fr",
 ) -> List[List[str]]:
     lines = lyrics_dataframe["text"].dropna().to_list()
@@ -63,19 +60,18 @@ def chunk(
     # Dernier chunk : on le garde s'il est assez gros,
     # sinon on le fusionne avec le précédent
     if current_chunk:
-        if token_count >= min_chunk_size or not chunks:
-            chunks.append(current_chunk)
-        else:
+        if not chunks:
+            chunks = [current_chunk]
+        else :
             chunks[-1].extend(current_chunk)
 
     return chunks
 
 def format_chunk_for_scoring(lyrics_dataframe: str, # = lyrics dataframe pour une persona.
                              persona_id:str,
-                             chunk_tokens_nb:int=1500, 
-                             min_chunk_size:int=MIN_CHUNK_SIZE) -> Optional[Dict[str, List[List[str]]]]:
+                             chunk_tokens_nb:int=1500) -> Optional[Dict[str, List[List[str]]]]:
 
-    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
+    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb)
     return {f"{persona_id}_{ind}": chunk for (ind, chunk) in enumerate(chunks)}
     
 
