@@ -1,0 +1,240 @@
+{
+  "song_id": 10998014,
+  "title": "St. Chroma",
+  "language": "en",
+  "lyricists": [
+    161892,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "3",
+          "text": "Chromakopia, Chromakopia",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "Chromakopia (Ah), Chromakopia (Woo, woo, woo, woo)",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "5",
+          "text": "Chromakopia (Ah, ah, ah, woo), Chromakopia (Ah, ah, ah, woo)",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "6",
+          "text": "Chromakopia (Ah), Chromakopia (Woo, woo)",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "7",
+          "text": "Chromako—",
+          "rhyme": "o",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAAB",
+      "rhyme_vowel": "AAAAB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Calm down, sit still, that's one mil' for each wheel",
+          "rhyme": "El",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Top down, big deal, how the fuck he do that?",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "What the fuck I look like? Get the fuck up out him way",
+          "rhyme": "e",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Hawthorne is where him from, another planet where him stay",
+          "rhyme": "E",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "Fifteen cash for that new fort, I had guap since nineteen",
+          "rhyme": "in",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "5",
+          "text": "I popped out like chi-ching, I think I'm a goddamn fiend",
+          "rhyme": ")d",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "6",
+          "text": "Really ballin' in this bitch, I'm the hardest in this bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "7",
+          "text": "Give a fuck about no bark, I'm chasin' dogs up in this bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "8",
+          "text": "El Segundo felt like colosseum",
+          "rhyme": "2m",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "9",
+          "text": "P said I could do it too, and boy, did I believe him",
+          "rhyme": "im",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "10",
+          "text": "I built a path of freedom 'cause them words that he said",
+          "rhyme": "Ed",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "11",
+          "text": "Give a fuck about tradition, stop impressin' the dead, ah",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "12",
+          "text": "I'm gon' make it out, promise I'm gon' make it out",
+          "rhyme": "awt",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "13",
+          "text": "Mama, I'm gon' make it out, pussy, I'm gon' make it out",
+          "rhyme": "awt",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "14",
+          "text": "I ain't never had a doubt inside me",
+          "rhyme": "@",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "15",
+          "text": "And if I ever told you that I did, I'm fuckin' lyin', can you feel the light?",
+          "rhyme": "ajt",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "ABCDEFGGHIJBKKLM",
+      "rhyme_vowel": "ABCADEDDFDABBBGB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "break",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Woo, yeah, Chromakopia, yeah, yeah, Chromakopia",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Woo, yeah, Chromakopia, yeah, yeah, Chromakopia",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AA",
+      "rhyme_vowel": "AA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Okay, I is just a box with the light of thunder in me (Woo)",
+          "rhyme": "@",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Gratitude sit under the hubris that's on my sleeve",
+          "rhyme": "iv",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Mama said I'm mhm, special, I was mhm",
+          "rhyme": "Om",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Blow shit up at home back in Chromakopia, mhm",
+          "rhyme": "Om",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "I don't (I don't), like the (Like the), way that this is lookin' (No)",
+          "rhyme": "in",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "5",
+          "text": "Mirror got me (Got me), thinkin' about my bookend (I'm done)",
+          "rhyme": "#",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "6",
+          "text": "I just need this time to myself to figure me out-out",
+          "rhyme": "awt",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "7",
+          "text": "Do I keep the light on or do I gracefully bow out?",
+          "rhyme": "awt",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "8",
+          "text": "It's in me, bro",
+          "rhyme": "o",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "ABCCDEFFG",
+      "rhyme_vowel": "ABCCBDEEF"
+    }
+  ],
+  "album_id": 1260992
+}

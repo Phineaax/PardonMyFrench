@@ -1,0 +1,170 @@
+{
+  "song_id": 6942376,
+  "title": "HOT WIND BLOWS",
+  "language": "en",
+  "lyricists": [
+    356400,
+    4,
+    402792,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'ma travel the globe, you keep the block hot",
+          "rhyme": "Ot",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Driver, open the door for me, my hand hurt",
+          "rhyme": "uRt",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "Find us, we playin' hide-and-seek with the passports",
+          "rhyme": "OR",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Where the fuck we at? Oh, the pilot gotta remind us, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "The luggage is pilin', I needed clothes to wear (Woo)",
+          "rhyme": "ER",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "So many stinkies sit in my wallet, look like a folding chair (Yeah)",
+          "rhyme": "ER",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "The Cartier so light on my body, thought I floated here",
+          "rhyme": "eR",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "We boated here, it's Tunechi and Tyler, but call me Baudelaire, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "Out in Switzerland, travel with my bitch again, we kissin', dawg",
+          "rhyme": "iN",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "9",
+          "text": "I love when she let me rub her like Michelin (Skrrt, skrrt, facts)",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "10",
+          "text": "A hundred grand to sleep on the bird, the wings are whistlin' like—",
+          "rhyme": "Ejk",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "11",
+          "text": "Man, they ain't listenin'",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "12",
+          "text": "We crossed the line like immigrants and benefit from it",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "13",
+          "text": "Keep on stuntin' on these niggas, make 'em sick to they stomach, man (I can't stop it)",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "14",
+          "text": "Y'all don't understand, fish so fresh that you could taste the sand",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "15",
+          "text": "Yeah, we gettin' lost but we know who we am (True story)",
+          "rhyme": "im",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "16",
+          "text": "Bada-bada-bada, somethin'-somethin'-somethin'",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "17",
+          "text": "Treat that last part like you niggas ain't sayin' nothin'",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEEFDGHIHJKKLMM",
+      "rhyme_vowel": "ABACCCDCEFCFEGGEEE"
+    },
+    {
+      "section_id": "section_2",
+      "type": "break",
+      "performer": ", , , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Hot wind)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Yeah, haha",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "You see these excursions right here?",
+          "rhyme": "eR",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Just too lavish to post on the 'Gram (Gangsta Grillz)",
+          "rhyme": "am",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Uh (Tunechi)",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDE",
+      "rhyme_vowel": "ABCBD"
+    }
+  ],
+  "album_id": 781756
+}
