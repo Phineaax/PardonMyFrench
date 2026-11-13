@@ -27,7 +27,7 @@ available_metrics = scoring.available_metrics
 #  <scorer_n_grams_charVec>]
 
 def create_baseline(json_path, optional_df=None, true_names = False, n=-1) :
-    if not any(optional_df) : 
+    if optional_df is None : 
         df = chunking.artist_folder_to_artist_df(json_path)
     else : 
         df = optional_df.copy()
