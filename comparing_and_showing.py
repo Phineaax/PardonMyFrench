@@ -58,14 +58,14 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1) :
 #     plt.tight_layout()
 #     plt.show()
 
-def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict(), optional_df = [], do_show = False, by_song=False) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
     Path est le chemin vers le DOSSIER qui contient les .json formatés comme on a dit
     Le n c'est pour les n-grams, mais ça sert à rien si vous vous en servez pas
     """
-    if not any(optional_df) : 
+    if optional_df is None : 
         lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
     else : 
         lyrics_df = optional_df
@@ -150,13 +150,13 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     return results, distances, chunk_ids
 
-def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=8, optional_df=[], do_show=False) :
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=8, optional_df=None, do_show=False) :
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
     vocabs_dict = dict()
     if any(do_voc) :
-        if not any(optional_df) : 
+        if optional_df is None : 
             lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
         else : 
             lyrics_df = optional_df
