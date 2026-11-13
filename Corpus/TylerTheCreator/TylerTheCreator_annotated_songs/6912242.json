@@ -1,0 +1,972 @@
+{
+  "song_id": 6912242,
+  "title": "SWEET / I THOUGHT YOU WANTED TO DANCE",
+  "language": "en",
+  "lyricists": [
+    2789461,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "No, no, no, no, no, no, listen, listen (Call me when you get lost, lost)",
+          "rhyme": "En",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "The driver gon' drop you off",
+          "rhyme": "Of",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "Alright, it's warm (Call me when you get lost, lost)",
+          "rhyme": "uRm",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "The waterfall is crazy",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "I don't know, make somethin' up, tell him somethin'",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Uh, come on",
+          "rhyme": "$",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "Still on the boat",
+          "rhyme": "Owt",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "Call me if you get lost",
+          "rhyme": "Ost",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFGH",
+      "rhyme_vowel": "ABCDDEBB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You and I, we fell in love",
+          "rhyme": "Ov",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "I ain't read the signs, ain't know what it was",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "But God gotta know he might have peaked when he made you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "The cosmos' only mistake is what they named you (What that mean?)",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCC",
+      "rhyme_vowel": "ABCC"
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "They should call you sugar, you're so sweet",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Well, they should call you sugar, 'cause you're so sweet to me",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "Well, they should call you sugar, sugar, oh, you're so sweet",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "'Cause, baby, you're the sweetest, sweetest, sweetest thing I've known",
+          "rhyme": "awn",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, you're the sweetest thing",
+          "rhyme": "iN",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Even if",
+          "rhyme": "if",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "You left me out here stranded, my feelings wouldn't change a bit (You know how I feel about you, are you ready?)",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "You know how I feel, baby",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Infinite",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "The love I have for you, a diamond couldn't put a dent in it (Uh, go to the bridge thing, okay)",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCBB",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Darling, you're the wind under my wings",
+          "rhyme": "iN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "My heart beats triple time when I see you",
+          "rhyme": "u",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Somethin' I can't control",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "If I compared you, the sun is a stand-in (Sun)",
+          "rhyme": "in",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "You got a smile that could light up a planet (Smile), yeah (Oh, oh)",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "And I just wanted you to know (They should call you sugar)",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCDEF",
+      "rhyme_vowel": "ABCADC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "They should call you sugar, you're so sweet",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Well, they should call you sugar (Why?), 'cause you're so sweet to me (Sugar)",
+          "rhyme": "@",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Well, they should call you sugar (Sugar), you're so sweet (Oh, oh)",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "'Cause, baby, you're the sweetest, sweetest, sweetest thing I've known (Ooh, girl)",
+          "rhyme": "awn",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_7",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're the sweetest",
+          "rhyme": "Est",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_8",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "They should call you sugar, you're so sweet (Sugar, sugar, sugar, sugar)",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Well, they should call you sugar (Why?), 'cause you're so sweet to me",
+          "rhyme": "@",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Well, they should call you sugar, you're so sweet (You're so sweet to me)",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "'Cause, baby, you're the sweetest, sweetest, sweetest (I know)",
+          "rhyme": "Est",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_9",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And you look so good (Yeah)",
+          "rhyme": "ud",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "And you smell so good (Yeah, yeah, yeah, yeah)",
+          "rhyme": "ud",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "And you taste so good (Yeah)",
+          "rhyme": "ud",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "And you're so, so good (Yeah, yeah, yeah, yeah)",
+          "rhyme": "ud",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "You're the sweetest (Yeah)",
+          "rhyme": "Est",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "Yeah, you are, ha-ha",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "Sweet like motherfuckin' brown sugar sweet potatoes (Are you ready?)",
+          "rhyme": "is",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "Or somethin'",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "Ha-ha",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "AAAABCDEC",
+      "rhyme_vowel": "AAAABCDDC"
+    },
+    {
+      "section_id": "section_10",
+      "type": "segue",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The plan was to stick my toe in and",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Check the temperature, but",
+          "rhyme": "yt",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "Next thing I know, I'm",
+          "rhyme": "Om",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "I'm drownin'",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Appelle-moi si tu te perds",
+          "rhyme": "ER",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "[Part II: I THOUGHT YOU WANTED TO DANCE]",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEF",
+      "rhyme_vowel": "ABCDEA"
+    },
+    {
+      "section_id": "section_11",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "This here for the sunseekers",
+          "rhyme": "ER",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Run the track",
+          "rhyme": "ak",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_12",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "What makes you think",
+          "rhyme": "ink",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "I'm not in love?",
+          "rhyme": "Ov",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "How could you know",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "What's best for us?",
+          "rhyme": "ys",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Why am I here",
+          "rhyme": "eR",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Standing alone?",
+          "rhyme": "On",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "'Cause I thought, I thought you wanted to dance, yeah (Welcome to the disco)",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCDEBF"
+    },
+    {
+      "section_id": "section_13",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're so good to me (Yeah, yeah, yeah, yeah)",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Yeah, it felt good to me, yeah, yeah, yeah (Yeah, yeah, yeah, yeah), yeah, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "You're so good to me (Yeah, yeah, yeah, yeah)",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Yeah, it felt so good to me (Yeah, yeah, yeah)",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABAA",
+      "rhyme_vowel": "ABAA"
+    },
+    {
+      "section_id": "section_14",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So what makes you think (What makes you think)",
+          "rhyme": "ink",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "I'm not in love? (I'm not in love?)",
+          "rhyme": "Ov",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "And how could you know (How could you know)",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "What's best for us, us, us? (What's best for us?)",
+          "rhyme": "ys",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "Why am I here (Why am I here)",
+          "rhyme": "eR",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "Standing alone? (Standing alone?)",
+          "rhyme": "On",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "Because I thought you wanted to dance with me",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCDEBF"
+    },
+    {
+      "section_id": "section_15",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Honestly, it's all about the timing, yeah (Yeah, yeah)",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "I ain't mean to lead you on, because",
+          "rhyme": "oz",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Him and I got some things that we're trying",
+          "rhyme": "iN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "But my energy belongs to you",
+          "rhyme": "u",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "I want you so bad, but not too fast",
+          "rhyme": "9st",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "It's not your fault, we can't pretend",
+          "rhyme": "#",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "Because we both in the wrong",
+          "rhyme": "$g",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCDEFG"
+    },
+    {
+      "section_id": "section_16",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So what makes you think",
+          "rhyme": "ink",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "I'm not in love? (Feels so good)",
+          "rhyme": "Ov",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "How could you know, know, know",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "What's best for us?",
+          "rhyme": "ys",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Why am I here",
+          "rhyme": "eR",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Standing alone?",
+          "rhyme": "On",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "'Cause I thought, I thought you wanted to dance, yeah (Run the track)",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCDEBF"
+    },
+    {
+      "section_id": "section_17",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Cause I thought, I thought you wanted to dance",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "'Cause I thought, I thought you wanted to dance",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "('Cause I thought you wanted to dance with me) I thought you wanted to dance",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "('Cause I thought you wanted to dance with me) I thought you wanted to dance",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_18",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I wish that we never met, I wish that we ain't connect",
+          "rhyme": "Ekt",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Like Lego, connection good, but mixed signal",
+          "rhyme": "al",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "If you say so, like cardio",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "We stared up and down, but we didn't blink",
+          "rhyme": "ink",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Felt like dirty dishes 'cause we was in sync",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "I swear to God, if you and him never linked",
+          "rhyme": "e",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "I'd tear that ass up like somethin' was stole",
+          "rhyme": "Ol",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "I'd make them glass balls roll back to your skull",
+          "rhyme": "ul",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "Call a tail number, where you wanna go?",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "9",
+          "text": "The fuck do he got that I don't got a lot of?",
+          "rhyme": "Of",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "10",
+          "text": "There go my ego again, that's the problem",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "11",
+          "text": "The fuck you expect? I go get what I want",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "12",
+          "text": "I want you to say you pick me with your voice",
+          "rhyme": "as",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "13",
+          "text": "I'm twenty-five up, but I can't buy your choice",
+          "rhyme": "as",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "14",
+          "text": "You're priceless to me, but that's not the point",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "15",
+          "text": "You got me out here smokin' joints",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "16",
+          "text": "You got me out here losin' point",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "17",
+          "text": "I'm cancellin' shoots and I'm cancellin'—",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "18",
+          "text": "I'm hitchhiking, you pull over, so invitin'",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "19",
+          "text": "The seat got my name on it, but who driving?",
+          "rhyme": "iN",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "20",
+          "text": "He hiatus, we spend time, and we repeat and we rewind it",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "21",
+          "text": "Your headlights? It hit my eyelid",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "22",
+          "text": "Love is blinding, y'all together? Don't remind me, so confusin'",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "23",
+          "text": "What we doing? How y'all doing?",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "24",
+          "text": "Oh, you choosin' him? Okay, I gotta cope with losing, fuck",
+          "rhyme": "yk",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "25",
+          "text": "I ain't been sleepin' well",
+          "rhyme": "El",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "26",
+          "text": "Twin, I'll never tell",
+          "rhyme": "El",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "27",
+          "text": "Stay busy so I don't think, 'cause downtime is when it sink in",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "28",
+          "text": "I stare at old pictures, I, I thought you wanted to dance (Dance)",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "29",
+          "text": "I thought you wanted to dance, I",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFGHCIJEKKLLLLLMNOLLPQQRST",
+      "rhyme_vowel": "ABCDEFGHCGAEBBIIIIIDDBIIJAADED"
+    },
+    {
+      "section_id": "section_19",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Maybe, maybe (For you)",
+          "rhyme": "ab",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "What's the chance, though?",
+          "rhyme": "O",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "I wish that we had better timing",
+          "rhyme": "iN",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "I'll save a dance just for you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "So don't forget about me, ba-ba-ba-da",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "I'll save a dance just for you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "I wish that we had better timing",
+          "rhyme": "iN",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "I'll save a dance just for you (Only for you, only for you)",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "So don't forget about me (No), ba-ba-ba-da",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "9",
+          "text": "I'll save a dance just for you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEDCDED",
+      "rhyme_vowel": "ABCDADCDAD"
+    }
+  ],
+  "album_id": 781756
+}

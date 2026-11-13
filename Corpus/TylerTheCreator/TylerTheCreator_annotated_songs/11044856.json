@@ -1,0 +1,665 @@
+{
+  "song_id": 11044856,
+  "title": "Sticky",
+  "language": "en",
+  "lyricists": [
+    3234,
+    27632,
+    2991477,
+    4,
+    2315568,
+    8382,
+    933087,
+    1517379,
+    3280876,
+    112,
+    685,
+    402,
+    1498781
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mm",
+          "rhyme": "EtR",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Poppin' that shit get you hit quick fast (Mink, mink, mink)",
+          "rhyme": "9st",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Niggas poppin' off and niggas steppin' on the gas",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Pop that shit like I'm poppin' some gum",
+          "rhyme": "Om",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "Who the fuck you talkin' to, ho? I ain't the one",
+          "rhyme": "On",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "ABCDE",
+      "rhyme_vowel": "ABCDD"
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's gettin' sticky, sticky, sticky (Ooh)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Bitch, it's gettin' sticky, sticky, sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Bro, it's gettin' sticky, sticky, sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Bitch, it's gettin' sticky, sticky, sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "See, I'm a Westside nigga from the zone (What's goin' on, nigga?)",
+          "rhyme": "on",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Knock, knock, knock, knock, knockin' at the door (I'm knockin' at the door)",
+          "rhyme": "OR",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "I keep them mink-minks on hip 'cause I keloid my fists (Mm)",
+          "rhyme": "ist",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Nigga, give a fuck 'bout pronouns, I'm that nigga and that bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABCC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's gettin' sticky, sticky, sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Bitch, it's gettin' sticky, sticky, sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Bro, it's gettin' sticky, sticky, sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "It's gettin'— sing that shit, sticky, sticky, sticky, bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAB",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Uh, lit-ass bitch, steppin', I be poppin' shit",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Fly as fuck, niggas want that motion, I be in the cut",
+          "rhyme": "y",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Sneaky link, she say that's her nigga, I don't give a fuck",
+          "rhyme": "yk",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "These bitches tryna scrap, but I'm knuckin' if you buckin', ho",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABBC"
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's gettin' sticky (Yup, yeah)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "It's gettin' sticky (Bitch, where thеy at?)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "It's gettin' sticky (Bitch)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "It's gettin' sticky (Yeah)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_6",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Bitch, lеt it be",
+          "rhyme": "ab",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Niggas say I ain't that guy, they must be smoking ketamine",
+          "rhyme": "in",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Always talkin' 'bout potential, bitch, I am the better me",
+          "rhyme": "@",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Jack of all trades, name a nigga who ahead of me",
+          "rhyme": "@",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "Must be God instead of me",
+          "rhyme": "@",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "ABCCC",
+      "rhyme_vowel": "ABCCC"
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Bitch, it's gettin' sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Yeah, it's gettin' sticky (Yo, where they at?)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "It's gettin' sticky (Weird-ass nigga)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Bitch, it's gettin' sticky (It's Sexyy, yeah)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_8",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sexyy in this bitch, Tyler in this bitch, we turnt as fuck (Northside)",
+          "rhyme": "yk",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Bitches mad, but can't beat my ass, ho, run it up (Yeah)",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "I don't fight for my respect, bitch, I fight for dick (Keep your fuckin' kids off the street)",
+          "rhyme": "ik",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Fah-fah-fah-fah, baby girl, I'm finna rock your shit",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABCC"
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's gettin' sticky (Fuck that bitch, I'll clap your ho)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "It's gettin' sticky (Nigga, fuck that bitch, I'll clap your ho)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "It's gettin' sticky (Nigga, fuck that bitch, I'll clap your ho)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "It's gettin' sticky (Whoop that trick, I'ma—)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "It's gettin' sticky in this bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAAB",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_10",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sticky situation (Rock 'em), discombobulation",
+          "rhyme": "$",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Caught me red-handed, palms itchin' like rosacea",
+          "rhyme": "a",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Standin' like ovation on business occupation",
+          "rhyme": "$",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Drippin' condensation, gotta whisper conversations",
+          "rhyme": "$",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAA",
+      "rhyme_vowel": "ABAA"
+    },
+    {
+      "section_id": "section_11",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's gettin' sticky (Tunechi)",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "It's gettin' sticky (It's gettin' sticky in this bitch)",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "It's gettin' sticky (Chromakopia, Chromakopia)",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "It's gettin' sticky (Chroma—)",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "Grab that mop, grab that mop, I got something, bitch (Mm, grab that—)",
+          "rhyme": "itS",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "AAAAB",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_12",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Mm)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Roof-roof-roof)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Yeah, that dog tooth)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Better find a mop, it's gettin' sticky in this bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_13",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, bitch, I'm outside with it (Mm, uh), tell them niggas I did it",
+          "rhyme": "it",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Allergies to bum niggas, I see you, my eyes itchin'",
+          "rhyme": "in",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "This shit regular, regular, all that shit be regular",
+          "rhyme": "aR",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Ahead of ya, I'm better, baby, check the vehicle",
+          "rhyme": "ikl",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "LaFerrari (Mhm), niggas sour (Mhm)",
+          "rhyme": "uR",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "5",
+          "text": "I can fit ten-hundred thousand in these trousers (Mhm)",
+          "rhyme": "ER",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "6",
+          "text": "Buddy pillow talkin', \"Stay away from 'Konma\" (Mhm)",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "7",
+          "text": "A homewrecker, I be fuckin' who I wanna (Mhm)",
+          "rhyme": "a",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "8",
+          "text": "Okay, big-dick nigga big stompin' through your town",
+          "rhyme": "awn",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "9",
+          "text": "All the bi bitches know the fuck is goin' down",
+          "rhyme": "awn",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "10",
+          "text": "That's a bet, skip the sex, ride my face, break my neck",
+          "rhyme": "Ek",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "11",
+          "text": "Fuck now, mood swingin' like Chet",
+          "rhyme": "E",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "12",
+          "text": "Fuck that aiming 'bout?",
+          "rhyme": "u",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "13",
+          "text": "Hittin' everything that's in my way, fuck what they talkin' 'bout",
+          "rhyme": "u",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "14",
+          "text": "I be gettin' off like holiday, man, pull some paper out",
+          "rhyme": "awt",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "15",
+          "text": "Fuck comparin' bank accounts (Uh)",
+          "rhyme": "(",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "16",
+          "text": "Louis V, say my name, we ain't worth the same amount, boy",
+          "rhyme": "Oj",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "ABCDEFGGHHIJKKLMN",
+      "rhyme_vowel": "AABACDBBBBDDCCBEF"
+    },
+    {
+      "section_id": "section_14",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Oh)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Oh, sticky)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "2",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Oh)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "3",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Oh)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "4",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Oh)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "5",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Yeah, yeah, yeah, oh)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "6",
+          "text": "Better find a mop, it's gettin' sticky in this bitch (Oh)",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "7",
+          "text": "Better find a mop, it's gettin' sticky in this bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AAAAAAAA",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_15",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Gettin' sticky, sticky, sticky, sticky (Oh, no, no, no)",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        },
+        {
+          "n": "1",
+          "text": "Sticky",
+          "rhyme": "i",
+          "persona_id": "persona_st_chroma"
+        }
+      ],
+      "rhyme": "AA",
+      "rhyme_vowel": "AA"
+    }
+  ],
+  "album_id": 1260992
+}

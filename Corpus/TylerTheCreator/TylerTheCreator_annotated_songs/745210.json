@@ -1,0 +1,703 @@
+{
+  "song_id": 745210,
+  "title": "FUCKING YOUNG / PERFECT",
+  "language": "en",
+  "lyricists": [
+    160041,
+    1582278,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Day that I met you, girl",
+          "rhyme": "9Rl",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "I knew that it was somethin' special",
+          "rhyme": "al",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "But I couldn't put my finger on it (Fuck, I can't sing, whatever, look)",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "We met through mutual friends (Mutual friends)",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "And this is where the story and confusion began",
+          "rhyme": "an",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "'Cause I was at nirvana, but I had to pretend that I wasn't",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDED",
+      "rhyme_vowel": "ABCDBD"
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "There go the policeman, knockin' at my door",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Do I leave out the back and grab my wallet and coat?",
+          "rhyme": "Owt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Or do I answer real confused like, \"I don't know\"? (I don't know)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Now me and she held hands and we danced, nothin' more",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "She kissed my hand a couple times, FaceTime when we're bored",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "There's nobody at the door, man, I'm so paranoid",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Fuck, because",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCADEF",
+      "rhyme_vowel": "AABACDB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Cause, girl, you're perfect, but you're too fuckin' young (For me, uh)",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "And when temptation calls my phone, I never pick up (No)",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "And, girl, you stole my heart, but you're too fuckin' young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "And this is more than a crush, I just might be in love (Oh my God)",
+          "rhyme": "Ov",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "A six-year difference, uh",
+          "rhyme": "u",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Is a ten year sentence",
+          "rhyme": "#s",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "And with the pigment on my skin",
+          "rhyme": "in",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "I don't want to be another statistic",
+          "rhyme": "ik",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "You bring me joy, joy, joy, joy",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "And you fill a void that was once missing",
+          "rhyme": "iN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "And I can say I'm in love",
+          "rhyme": "Ov",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCCDCE"
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "There go the policeman, knocking at my door",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Do I leave out the back and grab my wallet and coat?",
+          "rhyme": "Owt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Or do I answer real confused like, \"I don't know\"? (I don't know)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Now me and she held hands and we danced, nothing more",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "She kissed my hand a couple times, FaceTime when we're bored",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "There's nobody at the door, man, I'm so paranoid",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Fuck, because",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCADEF",
+      "rhyme_vowel": "AABACDB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Cause, girl, you're perfect, but you're too fucking young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "And when temptation calls my phone, I never pick up (Woo!)",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "And, girl, you stole my heart, but you're too fuckin' young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "And this is more than a crush, I just might be in love (Oh my God, yo)",
+          "rhyme": "Ov",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "When you're thirty-five, I'll be forty-one (But you're too young)",
+          "rhyme": "On",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "And when I'm twenty-seven, you'll be twenty-one, yo, this is dumb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "And when that time comes for that 1-8, I'll probably run (But I know that you're the one)",
+          "rhyme": "(",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "'Cause I'm fucking terrified, yo, this is dumb, you should find someone else",
+          "rhyme": "yls",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "I'm not the one for you, shit, I'm still growing up by myself (I know that you're too young)",
+          "rhyme": "Elf",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "And mentally, you're older than me, and that shit doesn't help",
+          "rhyme": "alp",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "'Cause if they see you with T, they'll think T needs some help (But I know that you're the one)",
+          "rhyme": "alp",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "So when you mention \"hang\", I'm thinking 'bout a tree and a belt",
+          "rhyme": "Olt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "And I don't want no relation, shit no relation- (I know that you're too young)",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Ship when my dick is longer than my attention- (But I know that you're the one)",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Span, it's gonna suck if shit hits that kitchen fan",
+          "rhyme": "an",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "And splatter on me like my dick in my hand",
+          "rhyme": "#d",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "What? I'm still fucking off, not good at ducking off (I know that you're too young)",
+          "rhyme": "Of",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "Because I found a goose that I like, but I'm still running off",
+          "rhyme": "Of",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "14",
+          "text": "She gon' want a nest, that's why I cannot get fucking caught (But I know that you're the one)",
+          "rhyme": "ajt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "15",
+          "text": "That's a scary word, you could save that shit for the birds, um",
+          "rhyme": "Om",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "16",
+          "text": "But I found my wings, fuck (I know)",
+          "rhyme": "yk",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDEFFGBBHIJJKLM",
+      "rhyme_vowel": "ABCDEFFABBFGAAFAD"
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But you're too fucking young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "I really like you",
+          "rhyme": "u",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "And when temptation calls my phone, I never pick up",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "I don't know what to do",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "And, girl, you stole my heart, but you're too fucking young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "Funny thing about this is, by the time you hear this",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "And this is more than a crush, I just might be in love (Oh my God)",
+          "rhyme": "Ov",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "It won't even matter, I'll be in the clear, haha",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "It's T and Uncle Charlie!",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "But you're too young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "10",
+          "text": "But you're too young",
+          "rhyme": "uN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "11",
+          "text": "But you're too young, ha",
+          "rhyme": "a",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "12",
+          "text": "[Part II: PERFECT]",
+          "rhyme": "Ekt",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCDAEFGEAAGH",
+      "rhyme_vowel": "AABCADEFDAAFG"
+    },
+    {
+      "section_id": "section_8",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Boy, I know that we could be more",
+          "rhyme": "OR",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Than just friends, but you're scared",
+          "rhyme": "e",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Boy, I know that we could be more",
+          "rhyme": "OR",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Than just friends, but you're scared (I know)",
+          "rhyme": "e",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAB",
+      "rhyme_vowel": "ABAB"
+    },
+    {
+      "section_id": "section_9",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I know that there could be",
+          "rhyme": "ab",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Somethin' for you and me",
+          "rhyme": "@",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "What's your philosophy?",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "You're scared, scared",
+          "rhyme": "e",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "And I'll exit and wait a while",
+          "rhyme": "il",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Just say the word, girl",
+          "rhyme": "9Rl",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Can't you see the answers are all there?",
+          "rhyme": "eR",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "But I'm just too blind to see",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "You and I are cut from different fabric",
+          "rhyme": "ik",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "9",
+          "text": "I wanna rock, I wanna rock with you, girl",
+          "rhyme": "9Rl",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "10",
+          "text": "Don't be too material to see",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "11",
+          "text": "But I'm just too blind to see",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "Somehow, this world is such a struggle just to be",
+          "rhyme": "ab",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "Fuck 'em all, baby, it's just you and me",
+          "rhyme": "@",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDEFGCHFCCAB",
+      "rhyme_vowel": "ABCDCEDCCECCAB"
+    },
+    {
+      "section_id": "section_10",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But you're too fuckin' young",
+          "rhyme": "uN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "And, girl, I know that you're the one for me",
+          "rhyme": "@",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "And it hurts, it fuckin’ hurts",
+          "rhyme": "uR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Fuck, 'cause you're too fuckin' young",
+          "rhyme": "uN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "And, girl, I know that you're the one for me",
+          "rhyme": "@",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "And it hurts, it fuckin' hurts",
+          "rhyme": "uR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "'Cause you're too fuckin' young",
+          "rhyme": "uN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "And, girl, I know that you're the one",
+          "rhyme": "On",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "That you're the one for me",
+          "rhyme": "@",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "'Cause you're too fuckin' young",
+          "rhyme": "uN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "And, girl, I know that you're the one for me, yeah, haha",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCABCADBAE",
+      "rhyme_vowel": "ABAABAACBAD"
+    },
+    {
+      "section_id": "section_11",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I rock (I rock)",
+          "rhyme": "Ok",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "I rock (I rock)",
+          "rhyme": "Ok",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "I rock (I rock)",
+          "rhyme": "Ok",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AAA",
+      "rhyme_vowel": "AAA"
+    }
+  ],
+  "album_id": 122895
+}

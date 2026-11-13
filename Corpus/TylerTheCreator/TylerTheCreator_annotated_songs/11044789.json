@@ -1,0 +1,440 @@
+{
+  "song_id": 11044789,
+  "title": "I Killed You",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Your new hot comb go 'round and 'round (Go)",
+          "rhyme": "und",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Your new blowout go 'round and 'round (Pick it out)",
+          "rhyme": "und",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "The 360 waves go 'round and 'round (Go)",
+          "rhyme": "und",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "The grease addin' up, it go 'round and 'round",
+          "rhyme": "und",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I gotta work, I gotta eat",
+          "rhyme": "at",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "If they see you on top of me, I gotta leave",
+          "rhyme": "av",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Your natural state is threatening",
+          "rhyme": "iN",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "To the point that I point at myself for self-esteem",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "No findin' out a couple knots was a map",
+          "rhyme": "ap",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "We escapin', them routes right on the scalp",
+          "rhyme": "alp",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Takin' you out, it's not a game",
+          "rhyme": "Ejm",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "10",
+          "text": "Feel ashamed, so we straightened you out without a doubt",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "11",
+          "text": "Bitch, I killed you, you are so essential",
+          "rhyme": "al",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "12",
+          "text": "How we used to pick you 'cause you was a symbol",
+          "rhyme": "Ol",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "13",
+          "text": "Berries and oils, your naturе was so simple",
+          "rhyme": ")pl",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "14",
+          "text": "But I guess the coils and kinks bеcame an issue",
+          "rhyme": "y",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "15",
+          "text": "Therefore, bitch, I killed you, Jheris and Mimis (Mimis)",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "16",
+          "text": "I burnt you, I cut you, I filled you up with chemis (Chemis)",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "17",
+          "text": "Forced you to relax, you was thick, you was beauty",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "18",
+          "text": "Couldn't take the heat, so you gone when they see me now",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "19",
+          "text": "Yeah, bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "20",
+          "text": "Aunties, grandmas, sisters, mamas, darker-skinneded women's conscience",
+          "rhyme": "#s",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "21",
+          "text": "Got you, bitch, they killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "22",
+          "text": "Uncles, daddies, brothers, sons cut by one, the shit begun early",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "23",
+          "text": "Bitch, they killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "24",
+          "text": "Mentally stuck, I couldn't see, when you breathe (I couldn't see)",
+          "rhyme": "at",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "25",
+          "text": "Thought I needed a cut, it fucked me up (It fucked me up)",
+          "rhyme": "9p",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "26",
+          "text": "Bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "27",
+          "text": "We don't got advantages, we don't match they images",
+          "rhyme": "aZ",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "28",
+          "text": "So it led to damages, ah, I had to kill you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "29",
+          "text": "I gotta work, I gotta eat",
+          "rhyme": "at",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "30",
+          "text": "If they see you on top of me, then I'm at peace",
+          "rhyme": "as",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "31",
+          "text": "Bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "32",
+          "text": "You are my crown, without the grease, really fine",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "33",
+          "text": "Got the kinks in they mind they gotta ease",
+          "rhyme": "iz",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "34",
+          "text": "Bitch, I killed you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "35",
+          "text": "Gravity defy, against the elements",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "36",
+          "text": "Call you fragile? I say you delicate",
+          "rhyme": "at",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "37",
+          "text": "You the room, baby, they the motherfuckin' elephant",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "38",
+          "text": "Talkin' 'bout my heritage",
+          "rhyme": "aZ",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "39",
+          "text": "I could never kill you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCDECFGCHIJKLMNNNOCPCNCAQCRCASCTUCIAIRC",
+      "rhyme_vowel": "AABCDBAABDEAFGHCCCIBEBCBAJBABAABCCBEAEAB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Go away)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "(Pick it out)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "(Go, go)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Comb that shit (Go, pick it out)",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "You need to pick that shit out, bitch (Away, pick it out)",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Yeah, yeah (Away, pick it out)",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AAABCD",
+      "rhyme_vowel": "AAABBC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Trapped in the back, aw (Where they at?)",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Type three, is it type four? (Where they at?)",
+          "rhyme": "uR",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Fuck it, get down, this is my crown (Where they at?)",
+          "rhyme": "awn",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You got kinks in your mind, boy (Where they at?)",
+          "rhyme": "Oj",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABCD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You're so beautiful (Away)",
+          "rhyme": "9l",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "I didn't mean to (Just as beautiful)",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "You're so beautiful (Away)",
+          "rhyme": "9l",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Just as beautiful (Away)",
+          "rhyme": "9l",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "Just as beautiful",
+          "rhyme": "9l",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "Ooh, ah, yeah, yeah, yeah (Away)",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "(Away, away, a-a-a-away, away)",
+          "rhyme": null,
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "Just as beautiful (Ooh, ooh)",
+          "rhyme": "9l",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "8",
+          "text": "Dum, dum (Ooh), dum, dum",
+          "rhyme": "Om",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "9",
+          "text": "Dum, dum, dum, dum, dum (Ooh)",
+          "rhyme": "Om",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABAAACDAEE",
+      "rhyme_vowel": "ABAAACDAEE"
+    }
+  ],
+  "album_id": 1260992
+}

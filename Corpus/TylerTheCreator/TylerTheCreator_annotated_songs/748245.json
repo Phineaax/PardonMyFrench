@@ -1,0 +1,575 @@
+{
+  "song_id": 748245,
+  "title": "CHERRY BOMB",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I really made this song just so I could perform it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "I don't even know what it mean",
+          "rhyme": "in",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "It means something",
+          "rhyme": "iN",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "AAA"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Aw, nah, boy, don't cut that wood",
+          "rhyme": "ud",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Found out his flowers don't smell that good",
+          "rhyme": "ud",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "But if they smell real good to him",
+          "rhyme": "im",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Then he don't need nobody else nose to win",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Look, I am a god",
+          "rhyme": "ud",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Nobody prays to the sight of you",
+          "rhyme": "u",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "All y'all niggas wear camouflage",
+          "rhyme": "aZ",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "I'm in a field wearing pink and blue",
+          "rhyme": "y",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "I wear pink, they can see me",
+          "rhyme": "@",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Nigga, you don't create, you just repeat",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Nigga, you don't got drive, you just beep-beep",
+          "rhyme": "ip",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "Beep-beep, talk shit from the backseat",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AABCADEFGHIH",
+      "rhyme_vowel": "AABCAADEFDBD"
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Come and light my fire",
+          "rhyme": "iR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "I'll blow your fucking face off",
+          "rhyme": "Of",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Nigga, I'm the goddamn pilot",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "And I decide when we gon' take off, let's get it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABCA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Yeah, yeah, yeah, yeah)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Tie the knot (Yeah, yeah, yeah, yeah)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Kick the chair (Yeah, yeah, yeah, yeah)",
+          "rhyme": "ER",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Float in the air (Yeah, yeah, yeah)",
+          "rhyme": "ER",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "That's cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCCD",
+      "rhyme_vowel": "ABCCD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You motherfuckers want war? Then come get it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "You motherfuckers don't really want it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "You motherfuckers want war and I want more",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Nigga, fuck you and everything that you come for",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "You motherfuckers wanna blow? Pow-pow",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Pow-pow, let's take 'em to the gun store",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "I don't got enough time, fuck your Rolex, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "Don't compare him to mine, 'cause I don't know that nigga",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AABBCBDD",
+      "rhyme_vowel": "AABBCBDD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Come and light my fire",
+          "rhyme": "iR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "I'll blow your fucking face off",
+          "rhyme": "Of",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Nigga, I'm the goddamn pilot",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "And I decide when we gon' take off, let's get it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABCA"
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Yeah, yeah, yeah, yeah)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Tie the knot (Yeah, yeah, yeah, yeah)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Kick the chair (Yeah, yeah, yeah, yeah; woo!)",
+          "rhyme": "ER",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Float in the air (Yeah, yeah, yeah)",
+          "rhyme": "ER",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "That's cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCCD",
+      "rhyme_vowel": "ABCCD"
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You motherfuckers want war?",
+          "rhyme": "aR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "(Fuck that, light this, that cherry bomb)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "(Fuck that, light this, that cherry bomb)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "Fuck that, light this, that cherry bomb",
+          "rhyme": "$",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "14",
+          "text": "Fuck that, light this, that cherry—",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "15",
+          "text": "[Part II: Firecracker]",
+          "rhyme": "ER",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABBCCCCCCCCCCCDE",
+      "rhyme_vowel": "ABBCCCCCCCCCCCDE"
+    },
+    {
+      "section_id": "section_8",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Bomb) Firecracker and I'm ready to blow",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "You fire me up, I lose control (I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Firecracker and I'm ready to blow",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "You fire me up, I lose control (I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "Firecracker and I'm ready to blow",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "You fire me up, I lose control (I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "Firecracker and I'm ready to blow",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "You fire me up, I lose control (I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "8",
+          "text": "Firecracker and I'm ready to blow (Yeah, yeah, yeah)",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "9",
+          "text": "You fire me up, I lose control (Yeah, yeah, yeah, yeah; I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "10",
+          "text": "(Yeah, yeah, yeah, yeah)",
+          "rhyme": null,
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "11",
+          "text": "You fire me up, I lose control (Yeah, yeah, yeah, yeah; I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "12",
+          "text": "(Yeah, yeah, yeah, yeah)",
+          "rhyme": null,
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "13",
+          "text": "I'm ready to blow, you fire me up (Yeah, yeah, yeah, yeah; I lose control)",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "14",
+          "text": "(Yeah, yeah, yeah, yeah)",
+          "rhyme": null,
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "15",
+          "text": "You fire me up, I lose control (Yeah, yeah, yeah, yeah; I lose control)",
+          "rhyme": "ol",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "16",
+          "text": "Firecracker, firecracker, firecracker (I lose control)",
+          "rhyme": "ER",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "17",
+          "text": "Yeah, yeah, yeah, yeah, yeah, yeah, yeah (I lose co—)",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "18",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABABABABABCBCDCBEFF",
+      "rhyme_vowel": "AAAAAAAAAABABCBADDD"
+    },
+    {
+      "section_id": "section_9",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, yeah, yeah, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "GOLF 191, Okaga",
+          "rhyme": "a",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Playing only classic hits",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    }
+  ],
+  "album_id": 122895
+}

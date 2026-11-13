@@ -1,0 +1,542 @@
+{
+  "song_id": 8970610,
+  "title": "HEAVEN TO ME",
+  "language": "en",
+  "lyricists": [
+    337625,
+    993670,
+    365,
+    72,
+    390358,
+    685,
+    3593355
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "My energy kinetic, the fitted hat by Ebbets",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "(Yessir)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "(DJ Drama) Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABA",
+      "rhyme_vowel": "ABA"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I like sugar, I like sweets, I don't like the spicy eats",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "I need bridges in my beats and Campana Brothers seats",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "The heaven part for me is knowin' I can",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Wake up when I'm finished with my sleep, ain't no kids to feed",
+          "rhyme": "id",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "No stress I bleed, I don't got a boss",
+          "rhyme": "Os",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "I go wherever and don't care 'bout the cost (Nah)",
+          "rhyme": "Ost",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "Gas money was stark for me, uh",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "Now I got so many cars I could start up",
+          "rhyme": "9p",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "We nappin' in parks, we in the sun gettin' darked up",
+          "rhyme": "9p",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "9",
+          "text": "Chillin' with my suit on",
+          "rhyme": "$",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "10",
+          "text": "Travel trunk is either Moynat leather or it's Vuitton",
+          "rhyme": "$",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "11",
+          "text": "Sippin' mint tea like we know the tree the leaf fell from",
+          "rhyme": "Om",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "12",
+          "text": "We come from them Tiki Punch drinks",
+          "rhyme": ")k",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "13",
+          "text": "Had animosity for dinner, El Pollo Loco",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "14",
+          "text": "That was in the past, now I parmesan my bolo'",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "15",
+          "text": "Half a million driftin' and the tire readin' \"Toyo\"",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "16",
+          "text": "Prefer the alligator logo on my cotton polo (Yeah)",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "17",
+          "text": "Livin' it up, my niggas is up",
+          "rhyme": "9p",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "18",
+          "text": "Y'all niggas is salty peanuts, we ain't givin' a fuck",
+          "rhyme": "yk",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "19",
+          "text": "'Cause I'm blessed as hell and I ain't next to jail",
+          "rhyme": "aj",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "20",
+          "text": "Ain't got no psyche hiccups, plus I dress this well",
+          "rhyme": "El",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "21",
+          "text": "My heaven 24/7, that's heaven",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "AABCDEFGGHHIJKKKKGLMNO",
+      "rhyme_vowel": "AABCDDEFFGGDHIIIIFJAKH"
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Heaven only knows)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "That's heaven to me, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "What's heaven to you? Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "That's heaven to me, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "What's heaven to you, to y'all?",
+          "rhyme": "ol",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Because that's heaven to me, aw-aw",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "(You gotta love it)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABBBCDA",
+      "rhyme_vowel": "ABBBCCA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The lake water gettin' warmer from the radiant sun",
+          "rhyme": "un",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "My baby mama and my daughter gettin' chased by my son",
+          "rhyme": "$",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "The water gun is in his arms, that lil' nigga could run",
+          "rhyme": "(",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "He get it from his daddy side, you know, them Nigerians",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "My mama pulled up in a helicopter",
+          "rhyme": "e",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Sister in the kitchen cookin', Jackson mixin' vodka",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "After dinner, I'll convince 'em they should babysit 'em",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "Me and wifey gettin' ready to go see a opera (Sydney)",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "This the house we come to when we got nothin' to do",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "9",
+          "text": "The big yard, quaint size with the immaculate view",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "10",
+          "text": "My boat dock got a yacht with a slide on the side",
+          "rhyme": "id",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "11",
+          "text": "My son and I got some bikes we could ride, I'll show him how to wheelie",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "12",
+          "text": "And Wally hit my celly, we cleared another dealy",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "13",
+          "text": "It's no contingency, the number's in the hundred milly's (Woo-hoo-hoo)",
+          "rhyme": "ins",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "14",
+          "text": "I'm in my fourties lookin' twenty-somethin' (Yeah)",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "15",
+          "text": "I don't ask for nothin' (Nothin')",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "16",
+          "text": "Everything is mwah, that's heaven for a God",
+          "rhyme": "ud",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "17",
+          "text": "My health is on a hundred, you feel me? Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFGFHIJKKLMMNO",
+      "rhyme_vowel": "ABCDEFGFHAIIIIIIAG"
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Skin glowin')",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "That's heaven to me, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "What's heaven to you?",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "That's really heaven at forty, like, nigga havin' good health?",
+          "rhyme": "at",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "What's heaven to you, to y'all?",
+          "rhyme": "ol",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Because that's heaven",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "This, this was heaven, this was heaven at, like, as a kid",
+          "rhyme": "id",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCDEFG"
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It used to be the 'Preme hat in the green",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "The cheetah print on the tee, the dark wash on the jean",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "Soccer mom with the Vans in every color, it seems",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Kids push down the block, cuttin' Dickies into shorts when it's hot",
+          "rhyme": "Ot",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Fuckin' Wendy's up, brainstormin' ways to get our pennies up",
+          "rhyme": "9p",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "Me and Jasper spendin' last bucks on the city bus",
+          "rhyme": "ys",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "Wayne tapes and Vice mags and Portishead drops",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "Peglegs, Ice Cream shoes, the Mr. Krabs watch",
+          "rhyme": "atS",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "8",
+          "text": "That was heaven for me 'round time seventeen",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "9",
+          "text": "Eggin' niggas' houses, fuckin' girls from Pasadena",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "10",
+          "text": "Bastard wasn't finished, I was formin' up a team",
+          "rhyme": "im",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "11",
+          "text": "I didn't have much, but for certain, I had a dream",
+          "rhyme": "im",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "AABCDEFGAHII",
+      "rhyme_vowel": "AABCDEFGAGAA"
+    },
+    {
+      "section_id": "section_6",
+      "type": "gibberish",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I fuck the flow up, fuck it, I bring it back like the hairline was recedin'",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_7",
+      "type": "gibberish",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Hey, woo, woo, haha)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Don't let your neighbors take you to Hell",
+          "rhyme": "El",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "Introduce 'em to Heaven",
+          "rhyme": ")",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "Heaven only knows",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    }
+  ],
+  "album_id": 983199
+}

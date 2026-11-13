@@ -1,0 +1,930 @@
+{
+  "song_id": 748252,
+  "title": "2SEATER",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "part",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Woo! (We) Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Woo! Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AA",
+      "rhyme_vowel": "AA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We can speed in my two-seater (Woo! Yeah)",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Girl, I got a two-seater",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Speed in my two-seater",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "In my two-seater",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "About a hundred on Fax and it's easy to stop (Yeah)",
+          "rhyme": "Op",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "You see, my shit isn't stock",
+          "rhyme": "Ok",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "I used to piss in a pot and now I piss on the walls",
+          "rhyme": "ol",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "But since I pissed off a cop, a couple tickets I have copped",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "But I can pay for them all",
+          "rhyme": "ol",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "And by the model of my vehicle you know that I ball",
+          "rhyme": "Ol",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "E92, but '91 the year that Tyler was spawned",
+          "rhyme": "Ed",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "And if I crash, I'm owing wheels like I'm a Vaughn or a Vince, Tiptronic is stick",
+          "rhyme": "ik",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "Or automatic, you pick, shit is static as shit (Yeah)",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Sure, my shit is AM, might get that X6 end",
+          "rhyme": "End",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Don't follow exit him, might take a back street hidden",
+          "rhyme": "En",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "House got all sports cars like his garage is gym",
+          "rhyme": "im",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "Two sapphires on him neck next his precious gems",
+          "rhyme": "Em",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "Not AMG, it's M, boy, I will eat him Benz",
+          "rhyme": "inz",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "14",
+          "text": "New engine, you got that old shit, your rims depends",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "15",
+          "text": "Him got a warranty, don't care if him scratch him rims again",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDCEFGHIJKLMNO",
+      "rhyme_vowel": "AABCBADEEDDEDEFG"
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We can speed in my two-seater",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Girl, I got a two-seater (Get up here, girl)",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Speed in my two-seater",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "In my two-seater (Ooh, yeah)",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "post-chorus",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Woo! Yeah)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "(Woo! Yeah)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AA",
+      "rhyme_vowel": "AA"
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sit in my passenger seat",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "You tell me I got too much speed",
+          "rhyme": "id",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "And I should slow, I should slow down",
+          "rhyme": "awn",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "But I can't, 'cause you driving me wild (Oh, yeah, oh)",
+          "rhyme": "Old",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Girl, I get a rush (Yeah)",
+          "rhyme": "9S",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "When we're speeding in my car",
+          "rhyme": "aR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "And sometimes, it's too much (Yeah)",
+          "rhyme": "9tS",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "And you can feel the beat in my heart",
+          "rhyme": "aR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "Girl, I get a rush (Yeah)",
+          "rhyme": "9S",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "When we're speeding in my car (Woo!)",
+          "rhyme": "aR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "And sometimes, it's too much, yeah (Oh, yeah, oh)",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDEFGFEFH",
+      "rhyme_vowel": "ABACDADADAE"
+    },
+    {
+      "section_id": "section_7",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I know some dudes that would find you that carry rugers and shottas",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "And fucking shoot at your Honda, then fucking zoom out in Mazdas",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Them GOLF boys is bad for you like the food at McDonald's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Boy, I'm a king and I ain't lyin', boy, hakuna matata",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Better watch for them hyenas, if you flex, then they swarm",
+          "rhyme": "uRm",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "They cashing so many checks, they're calling him Tyler O-Comma",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "I'm tryna ball like I was Domo O'Connor in '09",
+          "rhyme": "in",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "Or probably September...",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "Boy, I'm just rhyming these syllables, suck my genitals",
+          "rhyme": "al",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Album cover looking like the mascot of the timberwolves, skate park at Pemberton",
+          "rhyme": "On",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Hoping that I ditched the chords and go pick up the pen again",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "'Cause I killed the dark shit like I'm motherfucking Zimmerman",
+          "rhyme": "an",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "Turn around and lose pounds like I'm fucking Timbaland",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "By pounds, I mean in (*beep*)",
+          "rhyme": "in",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "14",
+          "text": "Give it 'til he cop brick like a wall with pig in it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "15",
+          "text": "And money coming out the blue, like cops are changing fits or shit, I'm killin' it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "16",
+          "text": "(Fuck!)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AABACADEFGHIJDKKL",
+      "rhyme_vowel": "AABACABDAEFAGBBBH"
+    },
+    {
+      "section_id": "section_8",
+      "type": "saxophone",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Woo! Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Woo! Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_9",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Back when Left Brain had the hightop fade (Woo! Fade)",
+          "rhyme": "ad",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "And we would go skate on them concrete waves (Woo! Waves)",
+          "rhyme": "av",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "And now I switch gears to hear the cylinders pump",
+          "rhyme": "(p",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "The beat thump, don't get it twisted, boy, my board's in the trunk (Skate!)",
+          "rhyme": "9nk",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_10",
+      "type": "segue",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Can you roll my window up?",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "The fuck you turn my music down for, man?",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Can you roll my window up?",
+          "rhyme": "9p",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Why? Damn!",
+          "rhyme": "yt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "'Cause it's windy",
+          "rhyme": "i",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "But I love it when your hair...",
+          "rhyme": "ER",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABACDE",
+      "rhyme_vowel": "ABACDE"
+    },
+    {
+      "section_id": "section_11",
+      "type": "part",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_12",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Blows, when it blows",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "When your hair blows (When it blows)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Hanging out the sunroof",
+          "rhyme": "uf",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "I love it when your hair blows",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "When it blows, when it blows",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Hanging out the sunroof",
+          "rhyme": "uf",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "I love it when your hair blows",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "When it blows (When it blows)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "When your hair blows",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Hanging out the sunroof",
+          "rhyme": "uf",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AABAABAAAB",
+      "rhyme_vowel": "AABAABAAAB"
+    },
+    {
+      "section_id": "section_13",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Listenin' to Mac DeMarco",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Hangin' out the roof window",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Switch to third gear turbo",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Skrrtin' on these niggas, skrrtin' on these bitches",
+          "rhyme": "atS",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Listenin' to Mac DeMarco",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "You're hangin' out the roof window",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Switch to third gear turbo",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "Skrrtin' on these niggas, skrrtin' on these bitches, yeah (Uh)",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AAABAAAC",
+      "rhyme_vowel": "AAABAAAC"
+    },
+    {
+      "section_id": "section_14",
+      "type": "bridge",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You can say you don't want to take that drive",
+          "rhyme": "ajv",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "But your hair, it blows (It blows me away)",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "I know we'll have a good time",
+          "rhyme": "ajm",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "You just gotta stop being scared",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Just roll, just come and roll with me",
+          "rhyme": "@",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "It's all good",
+          "rhyme": "ud",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDEF",
+      "rhyme_vowel": "ABACDE"
+    },
+    {
+      "section_id": "section_15",
+      "type": "outro",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Bah-buh, bah-buh, bah-buh, bah-buh)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "'Cause when it blows, just driving",
+          "rhyme": "iN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "You look amazing...",
+          "rhyme": "iN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "For the time being, I guess",
+          "rhyme": "Es",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCCD",
+      "rhyme_vowel": "ABCCB"
+    },
+    {
+      "section_id": "section_16",
+      "type": "skit",
+      "performer": ", , , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, man, what's good, man? You good? I've been—",
+          "rhyme": ")n",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "I've been chilling, man, I've been doing some push-ups and shit For real?",
+          "rhyme": "il",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "You know, fifty a day...",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Oh, w-w-wait... is that that nigga, Tyler?",
+          "rhyme": "e",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "I think so",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "Bitch ass, nigga, here he come to me, man",
+          "rhyme": "#",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "Fuck this nigga, man, this— this nigga stink",
+          "rhyme": "ink",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "Wait, be quiet, be quiet",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "8",
+          "text": "'Ight",
+          "rhyme": "ajt",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "9",
+          "text": "My nigga, T, man! What's good, man? You good?",
+          "rhyme": "ud",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "10",
+          "text": "Alright, I see you!",
+          "rhyme": "u",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "11",
+          "text": "I'm good, man, I'm good, I'm good",
+          "rhyme": "ud",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "Ayy, man, I see you with your little girl, she— she looks... okay",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "13",
+          "text": "Alright, y'all good, man, alright!",
+          "rhyme": "ajt",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "14",
+          "text": "Ayy, your feature don't start for another twenty minutes",
+          "rhyme": "yt",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "15",
+          "text": "So you can go get your shit up, I can get y'all some shit",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "16",
+          "text": "And I see you with your little jewels and shit too, man",
+          "rhyme": "#",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "17",
+          "text": "Aw thanks, man, I'm trying, man, I'm just trying",
+          "rhyme": "iN",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "18",
+          "text": "Yeah, man, let me know if you need anything",
+          "rhyme": "iN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "19",
+          "text": "I got you, just— you know... yeah",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "20",
+          "text": "Alright, um... yeah, we'll probably walk around",
+          "rhyme": "awnd",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "21",
+          "text": "And come back when the movie start or whenever",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "22",
+          "text": "Ight, man, I'ma see you",
+          "rhyme": "u",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "23",
+          "text": "Ight, my nigga... ight",
+          "rhyme": "ajt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "24",
+          "text": "Fucking faggot, man! I swear to God!",
+          "rhyme": "ud",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "25",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "26",
+          "text": "Haha, this nigga bitch weak too!",
+          "rhyme": "o",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "27",
+          "text": "Haha, yeah, she is",
+          "rhyme": "E",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "28",
+          "text": "Goddammit! I'd still fuck!",
+          "rhyme": "yk",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCDEFGCHIJICHKLFMMCNDJHICECO",
+      "rhyme_vowel": "ABCDEFBCGHHHCGIBFBBCGDHGHCECI"
+    }
+  ],
+  "album_id": 122895
+}

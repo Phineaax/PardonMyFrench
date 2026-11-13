@@ -1,0 +1,557 @@
+{
+  "song_id": 133409,
+  "title": "48",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Crack, fucked up the world",
+          "rhyme": "Old",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "And, I wonder if they realize the damage",
+          "rhyme": "aZ",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "I mean, they come from an era",
+          "rhyme": "a",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "Who made a lot of money off that shit (Mhm)",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "And I wonder if it fucked with they conscience",
+          "rhyme": "#s",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "It fucked with me being out there, I couldn't stand it",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "I couldn't stand seeing people, fucking themselves up like that on the shit",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "And that's where the money came from",
+          "rhyme": "Om",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCDEDDF",
+      "rhyme_vowel": "ABBCDCCA"
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "1",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "2",
+          "text": "They call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "3",
+          "text": "If you really need some blow, I can get it for the low, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "4",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "5",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "6",
+          "text": "They call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "7",
+          "text": "If you really need some blow, I can get it for the low, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        }
+      ],
+      "rhyme": "AABCAABC",
+      "rhyme_vowel": "AABCAABC"
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Shift getting warmer, on that corner",
+          "rhyme": "ER",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "1",
+          "text": "Gotta watch out for them 5-0 phoners",
+          "rhyme": "9R",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "2",
+          "text": "Your mother's a goner",
+          "rhyme": "9R",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "3",
+          "text": "I warned you before you supersized my fries with that dollar",
+          "rhyme": "aR",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "4",
+          "text": "You got a daughter, shift's getting harder",
+          "rhyme": "e",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "5",
+          "text": "The only thing you wanna bunk her was your freedom",
+          "rhyme": "$",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "6",
+          "text": "You can't afford to get caught up but you in too deep",
+          "rhyme": "ip",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "7",
+          "text": "And the seashore ain't saw ya",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "8",
+          "text": "You got a mother, she don't support you",
+          "rhyme": "u",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "9",
+          "text": "But you bought her a new house 'cause you love her",
+          "rhyme": "e",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "10",
+          "text": "Growing up, you barely had a roof",
+          "rhyme": "uf",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "11",
+          "text": "Now you got a coupe and it doesn't have a roof",
+          "rhyme": "uf",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "12",
+          "text": "I guess you're accustomed what you're used to",
+          "rhyme": "o",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "13",
+          "text": "So you bought two, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "14",
+          "text": "They coming for you, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "15",
+          "text": "Niggas be hating, I'm doing them bitches",
+          "rhyme": "atS",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "16",
+          "text": "Like Susan and Karen be doing your pockets",
+          "rhyme": "Et",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "17",
+          "text": "And running the man and then losing his fucking mind",
+          "rhyme": "#",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "18",
+          "text": "And it's all an illusion",
+          "rhyme": "$",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "19",
+          "text": "Who was alludin' all of this potent?",
+          "rhyme": "#",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "20",
+          "text": "I am the reason your family is using and shooting up",
+          "rhyme": "9p",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "21",
+          "text": "It's my fault",
+          "rhyme": "o",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "22",
+          "text": "You can, blame me, motherfucker",
+          "rhyme": "9R",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "23",
+          "text": "For killing your aunties and uncles",
+          "rhyme": "$kl",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "24",
+          "text": "The hustle and hunger",
+          "rhyme": "e",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "25",
+          "text": "All I wanted was a cheeseburger",
+          "rhyme": "9R",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "26",
+          "text": "And a little chain, tucked",
+          "rhyme": "e",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "27",
+          "text": "Didn't realize this game fucked up some lives",
+          "rhyme": "iv",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "28",
+          "text": "Oh, how's mine?",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "29",
+          "text": "My conscience eats it up all the time but, other than that, I'm fine",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "30",
+          "text": "I got a little money in my pocket",
+          "rhyme": "Et",
+          "persona_id": "persona_wolf_haley"
+        }
+      ],
+      "rhyme": "ABBCDEFGHDIIJGGKLMEMNJBODBDPQQL",
+      "rhyme_vowel": "ABBCDEFCGDGGHCCCAIEIBHBEDBDFFFA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "1",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "2",
+          "text": "They call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "3",
+          "text": "If you really need some blow, I can get it for the low, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "4",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "5",
+          "text": "Forty-eight, forty-eight, forty-eight states I get it in (Nigga)",
+          "rhyme": "in",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "6",
+          "text": "They call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "7",
+          "text": "If you really need some blow, I can get it for the low, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_wolf_haley"
+        }
+      ],
+      "rhyme": "AABCAABC",
+      "rhyme_vowel": "AABCAABC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Nigga, we broke as fuck",
+          "rhyme": "yk",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "1",
+          "text": "Homie got a chop shop, I sold that truck",
+          "rhyme": "yk",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "2",
+          "text": "And I sold that dope, motherfuckers hope this nigga go broke",
+          "rhyme": "ok",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "3",
+          "text": "But like my work, I give no fucks, I'm sorry (Yeah)",
+          "rhyme": "i",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "4",
+          "text": "She could have been a doctor, nigga, I'm sorry (Yeah, nigga)",
+          "rhyme": "i",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "5",
+          "text": "Could have been an actor and won that Oscar, said I'm sorry",
+          "rhyme": "i",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "6",
+          "text": "I sold that soap, and I killed black folk, I'm sorry (Yeah, nigga)",
+          "rhyme": "i",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "7",
+          "text": "But I got a nice car, put my sister through school",
+          "rhyme": "ul",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "8",
+          "text": "And my mama all cool, I'm sorry (Yeah, nigga)",
+          "rhyme": "i",
+          "persona_id": "persona_wolf_haley"
+        },
+        {
+          "n": "9",
+          "text": "I'm in too deep and I can't see the shore, I'm sorry",
+          "rhyme": "i",
+          "persona_id": "persona_wolf_haley"
+        }
+      ],
+      "rhyme": "AABCCCCDCC",
+      "rhyme_vowel": "AABCCCCDCC"
+    },
+    {
+      "section_id": "section_5",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah you get addicted to the flip, we used to call it",
+          "rhyme": "it",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "1",
+          "text": "You get addicted to the flip (I'm sorry)",
+          "rhyme": "ip",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "2",
+          "text": "The-the-the-the transaction, the hustling (I'm sorry)",
+          "rhyme": "iN",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "3",
+          "text": "But even more than the money, it's just your job (I'm sorry)",
+          "rhyme": "Ob",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "4",
+          "text": "You feel like, it's your duty to be, the man in between the man",
+          "rhyme": "#",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "5",
+          "text": "That makes this happen for that person (I'm sorry)",
+          "rhyme": "On",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "6",
+          "text": "And to do this and do that",
+          "rhyme": "a",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "7",
+          "text": "You become a go-to-guy for people",
+          "rhyme": "9l",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "8",
+          "text": "You know, forever",
+          "rhyme": "e",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "9",
+          "text": "Next thing you know you're in too deep",
+          "rhyme": "ip",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "10",
+          "text": "Way too deep, scare the shit outta you",
+          "rhyme": "u",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "11",
+          "text": "You wind up with so much work, you'd be scared to death",
+          "rhyme": "at",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "12",
+          "text": "It's important for us to realize, man, we gotta get out of that, man",
+          "rhyme": "#",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "13",
+          "text": "You know, dudes is buying choppers",
+          "rhyme": "9R",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "14",
+          "text": "Shoot down people that look just like them",
+          "rhyme": "Em",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "15",
+          "text": "Dudes is buying guns, to take down each other",
+          "rhyme": "ER",
+          "persona_id": "persona_guest"
+        },
+        {
+          "n": "16",
+          "text": "Nobody wins, ya know what I mean?",
+          "rhyme": "in",
+          "persona_id": "persona_guest"
+        }
+      ],
+      "rhyme": "ABCDEFGHIBJKELMNO",
+      "rhyme_vowel": "AAABCBDEFAGDCEHHA"
+    }
+  ],
+  "album_id": 18842
+}
