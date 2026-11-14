@@ -1,0 +1,404 @@
+{
+  "song_id": 71524,
+  "title": "End of Time",
+  "language": "en",
+  "lyricists": [
+    498,
+    1181,
+    39876,
+    27505,
+    12908
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Come take my hand, I won't let you go",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I'll be your friend, I will love you so deeply",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I will be the one to kiss you at night",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I will love you until the end of time",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I'ma be your baby (Hey), I'll promise not to let you go (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Love you like crazy (Now), now say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Say, say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Say, say you'll never let me go",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Take you away from here",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "There's nothing between us but space and time",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I'll be your own little star, let me shine in your world",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "In your own little universe, make me your girl",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Come take my hand (Take my hand)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I won't let you go (Won't let you go)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I'll be your friend, I will love you so deeply",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I will be the one to kiss you at night (Kiss you at night)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I will love you until the end of time",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I'ma be your baby (Hey), I'll promise not to let you go (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Love you like crazy (Now), now say you'll never let me go (Ha)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Say, say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "10",
+          "text": "Say, say you'll never let me go",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, come on, get up on it",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Show me that you really want it",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I wanna be the one to love you, baby, let's go (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Let's go (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I wanna provide this loving that you're givin'",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I ain't frontin' in this love",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "But can you let me love you from your head to toe? (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Baby, let's go (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Boy, come to me (Come to me)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Let me turn your rain into sun (Come to me, baby)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You don't have to worry, baby (Oh, no)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I promise I'll set your heart free",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Let my love into your soul",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You go, I go, we go",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "That's all she wrote",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "breakdown",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "(Can't you see me?)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "(I just wanna love you)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "10",
+          "text": "(Can you feel me, babe?)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "11",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "12",
+          "text": "Say you'll, say, say, say you'll, nev-never",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "13",
+          "text": "I just wanna be with you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "14",
+          "text": "I just wanna live for you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "15",
+          "text": "I'll never let you go",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "16",
+          "text": "Bring your love to me",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Come take my hand (Take my hand)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I won't let you go (Won't let you go)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I'll be your friend, I will love you so deeply",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I will be the one to kiss you at night (Kiss you at night)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I will love you until the end of time",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I'ma be your baby (Hey), I'll promise not to let you go (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Love you like crazy (Now), now say you'll never let me go (Ha)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Say, say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Say you'll never let me go (Hey)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "10",
+          "text": "Say, say you'll never let me go",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 32041
+}

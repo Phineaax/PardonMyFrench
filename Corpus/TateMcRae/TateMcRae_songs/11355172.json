@@ -1,1 +1,300 @@
-{"song_id": 11355172, "title": "Miss possessive", "language": "en", "lyricists": [1258628, 1653, 1325287, 1256784], "lyrics": [{"section_id": "section_0", "type": "intro", "performer": "", "lines": [{"n": "0", "text": "No, seriously, get your hands off my man (Mm-ah)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_1", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Baby blues, undressin' him", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Funny how you think that I don't notice it", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Actin' like we're friends, we're the opposite", "persona_id": "persona_tatiana"}, {"n": "3", "text": "I know what you are, tryin'\u205fso\u205fhard", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Runnin'\u205f'round tryna fuck\u205fa star, go", "persona_id": "persona_tatiana"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Look\u205fat the floor or ceilin'", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Or anyone else you're feelin'", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Take home whoever walks in", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Just keep your eyes off him", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Yes, I'm Miss Possessive", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Pretty girl, gon' learn your lesson", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Some fights you never gonna win", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Just keep your eyes off him", "persona_id": "persona_tatiana"}]}, {"section_id": "section_3", "type": "post-chorus", "performer": "", "lines": [{"n": "0", "text": "Better, better keep your, keep your, keep your, keep your", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Better, better keep your, keep your, keep your eyes off", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Better, better keep your, keep your, keep your, keep your", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Better, better keep your, keep your, keep your eyes off", "persona_id": "persona_tatiana"}]}, {"section_id": "section_4", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Yeah, I'll be nice up until I'm not", "persona_id": "persona_tatiana"}, {"n": "1", "text": "And oh-so generous, tonight I forgot", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I'm tellin' you, you haven't seen the 1 a.m. side of me", "persona_id": "persona_tatiana"}, {"n": "3", "text": "When I'm two drinks in, and you just can't leave me and my man alone, go", "persona_id": "persona_tatiana"}]}, {"section_id": "section_5", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Look at the floor or ceilin'", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Or anyone else you're feelin'", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Take home whoever walks in", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Just keep your eyes off him", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Yes, I'm Miss Possessive (Off him)", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Pretty girl, gon' learn your lesson (Off him)", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Some fights you never gonna win (Off him)", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Just keep your eyes off him", "persona_id": "persona_tatiana"}]}, {"section_id": "section_6", "type": "post-chorus", "performer": "", "lines": [{"n": "0", "text": "Better, better keep your, keep your, keep your, keep your", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Better, better keep your, keep your, keep your eyes off", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Better, better keep your, keep your, keep your, keep your", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Better, better keep your, keep your, keep your eyes off", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Better, better keep your, keep your, keep your, keep your (Oh)", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Better, better keep your, keep your, keep your eyes off", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Better, better keep your, keep your, keep your, keep your (Better keep your eyes off)", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Better, better keep your, keep your, keep your eyes off (Better keep your eyes off)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_7", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "Look at the floor or ceilin'", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Or anyone else you're feelin'", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Take home whoever walks in", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Just keep your eyes off him (Better, better keep your, keep your, keep your eyes off)", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Yes, I'm Miss Possessive", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Pretty girl, gon' learn your lesson", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Some fights you never gonna win", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Just keep your eyes off him (Better, better keep your, keep your, keep your eyes off)", "persona_id": "persona_tatiana"}]}], "album_id": 1336336}
+{
+  "song_id": 11355172,
+  "title": "Miss possessive",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1653,
+    1325287,
+    1256784
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "No, seriously, get your hands off my man (Mm-ah)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby blues, undressin' him",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Funny how you think that I don't notice it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Actin' like we're friends, we're the opposite",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "I know what you are, tryin' so hard",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Runnin' 'round tryna fuck a star, go",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Look at the floor or ceilin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Or anyone else you're feelin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Take home whoever walks in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Just keep your eyes off him",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Yes, I'm Miss Possessive",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Pretty girl, gon' learn your lesson",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Some fights you never gonna win",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Just keep your eyes off him",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Better, better keep your, keep your, keep your, keep your",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Better, better keep your, keep your, keep your eyes off",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Better, better keep your, keep your, keep your, keep your",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Better, better keep your, keep your, keep your eyes off",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, I'll be nice up until I'm not",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "And oh-so generous, tonight I forgot",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I'm tellin' you, you haven't seen the 1 a.m. side of me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "When I'm two drinks in, and you just can't leave me and my man alone, go",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Look at the floor or ceilin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Or anyone else you're feelin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Take home whoever walks in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Just keep your eyes off him",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Yes, I'm Miss Possessive (Off him)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Pretty girl, gon' learn your lesson (Off him)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Some fights you never gonna win (Off him)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Just keep your eyes off him",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Better, better keep your, keep your, keep your, keep your",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Better, better keep your, keep your, keep your eyes off",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Better, better keep your, keep your, keep your, keep your",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Better, better keep your, keep your, keep your eyes off",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Better, better keep your, keep your, keep your, keep your (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Better, better keep your, keep your, keep your eyes off",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Better, better keep your, keep your, keep your, keep your (Better keep your eyes off)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Better, better keep your, keep your, keep your eyes off (Better keep your eyes off)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Look at the floor or ceilin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Or anyone else you're feelin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Take home whoever walks in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Just keep your eyes off him (Better, better keep your, keep your, keep your eyes off)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Yes, I'm Miss Possessive",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Pretty girl, gon' learn your lesson",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Some fights you never gonna win",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Just keep your eyes off him (Better, better keep your, keep your, keep your eyes off)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ],
+  "album_id": 1336336
+}

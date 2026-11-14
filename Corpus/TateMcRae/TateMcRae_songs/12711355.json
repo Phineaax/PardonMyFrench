@@ -1,1 +1,292 @@
-{"song_id": 12711355, "title": "TRYING ON SHOES", "language": "en", "lyricists": [1258628, 27453, 1039827, 1256784], "lyrics": [{"section_id": "section_0", "type": "intro", "performer": "", "lines": [{"n": "0", "text": "Ah, ah-ah", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Ah-ah, ah", "persona_id": "persona_tatiana"}]}, {"section_id": "section_1", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Don't know what country I'm in, but I know how I'm feelin' (My body's always right)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I knew I must've dropped my diary in the pool for a reason (Erased your every line)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Did you forget the kind of bitch with whom you're dealing? (If so, I can remind)", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Yeah, I can fall in love hard, turn around and delete it (So I'm)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Tryin' on shoes, puttin' on glitter", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Anything to make me a little less bitter", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Favorite blue, take a pretty picture", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Got you like, \"Fuck\"", "persona_id": "persona_tatiana"}, {"n": "4", "text": "You'll swear to God that I'm someone else", "persona_id": "persona_tatiana"}]}, {"section_id": "section_3", "type": "post-chorus", "performer": "", "lines": [{"n": "0", "text": "I can't stop", "persona_id": "persona_tatiana"}, {"n": "1", "text": "You piss me off and I'll turn it out", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I can't stop", "persona_id": "persona_tatiana"}]}, {"section_id": "section_4", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "You roll your eyes at all my shows, and God knows I see it (All I see is you)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I used to idolize you, baby, took a year to reveal it (And the hard truth)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Is I'm not what you need, it's hard to believe", "persona_id": "persona_tatiana"}, {"n": "3", "text": "You need a girl that isn't me, warmin' the seat", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Stayin' at home, it's hard to compete with someone I'm not", "persona_id": "persona_tatiana"}, {"n": "5", "text": "And someone that I'll never be (So I'm)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_5", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Tryin' on shoes, puttin' on glitter", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Anything to make me a little less bitter", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Favorite blue, take a pretty picture", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Got you like, \"Fuck\"", "persona_id": "persona_tatiana"}, {"n": "4", "text": "You'll swear to God that I'm someone else (Yeah)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_6", "type": "post-chorus", "performer": "", "lines": [{"n": "0", "text": "I can't stop", "persona_id": "persona_tatiana"}, {"n": "1", "text": "You piss me off and I'll turn it out (Oh)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I can't stop", "persona_id": "persona_tatiana"}]}, {"section_id": "section_7", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "(Ah) And maybe I'm not the girl that you thought", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Or maybe you loved me once, but forgot (Ah, ah)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "So, baby, go back to puttin' up a front (Mm, ah)", "persona_id": "persona_tatiana"}, {"n": "3", "text": "(Ah) And guess I thought wrong for thinkin' you'd wait, 'cause", "persona_id": "persona_tatiana"}, {"n": "4", "text": "I don't move on at your type of pace, and (Ah, ah)", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Can we go back and talk at your place", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Just, just once?", "persona_id": "persona_tatiana"}]}, {"section_id": "section_8", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "Tryin' on shoes, puttin' on glitter (Ah, ah)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Anything to make me less bitter", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Favorite blue, take a picture (Ah, ah)", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Got you like, \"Fuck\"", "persona_id": "persona_tatiana"}, {"n": "4", "text": "You'll swear to God that I'm somebody else", "persona_id": "persona_tatiana"}, {"n": "5", "text": "I can't stop", "persona_id": "persona_tatiana"}, {"n": "6", "text": "You piss me off, yeah, I'm turning it out", "persona_id": "persona_tatiana"}, {"n": "7", "text": "I can't stop", "persona_id": "persona_tatiana"}]}], "album_id": 1489439}
+{
+  "song_id": 12711355,
+  "title": "TRYING ON SHOES",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    27453,
+    1039827,
+    1256784
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ah, ah-ah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Ah-ah, ah",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Don't know what country I'm in, but I know how I'm feelin' (My body's always right)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I knew I must've dropped my diary in the pool for a reason (Erased your every line)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Did you forget the kind of bitch with whom you're dealing? (If so, I can remind)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Yeah, I can fall in love hard, turn around and delete it (So I'm)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tryin' on shoes, puttin' on glitter",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Anything to make me a little less bitter",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Favorite blue, take a pretty picture",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Got you like, \"Fuck\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You'll swear to God that I'm someone else",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can't stop",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "You piss me off and I'll turn it out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I can't stop",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You roll your eyes at all my shows, and God knows I see it (All I see is you)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I used to idolize you, baby, took a year to reveal it (And the hard truth)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Is I'm not what you need, it's hard to believe",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You need a girl that isn't me, warmin' the seat",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Stayin' at home, it's hard to compete with someone I'm not",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "And someone that I'll never be (So I'm)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tryin' on shoes, puttin' on glitter",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Anything to make me a little less bitter",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Favorite blue, take a pretty picture",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Got you like, \"Fuck\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You'll swear to God that I'm someone else (Yeah)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can't stop",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "You piss me off and I'll turn it out (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I can't stop",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Ah) And maybe I'm not the girl that you thought",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Or maybe you loved me once, but forgot (Ah, ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "So, baby, go back to puttin' up a front (Mm, ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "(Ah) And guess I thought wrong for thinkin' you'd wait, 'cause",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I don't move on at your type of pace, and (Ah, ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Can we go back and talk at your place",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Just, just once?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tryin' on shoes, puttin' on glitter (Ah, ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Anything to make me less bitter",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Favorite blue, take a picture (Ah, ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Got you like, \"Fuck\"",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You'll swear to God that I'm somebody else",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "I can't stop",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "You piss me off, yeah, I'm turning it out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "I can't stop",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ],
+  "album_id": 1489439
+}

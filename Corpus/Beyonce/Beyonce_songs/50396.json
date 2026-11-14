@@ -1,0 +1,226 @@
+{
+  "song_id": 50396,
+  "title": "1+1",
+  "language": "en",
+  "lyricists": [
+    498,
+    27603,
+    1181
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "If I ain't got nothing, I got you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "If I ain't got something, I don't give a damn",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "'Cause I got it with you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I don't know much about algebra",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "But I know one plus one equals two",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "And it's me and you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "That's all we'll have when the world is through",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Cause baby, we ain't got nothing without love",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Darling, you got enough for the both of us",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "So come on, baby",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Make love to me when my days look low",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Pull me in close and don't let me go",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Make love to me, so when the world's at war",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Let our love heal us all, right now, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Make love to me, me, me, me, me, oh, oh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Make love to me",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hey, I don't know much about guns",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But I, I've been shot by you, hey",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And I don't know when I'm gon' die",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But I hope that I'm gon' die by you, hey",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "And I don't know much about fightin'",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "But I, I know I will fight for you, hey",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "And just when I ball up my fist, I realize",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "That I'm layin' right next to you",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, we ain't got nothing but love",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "And darling, you got enough for the both of us",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Ooh",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Make love to me when my days look low",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Pull me in close and don't let me go",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Make love to me, so when the world's at war",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Let our love heal us all, help me let down my guard",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Make love to me, me, me, me, me, oh, oh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Make love to me, me, me, me, me",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "instrumental",
+      "performer": "",
+      "lines": []
+    }
+  ],
+  "album_id": 32041
+}

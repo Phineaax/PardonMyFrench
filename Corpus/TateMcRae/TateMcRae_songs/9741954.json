@@ -1,1 +1,264 @@
-{"song_id": 9741954, "title": "hurt my feelings", "language": "en", "lyricists": [1258628, 1256784, 1653, 1502045, 1039827], "lyrics": [{"section_id": "section_0", "type": "intro", "performer": "", "lines": [{"n": "0", "text": "She wears your number, but I got what you like", "persona_id": "persona_tatiana"}, {"n": "1", "text": "She's got you right now, but I\u2019m still on your mind", "persona_id": "persona_tatiana"}]}, {"section_id": "section_1", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "I should've known better", "persona_id": "persona_tatiana"}, {"n": "1", "text": "You should've known better than me", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Nights staying up talking", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Told me everything except where was she", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Now I\u2019ve got you figured out", "persona_id": "persona_tatiana"}, {"n": "5", "text": "I'm tryna tell myself", "persona_id": "persona_tatiana"}, {"n": "6", "text": "I'm gonna stay away from you", "persona_id": "persona_tatiana"}, {"n": "7", "text": "I should've known better", "persona_id": "persona_tatiana"}, {"n": "8", "text": "You got a way that's gonna weigh-weigh on me", "persona_id": "persona_tatiana"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "(Oh, na-na-na) Got me heavy breathin'", "persona_id": "persona_tatiana"}, {"n": "1", "text": "(Oh, na-na-na) Every time we're speakin'", "persona_id": "persona_tatiana"}, {"n": "2", "text": "(Oh, na-na-na) Got me real, real deep in", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Want you so bad, baby, hurt my feelings", "persona_id": "persona_tatiana"}, {"n": "4", "text": "(Oh, na-na-na) Got me messed up dreamin\u2019", "persona_id": "persona_tatiana"}, {"n": "5", "text": "(Oh, na-na-na) That your girlfriend\u2019s leavin'", "persona_id": "persona_tatiana"}, {"n": "6", "text": "(Oh, na-na-na) Got me real, real deep in", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Want you so bad, baby, hurt my feelings", "persona_id": "persona_tatiana"}]}, {"section_id": "section_3", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "I wanna do somethin\u2019 I know ain't polite, like", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Show up at your house without callin' (Callin')", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Like doin\u2019 somethin' batshit, and make you fall all in", "persona_id": "persona_tatiana"}, {"n": "3", "text": "She's where you're wakin' up", "persona_id": "persona_tatiana"}, {"n": "4", "text": "She's got you makin' up such pretty boy excuses", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Ooh, but I know one thing (One thing)", "persona_id": "persona_tatiana"}, {"n": "6", "text": "She can't stop it happenin' in my mind (Oh, na, na)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_4", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "(Oh, na-na-na) Got me heavy breathin' (No)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "(Oh, na-na-na) Every time we're speakin'", "persona_id": "persona_tatiana"}, {"n": "2", "text": "(Oh, na-na-na) Got me real, real deep in", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Want you so bad, baby, hurt my feelings", "persona_id": "persona_tatiana"}, {"n": "4", "text": "(Oh, na-na-na) Got me messed up dreamin' (Messed up dreamin')", "persona_id": "persona_tatiana"}, {"n": "5", "text": "(Oh, na-na-na) That your girlfriend's leavin' (Girlfriend's leavin')", "persona_id": "persona_tatiana"}, {"n": "6", "text": "(Oh, na-na-na) Got me real, real deep in", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Want you so bad, baby, hurt my feelings", "persona_id": "persona_tatiana"}]}, {"section_id": "section_5", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "No, no", "persona_id": "persona_tatiana"}, {"n": "1", "text": "No, baby, hurt my feelings", "persona_id": "persona_tatiana"}]}, {"section_id": "section_6", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "She wears your number, but I got what you like", "persona_id": "persona_tatiana"}, {"n": "1", "text": "She's got you right now, but I'm still on your mind", "persona_id": "persona_tatiana"}, {"n": "2", "text": "She wears your number, but I got what you like", "persona_id": "persona_tatiana"}, {"n": "3", "text": "She's got you right now, but I'm still on your mind", "persona_id": "persona_tatiana"}]}], "album_id": 963023}
+{
+  "song_id": 9741954,
+  "title": "hurt my feelings",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1256784,
+    1653,
+    1502045,
+    1039827
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "She wears your number, but I got what you like",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "She's got you right now, but I’m still on your mind",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I should've known better",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "You should've known better than me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Nights staying up talking",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Told me everything except where was she",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Now I’ve got you figured out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "I'm tryna tell myself",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "I'm gonna stay away from you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "I should've known better",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "8",
+          "text": "You got a way that's gonna weigh-weigh on me",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Oh, na-na-na) Got me heavy breathin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "(Oh, na-na-na) Every time we're speakin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "(Oh, na-na-na) Got me real, real deep in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Want you so bad, baby, hurt my feelings",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "(Oh, na-na-na) Got me messed up dreamin’",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "(Oh, na-na-na) That your girlfriend’s leavin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "(Oh, na-na-na) Got me real, real deep in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Want you so bad, baby, hurt my feelings",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I wanna do somethin’ I know ain't polite, like",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Show up at your house without callin' (Callin')",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Like doin’ somethin' batshit, and make you fall all in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "She's where you're wakin' up",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "She's got you makin' up such pretty boy excuses",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Ooh, but I know one thing (One thing)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "She can't stop it happenin' in my mind (Oh, na, na)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Oh, na-na-na) Got me heavy breathin' (No)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "(Oh, na-na-na) Every time we're speakin'",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "(Oh, na-na-na) Got me real, real deep in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Want you so bad, baby, hurt my feelings",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "(Oh, na-na-na) Got me messed up dreamin' (Messed up dreamin')",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "(Oh, na-na-na) That your girlfriend's leavin' (Girlfriend's leavin')",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "(Oh, na-na-na) Got me real, real deep in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Want you so bad, baby, hurt my feelings",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "No, no",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "No, baby, hurt my feelings",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "She wears your number, but I got what you like",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "She's got you right now, but I'm still on your mind",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "She wears your number, but I got what you like",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "She's got you right now, but I'm still on your mind",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ],
+  "album_id": 963023
+}

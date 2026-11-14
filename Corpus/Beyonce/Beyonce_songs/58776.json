@@ -1,0 +1,219 @@
+{
+  "song_id": 58776,
+  "title": "I Miss You",
+  "language": "en",
+  "lyricists": [
+    498,
+    1985,
+    27505
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Let the motherfuckin' beat build in this bitch",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "About that",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I thought that things like this get better with time",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But I still need you, why is that?",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You're the only image in my mind",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "So I still see you around",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I miss you, like every day",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Wanna be with you, but you're away",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I said I miss you, missin' you insane",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But if I got with you, could it feel the same?",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The words don't ever seem to come out right",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But I still mean 'em, why is that?",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "It hurts my pride to tell you how I feel",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But I still need to, why is that?",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I miss you, like every day",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Wanna be with you, but you're away",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I said I miss you, missin' you insane",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But if I got with you, could it feel the same?",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It don't matter who you are, it is so simple",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "A feeling, but it's everything",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "No matter who you love, it is so simple",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "A feeling, but it's everything",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I miss you, like every day",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Wanna be with you, but you're away (But you're away)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I said I miss you, missin' you insane",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But if I got with you, could it feel the same?",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It don't matter who you are, it is so simple",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "A feeling, but it's everything",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "No matter who you love, it is so simple",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "A feeling, but it's everything",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 32041
+}

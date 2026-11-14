@@ -1,1 +1,278 @@
-{"song_id": 7606013, "title": "i\u2019m so gone", "language": "en", "lyricists": [1258628, 1201224, 1066228, 1210806], "lyrics": [{"section_id": "section_0", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Go ahead and get wasted", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Wreck your life, I won't say shit", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Don't be calling my name", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "When I'm so gone, I hope that you hate it", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Never left your dad's basement", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "Now you're mad that I made it", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "Don't be calling my name", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "When I'm so gone, I hope that you hate it", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_1", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Call me on the phone again today", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Say that you're lonely", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "I've been moving on, I think it's just too late, uh", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "You promised that the two of us were fate", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Isn't it funny how you said that after pushing me away? Uh", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_2", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "Used to say you needed something new", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Now you're back 'cause I'm good without you", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "After always leaving me confused", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Just cut me off like you said you want to", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_3", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Go ahead and get wasted (Wasted)", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Wreck your life, I won't say shit (Say shit)", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Don't be calling my name", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "When I'm so gone, I hope that you hate it (Hate it)", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Never left your dad's basement (Basement)", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "Now you're mad that I made it (Made it)", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "Don't be calling my name", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "When I'm so gone, I hope that you hate it", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_4", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Don't think you're gonna get a second try", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "When you're out of options", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "All your bitches find out all you do is lie, oh-oh", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Don't you try to tell me we're alright", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "I don't want to talk at all", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "I honestly don't even got the time, oh-oh", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_5", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "Used to say you needed something new", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Now you're back 'cause I'm good without you", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "After always leaving me confused", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Just cut me off like you said you want to", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_6", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Go ahead and get wasted (Wasted)", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Wreck your life, I won't say shit (Shit)", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Don't be calling my name", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "When I'm so gone, I hope that you hate it (Hate it)", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Never left your dad's basement (Basement)", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "Now you're mad that I made it (Made it)", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "Don't be calling my name", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "When I'm so gone, I hope that you hate it", "persona_id": "persona_tate_baseline"}]}], "album_id": 1506509}
+{
+  "song_id": 7606013,
+  "title": "i’m so gone",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1201224,
+    1066228,
+    1210806
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Go ahead and get wasted",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Wreck your life, I won't say shit",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Don't be calling my name",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "When I'm so gone, I hope that you hate it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Never left your dad's basement",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Now you're mad that I made it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Don't be calling my name",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "When I'm so gone, I hope that you hate it",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Call me on the phone again today",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Say that you're lonely",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I've been moving on, I think it's just too late, uh",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You promised that the two of us were fate",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Isn't it funny how you said that after pushing me away? Uh",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Used to say you needed something new",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Now you're back 'cause I'm good without you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "After always leaving me confused",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Just cut me off like you said you want to",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Go ahead and get wasted (Wasted)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Wreck your life, I won't say shit (Say shit)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Don't be calling my name",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "When I'm so gone, I hope that you hate it (Hate it)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Never left your dad's basement (Basement)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Now you're mad that I made it (Made it)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Don't be calling my name",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "When I'm so gone, I hope that you hate it",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Don't think you're gonna get a second try",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "When you're out of options",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "All your bitches find out all you do is lie, oh-oh",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Don't you try to tell me we're alright",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I don't want to talk at all",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I honestly don't even got the time, oh-oh",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Used to say you needed something new",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Now you're back 'cause I'm good without you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "After always leaving me confused",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Just cut me off like you said you want to",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Go ahead and get wasted (Wasted)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Wreck your life, I won't say shit (Shit)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Don't be calling my name",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "When I'm so gone, I hope that you hate it (Hate it)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Never left your dad's basement (Basement)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Now you're mad that I made it (Made it)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Don't be calling my name",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "When I'm so gone, I hope that you hate it",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 1506509
+}

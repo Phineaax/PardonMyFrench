@@ -1,1 +1,271 @@
-{"song_id": 7859474, "title": "you\u2019re so cool", "language": "en", "lyricists": [1258628, 329564, 1453314, 665102, 143754], "lyrics": [{"section_id": "section_0", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "You thought that I would be so hurt", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "And guess I was for maybe a week or so", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "It's kinda crazy what I learned", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Should've listened to your exes when they said, \"Don't\"", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_1", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "You take all your issues", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Blame 'em on everyone else", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "I bet that if you could you'd go on a date with yourself", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Oh, you think that you're so fucking cool (So cool)", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Got a new girl and some new tattoos", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Yeah, way too fucking cool (Too cool)", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "But all your best friends really hate you too", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Every time I hear your name, why's it make me sick?", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "Ooh, it's driving me insane that I'm not over it", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "I can't seem to get away from you (From you)", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "I would say \"Hi\", but you're way too fucking cool", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_3", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Hit me up on my birthday", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "I didn't ask but you told me you're doing well", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Yeah, any way to control me", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Uh, making up feelings you never felt", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_4", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "You take all your issues", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Blame 'em on everyone else", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "I bet that if you could you'd go on a date with yourself", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_5", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Oh, you think that you're so fucking cool (So cool)", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Got a new girl and some new tattoos", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Yeah, way too fucking cool (Too cool)", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "But all your best friends really hate you too", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Every time I hear your name, why's it make me sick?", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "Ooh, it's driving me insane that I'm not over it", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "I can't seem to get away from you (From you)", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "I would say \"Hi\", but you're way too fucking cool", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_6", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "I can't believe you made me think something so good could last", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Stupid me, was so naive to think you'd ever come back", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_7", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Oh, you think that you're so fucking cool (So cool)", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Got a new girl and some new tattoos", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Yeah, way too fucking cool (Too cool)", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "But all your best friends really hate you too", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Every time I hear your name, why's it make me sick? (Why's it make me sick?)", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "Ooh, it's driving me insane that I'm not over it (I'm not over it)", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "I can't seem to get away from you (From you)", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "I would say \"Hi,\" but you're way too fucking cool", "persona_id": "persona_tate_baseline"}]}], "album_id": 1506509}
+{
+  "song_id": 7859474,
+  "title": "you’re so cool",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    329564,
+    1453314,
+    665102,
+    143754
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You thought that I would be so hurt",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "And guess I was for maybe a week or so",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "It's kinda crazy what I learned",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Should've listened to your exes when they said, \"Don't\"",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You take all your issues",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Blame 'em on everyone else",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I bet that if you could you'd go on a date with yourself",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, you think that you're so fucking cool (So cool)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Got a new girl and some new tattoos",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Yeah, way too fucking cool (Too cool)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But all your best friends really hate you too",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Every time I hear your name, why's it make me sick?",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Ooh, it's driving me insane that I'm not over it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I can't seem to get away from you (From you)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "I would say \"Hi\", but you're way too fucking cool",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hit me up on my birthday",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I didn't ask but you told me you're doing well",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Yeah, any way to control me",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Uh, making up feelings you never felt",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You take all your issues",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Blame 'em on everyone else",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I bet that if you could you'd go on a date with yourself",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, you think that you're so fucking cool (So cool)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Got a new girl and some new tattoos",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Yeah, way too fucking cool (Too cool)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But all your best friends really hate you too",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Every time I hear your name, why's it make me sick?",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Ooh, it's driving me insane that I'm not over it",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I can't seem to get away from you (From you)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "I would say \"Hi\", but you're way too fucking cool",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can't believe you made me think something so good could last",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Stupid me, was so naive to think you'd ever come back",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, you think that you're so fucking cool (So cool)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Got a new girl and some new tattoos",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Yeah, way too fucking cool (Too cool)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But all your best friends really hate you too",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Every time I hear your name, why's it make me sick? (Why's it make me sick?)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Ooh, it's driving me insane that I'm not over it (I'm not over it)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I can't seem to get away from you (From you)",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "I would say \"Hi,\" but you're way too fucking cool",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 1506509
+}
