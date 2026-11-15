@@ -58,7 +58,6 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
     else : 
         lyrics_df = optional_df
-
     #Pour les stop words, le langage le plus fréquent est considéré comme le langage global. On transforme le code de langue en nom de langue
     language = langname(lyrics_df["language"].value_counts().index[np.argmax(lyrics_df["language"].value_counts())])
 
@@ -227,10 +226,11 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None):
 
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
                          figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8,
-                         optional_df = []):
+                         optional_df = None):
+    
     distances, chunk_ids = get_aggregated_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, n_sample=n_sample, optional_df=optional_df)
 
-    nrows = math.ceil(len(scorers) / ncols)
+    nrows = math.ceil((len(scorers)+1) / ncols)
     fig, axes = plt.subplots(nrows, ncols,
                              figsize=(figsize_per_plot[0] * ncols, figsize_per_plot[1] * nrows),
                              squeeze=False)
@@ -238,11 +238,14 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
 
     color_map = make_color_map(chunk_ids)  # mêmes couleurs dans tous les sous-graphes
 
-    for ax, scorer in zip(axes, scorers):
-        create_dendrogram(distances[scorer.name], chunk_ids, scorer.description, 
+    scorers_names = [scorer.name for scorer in scorers] + ['non_sem_vec']
+    scorer_description = [scorer.description for scorer in scorers] + ['vecteur des indices non sémantiques']
+
+    for ax, s_n, s_d in zip(axes, scorers_names, scorer_description):
+        create_dendrogram(distances[s_n], chunk_ids, s_d, 
                           ax=ax, color_map=color_map)
 
-    for ax in axes[len(scorers):]:  # on cache les axes en trop
+    for ax in axes[len(scorers)+1:]:  # on cache les axes en trop
         ax.axis("off")
 
     fig.tight_layout()
