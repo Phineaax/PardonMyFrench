@@ -1,0 +1,344 @@
+{
+  "song_id": 14565116,
+  "title": "GGGG",
+  "language": "fr",
+  "lyricists": [],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The following is a- House Angelz presentation",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "100k pour moi, 100k pour lui, j'demande pas des merveilles",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Trop de groupies dans mes pattes, ça va finir par m'énerver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Gario tu veux son swag, sa life et peut-être copier son phrasé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "On montait pas à pas sans faire belek à c'qu'on écrasait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Je peux te montrer comment faire son empire en deux- (M-)",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Je brille comme ça mais de base je voulais fairе de la dubstep",
+          "rhyme": "Ep",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Tu veux pеrcer, tu vas sucer, bravo ça c'est méta",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Comment être modeste quand c'est des fraudes qu'ont bâti la méta ?",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCDEFF",
+      "rhyme_vowel": "ABBACADD"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Hook)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "GG well played",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J't'ais d'vant l'miroir la ge-gor démangeait l'one blade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "B, si j'canne, call pas l'nine-one-one, d'jà",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ça m'tend l'contrat qui stipule de r'faire le one man one jar",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Hey, GG well played",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J't'ais d'vant l'miroir la ge-gor démangeait l'one blade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Gario belle garce",
+          "rhyme": "aRs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Fuck les play-backs",
+          "rhyme": "ak",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'fais des messes basses quand les connards du label passent",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEBCFGH",
+      "rhyme_vowel": "ABCCCBCCCC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Verse)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "9-6-4 face à la machine ça baise le moteur dès qu'on démarre",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Loin d'l'époque où SoundCloud c'était des school shooters et des trimars",
+          "rhyme": "aRs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Quinze ans c'est trop tôt j'aurais pu mâcher mes paras comme des Kréma",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Poker face quand c'boug a fell off j'avais les yeux c'était des trémas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On n'avait rien prévu, on a jamais fait de backup",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Dollar, euro, yen j'adore dépenser c'qu'on a pile up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Personne va les couronner, pourquoi ils m'parlent de cojones ?",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Même dans leur ville de merde y a d'ces bâtards qui nous reco- N-",
+          "rhyme": "n",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "On m'éduque pas moi si j'fais 100K moi j'm'achète du PCP",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Pas d'mesure B on baise ton média rap comme la BBC",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "T'sais même pas DL FL tu penses signer chez ADA",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "On a made it, y a d'jà d'ces bâtards qui copient la DA",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'imprime allongée B si on s'lève",
+          "rhyme": "Ev",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "C'est pas l'4ème art, c'est l'11ème",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Va faire tes tals et prends tes xans frère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "La fin d'la partie signée double G l'unique e-",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDDEFGHEIDDJKLM",
+      "rhyme_vowel": "ABBBBCDEFCGBBHHHI"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Hook)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "GG well played",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J't'ais d'vant l'miroir la ge-gor démangeait l'one blade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "B, si j'canne, call pas l'nine-one-one, d'jà",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ça m'tend l'contrat qui stipule de r'faire le one man one jar",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Hey, GG well played",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J't'ais d'vant l'miroir la ge-gor démangeait l'one blade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Gario belle garce",
+          "rhyme": "aRs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Fuck les play-backs",
+          "rhyme": "ak",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'fais des messes basses quand les connards du label passent",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEBCFGH",
+      "rhyme_vowel": "ABCCCBCCCC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Behhh, j'fais que d'cracher dans l'micro, [?], il est plein d'rouge à lèvres, il dégoûte sa mère. Ma foi, MNG, une fois, MNG, deux fois, MNG, trois fois, allez tous vous faire enculer, c'est parti. (-G)",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ]
+}

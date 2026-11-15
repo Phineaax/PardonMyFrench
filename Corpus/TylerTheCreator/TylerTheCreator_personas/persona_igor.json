@@ -1,0 +1,13 @@
+{
+  "persona_id": "persona_igor",
+  "persona_name": "IGOR",
+  "artist_id": "685",
+  "period": {
+    "start": "2019",
+    "end": "2019"
+  },
+  "anchored_releases": [
+    "526062"
+  ],
+  "is_baseline": false
+}

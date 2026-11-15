@@ -1,0 +1,455 @@
+{
+  "song_id": 31434,
+  "title": "G.M.C.",
+  "language": "en",
+  "lyricists": [
+    70,
+    45941
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "\"I found Viktor Vaughn the next morning, nearly frozen to death\"",
+          "rhyme": "at",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Party people know the name",
+          "rhyme": "am",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Vik with a \"K\", it fits all the same",
+          "rhyme": "am",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "If it ain't don't bother",
+          "rhyme": "ER",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Told the little monster, \"No I ain't your father",
+          "rhyme": "ER",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "It's Uncle Viktor, shut the lights—I'm gettin' dizzy",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "And close the door—can't you see your momma busy?\"",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "What a scoundrel",
+          "rhyme": "El",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Gassed up the town fool to go rob the crown jewel",
+          "rhyme": "El",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "He's like a lego megalomaniac",
+          "rhyme": "ak",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "Who's into electronic and techno, a real brainiac",
+          "rhyme": "ak",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "Smack-dab in the hip-hop gold rush",
+          "rhyme": "9S",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "V, rather the old stuff, preferably the Cold Crush",
+          "rhyme": "9S",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "It gets deeper than Deepak Chopra",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Except he keep a stack and some cheap-ass vodka",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "Kneecap popper, only when he miss the chewy center",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "At least he always hits who he meant ta",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "Remember he got a short fuse and bad temper",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "17",
+          "text": "And a plan to claim emperor by December",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "18",
+          "text": "Member of the most player-hated race",
+          "rhyme": "as",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "19",
+          "text": "Who made this invaded place and stated with a straight face",
+          "rhyme": "as",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "20",
+          "text": "\"If I cut her off I might miss her",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "21",
+          "text": "But one of these days—right in the kisser!\"",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "22",
+          "text": "She probably get mad at me",
+          "rhyme": "@",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "23",
+          "text": "I bet ya it gets her nowhere like flattery",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "24",
+          "text": "She said, \"Where were you last Saturday?",
+          "rhyme": "E",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "25",
+          "text": "And don't lie—we got your fingerprints off the battery",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "26",
+          "text": "Don't make me have to bling you",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "27",
+          "text": "Or see you in the street and double team you with the emu\"",
+          "rhyme": "y",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "28",
+          "text": "He told her, \"When the gem paper tear off",
+          "rhyme": "Of",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "29",
+          "text": "It'll probably tear her ear off before y'all even square off\"",
+          "rhyme": "Of",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "30",
+          "text": "No good good-for-nothin'",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "31",
+          "text": "Kill her high for no frill like 'Good Will Huntin'",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "32",
+          "text": "He feels out of place like Bizarro",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "33",
+          "text": "Feisty chick, comes all out her face like Charo",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "34",
+          "text": "It's Vaughn, he's back on",
+          "rhyme": "$",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "35",
+          "text": "And you know he don't care like Jimmy Crack Corn",
+          "rhyme": "ORn",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "36",
+          "text": "Wax off, wax on",
+          "rhyme": "$",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "37",
+          "text": "Tried to raise taxes on cracks and black porn",
+          "rhyme": "ORn",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "38",
+          "text": "Another year passes",
+          "rhyme": "as",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "39",
+          "text": "Gone are the days when he used to wear glasses",
+          "rhyme": "as",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "40",
+          "text": "Now he wear contacts",
+          "rhyme": "akt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "41",
+          "text": "Unfrozen caveman look over the contracts",
+          "rhyme": "akt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "42",
+          "text": "These crews is too soft",
+          "rhyme": "Oft",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "43",
+          "text": "He came to tear the roof off to get paid to goof off",
+          "rhyme": "Of",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "44",
+          "text": "They don't really wanna battle",
+          "rhyme": "abl",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "45",
+          "text": "All they gon' do is get mad and go tattle",
+          "rhyme": "abl",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "46",
+          "text": "Tell 'em the retard said it",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "47",
+          "text": "He ripped up the WE CARD sign and jetted",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "48",
+          "text": "You gotta give his three card credit",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "49",
+          "text": "Even though at times he can be hard-headed",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "50",
+          "text": "Yeah, the main theme",
+          "rhyme": "izm",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "51",
+          "text": "Cream by all means, and harebrained schemes",
+          "rhyme": "am",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "52",
+          "text": "The lord's performance was flawless",
+          "rhyme": "Es",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "53",
+          "text": "He rocked with a crown and a Bobby Brown cordless",
+          "rhyme": "Es",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "54",
+          "text": "The broad he was with was gorgeous",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "55",
+          "text": "The only flaw he saw was she cause a nigga more stress",
+          "rhyme": "Es",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "56",
+          "text": "Not tryin' to diss her",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "57",
+          "text": "But I used to know this sister that could put a whole fist in her",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "58",
+          "text": "Hell, I made it, Momma",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "59",
+          "text": "Grammy for the world's most celebrated rhymer",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "60",
+          "text": "Dead the drama, scama",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "61",
+          "text": "Four Gs of pizzy from Bahama",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "62",
+          "text": "V, the lead brown man",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "63",
+          "text": "And never count your chickens before you read SoundScan",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "64",
+          "text": "What about Mom and Pops?",
+          "rhyme": "Op",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "65",
+          "text": "They might as well cooperate and wait til the bomb drop",
+          "rhyme": "Op",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "66",
+          "text": "Get more cabbage",
+          "rhyme": "aZ",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "67",
+          "text": "Often time he wonder how they get so savage",
+          "rhyme": "aZ",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "68",
+          "text": "V—not your average",
+          "rhyme": "aZ",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "69",
+          "text": "Often time he wonder how they got so savage",
+          "rhyme": "aZ",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AABBCCDDEEFFGGHGHHIIHHJCKCLMNNOPQQRSRSIITTUNVVWHCHXAYYLYHHGHGGZZ[[\\\\\\\\",
+      "rhyme_vowel": "AABBCCBBAADDAAEAEEAAEEFCBCGHIICJKKLILIAAAAIIAACECECABBGBEEAEAAMMIIAAAA"
+    }
+  ]
+}

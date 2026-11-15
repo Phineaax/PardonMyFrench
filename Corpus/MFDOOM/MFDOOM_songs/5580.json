@@ -1,0 +1,476 @@
+{
+  "song_id": 5580,
+  "title": "Go With the Flow",
+  "language": "en",
+  "lyricists": [
+    70,
+    1602792
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Enough is enough",
+          "rhyme": "O",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Yeah, yeah, here we go, just go with the flow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Enough is enough",
+          "rhyme": "O",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Yeah, here we go, just go with the flow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Yeah, yeah, yeah, yeah, ho",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Yeah, here we go, just go with the flow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Just go with the flow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Ayo, I'd like to test this microphone 'fore I start right quick",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Yeah, here we go, just go with the flow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Microphone check two-two, one-two, one-two",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABABBBBCBB",
+      "rhyme_vowel": "ABABBBBCBB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Big up all the Monsta Island massive",
+          "rhyme": "iv",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "And beware before I triple dare you like the last kid",
+          "rhyme": "id",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Who asked me what we don't got that you got, son",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "For one flow that's elementary, my dear Watson",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Secondly, ever since I was little",
+          "rhyme": "abl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Not so much to riddle, least rhyme to the syllable",
+          "rhyme": "abl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Keep tracks that make a Arab thief clap",
+          "rhyme": "ap",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "With no hands, I chopped these drums off Truly Yours, G. Rap",
+          "rhyme": "ap",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Actual fact, relax",
+          "rhyme": "aks",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "In this land of lyrical loss, black, I'm not the cool Sleestak",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "The one who might stop and talk to you",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Poison to few, niggas who be biting styles, I'm like pork too",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Ooh, what you got to lose? Let mud fly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "When I got blues, I chew whole crews that's Bud Dry",
+          "rhyme": "aj",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "So why ask why the styes from the cess",
+          "rhyme": "Es",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Shit be fucking with my eye as I pull it to the chest",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "The Super motherfucking Villain grip the mic with an iron hand",
+          "rhyme": "#d",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Throwing MCs to the fire from out the frying pan",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "It ain't no use in trying, man—son, stop crying",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "Fronting like you death-defying, need to stop lying",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Speak your piece, only once you're spoken to first",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Now let me hear your verse while I'm choking you",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "With well refined rhymes like a editor",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Throw them to my collections of skulls and spines like Predator",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "Fuck around, the only niggas who could hear the same sound",
+          "rhyme": "awnd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "(Who?) Was Jet Jaguar and James Brown",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "(Yeah, yeah, only them two niggas?)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "And I'm glad I took the time to write their names down to big 'em up (True, true)",
+          "rhyme": "9p",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "I'd like to say, \"Hi, it's Sci.Fly, the odd Merlin\"",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "That's quick to whip up a script like Rod Serling",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "Who eye on bad bitch who used to whip the Sterling",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "Who see God tore but never see God hurlin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "My man Grimm had his little monkey like Space Ghost",
+          "rhyme": "Ost",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "Me myself, I got flavors that out-taste most",
+          "rhyme": "Ost",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "With numb gums, some rhymers is lactose",
+          "rhyme": "oz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "Back to you MF DOOM, you late show host (What?)",
+          "rhyme": "Ost",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "S to the U to the P-E-R-uh",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Who chronicle these times in a 3D horror (Horror)",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "Thriller porno co-starrer in a realer drama",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "Who break bread with stingy kin-men, Indian borrower",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "Lone gunman who candidly flip fly flows",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "Single-handedly with one eye closed",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "In a fly pose, no shirt Alayé",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "43",
+          "text": "May see me stack the quarter-mill cash pay",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "44",
+          "text": "That's that inner smash way how he did it (Yeah, yeah, yeah)",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "45",
+          "text": "Motherfuckers probably couldn't peep it past a minute, it's the–",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "46",
+          "text": "Exquisite scripts, that quick shit, go with the flow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "47",
+          "text": "That's how we do it though",
+          "rhyme": "O",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCCDDEEFGHIJKLMNOPPMHQQRSTUVPPVWWXWHQYZI[[\\]^I_",
+      "rhyme_vowel": "AABBCCCCCCDEACFFGGAAFDHHCCIJKAAKHHEHDHCJELLFACEH"
+    },
+    {
+      "section_id": "section_2",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, yo, I'd like to give a special shout-out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Raamers and L. Rockwell",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Since depths of Hell, Pure Mathematics",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Fold 'em stacks like crack-matics",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Supreme Justice, Supreme Love Allah, Prince Love Allah",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Zamir Master Sword",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "[?], Lord Dihoo",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Peace",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Ayo yo, yeah yo, it's MF",
+          "rhyme": "umf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "VS, shout out [?] MF Grimm, The Majician",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "God U Now",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Sin, GM, Kong",
+          "rhyme": "$g",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "The whole Monsta Island City strong",
+          "rhyme": "$g",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Metal Face DOOM",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Your Concurrence In The Above Is Assumed",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCCDEFGHIFJJKL",
+      "rhyme_vowel": "ABCCADEAFGEHHFI"
+    }
+  ]
+}

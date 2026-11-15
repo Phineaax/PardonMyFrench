@@ -1,0 +1,352 @@
+{
+  "song_id": 13945495,
+  "title": "ALIEN SORAL",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ne prends pas pour acquis mes acquis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Si tu pars on rend la mise à qui ?",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le manque de cash me f'sait la misère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG d'sous la bâche à l'Isère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Souvent du mal à m'canaliser",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "C'est tes reufs dans la banalisée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "C'est la contre-culture fils de'p'",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "C'est pas Soral, le gwer",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCCDE",
+      "rhyme_vowel": "AABBCCDE"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Le groupie vient m'voir, il est stressé comme s'il passe à l'oral",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'dois l'faire jusqu'à Bora Bora",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La Scarlett craque à chaque fois qu'j'aboie",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'mange un poseur, je laisse les abats",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "L'opportuniste te d'mande si ça va",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Tard-bâ qui voulait m'mettre à tabac",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Les copieurs copient même les bars où j'dis qu'ils copient",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'me sers j'prends seulement deux couverts dans le repas copieux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "B ça part, j'tais à découvert, j'té-ma ta copie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Tu m'as vue co', vert, j't'ai pas parlé, j'parle à Bobby",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "C'est pas qu'la douleur c'est mon printer dans le cro-mi",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Dans cette life j'ai tenu si peu d'choses que j'ai promis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "J'voulais sortir du jeu, au final j'ai fini premier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "On va diss' certaines de ses files depuis le grenier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "M'faire étrangler sale bâtard c'est ça qui m'fait mouiller",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Me faire du mal j'ai fait ma hoe damn",
+          "rhyme": "yt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "J'me suis vue monter vers le highdesk",
+          "rhyme": "Esk",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Sim pour deux cents K j't'en prie rhabille toi",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Tu veux m'serrer, B vas-y all in",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "On les baise, on va pas t'faire un exposé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Si l'cash prize pue la merde on va l'exploser",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Les concerts c'est comme la Japan Expo si",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Y a des groomeurs et des p'tits qui veulent des tofs",
+          "rhyme": "Of",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "On était à l'avant, pourquoi tu t'étonnes ?",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "On fait les plans du jeu sur l'quel tu tâtonnes",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "MNG on mange ton chat ton chien et ton daron",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "Le poseur s'est coupé les deux couilles sur les tarots",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "Depuis ti-peu les darons s'demandent qu'est c'qui tourne pas rond",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "J'ai passé la s'maine à cons' la dose du Poitou-Charentes",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "On s'échape de la matrice une fois bien paro",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "30",
+          "text": "Une fois que y’a des tales en jeu ça d'vient le loup garou",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBBBCDCCCCEEEFGBHEECIJJKLKMLN",
+      "rhyme_vowel": "AAAAAABCBBBBDDDEFABDDBGGGHIHJIK"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Donc prends pas pour acquis mes acquis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Si tu pars on rend la mise à qui ?",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le manque de cash me f'sait la misère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG d'sous la bâche à l'Isère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Souvent du mal à m'canaliser",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "C'est tes reufs dans la banalisée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "C'est la contre-culture fils de'p'",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "C'est pas Soral, le gwer",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCCDE",
+      "rhyme_vowel": "AABBCCDE"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'allais pas traîner 'vec ces gars juste pour m'droguer dans leur gova",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tu tends l'contrat j'suis déçue, j'm'attendais à au moins six-sept ovales",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La prochaine fois tu rajoutes ton trou d'balle béant à la propal'",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "La prochaine fois tu rajoutes ta baraque, ta gov' à la propral'",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBB",
+      "rhyme_vowel": "AAAA"
+    }
+  ]
+}

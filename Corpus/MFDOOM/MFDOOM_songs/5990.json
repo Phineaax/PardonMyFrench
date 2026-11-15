@@ -1,0 +1,312 @@
+{
+  "song_id": 5990,
+  "title": "Vomitspit",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Hahahahaha)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's the beat (DOOM), he hear it in his sleep sometimes",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Blare it in your jeep so your peoples can stare at them rhymes",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Real rhymes not your everyday hologram",
+          "rhyme": "am",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Even when ribs was touchin', never swallowed the ham",
+          "rhyme": "am",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "He'd rather eat a sand sandwich salad",
+          "rhyme": "ad",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "It might need salt like your man's bland ballad",
+          "rhyme": "ad",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "A lot of stuff happens that the news won't tell yous",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Blues on L juice, snooze, all hell loose",
+          "rhyme": "uz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Rake it, take it like the Good, the Bad, the Ugly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Break it, rollin' through your hood in the caddy buggy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Butter softy, leather flossy, fatty juggy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Always threw me off when she told me, \"Daddy, funk me\"",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "I'm like, \"Anywhos\"",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Seeds walkin' all out in the street without any shoes",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "I guess it's better than some funky socks",
+          "rhyme": "Ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "You need to get her some skips before she catch the monkeypox (Hahahahaha)",
+          "rhyme": "Oks",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "Instead she wanna hear the beatbox",
+          "rhyme": "Oks",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Take pills and make fake krills as sheetrock",
+          "rhyme": "Ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Sing it, bring it back to your laboratory",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "While he's in his oratory, glory, it's like a horror story",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "The mask is like Jason",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "They told the place not to let the basket type case in",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "He could be some kind of wacko",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Waitin' for the chance to heat the pipes like a crack ho",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "He busted in, blessed be the Lord",
+          "rhyme": "ORd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Who believe any mess they read up on a message board",
+          "rhyme": "ORd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "If so, I got bridges for the low-low",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "Same bitch a-go dry snitchin' to the popo",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "Here, orange peel stogs for the whole tier",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "Feel like I've been gone over a year, came home to old gear",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "It was the shit when I first scooped it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "At least I get to sit out in New York and curse stupid",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "Plead the fifth, sip wine stiffly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "Patiently come up and be spiffy in a jiffy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "Gift for the grind, criminal mind shifty",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "Swift with the 9 through a 59FIFTY",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "Well edumacated, he heard it when he meditated in deep theta",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Let her hate, the creep played her",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "Dedicated cheapskater who keeps data",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "Say he stay self-medicated to sleep later",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "Side effects is similar to sugar pill",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "Whoever go next on the mic he put a booger, ew",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "And made his exit on some calm shit",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "43",
+          "text": "Begged him on the regular for kegs of more vomitspit",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "44",
+          "text": "(\"DOOM!\")",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABBCCDEFFFGHIJKKJFFLMHHNNHHOPQRFFFFROROSDQFT",
+      "rhyme_vowel": "AABBBBCCAAADEAFFFFAAGAEEFFEEHIABAAAABHBHACAAJ"
+    },
+    {
+      "section_id": "section_2",
+      "type": "instrumental",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    }
+  ]
+}

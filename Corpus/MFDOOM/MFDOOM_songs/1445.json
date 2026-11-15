@@ -1,0 +1,356 @@
+{
+  "song_id": 1445,
+  "title": "A Dead Mouse",
+  "language": "en",
+  "lyricists": [
+    70,
+    45850
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "\"Even then I had the uneasy feeling it wasn't young Viktor Vaughn who would need my protection\"",
+          "rhyme": "$",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Motherfuckers, that's why I ain't playin' with their ass, that's what's gon' happen to them niggas",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Motherfuckers done fucked up, man",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Ain't it some shit like that?",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCB",
+      "rhyme_vowel": "ABCB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yo, I'm only rhyming where the drums is at",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Y'all niggas think y'all slick with that bullshit—bump that",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Y'all pay V for flowing to the beat",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Not for what he know that got hoes hoeing in the streets",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "That's for him to know and for they to never find out",
+          "rhyme": "awt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "About the kidnap, blindfold and the blind mouse",
+          "rhyme": "uz",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "The coroner report say he simply signed out",
+          "rhyme": "awt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Oh, and I know, y'all wanna see a wino? Bring the wine out",
+          "rhyme": "awt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "Cat with a dead mouse is how he catch a phrase, and pause plays with it",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "Kill it, and eat off it for days, get it",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "Whoever ain't get it ain't supposed to",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "For standing still close to, bandits will ghost you",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "No shoot, Sherlock, I don't know how they do on your block",
+          "rhyme": "Ok",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Out here we rock on to the sure shot",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "Shit still ain't stop, keep it on 'til your peeps is gone",
+          "rhyme": "on",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "V be on the creep, no matter what you keep it on",
+          "rhyme": "$",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "CD, debahh—oh—",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AABBCDCCBBEFGEHIE",
+      "rhyme_vowel": "AABBACAABBDCEDDFD"
+    },
+    {
+      "section_id": "section_2",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Aw—Y'all motherfuckers",
+          "rhyme": "9R",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Playin'",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Motherfu—",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "V, he catch the beat too ridiculously",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "People think he study levitation's true mystery",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Had a pal named Ed Leedskalnin until he got him for his Sweet Sixteen",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "He said Ed be Wilin'",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "Rumor has it things got violent",
+          "rhyme": "Ol",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "He clobbered him and broke the fuck out, but he ain't try to rob him",
+          "rhyme": "im",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "I told her don't tell your man, that's the trouble with these chicks",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Next experiment: Twelve strands from double helix",
+          "rhyme": "iks",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "No I haven't seen Kes, Neelix",
+          "rhyme": "iks",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "\"Oh, yeah? Just you stay away from her with those lyrics.\"",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "Please—ain't nobody fuckin' after her",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "I'm out of here as soon as I fix the flux capacitor",
+          "rhyme": "OR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "And oh, and speak to V in a proper manner",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Before he stabs you and put out all types of propaganda",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "Stop the slander, chop the hand of a thief",
+          "rhyme": "Ef",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "And cut the mouth off of whoever come out their teeth",
+          "rhyme": "Et",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "V sell time to an inmate",
+          "rhyme": "at",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "17",
+          "text": "And then tell him a rhyme for the hell of it to demonstrate",
+          "rhyme": "at",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "18",
+          "text": "They know who's the renown beat critic",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "19",
+          "text": "And do a street lyric like, \"That's a neat trick!\"",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "20",
+          "text": "Off on a tangent, they ain't got a cent",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "21",
+          "text": "Supposed to went to management, and spent it getting bent",
+          "rhyme": "yRb",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "22",
+          "text": "Sparky, I had enough of your malarkey",
+          "rhyme": "E",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "23",
+          "text": "For one, don't mark me and who you calling Darkie?",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AABCDEFGGFHIHJKLMMFFNOPA",
+      "rhyme_vowel": "AAABCAAAAADCDEFFEEAAGHFA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I had to take the nigga car key!",
+          "rhyme": "E",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Go!",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    }
+  ]
+}

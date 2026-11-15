@@ -1,0 +1,346 @@
+{
+  "song_id": 31363,
+  "title": "Dead Bent",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Goddamn it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Super-motherfucking-villain, goddamn it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "About to get these millions, stack this shit",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Yo, his dip tried to tell him",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "\"Ooh, you're like the sun, chasing all of the rain away",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "When you come around, you bring brighter days\"",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "She told him, \"You're the perfect one",
+          "rhyme": "On",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "For me and you forever will be\" (Microphone check, one, two, one two, one, two)",
+          "rhyme": "ab",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "He told her, \"I will rock this microphone always\"",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AAABCDEFG",
+      "rhyme_vowel": "AAAABACDE"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I hold the mic like niggas hold their girls tight",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "But I ain't after her, probably your Acura, pearl white",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "The hooker? Nah, as many times as I done hit it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "To be specific, more times than dimes in a briznick",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "When you broke north, I crashed the barbecue like Riddick",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "At the Garden, true",
+          "rhyme": "y",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "That's the god in me, pardon you",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Jeepers",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "I was tore back, the ho gained access to my beeper",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Called back my secretary gatekeeper",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Like I ain't peep her, I said, \"Darling, you was stupid though",
+          "rhyme": "O",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "You know the supervillain (He is a super), ho\"",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "I had this style ever since I was a child",
+          "rhyme": "Old",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "I got this other style I ain't flip in a while",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "It goes, pure scientific intelligence",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "With one point of relevance",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "MCs whose styles need Velamints",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "And once the smoke clear, tell 'em it's",
+          "rhyme": "ins",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "The super-motherfucking-villain, nigga came through raw like the elements",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "All ninety-nine, plus one of them",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "And with a flow to pull a fraud nigga file from out in front of him",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "When we with y'all, we had tons of fun",
+          "rhyme": "yn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Me and my duns and them",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Actual true and living sons of them",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "Dead planets and god-U's",
+          "rhyme": "ins",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Throwing divine rules to come through, we will over charge you's",
+          "rhyme": "ins",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "Ooh, and won't feel remorse for shit",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "Except for one time, once I had took my fronts out and lost them shits (Damn)",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "Scientific, going berserk like Red Alert",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "I really went to pick up wiznork for cheddar dirt",
+          "rhyme": "9Rt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "To fund these experiments is where I went",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "Obviously dead bent and spent every red cent",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "To rule you and still drop more jewels than schools do",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "Or even TV news that's designed to fool you (Who?)",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "Yeah, you, who hear the most grimy suggestions",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "From brothers with fly names and ID questions",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "That's a secret like Victoria teddy sets that's edible",
+          "rhyme": "ibl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Duns not ready yet for the incredible",
+          "rhyme": "ibl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "Team of MCs who broke all fakes who thought they were slaughter-proof",
+          "rhyme": "uf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "Stomping through like North Face waterproof",
+          "rhyme": "uf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "Tat-tat, that's the end of that",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "After, hit the bar where baby girl bartender at",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "I told her, \"More wine,\" mingling with no single mentions of",
+          "rhyme": "Of",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "43",
+          "text": "Stay tuned for more spine tingling adventures of—",
+          "rhyme": "Of",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABBCCDEFFFGHIJKKLMNOPQOOMMBBRSNNHETTUUVVWWXX",
+      "rhyme_vowel": "ABBBBCDEEEFGFBHHIBHJBCJJBBBBJEHHGDKKBBDDAAFF"
+    }
+  ]
+}

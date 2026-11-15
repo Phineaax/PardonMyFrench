@@ -1,1 +1,315 @@
-{"song_id": 11354994, "title": "Greenlight", "language": "en", "lyricists": [1258628, 1039827], "lyrics": [{"section_id": "section_0", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Two chains", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Hangin' off your chest when you kiss me", "persona_id": "persona_tatiana"}, {"n": "2", "text": "So strange", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Who'd've thought we'd get here with our history?", "persona_id": "persona_tatiana"}]}, {"section_id": "section_1", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "You know, I tried to be what he thought I was, I wasn't", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I tried to be everythin' I thought he wanted", "persona_id": "persona_tatiana"}, {"n": "2", "text": "And truthfully, I'm so over but stuck on it", "persona_id": "persona_tatiana"}, {"n": "3", "text": "And if I'm honest", "persona_id": "persona_tatiana"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I'm still waitin' at the green light", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I'd tell you what I feel like, but I can't go", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I'm still tryna make a beeline", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Stuck up in a rewrite of the same song", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Band-Aids and bullet holes don't go", "persona_id": "persona_tatiana"}, {"n": "5", "text": "I can't unhear shit I've been told", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Guess I never healed right", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Maybe it's a green light, but I can't go", "persona_id": "persona_tatiana"}]}, {"section_id": "section_3", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Midnight", "persona_id": "persona_tatiana"}, {"n": "1", "text": "120 on the PCH, just you and me", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Babe, you know I can't lie", "persona_id": "persona_tatiana"}, {"n": "3", "text": "The most alive I think I'll maybe ever be, oh", "persona_id": "persona_tatiana"}]}, {"section_id": "section_4", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "You know, I tried to be what he thought I was, I wasn't", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I tried to be everythin' I thought he wanted", "persona_id": "persona_tatiana"}, {"n": "2", "text": "And truthfully, I'm so over but stuck on it", "persona_id": "persona_tatiana"}, {"n": "3", "text": "And if I'm honest", "persona_id": "persona_tatiana"}]}, {"section_id": "section_5", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I'm still waitin' at the green light", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I'd tell you what I feel like, but I can't go", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I'm still tryna make a beeline", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Stuck up in a rewrite of the same song", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Band-Aids and bullet holes don't go", "persona_id": "persona_tatiana"}, {"n": "5", "text": "I can't unhear shit I've been told", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Guess I never healed right", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Maybe it's a green light, but I can't go", "persona_id": "persona_tatiana"}]}, {"section_id": "section_6", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "(I can't go) I can't let go", "persona_id": "persona_tatiana"}, {"n": "1", "text": "(I can't go) I can't let go", "persona_id": "persona_tatiana"}, {"n": "2", "text": "(I can't go) I can't let go", "persona_id": "persona_tatiana"}, {"n": "3", "text": "(I can't go)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_7", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I'm still waitin' at the green light", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I'd tell you what I feel like, but I can't go", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I'm still tryna make a beeline", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Stuck up in a rewrite of the same song", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Band-Aids and bullet holes don't go", "persona_id": "persona_tatiana"}, {"n": "5", "text": "I can't unhear shit I've been told", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Guess I never healed right", "persona_id": "persona_tatiana"}, {"n": "7", "text": "Maybe it's a green light, but I can't go", "persona_id": "persona_tatiana"}]}, {"section_id": "section_8", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "(Maybe it's a green light) Oh", "persona_id": "persona_tatiana"}, {"n": "1", "text": "(Green light, green) Light", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Maybe it's a green light (Oh)", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Green light, green light (I can't go)", "persona_id": "persona_tatiana"}]}], "album_id": 1336336}
+{
+  "song_id": 11354994,
+  "title": "Greenlight",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1039827
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Two chains",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Hangin' off your chest when you kiss me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "So strange",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Who'd've thought we'd get here with our history?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You know, I tried to be what he thought I was, I wasn't",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I tried to be everythin' I thought he wanted",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "And truthfully, I'm so over but stuck on it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And if I'm honest",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm still waitin' at the green light",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I'd tell you what I feel like, but I can't go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I'm still tryna make a beeline",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Stuck up in a rewrite of the same song",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Band-Aids and bullet holes don't go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "I can't unhear shit I've been told",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Guess I never healed right",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Maybe it's a green light, but I can't go",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Midnight",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "120 on the PCH, just you and me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Babe, you know I can't lie",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "The most alive I think I'll maybe ever be, oh",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You know, I tried to be what he thought I was, I wasn't",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I tried to be everythin' I thought he wanted",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "And truthfully, I'm so over but stuck on it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And if I'm honest",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm still waitin' at the green light",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I'd tell you what I feel like, but I can't go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I'm still tryna make a beeline",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Stuck up in a rewrite of the same song",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Band-Aids and bullet holes don't go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "I can't unhear shit I've been told",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Guess I never healed right",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Maybe it's a green light, but I can't go",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(I can't go) I can't let go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "(I can't go) I can't let go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "(I can't go) I can't let go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "(I can't go)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm still waitin' at the green light",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I'd tell you what I feel like, but I can't go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I'm still tryna make a beeline",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Stuck up in a rewrite of the same song",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Band-Aids and bullet holes don't go",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "I can't unhear shit I've been told",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Guess I never healed right",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "Maybe it's a green light, but I can't go",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Maybe it's a green light) Oh",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "(Green light, green) Light",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Maybe it's a green light (Oh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Green light, green light (I can't go)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ],
+  "album_id": 1336336
+}

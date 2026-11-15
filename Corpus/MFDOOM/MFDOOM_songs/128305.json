@@ -1,0 +1,298 @@
+{
+  "song_id": 128305,
+  "title": "It Ain’t Nuttin’",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(He's a shady character, what's his name?)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Oh wait now, got his card here",
+          "rhyme": "eR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Yea I got it in my pocket, now, let me see",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Oh yes, here it is",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "(DOOM... I see)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "MF DOOM: It ain't nuttin' like, Hip Hop music",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDAE",
+      "rhyme_vowel": "ABCDAC"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It ain't nuttin' like a fist full of cash or a bliss full of the hash",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "That twist like a mustache, from end to end, spread it like a rash",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "From talkin' through your Walkman or at your disco bash",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Give me the Timbs Rumpelstiltskin brown",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "A metal face mask with a built in frown",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "A mic to tilt down, a hundred thousand pounds",
+          "rhyme": "wndz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "And see how kilt sound like spilt milk clown",
+          "rhyme": "un",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Cocoa butter on very ashy day, fam",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "With Ray-Bans out on the islands of Cayman",
+          "rhyme": "an",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Or I'll break it down for the layman",
+          "rhyme": "an",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Bain De Soleil for the Saint-Tropez... tannnn",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "A can a old gold, too cold to hold, slow your roll",
+          "rhyme": "Ol",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Keep on movin' like Soul II Soul",
+          "rhyme": "ul",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Hold the dough like a fool who stole pity y'all",
+          "rhyme": "ol",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "From tryna go up against city hall titty bar",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "The black mic is like a red violin",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "Okay, everybody back to the lab, try again",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Bloody rap game like Leviathan",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Leave a bad taste, killin' my high like Niacin",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "Stop kiddin' middlemen need Ritalin",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Hit me with the full tin of gin and I'm a kid again",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Keep the bong lightin' straight through the song writin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "The Supervillain AKA the thong bitin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Is invitin' all to the recitin' that's dope and raw",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "Hopin' all y'all come in peace and it's open bar",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Tear the roof off this Bumba Ras Clot",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "By the end of the night, spazz like Shazbot",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "I spilt a shot, made the pen lines runny",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "An ill plot that's ten times Ben Stein’s money",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "Funny how he rip scripts with a straight face",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "With more rhymes than is lines in your database",
+          "rhyme": "az",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "Placin' rappers in endangerment, who's reckless",
+          "rhyme": "Es",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "With this food for thought sort of like breakfast",
+          "rhyme": "9st",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "You could mark it off as wreck on the checklist",
+          "rhyme": "ist",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "Wear gold fronts, can't afford no necklace",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "Shit, that ten could go to help buildin' daycares",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "Somebody say yeah (yeah!)",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Pay your fares, give the Herbalisers their shares",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "And y'all could pay DOOM in beers, cheers!",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AAABBCDEFFGHIJKLLMLLLLLNKNNOPQRSTUQKPKV",
+      "rhyme_vowel": "AAAAABCDAADECFAGGHGGGGGFAFFDIAAIJDAAIAK"
+    }
+  ]
+}

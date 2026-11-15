@@ -1,1 +1,208 @@
-{"song_id": 75936, "title": "Satellites", "language": "en", "lyricists": [498, 124851, 35027, 124850], "lyrics": [{"section_id": "section_0", "type": "intro", "performer": "", "lines": [{"n": "0", "text": "Satellites", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "Flashin' by", "persona_id": "persona_beyonce_baseline"}]}, {"section_id": "section_1", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "It's a beautiful state we're in", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "But how can we love in isolation?", "persona_id": "persona_beyonce_baseline"}, {"n": "2", "text": "Think how happy we can be when we just try", "persona_id": "persona_beyonce_baseline"}, {"n": "3", "text": "We're nothing like we seem", "persona_id": "persona_beyonce_baseline"}, {"n": "4", "text": "Passionate words are never spoken", "persona_id": "persona_beyonce_baseline"}, {"n": "5", "text": "You don't know how I bleed when I leave your side", "persona_id": "persona_beyonce_baseline"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "In your eyes, love's alive", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "You've come untied", "persona_id": "persona_beyonce_baseline"}, {"n": "2", "text": "'Cause we're flashin' by", "persona_id": "persona_beyonce_baseline"}, {"n": "3", "text": "Like satellites", "persona_id": "persona_beyonce_baseline"}, {"n": "4", "text": "Satellites", "persona_id": "persona_beyonce_baseline"}]}, {"section_id": "section_3", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Take all the rules away", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "How can we live if we don't change?", "persona_id": "persona_beyonce_baseline"}, {"n": "2", "text": "We're always on display", "persona_id": "persona_beyonce_baseline"}, {"n": "3", "text": "Let's run and hide", "persona_id": "persona_beyonce_baseline"}]}, {"section_id": "section_4", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "In our eyes, love's alive", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "We've come untied", "persona_id": "persona_beyonce_baseline"}, {"n": "2", "text": "'Cause we're flashin' by", "persona_id": "persona_beyonce_baseline"}, {"n": "3", "text": "Like satellites", "persona_id": "persona_beyonce_baseline"}, {"n": "4", "text": "Satellites", "persona_id": "persona_beyonce_baseline"}]}, {"section_id": "section_5", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "If we don't communicate", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "We'll exist in our own space (Space)", "persona_id": "persona_beyonce_baseline"}, {"n": "2", "text": "We have all the love we need", "persona_id": "persona_beyonce_baseline"}, {"n": "3", "text": "While we're apart, I cannot breathe", "persona_id": "persona_beyonce_baseline"}]}, {"section_id": "section_6", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "Satellites", "persona_id": "persona_beyonce_baseline"}, {"n": "1", "text": "Flashin' by", "persona_id": "persona_beyonce_baseline"}, {"n": "2", "text": "Satellites", "persona_id": "persona_beyonce_baseline"}]}], "album_id": 11096}
+{
+  "song_id": 75936,
+  "title": "Satellites",
+  "language": "en",
+  "lyricists": [
+    498,
+    124851,
+    35027,
+    124850
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Satellites",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Flashin' by",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's a beautiful state we're in",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But how can we love in isolation?",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Think how happy we can be when we just try",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "We're nothing like we seem",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Passionate words are never spoken",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You don't know how I bleed when I leave your side",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "In your eyes, love's alive",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You've come untied",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "'Cause we're flashin' by",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Like satellites",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Satellites",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Take all the rules away",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "How can we live if we don't change?",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "We're always on display",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Let's run and hide",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "In our eyes, love's alive",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "We've come untied",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "'Cause we're flashin' by",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Like satellites",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Satellites",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "If we don't communicate",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "We'll exist in our own space (Space)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "We have all the love we need",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "While we're apart, I cannot breathe",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Satellites",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Flashin' by",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Satellites",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 11096
+}

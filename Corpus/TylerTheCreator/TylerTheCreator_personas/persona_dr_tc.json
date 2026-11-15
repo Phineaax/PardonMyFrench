@@ -1,0 +1,14 @@
+{
+  "persona_id": "persona_dr_tc",
+  "persona_name": "Dr. TC",
+  "artist_id": "685",
+  "period": {
+    "start": "2011",
+    "end": "2013"
+  },
+  "anchored_releases": [
+    "10762",
+    "18842"
+  ],
+  "is_baseline": false
+}

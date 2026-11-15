@@ -1,0 +1,548 @@
+{
+  "song_id": 12505668,
+  "title": "BACHA BAZI WHISTLEBLOWER",
+  "language": "fr",
+  "lyricists": [
+    3171563,
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J-J'ai peur de r'chuter à chaque pas dans l'bâtiment",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "L'agence me considère déjà comme en relapse",
+          "rhyme": "aps",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Continue d'ouvrir ton cavu pour des hommes d'affaires",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "B, tu vas finir avec un prolapse",
+          "rhyme": "aps",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Annule tous tes plans si la tempête, elle frappe",
+          "rhyme": "ap",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Gros, là-bas, c'est un trap mais pour nous c'que des gouttes",
+          "rhyme": "ut",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Tu nous copies, tu fais ta promo sur TikTok",
+          "rhyme": "uk",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "En gros, t'es fan mais tu comprends pas c'que t'écoutes",
+          "rhyme": "ut",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Tout l'attirail, t'inquiète pas, BBG",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "On veut l'dernier étage et planter l'PDG",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "C'était son rrain-té, on s'еst branchés là-bas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Pendant qu'neo' taffait sur le grand schéma, bitch",
+          "rhyme": "itS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Ellе veut sauter pour nous, mais c'est même pas ma bitch",
+          "rhyme": "itS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "On baise les prédateurs, on dévore pas la biche",
+          "rhyme": "iS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Intérimaires, on sait tout faire ent' terre et mer",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "S.F.N. père et mère, on va t'enterrer, merde",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCBDEFEGHIJJKCL",
+      "rhyme_vowel": "ABCBBDDDEFBFFFCC"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Entre quatre planches, envoie l'marteau, sista",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Soeur, F.E.M, on n'exauce pas les souhaits",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On crache à la gueule du CEO (on pisse sur leur empire)",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Il fait l'gaillard, il dépasse pas les Swear",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Il a rien dépassé (tocard de merde)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "En quatre mesures, B, ça l'a déjà perdu",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Lost",
+          "rhyme": "Ost",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Soeur, F.E.M, tu retraces pas la paire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFGD",
+      "rhyme_vowel": "ABCBDEFB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Là, c'est l'Joker et Quinn libérés d'l'Asylum",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Poussière de silicium dans le bibi des mômes",
+          "rhyme": "om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Nasty comme si j'sortais d'Ace Chemicals",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Double life, j'la vis depuis mes nine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'danse pas dans le bacha bazi",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Fat pig étale ses billets partout",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Comme Haman, il achète tous les mômes de la ville",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai pas raté un seul de ses Diddy move",
+          "rhyme": "Ov",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Mes p'tits oiseaux m'rapportent tout c'que vous faites",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "À vouloir voler trop haut, vous avez brûlé vos ailes",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Tout l'monde sait qu'tu gambles avec les tals de Luther",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Ton associé, il a lu Machiavel deux fois, il croit c'est un tueur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "À quatorze ans avec Soeur, on se f'sait groomer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Est-ce que tu comprends qu'tu peux pas nous parler comme tu parlais à tes p'tits ?",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Et l'autre tas d'merde sous zip, il lâche des infos comme un cave, pour s'faire mousser sa mini-bite",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'l'ai fait parler dans l'vide, ça l'a rendu tout vert (ça m'a shooté cinquante, j'étais à découvert)",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Pour m'impressionner, il a appelé un vieux père, directeur de j'sais pas, ah, va niquer ta mère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Dans l'bureau, j'ai vu un maléfice, sur le mur, le disque d'or de 47ter",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Relâche des intels, j'vais v'nir baiser ta glotte",
+          "rhyme": "Ot",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "Ils m'ont cassé les couilles, bientôt mental de 'noid",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Bâtard, j'priais ma mort en marchant sous la flotte",
+          "rhyme": "Ot",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "J'avais même pas une ceinture qui tenait mon froc",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "La guala, la guala, la guala, la guala",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Pour elle, j'aurais tué, pour elle, j'aurais fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "Pour elle, j'ai vendu mon corps, oui, dans les faits",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "Aujourd'hui, j'fais cent fois la somme quand j'branle FL",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "Après l'projet d'S.F.N., mort cérébrale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "Bon qu'à t'caler un fix à l'heure des céréales",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "À poil dans ma musique, à poil sur toutes les tracks",
+          "rhyme": "ak",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "Ça regarde mon trou d'balle avec beaucoup d'envie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "30",
+          "text": "Pour eux, j'ai pas grand chose à part sept inches et demi",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "31",
+          "text": "Non circoncis c'est la taille de ma bite",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "32",
+          "text": "Si tu sais où j'habite, bah, je sais où t'habites",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "33",
+          "text": "Pour toi, y a la chimie ou les fers d'Amérique",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFGHIJKLMENKKKOPOQPRRJCCSEENNT",
+      "rhyme_vowel": "ABCDDEDAFFFGHDDFFFACAACFFFCCCDDDDD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "La guala, la guala, la guala, la guala",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai niqué ma vie pour en faire et puis voilà",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La police me surveille, c'est même pas une image",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "La police me surveille, c'est même pas une image",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On s'était maudits à vie, B, j'avais pas l'âge",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'm'étais même mise à bibi dans les parages",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Faut sortir du jeu comme Emilia Pérez",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Y a que du balcon que le sol l'intéresse",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Il te d'mandait ton âme et toi, tu dis oui",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Petit, ça veut t'baiser comme Morandini",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "V-v-v-v'-esqui les cours, c'était courant ici",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Depuis qu'j'ai grandi, y a plus qu'des mourants ici",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "On doit tout renta' pour dompter les remords",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'voulais faire pareil puis t'es mort et re-mort",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "On a fait rage quit le MJ, B, c'est un record",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Avant d'sauter, ma chair s'accrochait sur le rebord",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBBBCDEEEEFFFF",
+      "rhyme_vowel": "AAAAAABCDDDDEEEE"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Entre quatre planches, envoie l'marteau, sista",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Soeur, F.E.M, on n'exauce pas les souhaits",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On crache à la gueule du CEO (on pisse sur leur empire)",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Il fait l'gaillard, il dépasse pas les Swear",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Il a rien dépassé (tocard de merde)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "En quatre mesures, B, ça l'a déjà perdu",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Lost",
+          "rhyme": "Ost",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Soeur, F.E.M, tu retraces pas la paire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFGD",
+      "rhyme_vowel": "ABCBDEFB"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import chunking
 import pandas as pd
 import numpy as np
 
-from nltk.langnames import langname
+from nltk.langnames import langname, langcode
 
 from scipy.cluster.hierarchy import linkage, dendrogram
 from scipy.spatial import distance_matrix as dm
@@ -26,13 +26,19 @@ available_metrics = scoring.available_metrics
 #  <scorer_n_grams_motsVec>,
 #  <scorer_n_grams_charVec>]
 
-def create_baseline(json_path, n=-1) :
-    df = chunking.artist_folder_to_artist_df(json_path)
-
+def create_baseline(json_path, optional_df=None, true_names = False, n=-1) :
+    if optional_df is None : 
+        df = chunking.artist_folder_to_artist_df(json_path)
+    else : 
+        df = optional_df.copy()
+        
     if n == -1 : 
         n = len(list(df["persona_id"].unique()))
-    
-    fake_personas = [chr(97+i) for i in range(n)]
+
+    if true_names : 
+        fake_personas = list(df["persona_id"].unique())
+    else : 
+        fake_personas = [chr(65+i)*4 for i in range(n)]
     songs = list(df["song_id"].unique())
     shuffle(songs)
     
@@ -41,29 +47,17 @@ def create_baseline(json_path, n=-1) :
     df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
     return df
 
-# def create_dendrogram(distance_matrix, labels, title) : 
-#     y = squareform(distance_matrix)
-    
-#     Z = linkage(y, method="ward")
-
-#     plt.figure(figsize=(14, 6))
-#     dendrogram(Z, labels=labels, leaf_rotation=90)
-#     plt.title(f"Clustering hiérarchique selon : {title}")
-#     plt.tight_layout()
-#     plt.show()
-
-def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict(), optional_df = [], do_show = False) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
     Path est le chemin vers le DOSSIER qui contient les .json formatés comme on a dit
     Le n c'est pour les n-grams, mais ça sert à rien si vous vous en servez pas
     """
-    if not any(optional_df) : 
+    if optional_df is None : 
         lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
     else : 
         lyrics_df = optional_df
-
     #Pour les stop words, le langage le plus fréquent est considéré comme le langage global. On transforme le code de langue en nom de langue
     language = langname(lyrics_df["language"].value_counts().index[np.argmax(lyrics_df["language"].value_counts())])
 
@@ -100,13 +94,19 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         #Fin de création des vocabulaires
 
     personas = pd.unique(lyrics_df["persona_id"])
-    p_lines = dict()
-    total_chunks = dict()
 
+    total_chunks = dict()
+    
     for p in personas :
-        p_lines[p] = lyrics_df[lyrics_df["persona_id"] == p] #On récupère les lines de persona p
-        shuffled_p_lines = p_lines[p].sample(frac=1).reset_index(drop=True) #Randomise
-        total_chunks.update(chunking.format_chunk_for_scoring(shuffled_p_lines, persona_id = p, chunk_tokens_nb=chunk_tokens_nb)) #On ajoute les lignes
+        c_p_lines = lyrics_df[lyrics_df["persona_id"] == p] #On récupère les lines de persona p
+        
+        if not by_song :
+            shuffled_p_lines = c_p_lines.sample(frac=1).reset_index(drop=True) #Randomise
+            new_chunks = chunking.format_chunk_for_scoring(shuffled_p_lines, persona_id = p, chunk_tokens_nb=chunk_tokens_nb, lang=langcode(language,2))
+            total_chunks.update(new_chunks) #On ajoute les lignes
+        if by_song : 
+            unique_songs = list(c_p_lines["song_title"].unique())
+            total_chunks.update({f"{p}_{s_id}" : list(c_p_lines[c_p_lines["song_title"] == s_id]["text"]) for i, s_id in enumerate(unique_songs)})
 
     chunk_ids = list(total_chunks.keys())
 
@@ -118,6 +118,10 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
             ) 
         for key in chunk_ids}
         print(f"resultats obtenus pour {scorer}")
+
+    non_sem = [scorer.name for scorer in scorers if "Vec" not  in scorer.name]
+    print(non_sem)
+    results['non_sem_vec'] = {key : np.array([results[ns][key] for ns in non_sem]) for key in chunk_ids}
 
     distances = {scorer : np.array(list(results[scorer].values())) for scorer in results}
     for scorer in distances : 
@@ -131,16 +135,17 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         for scorer in scorers : 
             print(f"Affichage pour {scorer}")
             create_dendrogram(distances[scorer.name], labels, scorer.description)
+        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques")
 
     return results, distances, chunk_ids
 
-def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=8, optional_df=[], do_show=False) :
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8, optional_df=None, do_show=False) :
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
     vocabs_dict = dict()
     if any(do_voc) :
-        if not any(optional_df) : 
+        if optional_df is None : 
             lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
         else : 
             lyrics_df = optional_df
@@ -163,8 +168,9 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
             print(f"Vocabulaire créé pour {v}")
 
     print(f"------------------------------\nRécupération des résultats n°1")
-    _, average_global_distances, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df)
-    scorers_names = [scorer.name for scorer in scorers]
+    r, average_global_distances, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df)
+    
+    scorers_names = [scorer.name for scorer in scorers] + ['non_sem_vec']
     
     for i in range(n_sample-1) :
         print(f"------------------------------\nRécupération des résultats n°{i+2}")
@@ -174,13 +180,13 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
             average_global_distances[scorer] += distances[scorer]
     
     for scorer in scorers_names :
-        average_global_distances[scorer] = average_global_distances[scorer]/n_sample
+        average_global_distances[scorer] += average_global_distances[scorer]/n_sample
 
     if do_show : 
         labels = chunk_ids
-        for scorer in scorers : 
+        for scorer in scorers_names : 
             print(f"Affichage pour {scorer}")
-            create_dendrogram(average_global_distances[scorer.name], labels, scorer.description)
+            create_dendrogram(average_global_distances[scorer], labels, scorer)
 
     return average_global_distances, chunk_ids
 
@@ -198,6 +204,8 @@ def make_color_map(labels, cmap_name="tab20"):
 
 def create_dendrogram(distances, labels, title, ax=None, color_map=None):
 
+    #labels = [l[:l.rfind("_")] for l in labels]
+    
     y = squareform(distances)
     if ax is None:
         _, ax = plt.subplots(figsize=(12, 5))
@@ -217,11 +225,12 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None):
     return ax
 
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
-                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=1500, n_sample=8,
-                         optional_df = []):
+                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8,
+                         optional_df = None):
+    
     distances, chunk_ids = get_aggregated_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, n_sample=n_sample, optional_df=optional_df)
 
-    nrows = math.ceil(len(scorers) / ncols)
+    nrows = math.ceil((len(scorers)+1) / ncols)
     fig, axes = plt.subplots(nrows, ncols,
                              figsize=(figsize_per_plot[0] * ncols, figsize_per_plot[1] * nrows),
                              squeeze=False)
@@ -229,11 +238,14 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
 
     color_map = make_color_map(chunk_ids)  # mêmes couleurs dans tous les sous-graphes
 
-    for ax, scorer in zip(axes, scorers):
-        create_dendrogram(distances[scorer.name], chunk_ids, scorer.description, 
+    scorers_names = [scorer.name for scorer in scorers] + ['non_sem_vec']
+    scorer_description = [scorer.description for scorer in scorers] + ['vecteur des indices non sémantiques']
+
+    for ax, s_n, s_d in zip(axes, scorers_names, scorer_description):
+        create_dendrogram(distances[s_n], chunk_ids, s_d, 
                           ax=ax, color_map=color_map)
 
-    for ax in axes[len(scorers):]:  # on cache les axes en trop
+    for ax in axes[len(scorers)+1:]:  # on cache les axes en trop
         ax.axis("off")
 
     fig.tight_layout()

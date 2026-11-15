@@ -1,0 +1,418 @@
+{
+  "song_id": 13945513,
+  "title": "LA D",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby fais moi peur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Ils ont tous ché-cra dans mon beurre",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AA",
+      "rhyme_vowel": "AA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby fais moi peur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Ils ont tous ché-cra dans mon beurre",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'sais pas c'que les humains nous veulent",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Mais la paye me fait de l'œil",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Cette vie ma bish, Gario l'a balafrée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Turn",
+          "rhyme": "9Rn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Si j'l'envoie qui rend la balle après?",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "La dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "On a lock-in quatre ans",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Le reuf ne m'a jamais vue si pâle",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Jamais j'retourne bas-là, 'vec le plombier d'la municipale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Jamais j'retourne bas-là, 'vec le plombier d'la municipale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Jamais j'retourne bas-là, 'vеc le plombier d'la municipale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "La dèchе",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Turn, tu-rn, tu-rn",
+          "rhyme": "ERn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Turn, tu-rn, tu-rn",
+          "rhyme": "ERn",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDEFGHIIIIJKK",
+      "rhyme_vowel": "AAABCABBDEEEEFBB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dès l'réveil, j'suis dans l'produit qui rend bavard",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ouvre ma gueule, j'suis payée quand j'fais le bla-bla (la dèche)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'renverse la vovo sur mon tabac",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Il connaît la réponse, c'bâtard demande quand même si ça va",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ça f'sait le good guy bien avachi, mais sur le contrat c'tait des fascistes",
+          "rhyme": "ist",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ta misère elle me fatigue",
+          "rhyme": "ig",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "C'menteur m'explique que c'est facile",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "T'avais qu'à check le prix du diez",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Tu vis tu meurs avant tu baises",
+          "rhyme": "Ez",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Tranny, prolétaire et blanche",
+          "rhyme": "#S",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'profite de mes privilèges",
+          "rhyme": "EZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "La corde au neck, avait pris du leste",
+          "rhyme": "Est",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "La corde au neck, avait pris du leste",
+          "rhyme": "Est",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Bâtard on est jamais en ble-sem",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'suis corda quand s'agit d'être blessé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Mes coordonnées dans les files de [?]",
+          "rhyme": "@",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Ça ne conçoit pas tous les arts qu'on manie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "MNG d'Bangkok à la Roumanie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Ma le-gueu j'souffre de mégalomanie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "On les guette de haut je me sens comme Manny",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Je rec les sons avec le drip de baddie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "La money, money, moi j'ai trouvé ça boring",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "J'ai ball in, ball in dans le drip de baddie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Ça veut nous faire mais j'ai vu nobody",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "Même sans tals, j'serai plus jamais nobody",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "J'tais HPI mais j'ai trop fumé l'doré",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "J'ai assez d'bish qui m'a jamais rien donné",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBCDEFGHIJJKFLMMMMMNMMMFF",
+      "rhyme_vowel": "AAAABBBCDEDDDDCFBBBBBBBBBCC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby fais moi peur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Ils ont tous ché-cra dans mon beurre",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'sais pas c'que les humains nous veulent",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Mais la paye me fait de l'œil",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Cette vie ma bish, Gario l'a balafrée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Si j'l'envoie qui rend la balle après ?",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "La dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "On a lock-in quatre ans",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Le reuf ne m'a jamais vue si pâle",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Jamais j'retourne bas-là, 'vec le plombier d'la municipale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Jamais j'retourne bas-là, 'vec le plombier d'la municipale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Jamais j'retourne bas-là, 'vec le plombier d'la municipale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "La dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Turn, tu-rn, tu-rn",
+          "rhyme": "ERn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Turn, tu-rn, tu-rn",
+          "rhyme": "ERn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Turn, tu-rn, tu-rn",
+          "rhyme": "ERn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Turn, tu-rn, tu-rn",
+          "rhyme": "ERn",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDEFGHHHHFIIII",
+      "rhyme_vowel": "AAABCBBDEEEEBBBBB"
+    }
+  ]
+}

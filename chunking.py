@@ -5,7 +5,7 @@ import pandas as pd
 import ast
 import os
 
-MIN_CHUNK_SIZE = 900
+DEFAULT_CHUNK_LINES_NB = 200
 
 TOKENS_FR_REG = re.compile(
     r"""
@@ -27,7 +27,7 @@ TOKENS_ENG_REG = re.compile(
     re.VERBOSE,
 )
 
-def count_tokens(line: str, lang: str = "fr") -> int:
+def count_tokens(line: str, lang:str = "Aucune Langue Donnée") -> int:
     if lang == "fr":
         regex = TOKENS_FR_REG
     elif lang == "en":
@@ -41,41 +41,44 @@ def count_tokens(line: str, lang: str = "fr") -> int:
 
 def chunk(
     lyrics_dataframe: pd.DataFrame,
-    chunk_tokens_nb: int = 1500,
-    min_chunk_size: int = MIN_CHUNK_SIZE,
-    lang: str = "fr",
+    chunk_tokens_nb: int = DEFAULT_CHUNK_LINES_NB,
+    lang:str = "Aucune Langue Donnée"
 ) -> List[List[str]]:
     lines = lyrics_dataframe["text"].dropna().to_list()
 
-    chunks = []
-    current_chunk = []
-    token_count = 0
+    chunks = [lines[i:i+chunk_tokens_nb] for i in range(0, len(lines), chunk_tokens_nb)]
+    if len(chunks[-1])<(chunk_tokens_nb/2) :
+        chunks[-2].extend(chunks[-1])
+        chunks = chunks[:-1]
 
-    for line in lines:
-        if token_count >= chunk_tokens_nb:
-            chunks.append(current_chunk)
-            current_chunk = []
-            token_count = 0
+    # chunks = []
+    # current_chunk = []
+    # token_count = 0
 
-        token_count += count_tokens(line, lang)
-        current_chunk.append(line)
+    # for line in lines:
 
-    # Dernier chunk : on le garde s'il est assez gros,
-    # sinon on le fusionne avec le précédent
-    if current_chunk:
-        if token_count >= min_chunk_size or not chunks:
-            chunks.append(current_chunk)
-        else:
-            chunks[-1].extend(current_chunk)
+    #     if token_count >= chunk_tokens_nb:
+    #         chunks.append(current_chunk)
+    #         current_chunk = []
+    #         token_count = 0
+
+    #     token_count += count_tokens(line, lang)
+    #     current_chunk.append(line)
+
+    # # Dernier chunk : on le fusionne avec le précédent
+    # if current_chunk:
+    #     if not chunks:
+    #         chunks = [current_chunk]
+    #     else :
+    #         chunks[-1].extend(current_chunk)
 
     return chunks
 
 def format_chunk_for_scoring(lyrics_dataframe: str, # = lyrics dataframe pour une persona.
                              persona_id:str,
-                             chunk_tokens_nb:int=1500, 
-                             min_chunk_size:int=MIN_CHUNK_SIZE) -> Optional[Dict[str, List[List[str]]]]:
+                             chunk_tokens_nb:int=DEFAULT_CHUNK_LINES_NB, lang="Aucune Langue Donnée") -> Optional[Dict[str, List[List[str]]]]:
 
-    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb, min_chunk_size=min_chunk_size)
+    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb, lang=lang)
     return {f"{persona_id}_{ind}": chunk for (ind, chunk) in enumerate(chunks)}
     
 

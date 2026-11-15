@@ -1,0 +1,247 @@
+{
+  "song_id": 9422022,
+  "title": "GIROUETTE⠀⸂bois perdus 2⸃",
+  "language": "fr",
+  "lyricists": [
+    4212763
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Déso', j'ai pas les mots, dérangé par les maux d'avant",
+          "rhyme": "#",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Mon ange c'est pas nouveau, mon an- mon ange c'est pas nouveau",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Le monde est à nous deux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Seulement jusqu'à ce qu'on l'ait vraiment",
+          "rhyme": "#",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "« Dis moi à qui tu mens Soeur »",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Lui c'est un fichu menteur",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "Lui c'est un fichu menteur",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCADDD",
+      "rhyme_vowel": "ABCADDD"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'suis comme en apesanteur",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Mon ange on part pas sans pleurs",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "B la prochaine fois qu'elle m'effleure",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Moi, qui m'offrira des fl-fl-fleurs ?",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Mais dis-moi qu'est-ce qui nous rapproche",
+          "rhyme": "OS",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "J'fais quе d'dépenser c'que j'apportе",
+          "rhyme": "$",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'ai fait les 100 pas d'vant la porte",
+          "rhyme": "ORt",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "Y a un problème avec mon corps",
+          "rhyme": "OR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "8",
+          "text": "Y a un problème avec mon âme",
+          "rhyme": "am",
+          "persona_id": "room1"
+        },
+        {
+          "n": "9",
+          "text": "Et quand j'le blesse il crie encore",
+          "rhyme": "OR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "10",
+          "text": "Un peu d'effort le temps d'un drame",
+          "rhyme": "am",
+          "persona_id": "room1"
+        },
+        {
+          "n": "11",
+          "text": "On joue à retourner la table",
+          "rhyme": "abl",
+          "persona_id": "room1"
+        },
+        {
+          "n": "12",
+          "text": "Y a un fou là où j'mets la dame",
+          "rhyme": "am",
+          "persona_id": "room1"
+        },
+        {
+          "n": "13",
+          "text": "Là d'où j'viens t'as pas vu l'état",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "14",
+          "text": "Sur sa bouche met du veleda",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "15",
+          "text": "PK t'as pas cala ma pic?",
+          "rhyme": "ik",
+          "persona_id": "room1"
+        },
+        {
+          "n": "16",
+          "text": "C'est la ne-jeu qu'on crame au bic",
+          "rhyme": "ik",
+          "persona_id": "room1"
+        },
+        {
+          "n": "17",
+          "text": "Faut pas dire que c'est une chica",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "18",
+          "text": "À chaque réveil j'vis une chicane",
+          "rhyme": "an",
+          "persona_id": "room1"
+        },
+        {
+          "n": "19",
+          "text": "Et si- et si demain j'me tue, qui gagne?",
+          "rhyme": "aJ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "20",
+          "text": "J'suis dans le palace dans le-",
+          "rhyme": "@",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AAAABCDEFEFGFHHIIHJKL",
+      "rhyme_vowel": "AAAABCBBDBDDDDDEEDDDF"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Déso', j'ai pas les mots, dérangé par les maux d'avant",
+          "rhyme": "#",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Mon ange c'est pas nouveau, mon an- mon ange c'est pas nouveau",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Le monde est à nous deux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Seulement jusqu'à ce qu'on l'ait vraiment",
+          "rhyme": "#",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "« Dis moi à qui tu mens Soeur »",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Lui c'est un fichu menteur",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "Lui c'est un fichu menteur",
+          "rhyme": "9R",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCADDD",
+      "rhyme_vowel": "ABCADDD"
+    }
+  ]
+}

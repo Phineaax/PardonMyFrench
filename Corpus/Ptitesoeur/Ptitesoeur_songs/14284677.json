@@ -1,0 +1,475 @@
+{
+  "song_id": 14284677,
+  "title": "SNAPSHOT:ALTRAZINE",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "F-F-Feel the sunlight (sunlight, sunlight)",
+          "rhyme": "ajt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Oh-oh-oh, oh-oh-oh",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'suis frappée de là-haut",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Par derrière le crâne comme Padgett",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'prends l'cash à Pao",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Sauf s'il me donne pas d'jet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Achète, achète, dépense",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Me donne pas d'jet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Achète, achète, dépense",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai le ventre creux, ma bish crache la paye dans du Le Grand Bleu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Vie de luxe ou c'est CC, most wanted comme Le Grand Blond",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABACDCDEF",
+      "rhyme_vowel": "ABACDCDEF"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On arrive on repart comme Gudrun Ensslin",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tu peux pas faire ce taff et keep tes hands clean",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Tant qu'tu r'commences, t'as jamais perdu, keep gambling",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Tant qu'tu r'commences, t'as jamais perdu, keep gambling",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Oh-oh-oh",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Y avait trois-cent G dans ma pochette",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Deux-cent d'plus sur la poucave",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Les poseurs m'écoutent en cachette",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Puis montent un plavon pourave",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Ça pue tellement la merde",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'peux même pas dire que tu m'l'as chourave",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Ils peuvent me cracher dessus autant qu'ils veulent",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Toute la géné' c'est mes fils",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J’ai projeté qu’la lumière",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'ai pas check entre sa gène et ses méfices",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Oh-oh-oh (oh-oh-oh)",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "La guerre c'est un spectacle, welcome to 2K26",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Solo car, aucun des adultes de la veille m'as dit \"aller, plonge\"",
+          "rhyme": "$Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Comme des tocards, ma bish fait tout sauter comme pendant les années d'plomb",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "2K, 3K, fais pas d'mala ça t'mets à l'écart",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Ça fait pas d'mal à l'État qui fait pas l'état des lieux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "J'ai tout fait pour un p'tit peu aller mieux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Mais ça t'regarde d'en bas quand ta pain fait v'la d'envieux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Qu’les humains sont bêtes des fois",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "J'me balade comme une bête de foire",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "J'ai tellement mal que-",
+          "rhyme": "@",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "J'ai tellement mal même plus j'me pète le soir",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "C'est ça l'revers d'être trop honnête",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "Même à mes semelles ils sont cramponnés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "Elle parle j'la connais pas la-celle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "30",
+          "text": "Je sors du jeu comme quand le poulain s'échappe du carrousel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDEFEFGFHIJIDKLMNOOOKNPNEQRR",
+      "rhyme_vowel": "ABBBCDEDEDEFBDBCEGGEHHHEEIEDJDD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Solo car, aucun des adultes de la veille m'as dit \"aller, plonge\"",
+          "rhyme": "$Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Comme des tocards, ma bish fait tout sauter comme pendant les années d'plomb",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "2K, 3K, fais pas d'mala ça t'mets à l'écart",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ça fait pas d'mal à l'État qui fait pas l'état des lieux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai tout fait pour un p'tit peu aller mieux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Oh-oh-oh, oh-oh-oh",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDDE",
+      "rhyme_vowel": "AABCCD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'suis frappée de là-haut",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Par derrière le crâne comme Padgett",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'prends l'cash à Pao",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Sauf s'il me donne pas d'jet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Achète, achète, dépense",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Me donne pas d'jet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Achète, achète, dépense",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai le ventre creux, ma bish crache la paye dans du Le Grand Bleu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Vie de luxe ou c'est CC, most wanted comme Le Grand Blond",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABACDCDEF",
+      "rhyme_vowel": "ABACDCDEF"
+    },
+    {
+      "section_id": "section_6",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ma bish n'écoute pas les grands ça n'en vaut pas le détour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Quand je regarde dans l'écran, il me regarde en retour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Internet contre ton âme bih, ça vaut pas cher",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai hâte des jours où j'vais pouvoir tout lâcher, tout lâcher (j'y suis)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh ma- oh ma b-b-b-b",
+          "rhyme": "9b",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Sur la whole society",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Personne n'est parfait-fait-fait-fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Donc tu hate, à hauteur de tes péchés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Sur la whole society",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ils veulent figer notre monde on doit s'dépêcher",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDBD",
+      "rhyme_vowel": "ABCDBD"
+    }
+  ]
+}

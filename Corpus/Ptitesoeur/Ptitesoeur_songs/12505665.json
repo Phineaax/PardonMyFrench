@@ -1,0 +1,464 @@
+{
+  "song_id": 12505665,
+  "title": "100 000 LUMEN",
+  "language": "fr",
+  "lyricists": [
+    3171563,
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "S.F.N, c'est des gorges tranchées dans des caves",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "La nôtre ou celles des autres ? Je sais pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Sept cents grammes dans l'cul, vas-y, fais la taupe",
+          "rhyme": "op",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Sista sort le ciseau, v'là qu'elle fait la coupe",
+          "rhyme": "up",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Blacky Tatang, bébé, tu sais qu'j'suis moche, moi",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Jump sur ma sœur (argh), j'vais t'faire du cinéma",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Son combat, c'est mon combat, espèce de cave, tu comprends pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Le premier qui veut tester, bâtard, je sors un gala gala",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Bo-bozo pour la guala, qu'est-ce qu'il n'a pas fait comme moi ? (haha)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Sau-sauf que moi, j'avais pas l'choix (han)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Ces bozos pour la mala, qu'est-cе qu'ils ne font pas comme nous ? (tout)",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Ils puent la mеrde, c'est des fous",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Quelques traîtres au sein du camp (han)",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "On le sait, on fait semblant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "La cause est tellement grande, bâtard, j'suis prêt à partir sans les gants",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "À finir dans les faits divers, le travail ça paye",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Bientôt, c'est nous en fourrure qui glissons aux sports d'hiver",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "String qui dépasse, bientôt, c'est nous on fait la pose",
+          "rhyme": "oz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Si t'as un problème avec ça, j'mets ma teub dans ta throat",
+          "rhyme": "Owt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "J'vois que des swag chaser, j'vois que des mini-merdes",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Ça fait les foufous à la mort, ça s'croit dans Many Men",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Là, j'sors d'ma carapace, je viens t'péter l'hymen",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "La lumière me brûle les yeux comme cent-mille lumens",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Va laver tes oreilles crasseuses pleines de cérumen",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "Et prépare-toi à tanker les bounyas de S.F.N",
+          "rhyme": "n",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDBBBBBBEEFFFGHIJKLLLLM",
+      "rhyme_vowel": "AABCAAAAAACCDDDEEBFEEEEEG"
+    },
+    {
+      "section_id": "section_2",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y a d'l'espoir les mômes, y en aura toujours",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Personne nous a abattus, personne nous abattra",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La peur change de camp, bande de putes",
+          "rhyme": "yt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'suis effrayé carrément, je sais, elle va envoyer un truc derrière, vous allez serrer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On va continuer d'vous éduquer encore et encore, bande de merdes",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Sista, c'est maman, papa, c'est FEMTO'",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'prie chaque jour un peu plus pour la mort de Papacito",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Go on, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFFG",
+      "rhyme_vowel": "ABCDEFFB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Pour cette moula, ça n'a pas fait dans les métiers sages",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "MNG, SPK, les nes-jeu collent sur le métissage",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Pour venger la p'tite d'avant, j'dois brasser l'APY d'un tech bro",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'cramais l'galet dans l'champ d'à côté, pas dans tes soirées tech, gros",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On n'est pas méchants, tu sais, juste on aime pas les gens",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On passait devant tous les jours, on cala pas les Champs",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Nos deux teubs dans les oreilles du grand boug qui nous crie \"Allez, chante\"",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Plus fort gamin, ça tend l'oreille seulement si l'offre est alléchante",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Sous cachet, l'reuf allait nous crasher dans l'entrée du virage",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "4 heures pétantes, j'sortais d'la tente pour faire les voitures du village",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "20k d'abo', 12k de cons, j'en fais partie, j'suis dans la conv'",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "\"Sœur, toi, t'es où ?\", j'suis dans la cave",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "\"Envoie des sous\", j'suis pas la CAF",
+          "rhyme": "af",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "C'est la vraie vie, jamais j'vends du rêve de Dubaï",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'pull up avec le fancy drip au père de Booba",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "On s'en bat les c' de la structure, tu vas manger nos longs versets",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "On peut pas v'nir à ta fête, j'ai peur d'en sortir le gland gercé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCCDDAAEFGHIJE",
+      "rhyme_vowel": "AABBCCCCAADAAEAFD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ah, là-celle va falloir bien la réviser les jeunes",
+          "rhyme": "9n",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Attendez, il manque une leçon à ce chapitre, on reprend",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dieu merci, j'fais l'argent sans le texte",
+          "rhyme": "Ekst",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Lance les dés, j'mets toutes les stats en dex'",
+          "rhyme": "Eks",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On a pop, toi, qu'est-ce que t'attendais ?",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Écoute-moi, faire comme nous, p'tit, vaux mieux pas tenter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Tout ça avec deux cros-mi à cent balles donc",
+          "rhyme": "$k",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Remballe ta propal', on la sent pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Dans les bureaux d'Virgin pour sept chiffres ou l'attentat",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "On construit bien pire qu'Babylone de la Pampa",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "C'est papa, maman, bâtard, c'est pas tes grands-pa'",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "On compte pas finir pendus près des remparts",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'te voyais sortir l'12 et faire \"tou-tou-tou\" en bas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "C'est pas qu'dans ma tête, B, le teu-teuh me rend barge",
+          "rhyme": "aRZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "(Et va baiser ta mère la 'ute)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "On s'est tués pour ça, tu fais l'difficile",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Si tu fais la folle, on sort le doux missile",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'imprime d'ici, jamais je sors du domicile",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFFFFGFHIJJJ",
+      "rhyme_vowel": "AAABCDDDDDDDEFFF"
+    }
+  ]
+}

@@ -1,1 +1,268 @@
-{"song_id": 9776100, "title": "cut my hair", "language": "en", "lyricists": [1258628, 1256784, 1502045, 1653, 1039827], "lyrics": [{"section_id": "section_0", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Just wanna cut my hair, lose myself, make you sweat", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Go out and get messed up, find myself in your bed", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Just wanna cut my hair, little black dress, can't forget", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Just wanna show you whatever she do, I can do it better", "persona_id": "persona_tatiana"}]}, {"section_id": "section_1", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "I've been playin' nice little too long, yeah", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Drivin' on the high road, and hit a dead end", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I'd tell you, but we just don't talk", "persona_id": "persona_tatiana"}, {"n": "3", "text": "I've been havin' selfish thoughts", "persona_id": "persona_tatiana"}, {"n": "4", "text": "I've been workin' hard while you're six drinks in", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Tossin' in the dark, feel you under my skin", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Once I start, I just can't stop", "persona_id": "persona_tatiana"}, {"n": "7", "text": "I've been havin' selfish thoughts", "persona_id": "persona_tatiana"}]}, {"section_id": "section_2", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "There's no right way to say it", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Want you so bad, I hate it", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Good girls, so overrated", "persona_id": "persona_tatiana"}, {"n": "3", "text": "So overrated", "persona_id": "persona_tatiana"}]}, {"section_id": "section_3", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Just wanna cut my hair, lose myself, make you sweat", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Go out and get messed up, find myself in your bed", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Just wanna cut my hair, little black dress, can't forget", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Just wanna show you whatever she do, I can do it better", "persona_id": "persona_tatiana"}]}, {"section_id": "section_4", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Couple years back, so sensitive, yeah", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Movin' like that gets repetitive, yeah", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Singin' 'bout the same old stupid ass things", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Sad girl bit got a little boring", "persona_id": "persona_tatiana"}]}, {"section_id": "section_5", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "No right way to say it (No right way to say it)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Want you so bad, I hate it (So bad, I hate it)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Good girls, so overrated", "persona_id": "persona_tatiana"}, {"n": "3", "text": "So overrated (No-no-no-no)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_6", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "Just wanna cut my hair, lose myself, make you sweat (You sweat, you sweat)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Go out and get messed up, find myself in your bed (In your bed)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Just wanna cut my hair (My hair), little black dress, can't forget", "persona_id": "persona_tatiana"}, {"n": "3", "text": "Just wanna show you whatever she do, I can do it better", "persona_id": "persona_tatiana"}]}, {"section_id": "section_7", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "Just wanna cut my (My) hair (Uh)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Just wanna cut (Cut) my (My) hair (Oh, I-I)", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Heard he got a new girl, that ain't fair (Ain't fair)", "persona_id": "persona_tatiana"}, {"n": "3", "text": "To show you how much I care", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Just wanna cut (Cut) my (My) hair", "persona_id": "persona_tatiana"}]}, {"section_id": "section_8", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "Mm-mm, uh, mm", "persona_id": "persona_tatiana"}]}], "album_id": 963023}
+{
+  "song_id": 9776100,
+  "title": "cut my hair",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    1256784,
+    1502045,
+    1653,
+    1039827
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just wanna cut my hair, lose myself, make you sweat",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Go out and get messed up, find myself in your bed",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Just wanna cut my hair, little black dress, can't forget",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Just wanna show you whatever she do, I can do it better",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I've been playin' nice little too long, yeah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Drivin' on the high road, and hit a dead end",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I'd tell you, but we just don't talk",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "I've been havin' selfish thoughts",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "I've been workin' hard while you're six drinks in",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Tossin' in the dark, feel you under my skin",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Once I start, I just can't stop",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "7",
+          "text": "I've been havin' selfish thoughts",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "There's no right way to say it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Want you so bad, I hate it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Good girls, so overrated",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "So overrated",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just wanna cut my hair, lose myself, make you sweat",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Go out and get messed up, find myself in your bed",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Just wanna cut my hair, little black dress, can't forget",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Just wanna show you whatever she do, I can do it better",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Couple years back, so sensitive, yeah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Movin' like that gets repetitive, yeah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Singin' 'bout the same old stupid ass things",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Sad girl bit got a little boring",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "No right way to say it (No right way to say it)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Want you so bad, I hate it (So bad, I hate it)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Good girls, so overrated",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "So overrated (No-no-no-no)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just wanna cut my hair, lose myself, make you sweat (You sweat, you sweat)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Go out and get messed up, find myself in your bed (In your bed)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Just wanna cut my hair (My hair), little black dress, can't forget",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "Just wanna show you whatever she do, I can do it better",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just wanna cut my (My) hair (Uh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Just wanna cut (Cut) my (My) hair (Oh, I-I)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Heard he got a new girl, that ain't fair (Ain't fair)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "To show you how much I care",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Just wanna cut (Cut) my (My) hair",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mm-mm, uh, mm",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ],
+  "album_id": 963023
+}

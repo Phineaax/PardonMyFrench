@@ -1,0 +1,346 @@
+{
+  "song_id": 14428647,
+  "title": "101025",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'est la merde, faut que j'pète un pare-balle ou faut que j'déménage à Bali",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Ton graphiste, il a juste mis des textures sur une image générée par Dall-E",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'étudie les patterns qui me constituent depuis l'époque de 9-7-3",
+          "rhyme": "@",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Rien n'a changé depuis le dernier cycle, y aura juste moins de reufs cette fois",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Tous les jours, on tourne en rond, Empty Vessel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Y a l'eau croupie qui ruisselle sur ma vaisselle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'vais vriller pour un coup d'fil, Hotline Miami",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Bloquée du bureau comme si j'avais ni fans, ni amis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEAA",
+      "rhyme_vowel": "AABCDDAA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ils speak dans mon back, on va pas turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'mets l'argent pas décla' dans mon Tornado Mart",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Les-les poseurs font la course, c'est des cannibal hoe",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Gario doit baiser la capitale comme Anne Hidalgo",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ce bâtard veut mon zob sur ses amygdales",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai baisé ta carrière, c'était presque amical",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Y a largement d'quoi nous faire sauter dans l'colis, ma sœur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'suis pas dans leurs cases, normal, ils m'ont dans l'collimateur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEFF",
+      "rhyme_vowel": "AABCAADD"
+    },
+    {
+      "section_id": "section_3",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Il commence à faire chaud, j'ai la flemme de perf' la suite",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Ok, go",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Que j'm'éloigne d'l'époque où j'traînais sur le pavement",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'sortais plus, j'ai rentré cinq chiffres dans le basement",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Quatre zéro de r'tirés, c'est l'cash minimal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Moi, je vis cette vie, je sais qu'elle finit mal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'me- j'me suis faufilée dans leur scène de gros suceurs pour les cock block",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Là, j'ai commandé un taser qui met 12 MV comme Bob Glocc",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'ai l'attitude qu'ils rêvent d'avoir et l'passé qu'ils fuient à tout prix",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Y a tout c'beau monde quand je shine, y avait sonne-per quand on m'a tout pris",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai la dégaine d'un cénobite noir qu'on invoque avec le cube",
+          "rhyme": "yb",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "C'bâtard s'indigne quand j'fais des tals, j'crois qu'il écoute avec le cul",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'crame deux cartouches ramenées du Portugal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Tu vis, tu meurs, osef, tu perds, tu gagnes",
+          "rhyme": "aJ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Moi, j'fais pas ça",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Cinquante kilos, j'fais le pacha",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'suis pas dans la revente, j'suis pas dans le rachat",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Fais crari tu sais déjà tout c'qu'on t'a pas dit",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Ces bâtards, ils bandent quand Gario fait la baddie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCDEEFGBHIIIEE",
+      "rhyme_vowel": "AABBCDDDEEBBBBBDD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Pas ça, pas ça, jeune bâtard, tu fais pas ça",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Bâtard qu'insulte IRL, ça reste une sa-sa",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Pas ça, y avait trop d'miroirs dans ma casa",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Jamais je saute, j'ai des grands gaillards si y a heja",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ils speak dans mon back, on va pas turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'mets l'argent pas décla' dans mon Tornado M-",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Les poseurs font la course, c'est des cannibal hoe",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Gario doit baiser la capitale comme Anne Hidalgo",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ce bâtard veut mon zob sur ses amygdales",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai baisé ta carrière, c'était presque amical",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Y a largement d'quoi nous faire sauter dans l'colis, ma sœur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'suis pas dans leurs cases, normal, ils m'ont dans l'collimateur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEFF",
+      "rhyme_vowel": "ABCDAAEE"
+    }
+  ]
+}

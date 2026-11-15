@@ -1,0 +1,491 @@
+{
+  "song_id": 12505676,
+  "title": "PUKE SOMETHING",
+  "language": "fr",
+  "lyricists": [
+    3171563,
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'crache sur vos esprits serrés, plus serrés qu'le tuck de mes sœurs",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "La tête de ces racelards sous les roues vingt-deux pouces du Kompressor",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Tu connais quoi d'l'oppression ? Fils de tain-p', t'y connais rien",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Demande au môme ça fait quoi d'être homo' quand t'es collégien",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Vous voulez qu'j'parle, bande de merdes, faudra pas vomir quand je jacte",
+          "rhyme": "akt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'étais compris par personne à part les deux-trois gosses d'la DDASS",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Mais le F, pourquoi tu t'flashes ?",
+          "rhyme": "aS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Regarde moi, j'ai mal au cœur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Mais le F, t'as seulement quatorze ans",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'm'en bats les couilles, ça m'fait du bien",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Le F, plus personne te comprend",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Mais rien à foutre, au bout, y a rien",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Le F, à ta mère, tu fais peur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "T'en fais pas, j'vais l'dire à maman",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Pourquoi tu t'échappes par les f'nêtres ?",
+          "rhyme": "EtR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Parce que la nuit, personne me juge",
+          "rhyme": "yZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Pourquoi t'as une lame dans ta veste ?",
+          "rhyme": "Est",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Parce que ces porcs ont cinquante ans",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Sais-tu qu'tout ça, c'est dégoûtant ?",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "Je sais, p'tite conne, mais j'ai pas l'choix",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Et pourquoi t'assumes pas c'que tu es ?",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Parce qu'on m'autorise pas à l'faire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Le-le môme fait les cent pas la nuit, cicatrise tout dans le whisky",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Vomit tout dans les agapanthes",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "Pour rentrer, faut surtout pas qu'il tangue",
+          "rhyme": "#g",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "Papa, maman pourraient l'entendre et se justifier, il en peut plus",
+          "rhyme": "ys",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "À l'école, c'est d'jà l'enfer, il veut pas d'un problème de plus",
+          "rhyme": "ys",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "Y a que 2D et son flaki qui l'regardent avec honnêteté",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "Un jour, il sait qu'il s'ra heureux, mais pour l'instant faut s'enterrer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "Il fait semblant devant des gens qui l'ont à peine apprécié",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "30",
+          "text": "Je suis un homme, ô comme ils disent, j'me travestis pour m'protéger",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDEFAGCGCAGHIJGGKLMNOPQQRRRR",
+      "rhyme_vowel": "ABCCDDDAECECAEFGFEEDFFHEEGGIIII"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mains dans les poches, les crocs serrés, j'ai dû mourir pour prospérer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Le monde veut t'effacer, p'tit, car tu pourras jamais trop céder",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Personne a cala l'procédé, t'as l'droit d'être humain qu'dans l'CD",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Okay, comment tu vas t'sentir si même être humain on l'est trop pour toi ? Hein",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Petite, dis-moi comment tu t'sens bridé par la masculinité d'façade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Vingt ans plus tard, on trouve la brèche parce qu'avant, j'pensais qu'à ça",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "La porte de sortie, bâtard, c'est p't-être pas la mort",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Personne a compris la manœuvre parce qu'ils étaient pas à bord, bah ouais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Chaque humain est gaspillé par l'système qu'on lui impose",
+          "rhyme": "oz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Ma mère pensait qu'j'me cachais chaque fois que j'm'allumais un boze (Elle avait raison)",
+          "rhyme": "oz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Dès gamine quand j'vidais deux litres de rhum de cuisine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Tu sais, c'était une conséquence pas une cause",
+          "rhyme": "oz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Comment veux-tu être honnête sans qu'on cause ? Les caméras scrutent sans qu'on pose",
+          "rhyme": "oz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "On vient du trou du cul du monde, bâtard, j'ai grandi sans compost, ah ouais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Aujourd'hui, j'choque la métropole qu'on n'a pas connue, bah ouais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Vivons heureux, vivons cachés, ça m'a pas sauvée, bah ouais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDEFGHHIHHGGG",
+      "rhyme_vowel": "AABCBBDEFFGFFEEE"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Avant d'être réelle, ma fierté a d'jà pris le large",
+          "rhyme": "aRZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "La mienne est morte dans les toilettes publiques",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On est tous des enfants de Dieu, si Dieu y a",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pourquoi il n'a pas fait un signe ?",
+          "rhyme": "iJ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Œil pour œil, dent pour dent, j'ai assez tendu l'autre joue",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai trop meurtri mon corps, j'ai trop meurtri mon cœur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Demain, tout ira mieux, petit, c'est juste un autre jour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABABCDC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Vous voulez nous afficher, bande de bâtards, on l'fait déjà sans vous",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Aujourd'hui, j'suis plus monétisable que les photos d'mon bas ventre et d'ma q- qui tournaient dans des convos Skype quand j'étais gamine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On est nés beaux, le monde nous a rendus moches",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Maintenant, c'est à nous d'rendre le monde plus beau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Et si c'est pas plus beau, ce sera au moins plus vrai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai pas mangé d'puis hier midi et j'ai passé la nuit à m'retenir de pisser parce que j'avais encore oublié d'considérer mon corps",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "C'est pas grave, on a tenu jusqu'ici comme ça, j'ferai les mêmes erreurs en boucle, jusqu'à m'en défaire ou jusqu'à ma mort, on verra bien, hein",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Là, on parle même au neuneu qui conçoit rien au-delà de la forme, s'il vous plaît, écoutez deux secondes, c'est l'heure de vous reconnecter à votre sensibilité",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Brisez l'pattern, bande de zgegs",
+          "rhyme": "Eg",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Transformez la boucle en spirale ascendante",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Personne n'est parfait, et encore moins votre image, alors, attendez pas qu'un ange vienne vous sauver, et soyez l'ange",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Merci à neo' d'avoir fait partie des premiers à m'concevoir",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Merci à FEMTO' d'oser dire c'que j'ai jamais osé dire à personne",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Merci aux humains qui n'succombent pas à la stupidité d'leur ego",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "On n'a pas encore fini d'creuser",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Et on s'approche pas à pas du cœur, le vrai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Celui qui s'abstrait de toutes les crasses de son environnement",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Celui avec lequel on naît",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Parce que j'suis bien trop empathique et vulnérable pour nous autoriser à vivre dans un monde aseptisé où même l'éthique devient un jeu d'performance",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "Allez vous faire enculer, ou soyez réels",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFGHIJKLMDHENEOP",
+      "rhyme_vowel": "ABCDECFGEHHICDGEHEHE"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "song_id": 2350,
+  "title": "Kon Queso",
+  "language": "en",
+  "lyricists": [
+    70,
+    74446
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Give it a sec for the pain to start",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "This wreck right here, it ain't for the faint of heart",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "They thought they saw the worst verse",
+          "rhyme": "ERs",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "From the team of G men who seem like nerds at first",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Once they get to know us people dig us",
+          "rhyme": "ys",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Leaders in the fight for equal rights for niggas",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Inventor of the more dementeder flow, no bout a-doubt it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "This go for if you're bout it, bout it or rowdy, rowdy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Whatever's clever, the master foe",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Who every hooker heard of, but nar' a ho know",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "If we see tomorrow, the next day classes",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "The Villain in the back with the x-ray glasses",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Have no fear, the ninja here",
+          "rhyme": "eR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Feel 'em like the tinge in your ear from drinkin' ginger beer",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "When it's on, loco head gon' lay low",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "And heat it like beef patty, coco bread con queso",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "If you say so, lace the whole case load",
+          "rhyme": "ad",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "They say he wear a metal mask in case his face show",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "He told 'em they flows is bitch talk and ayo's",
+          "rhyme": "ins",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "His whole crew walk with pitchfork and halos",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Say ho if you never worked a J-O",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "And keep more cash in a stash than the pay show",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Okay, yo, y'all know who to follow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Tie 'em up in the crib and leave they place hollow",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "Oh, shoot, the goose she's loose",
+          "rhyme": "uz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "So wild you couldn't chase it down with straight fruit juice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "Frown like the first time you taste couscous",
+          "rhyme": "us",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "Stash the deuce deuce, troops askin' \"truce, truce\"",
+          "rhyme": "ys",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "Today on intense wreck week",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "We have the Supervillain in his own defense to speak",
+          "rhyme": "Ek",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "It's all part of my mental techniques",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "Available to freaks and pencil-neck geeks",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "Train a sane brain to an insane train of thought",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "On a campaign trail he came to gain your support",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "Charge cash for a autograph",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "Say some shit to make your daughter laugh, then slaughter the ass",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "See 'em on the big screen like Steve McQueen",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Do somethin' and never be back once he leaves the scene",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "Keep more medicated pads than Stridex",
+          "rhyme": "Eks",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "For his own side wreck with no known side effects",
+          "rhyme": "Ekt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "Before you press charges use your noodle",
+          "rhyme": "odl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "So what when he grab the mic he crush your cute cuticles",
+          "rhyme": "ikl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "Keep your mouth shut, everything will be beautiful",
+          "rhyme": "9l",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "43",
+          "text": "It would be awfully rude of you, now get back to your hoody hoo",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "44",
+          "text": "Damn it, it ain't worth the drama, can it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "45",
+          "text": "From the calm bandit, eat rhymers like pomegranate",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "46",
+          "text": "Soon as he stepped in he lit the room",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "47",
+          "text": "Boom, reschedule my noon with Brit Hume",
+          "rhyme": "ym",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "48",
+          "text": "(DOOM!) In love with Mary Jane, she's my main thing",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "49",
+          "text": "Pulled her right from that web head, what a lame brain",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "50",
+          "text": "Maintain and say it, don't spray it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "51",
+          "text": "You wanna see your girl again, you might as well pay it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "52",
+          "text": "If I had a dime for every rhymer's that bust guns",
+          "rhyme": "9n",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "53",
+          "text": "I'd have a cool mil' for my sons in trust funds",
+          "rhyme": "wndz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "54",
+          "text": "When I was broker than a broke dick dog",
+          "rhyme": "Og",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "55",
+          "text": "I always kept a L to smoke in thick fog",
+          "rhyme": "Og",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "56",
+          "text": "When it rain, it sure do thunderstorm",
+          "rhyme": "uRm",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "57",
+          "text": "I got more rhymes in the summer than musty underarms",
+          "rhyme": "Om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "58",
+          "text": "One, two, microphone checker",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "59",
+          "text": "First learned to neck off a Home Ec homewrecker",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "60",
+          "text": "This is back when he was like crib age",
+          "rhyme": "aZ",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "61",
+          "text": "When he hit the stage, it's like a gauge to the rib cage",
+          "rhyme": "aZ",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "62",
+          "text": "Break the mic like a rock star break a guitar",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "63",
+          "text": "And jump off the stage like \"Yee haw!\"",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCDEFGHIJJKLIIMINIIIIIOHPDQRQQSTUJVWXYZ[\\IF]^_`aFFbcddefgghhAI",
+      "rhyme_vowel": "AABBCADDDEAAFBEEAEDEEEEEGDGCDBDDAHAADFBBEDIEDAGCDJDDIKHHGHIIAAAE"
+    },
+    {
+      "section_id": "section_1",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(UN leader): We shall now vote for a new world leader. I nominate, DOOM. All in favor, say Aye",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "(Delegates (In unison)): Aye!",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "(John Jameson): Oh no",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "(DOOM): DOOM, is master of the world",
+          "rhyme": "Old",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "(Boris the foreman): We must hurry",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "(Johan the rebel): Wait! If you are really with us, prove it. Let me hear you say it. Tell me that DOOM is a tyrant and must be overthrown",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "(Boris the foreman): I-I have spent my life",
+          "rhyme": "ajf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "(Johan the rebel): Say it! You have spent your life serving a tyrant. DOOM must be stopped",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "(Boris the foreman): I fear you're right, my friend",
+          "rhyme": ")d",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "(DOOM Cronie): The President of the United States is on the phone",
+          "rhyme": "on",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "(DOOM): Mr. President, you're at the mercy of your deadliest enemy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "(President): It is time you learned once and for all, DOOM. The United States does not barter with terrorists",
+          "rhyme": "ist",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "(DOOM): You never learn, do you?",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "(Boris the foreman): Here, this is the address of friends in New York. They'll help",
+          "rhyme": "alp",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCDEFGHIDJKL",
+      "rhyme_vowel": "AABCDEEFGBDDHE"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "song_id": 3932892,
+  "title": "DOOM on Vik",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "spoken",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh, man, Vik'?",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Oh, Vik'—yeah, he's this young cat that",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "He had this thing down pat, he knew what he was doing",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "So, you know, he do his thing",
+          "rhyme": "iN",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "Younger cat though, good good dude though",
+          "rhyme": "O",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "Uh, I hear Viktor—Viktor doing somethi’g with, with, uh, with the Insomniac crew",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "Yanawha' I mean?",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Ah, shit, I don't really know (?)",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "To me he gone do it, I'd love to hear it though",
+          "rhyme": "O",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "Vik' is a nasty young MC",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDEFGHEA",
+      "rhyme_vowel": "ABCADEAFDA"
+    },
+    {
+      "section_id": "section_1",
+      "type": "instrumental",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_2",
+      "type": "spoken",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Well, Vik' is, you know, to me his shit is like",
+          "rhyme": "Ejk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Man—how can I describe Vik'?",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Vik'—you know, DOOM come out, DOOM, guy's a rapper, whatever",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "But, Vik'—a lot of people compare DOOM to Vik'—or Vik' to DOOM—vice-versa",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "Now the villain everywhere, yo, the Villain is you, the Villain is me, the Villain is you",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "But then Vik', he earns his own rights, you know wha' i'm sayin'?",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "And now he's doing his thing, and he got his own little niche, like people know the difference between the two",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Like I respect that, you can't beat that. Priceless",
+          "rhyme": "Es",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDEFGH",
+      "rhyme_vowel": "ABCDEFGA"
+    }
+  ]
+}

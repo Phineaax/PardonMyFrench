@@ -1,0 +1,674 @@
+{
+  "song_id": 14284690,
+  "title": "LICK-A-KNIFE",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "partie",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tu m'as fait mal, donc si j’me bats c'est pour la life",
+          "rhyme": "ajf",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'me ferais la malle avec une balle droit dans la face",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Que j’ai hâte de m'libérer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pendue dans l'back de ma house, on fait tous semblant d'arrêter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Personne me forcera à rester (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Personne me forcera à rester là",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "La vie, ma bish, c'pas Interstellar (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "La fame, l'argеnt, ça pue la merde",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Sans l'amour, bih, c'еst plus la même",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Mais sans tout ça, j’serais d’jà plus là (là)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Faut jamais baisser les bras",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Mais quand t'as mal, ils viennent tous le célébrer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Jeune dépressive et célèbre",
+          "rhyme": "EbR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J’crache les mots qui brûlaient ses lèvres (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "EvR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Oublie pas d'mentir sur le web (wa, wa, wa, wa)",
+          "rhyme": "Eb",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'leur ai supplié d'pas l’faire, ils l'font quand même (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Putain, c'que j'ai hâte qu'on m'emmène",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Comme l'oiseau, à l'autre bout du monde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCCDEFGDDCHIJGKL",
+      "rhyme_vowel": "AABBBAACCAABCCCCCD"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "À l'autre bout du monde (ah-ahh)",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tous les humains font de l'ombre à l'amour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "À l'autre bout du monde (si loin)",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Tous les humains font de l'ombre à la mort",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Les souvenirs dont on parle pas s'envolent avec le vent",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'sais plus qui y avait au bord quand on m'a laissée sous l'eau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Certains naissent avec la cuillère en argent",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "D'autres n'avaient pas d'autre choix que de lécher l'couteau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "T'en fais pas, ma belle, d'en bas j'ai d'jà fait toutes mes tasks, ouais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Parfois on est trop honnêtes, parfois on manque de tact",
+          "rhyme": "akt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "N'fais pas les mêmes erreurs, sérieux, regarde comme je lack",
+          "rhyme": "ak",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Reste underground, plus rien n'a d'sens vu d'en haut",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Du ciel que les humains sont beaux",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Tu l'remarques que quand ils partent en lambeaux (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Personne m'a prévenu qu'la pute dans ma tête s'rait là pour toute la life",
+          "rhyme": "ajf",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABACDEDEFGHEEEI",
+      "rhyme_vowel": "ABACDEDEFGGEEEG"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tu m'as fait mal, donc si j'me bats c'est pour la life",
+          "rhyme": "ajf",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'me ferai la malle avec une balle droit dans la face",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Que j'ai hâte de m'libérer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pendue dans l'back de ma house, on fait tous semblant d'arrêter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Personne me forcera à rester (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Personne me forcera à rester là",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "La vie, ma bish, c'pas Interstellar (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "La fame, l'argent, ça pue la merde",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Sans l'amour, bih, c'est plus la même",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Mais sans tout ça, j'serais d'jà plus là (waw, waw, waw)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "On m'a dit \"faut jamais baisser les bras\"",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Mais quand t'as mal, ils viennent tous le célébrer (waw, waw, waw)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Jeune dépressive et célèbre (waw, waw, waw)",
+          "rhyme": "EbR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'crache les mots qui brûlaient ses lèvres (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "EvR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Oublie pas d'mentir sur le web (wa, wa, wa, wa)",
+          "rhyme": "Eb",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'leur ai supplié d'pas l'faire, ils l'font quand même (lick a knife, lick a knife, lick a knife)",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Putain, c'que j'ai hâte qu'on m'emmène",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Comme l'oiseau, à l'autre bout du monde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCCDEFGDDCHIJGKL",
+      "rhyme_vowel": "AABBBAACCAABCCCCCD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Et je lui tends juste un bout du monde (les humains font de l'ombre)",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Sa part obscure entretient l'imposture (l'autre bout du monde)",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Mais quel beau temps pour juste un bout du monde (les humains font de l'ombre)",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "En espérant qu'il soit vrai pour une fois",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "partie",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_7",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Comme je t'aime, je t'aime, je t'aime, alright",
+          "rhyme": "ajt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai pas tout fait pour le moral",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y a des choses que j'ressens qu'on peut pas dire à l'oral",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Comme je t'aime, je t'aime, je t'aime",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Comme je t'aime, je t'aime, je t'aime",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Et je le sens au fond de moi, j'suis d'jà m-",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Et je le sens au fond de moi, j'suis d'jà m-",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Et je le sens au fond de moi qu'j'suis d'jà m-",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Ah, mm, ah, mam, ah, mam, ah, mam",
+          "rhyme": "am",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCCDDDE",
+      "rhyme_vowel": "AAABBCCCA"
+    },
+    {
+      "section_id": "section_8",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Personne me parle comme j'me parle, ah-ah-ah-ah, ah-ah-ah-ah",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "À force je sais plus qui écouter (je sais plus qui écouter)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Comme je t'aime, je t'aime, je t'aime",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Donc j'apprends, ouais, j'apprends",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "À aimer l'cycle avant d'aimer la vie (avant d'aimer la vie)",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Hémisphère droit, hémisphère gauche ([la vie la mort, la vie la mort, la vie la mort, la vie la m- ?])",
+          "rhyme": "oS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Vamacara, vamacara",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFA",
+      "rhyme_vowel": "ABCDEFA"
+    },
+    {
+      "section_id": "section_9",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Comme je t'aime, je t'aime, je t'aime, alright",
+          "rhyme": "ajt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai pas tout fait pour le moral",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y a des choses que j'ressens qu'on peut pas dire à l'oral",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Comme je t'aime, je t'aime, je t'aime",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBC",
+      "rhyme_vowel": "AAAB"
+    },
+    {
+      "section_id": "section_10",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'sais plus comment on fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Comme je t'aime, je t'aime, je t'aime",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Tout est si facile et si compliqué",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Et je le sens au fond de moi, j'suis d'jà m-",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Un jour ça va, un jour ça va pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Et je le sens au fond de moi, j'suis d'jà m-",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'imagine que c'est l'équilibre",
+          "rhyme": "ibR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Et je le sens au fond de moi qu'j'suis d'jà morte (ah-ah)",
+          "rhyme": "ORt",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEDFG",
+      "rhyme_vowel": "AABCDCEF"
+    },
+    {
+      "section_id": "section_11",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tous les jours j'apprends, ah, mam",
+          "rhyme": "am",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Parfois j'retourne en arrière (ah, mam, ah, mam)",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'oublie c'que j'ai appris, ah-ah-ah-ah, ah-ah-ah-ah",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Et j'le réapprends, encore une fois",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCC",
+      "rhyme_vowel": "ABAA"
+    },
+    {
+      "section_id": "section_12",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Comme je t'aime, je t'aime, je-",
+          "rhyme": "@",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Donc j'apprends, ah-ah, ouais, j'apprends, ah-ah",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "À aimer l'cycle avant d'aimer la vie, ah-ah-ah-ah",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Hémisphère droit (avant d'aimer), hémisphère gauche, ([la vie la mort, la vie la mort, la vie la mort, la vie la m- ?])‎‎",
+          "rhyme": "m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ah-ah-ah-ah, ah-ah-ah-ah",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On recommence",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCBD",
+      "rhyme_vowel": "ABBCBD"
+    }
+  ]
+}

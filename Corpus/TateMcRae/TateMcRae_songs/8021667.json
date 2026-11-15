@@ -1,1 +1,174 @@
-{"song_id": 8021667, "title": "i still say goodnight", "language": "en", "lyricists": [1258628, 615565], "lyrics": [{"section_id": "section_0", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "You stopped saying goodnight", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "That was the first sign that you were letting go", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Now you don't see me the same way", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "You're looking at me like I'm only getting old", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_1", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "And I shoulda known", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "That you were only scared to be alone", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I couldn't say much, I was distracted", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "You seemed so anxious like you had something to hide", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Tell me, \"It's nothing\", I don't believe you", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "I know that look you get when you're about to lie", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "I feel so stupid, mm-mm", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "'Cause I still say goodnight", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_3", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "I always tried to impress you", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Got so dressed up and you never seemed to care", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Your ridiculous expectations, lack of validations", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Was never fucking fair", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_4", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "And I shoulda known", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "That you were only scared to be alone", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_5", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I couldn't say much, I was distracted", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "You seemed so anxious like you had something to hide", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Tell me, \"It's nothing\", I don't believe you", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "I know that look you get when you're about to lie", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "I feel so stupid, mm-mm", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "'Cause I still say goodnight", "persona_id": "persona_tate_baseline"}]}], "album_id": 1506509}
+{
+  "song_id": 8021667,
+  "title": "i still say goodnight",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    615565
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You stopped saying goodnight",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "That was the first sign that you were letting go",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Now you don't see me the same way",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You're looking at me like I'm only getting old",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And I shoulda known",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "That you were only scared to be alone",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I couldn't say much, I was distracted",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You seemed so anxious like you had something to hide",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Tell me, \"It's nothing\", I don't believe you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I know that look you get when you're about to lie",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I feel so stupid, mm-mm",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "'Cause I still say goodnight",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I always tried to impress you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Got so dressed up and you never seemed to care",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Your ridiculous expectations, lack of validations",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Was never fucking fair",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And I shoulda known",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "That you were only scared to be alone",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I couldn't say much, I was distracted",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You seemed so anxious like you had something to hide",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Tell me, \"It's nothing\", I don't believe you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I know that look you get when you're about to lie",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I feel so stupid, mm-mm",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "'Cause I still say goodnight",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 1506509
+}

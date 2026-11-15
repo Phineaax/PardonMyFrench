@@ -1,0 +1,370 @@
+{
+  "song_id": 14284683,
+  "title": "GRIMBEEPER",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ça fait long qu'j'ai pas d'libido",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'guette les news comme Monty Python",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'me bats pour la liberté d'ceux qui veulent, ceux qui m'crachent dessus c'est leur dos",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABA",
+      "rhyme_vowel": "ABA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Du pain, des jeux pour l'patient d'base, des gosses noyés dans l'bassin d'balles",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "L'amour vaincra mais pas sans s'battre, l'amour vaincra mais pas sans-",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "D'la compassion pour l'passant, sur deux balles, faut faire fois cent",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ça f'ra vingt K pour moi, et cent-vingt pour l'grand projet, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBC",
+      "rhyme_vowel": "ABBA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ma bish me parle comme Roddy Key, j'loot un taser opening case",
+          "rhyme": "az",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Y a rien d'plus violent qu'la dissuasion, donc ils t'fichent en toutе situation",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La miss-, la-, la mission m'empêche d'être pudiquе, si jamais t'as b'soin de courir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Manipuler l'opinion publique, t'as qu'à faire comme au *****",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'me f'sais vomir dans les toilettes, on rêvait d'marcher libres comme les Touaregs",
+          "rhyme": "Eg",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Tu vas t'faire afficher par un individu comme **** Le Cl*****",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEF",
+      "rhyme_vowel": "ABCDEE"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Jordan j'mets ma b*** dans son c**",
+          "rhyme": "s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'planquais d'la **** dans son ***, j'oublie pas faut ***-***",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Comme ils ont ***** notre avenir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "**-** versus hétéros, ma bish c'est nous les très zemel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'consomme plus rien sauf l'Estradiol énanthate 0,13ml",
+          "rhyme": "itR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Si tu t'exposes, c'est d'jà doomed, ils vont t'**-** comme Daniela Klette",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Re-re-reste dans l'ombre si tu veux l'faire, comme Andreas Baader",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'garde tous mes réflexes de pauvre, même quand on m'appelle à la barre",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'suis tellement nulle en maths que j'ai zappé soixante K dans la bar",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "B, j'm'en branle de la grammaire, la langue française j'épluchèrent",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Les taros passent de trois M à ton âme, comme si ça vaut plus cher",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Toi tu pointes du doigt mes loses, ça m'plaît, car j'suis la seule à prendre des risques",
+          "rhyme": "isk",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Maintenant, quand j'regarde les news, j'me dis qu'j'avais des strats nulles à Risk",
+          "rhyme": "ask",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Quand t'as des missions de cette taille, ma bish t'as même plus d'libido",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Si l'élite en a encore pour ses soirées chemsex, c'est qu'ça compte pas pour eux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Fuck Palantir, LOVE TENCENT, ils graillent des gosses pour moins d'ten cents",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'préfère Jinping à Donald, au moins y a moins d'chances qu'il v***** des gosses",
+          "rhyme": "Os",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "On aura l'crédit social avant la Chine, même pour cent K, j'courbais pas l'échine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'pense que c'est Satan qui m’les tendait, tu vas pas ride seul tout le tandem",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "J'crois pas en l'État, j'crois en Dieu, ces fils de pute ils croient qu'en eux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Si ça plaît pas, ils t'croquent en deux, j'fais qu'des constats, j'ai plus la haine",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Mais l'élite va t'**** comme les anar' sauf s'ils passent leur temps sur Twitter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "Plus jeune j'faisais tourner d'la ***-*** près de *** ou dans l'secteur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "God Bless, ça, c'est derrière moi, j'regarde même plus l'prix du meuge",
+          "rhyme": "yZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Tranny, prolétaire et blanche, j'profite de mes privilèges",
+          "rhyme": "EZ",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEFFGHIJKLMNJODPQR",
+      "rhyme_vowel": "ABACDDAABDEFGHBAFACIJA"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Jordan j'mets ma b*** dans son c**",
+          "rhyme": "s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'planquais d'la **** dans son c**, j'oublie pas faut ***-***",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Comme ils ont ***** notre travail",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_7",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Du pain, des jeux pour l'patient d'base, des gosses noyés dans l'bassin d'balles",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "L'amour vaincra mais pas sans s'battre, l'amour vaincra mais pas sans-",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "D'la compassion pour l'passant, sur deux balles, faut faire fois cent",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ça f'ra vingt K pour moi, et cent-vingt pour l'grand projet, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBC",
+      "rhyme_vowel": "ABBA"
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Et cent-vingt pour l'grand projet, babe, babe, babe, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Et cent-vingt pour l'grand projet, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "****** υb Ɉnɘϱɒ nυ Ɉƨɘ'ɔ ƨiɒm ɿiov ɒ nɘiɿ ,nnɒmƨʞɔυlӘ ,ɘɿɘm ɒm'b ɘiv ɒ⅃",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAB",
+      "rhyme_vowel": "AAB"
+    }
+  ]
+}

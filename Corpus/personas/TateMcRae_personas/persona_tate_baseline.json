@@ -1,1 +1,15 @@
-{"persona_id": "persona_tate_baseline", "persona_name": "Tate McRae", "artist_id": "1258628", "period": {"start": "2020", "end": "2022"}, "anchored_releases": ["547004", "669743", "796536"], "is_baseline": true}
+{
+  "persona_id": "persona_tate_baseline",
+  "persona_name": "Tate McRae",
+  "artist_id": "1258628",
+  "period": {
+    "start": "2020",
+    "end": "2022"
+  },
+  "anchored_releases": [
+    "547004",
+    "669743",
+    "796536"
+  ],
+  "is_baseline": true
+}

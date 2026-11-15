@@ -1,0 +1,22 @@
+{
+  "persona_id": "persona_tyler_baseline",
+  "persona_name": "Tyler, The Creator",
+  "artist_id": "685",
+  "period": {
+    "start": "2011",
+    "end": null
+  },
+  "anchored_releases": [
+    "10762",
+    "18842",
+    "122895",
+    "352640",
+    "911522",
+    "1260992",
+    "1438082",
+    "1442941",
+    "1444648",
+    "1510822"
+  ],
+  "is_baseline": true
+}

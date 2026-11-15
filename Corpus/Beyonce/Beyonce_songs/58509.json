@@ -1,0 +1,349 @@
+{
+  "song_id": 58509,
+  "title": "I Care",
+  "language": "en",
+  "lyricists": [
+    498,
+    26832,
+    27434
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I told you how you hurt me, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But you don't care",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Now, I'm cryin' and deserted, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But you don't care",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Ain't nobody tell me this is love",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "When you're immune to all my pain",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I need you to tell me this is love",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "You don't care? Well, that's okay",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Well, I care (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I know you don't care too much (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "But I still care (La-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Baby (La-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Oh, I care (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I know you don't care too much (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "But I still care (La-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Baby (La-la-la-la-la-la), ow",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ever since you knew your power",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You made me cry",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And now, everytime our love goes sour",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You won't sympathize",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "You see these tears fallin' down to my ears",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I swear you like when I'm in pain, yeah",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I try to tell you all my fears, huh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "You still don't care? That's okay, hey",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Well, I care (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I know you don't care too much (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "But I still care (La-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Baby (La-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Oh, I care (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I know you don't care too much (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "But I still care (La-la-la-la-la, yeah)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Baby (La-la-la-la-la-la, yeah), ow",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Boy, maybe if you cared enough (Maybe if you cared enough)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I wouldn't have to care so much (Wouldn't have to care so much)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "What happened to our trust? (Happened to our trust?)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Now you're just givin' up (Now you're just givin' up)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "You used to be so in love (You used to be so in love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Now, you don't care no more",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ooh, ooh, ooh-ooh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Ooh, ooh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Ooh, ooh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Ooh, ooh",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Ooh, oh, woah, woo, ooh",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Well, I care (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I know you don't care too much (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "But I still care (La-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Baby (La-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Oh, I care (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I know you don't care too much (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "But I still care (La-la-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Baby (La-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I still care (La-la-la-la-la-la-la, la-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I still care (La-la-la-la-la-la-la, la-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I still care (La-la-la-la-la-la-la, la-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Ow (La-la-la-la-la-la-la, la-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I still care (La-la-la-la-la-la-la)",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 32041
+}

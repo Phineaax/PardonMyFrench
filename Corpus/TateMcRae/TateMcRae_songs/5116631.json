@@ -1,1 +1,259 @@
-{"song_id": 5116631, "title": "that way", "language": "en", "lyricists": [451356, 325437, 1258628], "lyrics": [{"section_id": "section_0", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Run me in circles like you always do", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Mess with me on purpose, so I'll hang\u2005on\u2005to you", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_1", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "I know\u2005what you mean when you act\u2005like that", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "But you don't know it's breaking my heart", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Said that it was just never gonna happen", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Then almost kissed me in the dark", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Every time we talk, it just hurts so bad", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "'Cause I don't even know what we are", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "I don't even know where to start", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "But I can play the part", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "We say we're friends, but I'm catching you across the room", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "It makes no sense 'cause we're fighting over what we do", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "And there's no way that I'll end up being with you", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "But friends don't look at friends that way", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Friends don't look at friends that way", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_3", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Can't even tell if I love or hate you more", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "You've got me addicted and I can't tell who's keeping score", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_4", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "I know what you mean when you act like that", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "But you don't know it's breaking my heart", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Said that it was just never gonna happen", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Then almost kissed me in the dark", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Every time we talk, it just hurts so bad", "persona_id": "persona_tate_baseline"}, {"n": "5", "text": "'Cause I don't even know what we are", "persona_id": "persona_tate_baseline"}, {"n": "6", "text": "I don't even know where to start", "persona_id": "persona_tate_baseline"}, {"n": "7", "text": "But I can play the part", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_5", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "We say we're friends, but I'm catching you across the room", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "It makes no sense 'cause we're fighting over what we do", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "And there's no way that I'll end up being with you", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "But friends don't look at friends that way", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_6", "type": "refrain", "performer": "", "lines": [{"n": "0", "text": "Friends don't look at friends that way", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "Friends don't look at friends that way", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "Friends don't look at friends that way", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "Mm, hey", "persona_id": "persona_tate_baseline"}]}, {"section_id": "section_7", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "We say we're friends, but I'm catching you across the room", "persona_id": "persona_tate_baseline"}, {"n": "1", "text": "It makes no sense 'cause we're fighting over what we do", "persona_id": "persona_tate_baseline"}, {"n": "2", "text": "And there's no way that I'll end up being with you", "persona_id": "persona_tate_baseline"}, {"n": "3", "text": "But friends don't look at friends that way", "persona_id": "persona_tate_baseline"}, {"n": "4", "text": "Friends don't look at friends that way", "persona_id": "persona_tate_baseline"}]}], "album_id": 547004}
+{
+  "song_id": 5116631,
+  "title": "that way",
+  "language": "en",
+  "lyricists": [
+    451356,
+    325437,
+    1258628
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Run me in circles like you always do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Mess with me on purpose, so I'll hang on to you",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I know what you mean when you act like that",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But you don't know it's breaking my heart",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Said that it was just never gonna happen",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Then almost kissed me in the dark",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Every time we talk, it just hurts so bad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "'Cause I don't even know what we are",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I don't even know where to start",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "But I can play the part",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We say we're friends, but I'm catching you across the room",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "It makes no sense 'cause we're fighting over what we do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And there's no way that I'll end up being with you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Can't even tell if I love or hate you more",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You've got me addicted and I can't tell who's keeping score",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I know what you mean when you act like that",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "But you don't know it's breaking my heart",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Said that it was just never gonna happen",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Then almost kissed me in the dark",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Every time we talk, it just hurts so bad",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "5",
+          "text": "'Cause I don't even know what we are",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I don't even know where to start",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "7",
+          "text": "But I can play the part",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We say we're friends, but I'm catching you across the room",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "It makes no sense 'cause we're fighting over what we do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And there's no way that I'll end up being with you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Mm, hey",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We say we're friends, but I'm catching you across the room",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "1",
+          "text": "It makes no sense 'cause we're fighting over what we do",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And there's no way that I'll end up being with you",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Friends don't look at friends that way",
+          "persona_id": "persona_tate_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 547004
+}

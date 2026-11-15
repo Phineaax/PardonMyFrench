@@ -1,0 +1,364 @@
+{
+  "song_id": 31448,
+  "title": "Back End",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hm",
+          "rhyme": "Om",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "What a sad, strange tune he's playing",
+          "rhyme": "iN",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Hahaha",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "I have evidence, and I can prove it!",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "—and I can prove it!",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDD",
+      "rhyme_vowel": "ABCBB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dub it off your man, don't spend that ten bucks",
+          "rhyme": "yk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "I did it for the advance, the back end sucks",
+          "rhyme": "yk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "It's better than sittin' up in a crack den with the MAC-11",
+          "rhyme": "ak",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Yellin' at your fiends and friends to duck",
+          "rhyme": "yk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "There's feds at the door! Oh, it's just Fed Ex",
+          "rhyme": "Eks",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "I thought I heard walkie-talkies, must've been them redneck",
+          "rhyme": "Ek",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "Neighbors of mine - they fuckin with they CB",
+          "rhyme": "9b",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "And we in the spot, watchin' COPS on TV",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "Blazin' greens, thumpin' Big's first CD",
+          "rhyme": "aR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "Drinkin' OE, hopin' pigs don't see",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "If they were psychic, they'd try to give him the electric chair",
+          "rhyme": "ER",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "It's gettin' hectic in here and it's a election year",
+          "rhyme": "ER",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "Keep this section clear, VIP",
+          "rhyme": "ip",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Shed a few tears since a knee-high G",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "And got more tricks up my sleeve, cough, hiccup and sneeze",
+          "rhyme": "iz",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "Make an emcee sick and dry heave, wheeze",
+          "rhyme": "iz",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "They must be still allergic to a",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "17",
+          "text": "Real raw rhymer with skills that surgical",
+          "rhyme": "al",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "18",
+          "text": "Take the day off and lay off the crazy water",
+          "rhyme": "ER",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "19",
+          "text": "It don't faze V as he lay up with your lazy daughter",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "20",
+          "text": "With your lazy daughter",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AABACDEFGHIIJFKKLMIFF",
+      "rhyme_vowel": "AABACCDEBFCCFEFFBBCEE"
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Heat the bake, V came to eat your team's steak",
+          "rhyme": "Ek",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "And for dessert, a treat, the green cake",
+          "rhyme": "Ek",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "So much sweets it's a dream, it seem fake",
+          "rhyme": "Ejk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "These type themes make your beat machine break",
+          "rhyme": "Ek",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "It's on the fritz, put it on the Ritz",
+          "rhyme": "its",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "And watch what he gets, once his mitts is on the glitz",
+          "rhyme": "itz",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "A lot of rappers are soft tit and talk shit",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "They need to do us all a big favor: cork it",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "Spit it like raw grits, get it?",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "They better off forfeit, admit it",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "Relaxin' in your town once the tour quit",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "V keep comin' back with more and more hits",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "More hits",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AABACDEEEEFEE",
+      "rhyme_vowel": "AAAABBBBBBBBB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "He had a way with the world's most beautiful",
+          "rhyme": "9l",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Most seductive, most glamorous women",
+          "rhyme": "En",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "He did away with that",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "What happened to you anyway?",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "What was the trouble Viktor?",
+          "rhyme": "OR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "Nothing at all",
+          "rhyme": "ol",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "Viktor, the way you look!",
+          "rhyme": "uk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Yes?",
+          "rhyme": "ej",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "You're exhausted",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "You didn't get any sleep at all last night, did you?",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "I was working, er—reading",
+          "rhyme": "iN",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "Who's outside?",
+          "rhyme": "id",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "What was the trouble Viktor?",
+          "rhyme": "OR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "I was detained",
+          "rhyme": "Ed",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDEFGHDIJKEL",
+      "rhyme_vowel": "ABCDEFGDDGHHEB"
+    }
+  ]
+}

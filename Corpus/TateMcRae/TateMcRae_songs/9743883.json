@@ -1,1 +1,303 @@
-{"song_id": 9743883, "title": "grave", "language": "en", "lyricists": [1258628, 196086, 1046457], "lyrics": [{"section_id": "section_0", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "One chance, two chances of three", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Think I got too much sympathy, yeah", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I hold my grudges like I held you", "persona_id": "persona_tatiana"}, {"n": "3", "text": "How does me tryin' to fix it", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Turn into \"I'll just forgive it\"?", "persona_id": "persona_tatiana"}, {"n": "5", "text": "One chance, two chances were lost on you (Uh)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_1", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "You can only dig the grave so deep", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Before you start to take me down with you", "persona_id": "persona_tatiana"}, {"n": "2", "text": "With you, with you, with you", "persona_id": "persona_tatiana"}]}, {"section_id": "section_2", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I could never make you want me like I wanted to be wanted", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I could never really change you like I thought that I could", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I was tryna make us somethin' out of nothin', we were nothin' at all", "persona_id": "persona_tatiana"}, {"n": "3", "text": "You can only dig the grave so deep", "persona_id": "persona_tatiana"}, {"n": "4", "text": "You can only try to save somethin' that's not already gone", "persona_id": "persona_tatiana"}]}, {"section_id": "section_3", "type": "interlude", "performer": "", "lines": [{"n": "0", "text": "It's so sad, what the fuck?", "persona_id": "persona_tatiana"}]}, {"section_id": "section_4", "type": "verse", "performer": "", "lines": [{"n": "0", "text": "Said you'd be goin' out with all your boys (Ah-ah)", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I'm crazy if I called you, right?", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Tables turned, now I'm out", "persona_id": "persona_tatiana"}, {"n": "3", "text": "And you just called, like, thirty times (Thirty times)", "persona_id": "persona_tatiana"}, {"n": "4", "text": "Always a funny thing", "persona_id": "persona_tatiana"}, {"n": "5", "text": "Watchin' the tough guy plead", "persona_id": "persona_tatiana"}, {"n": "6", "text": "Oh, baby", "persona_id": "persona_tatiana"}]}, {"section_id": "section_5", "type": "pre-chorus", "performer": "", "lines": [{"n": "0", "text": "You can only dig the grave so deep", "persona_id": "persona_tatiana"}, {"n": "1", "text": "Before you start to take me down with you", "persona_id": "persona_tatiana"}, {"n": "2", "text": "With you, with you, with you", "persona_id": "persona_tatiana"}]}, {"section_id": "section_6", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "I could never make you want me like I wanted to be wanted", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I could never really change you like I thought that I could", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I was tryna make us somethin' out of nothin', we were nothin' at all", "persona_id": "persona_tatiana"}, {"n": "3", "text": "You can only dig the grave so deep", "persona_id": "persona_tatiana"}, {"n": "4", "text": "You can only try to save somethin' that's not already gone", "persona_id": "persona_tatiana"}]}, {"section_id": "section_7", "type": "post-chorus", "performer": "", "lines": [{"n": "0", "text": "That's not already gone", "persona_id": "persona_tatiana"}, {"n": "1", "text": "That's not already gone", "persona_id": "persona_tatiana"}, {"n": "2", "text": "Ooh", "persona_id": "persona_tatiana"}]}, {"section_id": "section_8", "type": "bridge", "performer": "", "lines": [{"n": "0", "text": "You had me, you had me for a minute", "persona_id": "persona_tatiana"}, {"n": "1", "text": "The sad thing is you never would admit that you had me", "persona_id": "persona_tatiana"}, {"n": "2", "text": "You had me for a minute there (Ooh)", "persona_id": "persona_tatiana"}, {"n": "3", "text": "You had me (You), you had me for a minute (Had)", "persona_id": "persona_tatiana"}, {"n": "4", "text": "The sad thing (Me) is you never would admit (Baby) that you had me (You)", "persona_id": "persona_tatiana"}, {"n": "5", "text": "You had me for a minute there (Had me)", "persona_id": "persona_tatiana"}]}, {"section_id": "section_9", "type": "chorus", "performer": "", "lines": [{"n": "0", "text": "But I could never make you want me like I wanted to be wanted", "persona_id": "persona_tatiana"}, {"n": "1", "text": "I could never really change you like I thought that I could", "persona_id": "persona_tatiana"}, {"n": "2", "text": "I was tryna make us somethin' out of nothin', we were nothin' at all", "persona_id": "persona_tatiana"}, {"n": "3", "text": "You can only dig the grave so deep", "persona_id": "persona_tatiana"}, {"n": "4", "text": "You can only try to save somethin' that's not already gone", "persona_id": "persona_tatiana"}]}], "album_id": 963023}
+{
+  "song_id": 9743883,
+  "title": "grave",
+  "language": "en",
+  "lyricists": [
+    1258628,
+    196086,
+    1046457
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "One chance, two chances of three",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Think I got too much sympathy, yeah",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I hold my grudges like I held you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "How does me tryin' to fix it",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Turn into \"I'll just forgive it\"?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "One chance, two chances were lost on you (Uh)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You can only dig the grave so deep",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Before you start to take me down with you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "With you, with you, with you",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I could never make you want me like I wanted to be wanted",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I could never really change you like I thought that I could",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I was tryna make us somethin' out of nothin', we were nothin' at all",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You can only dig the grave so deep",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You can only try to save somethin' that's not already gone",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's so sad, what the fuck?",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Said you'd be goin' out with all your boys (Ah-ah)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I'm crazy if I called you, right?",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Tables turned, now I'm out",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "And you just called, like, thirty times (Thirty times)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "Always a funny thing",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "Watchin' the tough guy plead",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "6",
+          "text": "Oh, baby",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You can only dig the grave so deep",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "Before you start to take me down with you",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "With you, with you, with you",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I could never make you want me like I wanted to be wanted",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I could never really change you like I thought that I could",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I was tryna make us somethin' out of nothin', we were nothin' at all",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You can only dig the grave so deep",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You can only try to save somethin' that's not already gone",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "That's not already gone",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "That's not already gone",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "Ooh",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You had me, you had me for a minute",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "The sad thing is you never would admit that you had me",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "You had me for a minute there (Ooh)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You had me (You), you had me for a minute (Had)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "The sad thing (Me) is you never would admit (Baby) that you had me (You)",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "5",
+          "text": "You had me for a minute there (Had me)",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But I could never make you want me like I wanted to be wanted",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "1",
+          "text": "I could never really change you like I thought that I could",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "2",
+          "text": "I was tryna make us somethin' out of nothin', we were nothin' at all",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "3",
+          "text": "You can only dig the grave so deep",
+          "persona_id": "persona_tatiana"
+        },
+        {
+          "n": "4",
+          "text": "You can only try to save somethin' that's not already gone",
+          "persona_id": "persona_tatiana"
+        }
+      ]
+    }
+  ],
+  "album_id": 963023
+}
