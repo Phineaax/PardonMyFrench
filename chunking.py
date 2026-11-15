@@ -27,7 +27,7 @@ TOKENS_ENG_REG = re.compile(
     re.VERBOSE,
 )
 
-def count_tokens(line: str, lang: str = "fr") -> int:
+def count_tokens(line: str, lang:str = "Aucune Langue Donnée") -> int:
     if lang == "fr":
         regex = TOKENS_FR_REG
     elif lang == "en":
@@ -42,7 +42,7 @@ def count_tokens(line: str, lang: str = "fr") -> int:
 def chunk(
     lyrics_dataframe: pd.DataFrame,
     chunk_tokens_nb: int = DEFAULT_CHUNK_LINES_NB,
-   #lang: str = "fr",
+    lang:str = "Aucune Langue Donnée"
 ) -> List[List[str]]:
     lines = lyrics_dataframe["text"].dropna().to_list()
 
@@ -76,9 +76,9 @@ def chunk(
 
 def format_chunk_for_scoring(lyrics_dataframe: str, # = lyrics dataframe pour une persona.
                              persona_id:str,
-                             chunk_tokens_nb:int=DEFAULT_CHUNK_LINES_NB) -> Optional[Dict[str, List[List[str]]]]:
+                             chunk_tokens_nb:int=DEFAULT_CHUNK_LINES_NB, lang="Aucune Langue Donnée") -> Optional[Dict[str, List[List[str]]]]:
 
-    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb)
+    chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb, lang=lang)
     return {f"{persona_id}_{ind}": chunk for (ind, chunk) in enumerate(chunks)}
     
 

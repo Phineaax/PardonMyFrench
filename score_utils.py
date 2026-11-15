@@ -38,12 +38,12 @@ def longueur_moyenne(lines_chunk:List[str], **kwargs) -> float:
     return sum(words_length)/len(words_length)
 longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
 
-from score_utils import *
 def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
     lang = langcode(language, 2)
     if lang == "en" : lang+="-us"
     dic = pyphen.Pyphen(lang=lang)
 
+    lines_chunk = list(map(lambda l : l.replace("-", "—"), lines_chunk)) #On transforme les 
     syll_per_line = list(map(lambda l : len(dic.inserted(l).split("-")), lines_chunk))
     
     return sum(syll_per_line)/len(lines_chunk)
