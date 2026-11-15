@@ -1,0 +1,328 @@
+{
+  "song_id": 9831095,
+  "title": "HESED",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Premièrement, intéressez-vous sincèrement à l'autre",
+          "rhyme": "otR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Deuxièmement, apprenez à bien communiquer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Troisièmement, n'attendez pas trop d'un ami (Dis-moi c'est quand Soeur ?)",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Quatrièmement, élargissez votre cercle d'amis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On attend la fin du plan dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDD",
+      "rhyme_vowel": "ABCCDD"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sœur, fais pas ça, t'en met trop dans la masse",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "On s'permet des choses 'vec les talles de la masse",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'guette le score, copycat comprend pas qu'on joue",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Il crache mes barz, aux balances, il dit pas bonjour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'aimerais prendre mon temps mais le chrono m'stick",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ils vont s'couper les couilles sur les pronostics",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "NOUVELLE ECONOMIE",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'viens d'peta l'terrain pour l'économie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Il comprend pas pourquoi j'donne pas d'force, on les voit tous copier, comment RT tes bros ?",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Du mal à suivre les R-RDV pros, d'vant le RVB j'bosse comme en RTT bro",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Sœur aka tout l'bestiaire du freak show",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Faut l'argent qui sort du four il faut du fric chaud",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Pour ouvrir la porte, un seul mot suffira",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'viens d'ailleurs, jeune Keter SCP Sephira",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Sœur, fais pas, ça t'en met trop dans la masse",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "On s'permet des choses 'vec les talles de la masse",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "J'laisse une part aux posers, marrant toi tu ramasses (On passe notre temps sous terre comme un boug du Hamas)",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Quelques pelos qui squattent dans mon ombre",
+          "rhyme": "$bR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Tu veux [t'as fauté?], autant le nombre",
+          "rhyme": "$bR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "J'ai changé la vie d'beaucoup d'monde, hein hein",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Mais peu d'gens ont changé la mienne",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Le jour J, j'me maquille comme Chr***",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Y a des cheaters dans le lobby, ça va jouer cancer",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "À l'époque sur LBP dans le séquenceur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "On attend la fin du plan dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "Dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDDEEFFFFGGAAAHHIJKKLLL",
+      "rhyme_vowel": "AABBCCCCDDDDAAAAAEEFGGGHHH"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Faut tenir le trône et ses implications",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Ces bitchs cassent les couilles sur les applications",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "T'es un poser toi on pouvait niquer ta mine, à l'époque où j'enchaînais cachets, kétamine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Du bureau j'croise les doigts quand le colis s'barre",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On enchaîne les bavures comme la police tard",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'suis pas sataniste, j'suis pas John Podesta",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'gratte des plombs pour manteaux faits d'la peau des stars",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCCDC",
+      "rhyme_vowel": "AABCCCC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Welcome to the next stage of Destiny",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Un peu détestable, c'est les même qui mettent des pointeurs sur un piédestal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Di-dis moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Range ta cam' j'suis pas un gimmick",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Vas plutôt filmer les gars d'en bas qui m'imitent",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Dis-moi c'est quand Soeur?",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDECC",
+      "rhyme_vowel": "ABCCAACC"
+    }
+  ]
+}

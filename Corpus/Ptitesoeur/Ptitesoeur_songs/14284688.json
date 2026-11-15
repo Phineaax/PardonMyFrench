@@ -1,0 +1,712 @@
+{
+  "song_id": 14284688,
+  "title": "FAUTISTF",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On crée, on crée, on crée, on crée, on crée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "On crée, on crée, on crée, on crée, on crée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On crée, on crée, on crée, on crée, on cr-",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAB",
+      "rhyme_vowel": "AAB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'mourir, j'vide mon verre, j'ai envie d'm'ouvrir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAA",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mon métier c'est d'accompagner les gens, à défaut de m'accompagner moi-même",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Et occasionnellement me faire violer par des dizaines de milliers d'inconnus (ah)",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'mourir, j'vide mon verre, j'ai envie d'm'ouvrir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAA",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je guette des gens qui me disent ouvertement qu'ils ont envie que j'continue d'aller mal Parce qu'autrement, j'fais de la musique de merde",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Allez vous faire enculer, bande de putes",
+          "rhyme": "yt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "(Ahhhhhh)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'mourir, j'vide mon verre, j'ai envie d'm'ouvrir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAA",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_7",
+      "type": "post-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y a personne qui me vois passer la moitié de la journée à chialer comme une tafiole",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Donc, y a personne qui va me forcer à rester",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y a personne qui va me for- (ah)",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABA"
+    },
+    {
+      "section_id": "section_8",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'mourir, j'vide mon verre, j'ai envie d'm'ouvrir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAA",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_9",
+      "type": "post-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y a personne qui me vois passer la moitié de la journée à chialer comme une tafiole",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Donc, y a personne qui va me forcer à rester",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y a personne qui va me forcer à-",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_10",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Même au bord de la playa, j'rêvais d'une autre vie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Dieu regarde le monde comme si c'était notre fils",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Pour supporter ce monde, j'ai pas la notice",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "T'applaudis quand je vais mal, comme si t'étais pas fautif",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'aime pas la fame, j'aime pas les notifs",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'aime rendre l'amour, j'aime quand ils sont émotifs",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'ai tout donné de moi, ils en veulent encore",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai mis des coup de tête d'dans, elle a pas cédé la porte",
+          "rhyme": "ORt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Le dernier qui ma dit que ça ira : il m'a vi- (on crée)",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'ai sacrifié toute ma vie, pour le vide et voilà",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'avais l'espoir à 7 piges, après je l'ai voilé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Souvent je fermais les yeux sous le ciel étoilé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Comme je t'aime, Neo pour ramener la couleur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Ils peuvent pas capturer ma voix dans le polar",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Tous les jours, j'gamberge du bureau comme un taulard",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "(Rien me sauve d'la pain, même pas des dizaines de milliers de d-)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCCCDEAFGGHIIJ",
+      "rhyme_vowel": "AAAAAABBACDDECCF"
+    },
+    {
+      "section_id": "section_11",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'mourir, j'vide mon verre, j'ai envie d'm'ouvrir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAA",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_12",
+      "type": "post-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mon métier c'est d'accompagner les gens, à défaut de m'accompagner moi-même",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Et occasionnellement me faire violer par des dizaines de milliers d'inconnus (j'ai envie d'mourir)",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_13",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'mourir, j'vide mon verre, j'ai envie d'm'ouvrir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAA",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_14",
+      "type": "post-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y a personne qui me vois passer la moitié de la journée à chialer comme une tafiole (j'ai envie d'mourir)",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Donc, y a personne qui va me forcer à rester",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "(j'ai envie de mourir, j'ai envie de mourir)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Y a personne qui va me forc- (j'ai envie de mourir)",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "(Ahhhhhh)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDC",
+      "rhyme_vowel": "ABCAC"
+    },
+    {
+      "section_id": "section_15",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je chante tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Je dis tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Car je fais tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Je fais tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Je chante tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Je dis tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Car je fais tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Je fais tout ce que je veux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAAAAA",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_16",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Lalala la la la la",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_17",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Quand tu me croises tu siffles",
+          "rhyme": "ifl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Asperge moi du répulsif",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai le trouble obsessionnel compulsif",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'suis passé par tout les chemins qui font des soucis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Comment on fait quand l'obsession c'est d'se der-suici ?",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCC",
+      "rhyme_vowel": "AAAAA"
+    },
+    {
+      "section_id": "section_18",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Lalala la la la la",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Lalala la la la la",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Lalala la la la la",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Lalala la la la la",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Lalala la la la la",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai envie d'mour-",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai envie d'mourir, j'ai envie d'mourir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAABBCB",
+      "rhyme_vowel": "AAAAABBCB"
+    }
+  ]
+}

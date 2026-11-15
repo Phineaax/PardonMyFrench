@@ -1,0 +1,457 @@
+{
+  "song_id": 13945516,
+  "title": "LAI! LAI! LAI!",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "B n'a pas d’huzz",
+          "rhyme": "az",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Il l'ouvre et on facepalm",
+          "rhyme": "alm",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le poseur serre dans l'crâne il a ma pisse ma merde et tous mes textes (MNG)",
+          "rhyme": "Ekst",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Il veut l’bad buzz, mais blud n'a pas le bad buzz, [qu'on se déprave ?]",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "La moula qui m'fait baver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDE",
+      "rhyme_vowel": "AABAC"
+    },
+    {
+      "section_id": "section_2",
+      "type": "pré-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "La moula qui m'fait baver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "La moula qui m'fait baver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le reuf [est trop cheum?]",
+          "rhyme": "2m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Mon salaire fait la motion",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "ma",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je n'écoute pas ferme ta gueule",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tous les jours B j'ai mal mal mal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Pour l’oublier faut qu’je maille maille maille",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La bish me décroche, du rail rail rail",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'suis d’vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'suis d'vant lе mic’, on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'fais plus la mala, j'fais lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'suis d'vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'suis d'vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCCCCC",
+      "rhyme_vowel": "AAABBBBB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Pour vesqui la dèchе",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Pour vesqui la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "T'sais que j'suis dans c'jeu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Dans ma poche y a pas 300g dans l'bocal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai withdraw une fois, j'suis jamais r'tournée à la Mission Locale",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai mis la vovo dans la 8.6 après j'rec' sur la prod du S",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "On t'a tendu notre cœur mais toi tu n'as pas tenu rigueur du geste",
+          "rhyme": "Est",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Il a louché sur les tarots mais chez nous c'était cheum ça-comme",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'claque trois fois la paye d'la daronne, elle est encore au HLM",
+          "rhyme": "ilm",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDDEFGH",
+      "rhyme_vowel": "ABCDDBBEF"
+    },
+    {
+      "section_id": "section_6",
+      "type": "pré-refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "La moula qui m'fait baver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "La moula qui m'fait baver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le reuf [est trop cheum?]",
+          "rhyme": "2m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Mon salaire fait la motion",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_7",
+      "type": "ma",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je n'écoute pas ferme ta gueule",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_8",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Les darons n'avaient pas l'brevet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "B j'sens toujours c'b'soin de m'abreuver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "[?] casqué comme la BRAV-M",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG tu r'connais le [barème ?]",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Designer dans la [?]",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Elle est toujours placée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "T'as voulu te co dans ma party",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "[?] [ma sainte patrie ?]",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Le jour de paye c'est la Saint Patrick",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Viens pas m'frapper",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Tu risques de m'donner [la trique ?]",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Il veut l'bad buzz, blud n'a pas le bad buzz",
+          "rhyme": "az",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEBFFGBGH",
+      "rhyme_vowel": "ABCADBEEEBED"
+    },
+    {
+      "section_id": "section_9",
+      "type": "qu'on",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'est la moula qui m'fait baver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_10",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tous les jours B j'ai mal mal mal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Pour l'oublier faut qu'je maille maille maille",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La bish me décroche aïe aïe aïe",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'suis d'vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'suis d'vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'fais plus la mala, j'fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'suis d'vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'suis d'vant le mic', on fait lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCCCCC",
+      "rhyme_vowel": "AAABBBBB"
+    },
+    {
+      "section_id": "section_11",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Lai lai lai lai lai lai lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Pour vesqui la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Lai lai lai lai lai lai lai lai lai Lai lai lai lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pour vesqui la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Lai lai lai lai lai lai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABABA",
+      "rhyme_vowel": "AAAAA"
+    }
+  ]
+}

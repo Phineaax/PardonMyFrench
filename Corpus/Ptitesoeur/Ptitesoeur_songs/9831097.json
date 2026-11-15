@@ -1,0 +1,409 @@
+{
+  "song_id": 9831097,
+  "title": "TIF⸃ERET",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Un mec qui péta ma DA, on va niquer son KDA",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Arrêtez d'parler à ma place et faire crari qu'on s'connait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Un poch'tar 'vec la cons' collée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Bouffe le plancher ça les console",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Les nerfs branchés à la console",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'atterris pas sur le bon sol",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Pour le mini-skit, faut stock un medi-kit",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Si j'pull up à l'interview bi', j'crois que Mehdi quitte le plateau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'gamberge 'vec le drip de Dee Dee pour faire crari Dexter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Il met 10k dans son labo, il fait crari l'expert",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Il m'dit : \"Soeur, ça c'est la vie\", bish on se fiche de tel avis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Les veinards qu'on a vanné font leurs valises pour Tel Aviv",
+          "rhyme": "iv",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "J'fais qu'des conneries d'puis qu'j'ai la Visa, la vie d'ma mère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Frère vis ta vie mais pas placé vis-à-vis d'ma merde",
+          "rhyme": "ERd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'repense aux fois où j'me suis dit : \"Là c'est cuit\"",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'vais faire un trou dans sa cuisse, gros comme celui d'la sécu (Dégueulasse)",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Des gamins qu'j'ai tellement trix-ma qu'ils veulent prendre ma place",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Fait pas d'faux espoirs t'as un centième de mon vécu",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "T'as qu'à chier d'vant ton NT1, on f'ra pas la diff",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "J'ai envie d'planter l'boug à l'antenne, ça d'vient maladif",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "J'regrette pas l'époque des poses à gros multiplicateurs",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Il s'dit multi-casquette hein, c'est un multi-cappeur",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Les jeunes ils sont fans, ils veulent jouer les antagonistes",
+          "rhyme": "ist",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Fais les diez IRL avant d'les écrire, p'tite sal***",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "Tu fais des p'tits slaloms entre nous y aura pas d'shalom",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "Ils s'font tous baiser par la brèche, ils ont qu'à faire un patch",
+          "rhyme": "atS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "J'suis dans l'appart et j'bouge des knob comme neo dans le VST",
+          "rhyme": "Est",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "Dans ce jeu y a une élite mais elle a pas mon GSP",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "En express, on passe des pièces au taux d'change",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "Y a plus qu'un fake dans la pièce, la tête dans un pot d'chambre",
+          "rhyme": "#bR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "30",
+          "text": "J'essuie mes baskets sur sa tempe, c'est comme un tapis poreux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "31",
+          "text": "Le pays s'étend, c'est tant pis pour eux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "32",
+          "text": "Hey, on va pas cry dans la bedroom",
+          "rhyme": "um",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "33",
+          "text": "Je serre, y a neo qui tape des drums dans la *****",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "34",
+          "text": "On t'as pas trahi grognasse, t'as trop bé-ger dans mon dos",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "35",
+          "text": "On a rentré une belle liasse",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "36",
+          "text": "Rajoute donc ça dans mon doss",
+          "rhyme": "Os",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "37",
+          "text": "Un quatrain d'vant le cadran, écris comme les décadents",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "38",
+          "text": "Rajoute des dorures sur l'avance, j'l'ouvrirai plus dorénavant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "39",
+          "text": "On pop un cachet sans Vidal ça m'a fait perdre du sang vital",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "40",
+          "text": "Faut faire l'effort de deux vidas c'est comme un Slimane sans Vitaa",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "41",
+          "text": "Ils sont un peu trop à l'affut sur la com' que j'envisage",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "42",
+          "text": "Seed de merde à la naissance mais j'souris comme le sans-visage",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "43",
+          "text": "J'compte pas m'faire baiser par le contrat, cette bitch a fait le contraire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "44",
+          "text": "J'retape les plans en vitesse, on a peu d'vie comme dans Contra",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "45",
+          "text": "Est-ce que tu cala c'qu'on t'raconte ma gueule ?",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "46",
+          "text": "J'ai pas d'compte à vendre, j'ai pas d'compte à rendre",
+          "rhyme": "#dR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDDDEFCGHIGJHKLKMMNNOPQRSTUVWWXAFLYZZPA[[GA\\]",
+      "rhyme_vowel": "ABCDDDEFCBEEBBEGAGEEHHEADABIJJKKIAFADJJAAAABAHJ"
+    },
+    {
+      "section_id": "section_2",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Soeur, Neo', c'est nous les fondateurs de la nouvelle économie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Vous voulez pas lâcher un billet ? Très bien, peu importe",
+          "rhyme": "ORt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On va imprimer les nôtres",
+          "rhyme": "otR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'aime pas perdre de temps, j'aime pas quand la télé marche",
+          "rhyme": "aRS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'grimpe trop vite, j'arrive plus à compter les marches",
+          "rhyme": "aRS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Dès la naissance c'est un match, concu' ta place c'est un match",
+          "rhyme": "atS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Maintenant ça rend barge mais t'étais où quand j'tais en bas ?",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Qu'est-ce qu'un ami ? qu'un am— ami ?",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Le 25 décembre 2010",
+          "rhyme": "#bR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Une ***** de ***** ans a annoncé sur un réseau social bien connu, qu'elle allait se suicider",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Son message était un appel au secours",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Elle avait plus d'un millier d'amis sur ce réseau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "M-mais personne ne lui est venu en aide",
+          "rhyme": "Ed",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "La police l'a retrouvée morte le lendemain",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Elle avait fait une overdose de médicaments",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDEFGHIJK",
+      "rhyme_vowel": "AAAABCDEFGHC"
+    }
+  ]
+}

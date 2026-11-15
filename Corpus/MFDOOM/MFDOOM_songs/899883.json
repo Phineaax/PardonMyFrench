@@ -1,0 +1,45 @@
+{
+  "song_id": 899883,
+  "title": "Overture",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "instrumental",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_1",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Wait! I've come to help, listen to me",
+          "rhyme": "@",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "You? Help me?",
+          "rhyme": "@",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Hahahahaha",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AAB",
+      "rhyme_vowel": "AAB"
+    }
+  ]
+}

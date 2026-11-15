@@ -1,0 +1,335 @@
+{
+  "song_id": 31411,
+  "title": "Fazers",
+  "language": "en",
+  "lyricists": [
+    70,
+    8019
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "\"Follow the light, the light is your guide\"",
+          "rhyme": "id",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "1",
+          "text": "\"I am controller of Planet X\" (Three, three)",
+          "rhyme": "iks",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "2",
+          "text": "\"And I've invited you here to discuss something that's very important\"",
+          "rhyme": "#",
+          "persona_id": "King_Geedorah"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "AAB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "King Geedorah, take me to your leader",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "1",
+          "text": "Quick to claim that he not no snake like, \"Me neither\"",
+          "rhyme": "ER",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "2",
+          "text": "They need to take a breather",
+          "rhyme": "ER",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "3",
+          "text": "He been rhyming longer than Sigmund the sea creature",
+          "rhyme": "yR",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "4",
+          "text": "Been on Saturday feature, pleased to meet ya",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "5",
+          "text": "And came to wake you up out the deep sleeper, like",
+          "rhyme": "Ejk",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "6",
+          "text": "He needed to stop before he caught the knee-drop",
+          "rhyme": "Op",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "7",
+          "text": "Even give you more zip-zip than ZZ Top",
+          "rhyme": "Op",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "8",
+          "text": "With full beards, thou shall not mar corner",
+          "rhyme": "ER",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "9",
+          "text": "Geedorah like, \"One more steps and y'alls goners\"",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "10",
+          "text": "So-called rich, front if you wanna",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "11",
+          "text": "When he spit electrics, don't be in y'all saunas",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "12",
+          "text": "He only here to warn us what the plan is",
+          "rhyme": "E",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "13",
+          "text": "The hour is upon us, it's bananas",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "14",
+          "text": "Born alone, die alone, no matter who your man is",
+          "rhyme": "E",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "15",
+          "text": "Hope he live long enough to tell it to his grandkids",
+          "rhyme": "id",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "16",
+          "text": "King Geedorah, three-finger ring fever",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "17",
+          "text": "Spring chicken eater, ID'ed as the ringleader",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "18",
+          "text": "Who needs a heater? Catch 'em with bare hands",
+          "rhyme": "#",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "19",
+          "text": "These same hands that make razors out beer cans",
+          "rhyme": "#",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "20",
+          "text": "His own biggest fan",
+          "rhyme": "an",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "21",
+          "text": "And got a fan base as big as Japan",
+          "rhyme": "#",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "22",
+          "text": "Uh, yeah...? And?",
+          "rhyme": "#",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "23",
+          "text": "All hail the King and give him three cheers, fam (Fam?)",
+          "rhyme": "im",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "24",
+          "text": "Like, \"Hip, hip, hooray\"",
+          "rhyme": "E",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "25",
+          "text": "Do his thing for the little kings, like Sling Blade",
+          "rhyme": "ad",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "26",
+          "text": "To the grave, put in work like a slave",
+          "rhyme": "av",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "27",
+          "text": "On how to flip scripts on the dipstick brigade",
+          "rhyme": "ad",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "28",
+          "text": "Rock 'em like \"Sus-sussudio\" played",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "29",
+          "text": "Back when we used to rock the shag, no fade",
+          "rhyme": "ad",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "30",
+          "text": "This skilled trade like a tailor-made suede",
+          "rhyme": "id",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "31",
+          "text": "Hit the studio and I'm paid",
+          "rhyme": "Ed",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "32",
+          "text": "Half upfront, half upon mastering",
+          "rhyme": "iN",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "33",
+          "text": "\"Would you like that in cash?\" Last thing you should ask the King",
+          "rhyme": "iN",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "34",
+          "text": "You don't have to be no crystal ball reader",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "35",
+          "text": "Allergic to saltpeter, used to be a wall beater",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "36",
+          "text": "In the game, like a Wall Street cheater",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "37",
+          "text": "A lot of rap noise is annoying, like Cita",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "38",
+          "text": "Turn into a triple-X monster from a fairy tale movie",
+          "rhyme": "i",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "39",
+          "text": "He don't know me very well, do he?",
+          "rhyme": "af",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "40",
+          "text": "King Geedorah, crush on the seed's teacher",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "41",
+          "text": "They need to pay 'em better, she had nothing on the reefer",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "42",
+          "text": "Heifer, and I had to offer her a stick of gum",
+          "rhyme": "Om",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "43",
+          "text": "She was as thick as they come and taught a strict curriculum (Dumb bitch)",
+          "rhyme": "Om",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "44",
+          "text": "Which is only good for my son",
+          "rhyme": "$",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "45",
+          "text": "When I'm in the hood, razors on tongue",
+          "rhyme": "$g",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "46",
+          "text": "Nowadays, it's amazing raising young",
+          "rhyme": "uN",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "47",
+          "text": "Rule number one: keep your fazers on stun",
+          "rhyme": "(",
+          "persona_id": "King_Geedorah"
+        }
+      ],
+      "rhyme": "ABBCDEFFBADDGDGHIAJJKJJLGMNMIMHOPPAAADQRIISSTUVW",
+      "rhyme_vowel": "ABBCDBEEBADDBDBFGAHHDHHFBDDDGDFBFFAAADFDGGEEIIJK"
+    }
+  ]
+}

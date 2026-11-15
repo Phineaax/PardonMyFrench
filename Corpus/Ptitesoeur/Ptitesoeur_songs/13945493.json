@@ -1,0 +1,295 @@
+{
+  "song_id": 13945493,
+  "title": "HOLAMAX",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "La dèche (dèche, dèche, dèche)",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "M.N.G",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Avec ma bitch, on a fait l'sale, pas ves-qui' les amendes",
+          "rhyme": "#d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Chaque année, j'deviens c'que j'détestais l'année d'avant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "T'as ié-ch une fois sur un d'mes gars (et tu comptes taper dans mon bag)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Écoute pas l'dièze que c'pelo max, j'fais pas confiance en Pédomax",
+          "rhyme": "aks",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Et tu comptes taper dans mon bag",
+          "rhyme": "ag",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Mon gars t'es [l'cachet de ma babe?]",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Tu twerk pour l’guala qu'on fait daily, il t'faut un bail, tu fais un Paylib",
+          "rhyme": "ib",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Les grands d'la veille traités de femboy [Counter]",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai jamais vécu dans un pays libre",
+          "rhyme": "ibR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFGHI",
+      "rhyme_vowel": "AABBBBCDC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mon bébé, tu sais, mon bébé, tu sais, j'ai tout sacrifié pour vеs-qui' la dèche, han-han",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai tout fait pour ves-qui' la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Vingt plaquеs avant, vingt plaques maintenant, vingt plaques après (dèche)",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Cent plaques après, y a tout ce cash à rattraper (la dèche)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABBC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "La vie d'avant, la vie d'maintenant, j'la te-j' après (dèche)",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Check moi ce gosse, tu sais qu'lui il est déjà prêt (la dèche)",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La miss m'a souvent vu d'changer d'avis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Écoute deux fois, ça peut t'changer ta vie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'm'en bats les couilles, sois pas choqué si je clip à la gare",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'peux faire des tals sans écrire, donc j'écris pas, bâtard",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Même si j'suis broke, j'fais pas d'showcase dans ta boîte de pédales",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "T'as qu'à m'appeler pour ta bar-mitsvah comme Lil Uzi Vert",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCCDE",
+      "rhyme_vowel": "AABBCCCA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mon bébé, tu sais, mon bébé, tu sais, j'ai tout sacrifié pour ves-qui' la dèche, han-han",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai tout fait pour ves-qui' la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Vingt plaques avant, vingt plaques maintenant, vingt plaques après (dèche)",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Cent plaques après, y a tout ce cash à rattraper (la dèche)",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABBC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Avec ma bitch, on a fait l'sale, pas ves-qui' les amendes (dèche)",
+          "rhyme": "#d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Chaque année, j'deviens c'que j'détestais l'année d'avant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "T'as ié-ch une fois sur un d'mes gars, et tu comptes taper dans mon bag",
+          "rhyme": "ag",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Écoute pas l'dièze que c'pelo max, j'fais pas confiance en Pédomax",
+          "rhyme": "aks",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "AABB"
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Et tu comptes taper dans mon bag",
+          "rhyme": "ag",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Mon gars t'es [l'cachet de ma babe?]",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "(Vingt plaques avant, vingt plaques maintenant, vingt plaques ap-)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pour ves-qui' la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "(La vie d'avant, la vie d'maintenant)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai tout fait pour ves-qui' la dèche",
+          "rhyme": "ES",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDCD",
+      "rhyme_vowel": "AABCBC"
+    }
+  ]
+}

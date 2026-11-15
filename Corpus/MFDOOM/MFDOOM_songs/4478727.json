@@ -1,0 +1,151 @@
+{
+  "song_id": 4478727,
+  "title": "Viktormizer (Intro)",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "College educate; medical school, specialised in pscyho- psycho... mental disorders, brilliant mind, smart!",
+          "rhyme": "aRt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Get him in here",
+          "rhyme": "eR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Who are you? Who sent you?",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Sent who, me?",
+          "rhyme": "@",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "Viktor!",
+          "rhyme": "OR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "Scientist, practical and fantastic, as rare as a metal face",
+          "rhyme": "as",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "Who?",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "A character by the name Vaughn",
+          "rhyme": "2n",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "Viktor...",
+          "rhyme": "OR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "I-I thought i recognised you, I thought you were somebody I know",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "You look exactly like him",
+          "rhyme": "im",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "The same features, the same build- Oh give me that!",
+          "rhyme": "a",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "Please, there's nobody that looks like me",
+          "rhyme": "@",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Are you trying to take him on?",
+          "rhyme": "$",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "You’ll need an army to take him",
+          "rhyme": "im",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "'Cause you're nothing!",
+          "rhyme": "iN",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "Viktor, you know i love you, don’t go...",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "17",
+          "text": "I've got to",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "18",
+          "text": "Sooner or later it always catches up with you",
+          "rhyme": "u",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "19",
+          "text": "We've got another body!",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "20",
+          "text": "The crucial issue appears to be...",
+          "rhyme": "ab",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "21",
+          "text": "Vik!",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDEFGHEGIJDKILGGCMNO",
+      "rhyme_vowel": "ABCDEAFGEFHADIHHFFCHAH"
+    }
+  ]
+}

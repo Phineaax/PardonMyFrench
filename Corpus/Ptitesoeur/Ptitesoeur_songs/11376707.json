@@ -1,0 +1,346 @@
+{
+  "song_id": 11376707,
+  "title": "̩L⃘͚̥̩ͦͦͦ̊E͚͚̩̾̇̇ ͚̥̩̩ͦ̊̇̇̇G͚ͦ̊̊̇R⃘⃝̥̥ͥA͚͚͚̥̥̻ͦͦN⃚͚̥̻ͦͦͦ̊D̥̩̩ͦ̾̇⠀˙ ͜ʟ˙⠀̩̇̇̇̇̇ ̥̥̩̩ͦͦ̊G⃝͚ͥ̇A͚̥̩ͦͦ̊̊̾R͚͚̥̥̩̩ͦͦͥI⃘͚̥̩ͦͦͦͦ̇̇O̥̩̩ͦ̊̾",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "That's time, #CUT4ZALGO",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Time to lose a little blood",
+          "rhyme": "ud",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "R-R-Règlement Radio",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Règlement, Radio",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABAA",
+      "rhyme_vowel": "ABAA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y a tous ces suceurs à mes pattes, B, là, faut hurry up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tic-toc, tic-toc, B, là, faut hurry up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On faisait d'jà leur merde en mieux, quand personne nous écoutait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ta misère fait des envieux, c'est les mêmes putes des deux côtés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "(Y a tous ces suceurs à mes pattes, B, là, faut hurry up)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "(Tic-toc, tic-toc, B, là, faut hurry up)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDD",
+      "rhyme_vowel": "AABCDD"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'mange-j'mange des poseurs pour grandir comme agar.io",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Les ne-jeu veulеnt tous acheter le fit à Gario",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'suis trop profond dans lеs yeux, quel bail ?",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ils peuvent plus saquer ma gueule, 'kay, bye",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Pour-pour-pour les poseurs, on a l'flair K-9",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Co-co-comme nous, tu penses pouvoir faire mais tu peux pas, ma gueule",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Ceux qui t'cala que quand ça va, c'est les pires amis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "MNG comme Bobby Wawa d'vant les pyramides",
+          "rhyme": "id",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Y avait cent g bien rangés dans l'bocal en verre",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'ai l'sang qui monte au crâne comme un boug à l'envers, ma gueule",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Il m'a reconnu, ça m'a d'jà vu passer cavaler",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "New wave sans les tales, ils font rien d'autre qu'avaler",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "J'vais mourir avant les 31",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'me mets sur mon 31",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "On s'en sort avec toutes les erreurs de la 731",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCDEFGDHHHIC",
+      "rhyme_vowel": "AABBBCDDECFFFGB"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ces suceurs à mes pattes, B, là, faut hurry up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tic-toc, tic-toc, B, là, faut hurry up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On faisait d'jà leur merde en mieux, quand personne nous écoutait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ta misère fait des envieux, c'est les mêmes putes des deux côtés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Fais-moi tâcher, fais-moi cracher, fais ma trachée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "On s'fait tellement la guerre, on finit par s'attacher",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai mes limites, j'fais pas taffer les autres pour une vie d'enfer",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Bloqué dans la loop, plus j'fais des tales, plus j'ai envie d'en faire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Mieux vaut pas parler, si j'dis pas, c'est pas par là",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ma-ma-ma gueule, on va pas faire la paix",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'aime bien les gains, j'préfère la pain",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Alerte happening",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai du mal avec le tél",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'parle à dégun sauf pour la paie",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCDEFGD",
+      "rhyme_vowel": "AABBCBDEBB"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y a tous ces suceurs à mes pattes, B, là, faut hurry up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tic-toc, tic-toc, B, là, faut hurry up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On faisait d'jà leur merde en mieux, quand personne nous écoutait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ta misère fait des envieux, c'est les mêmes putes des deux côtés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "(Y a tous ces suceurs à mes pattes, B, là, faut hurry up)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Je suis complètement sénile",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "(Tic-toc, tic-toc, B, là, faut hurry up)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Co-co-comme nous, tu penses pouvoir faire mais tu peux pas, ma gueule",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDEDF",
+      "rhyme_vowel": "AABCDEDA"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "song_id": 10561708,
+  "title": "SOEUR LOCATION",
+  "language": "fr",
+  "lyricists": [
+    3067930,
+    3257496
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hib, hib, hib, j'suis à bout de nerfs",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Hib, hib, hib, les stats font la boule de neige",
+          "rhyme": "EZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y'a pas grand chose qui nous rapproche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ta somme fait tiep donc on raccroche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "P'tite reuss, big Gem, oublie pas d'activer la cloche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Oublie pas d'où tu viens ma gueule",
+          "rhyme": "9l",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Tout l'monde s'en rappelle ici-bas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Trop d'copycat, pas de gens qui captent",
+          "rhyme": "apt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai les dents qui claquent, mieux vaut qu'j'parle pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Il faut d'la place, j'suis dans l'appart, j'ai d'jà la party dans la poche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Ptite reuss, big Gem, oublie pas d'activer la cloche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCCDEFECC",
+      "rhyme_vowel": "AABBBCDDDBB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "15 pigеs j'étais déjà sous écoute",
+          "rhyme": "ut",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Insh’ à 20 là je pète la Lambo",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Sang dе gosse dopaminé dans l'alambique, lame en brique",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Des vérités ont transformé mon âme en lambeaux",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai lu les théories qui rendent gogole",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Propagandiste à la télé aurait dû s'appliquer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Patron du label ressemble a Jojol",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Déverse le propane, allume le briquet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Shooté comme un golem sous Pfizer",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Les 'deks ont d'jà fouillé mon falzar (ah bon?)",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Faut plus de papier faut un printer",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Faut qu'on tape la pose d'vant les Twin Towers",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Il dit qu'il nous graille mais c'est qui qu'on filme ?",
+          "rhyme": "ilm",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Chaque bar c'est un kill confirmed",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCBDEDFGHGGIE",
+      "rhyme_vowel": "ABCBDEDFGHGGCE"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On laissera pas d'part aux poseurs",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Mais où s'cachent tous les opposants ?",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai la poche tirée pour les causants",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "New économie comme aux States",
+          "rhyme": "at",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'gère une daronne diabétique addicte aux xans",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'vais libérer les gosses dans les lycées en l'explosant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'suis né j'étais droit dans mes bottes",
+          "rhyme": "Ot",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai jamais eu b'soin podologue",
+          "rhyme": "Og",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Homme en cailloux a l'droit de vote",
+          "rhyme": "Ot",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Choisi quel pédo fait l'monologue",
+          "rhyme": "Og",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Soeur, Gem sur les passe-passe c'est des tas' tas'",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Eux ils cappent sa mère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Pas d'place on fait pas d'passe",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "C'est des rapaces, là il caille sa mère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'pull up en drip de Kilari",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Ils graillent des gosses comme Hillary",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "J'cookais ma dope au bain marie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "J'me voyais péter 20 'rari",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Ils graillent des gosses comme les politiques",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "Soeur, Gem, j'aime pas ton équipe (Soeur, Gem)",
+          "rhyme": "ip",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "J'ai baisé l'système et j'm'en bats les couilles j'le ferais avec mon éthique",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "J'connais les vices et les procédés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Comment ta zik de merde s'vend sur le cd",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Label achète passe décisive pour se faire graille en 'zik par deux gros p***",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCBBDEDEFGHGIIIIJKJLMN",
+      "rhyme_vowel": "ABBCBBDDDDCECEFFFFFFFGCH"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hib, hib, hib, j'suis à bout de nerfs",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Hib, hib, hib, les stats font la boule de neige",
+          "rhyme": "EZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y'a pas grand chose qui nous rapproche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ta somme fait tiep donc on raccroche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ptite reuss, big Gem, oublie pas d'activer la cloche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Oublie pas d'où tu viens ma gueule, tout l'monde s'en rappelle ici-bas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Trop d'copycat, pas de gens qui captent",
+          "rhyme": "apt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai les dents qui claquent, mieux vaut qu'j'parle pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Il faut d'la place, j'suis dans l'appart, j'ai d'jà la party dans la poche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Ptite reuss, big Gem, oublie pas d'activer la cloche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCCDEDCC",
+      "rhyme_vowel": "AABBBCCCBB"
+    }
+  ]
+}

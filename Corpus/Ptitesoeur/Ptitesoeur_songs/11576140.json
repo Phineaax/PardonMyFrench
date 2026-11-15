@@ -1,0 +1,293 @@
+{
+  "song_id": 11576140,
+  "title": "ANTHONY FANTANYL",
+  "language": "fr",
+  "lyricists": [
+    3067930,
+    1503428
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "That's time, #CUT4ZALGO",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Time to lose a little blood",
+          "rhyme": "ud",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tous les jours, je bois, je smoke, j'arrive pas à sortir d'la boucle",
+          "rhyme": "ukl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Quinzième DM qui m'dit : \"Gario, belek, j'peux niquer ta bouille\"",
+          "rhyme": "uj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Un jour de plus où j'imprime sur les bâtards qui m'guettaient bouillir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG blanchir les _, c'est comme pour détourner le Boeing",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On l'a fait r'taper son contrat quatre fois, après, on l'a dump",
+          "rhyme": "(p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'sais pas faire de thunes, Gario, c'est comme un shitcoin qu'on a pump",
+          "rhyme": "(p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "2K22, dans la journée, j'faisais plus d'un K moins deux K",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'avais qu'l'addiction au gambling, mon- équipe n'était pas toka",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai un plav' pour partir à 100%, B, sans poursuite",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ces bâtards vont bégayer quand j'vais pull up en fursuit",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Du bureau, j'me nerf, j'me demande ça donnerait quoi sans le catnip",
+          "rhyme": "ip",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Le Père Noël va s'suicider, j'ai d'mandé quatre suites, quatre suites",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Deux piscines pour v-esqui l'départ au casse-pipe",
+          "rhyme": "ip",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Tu fais tout comme Gario mais quand c'est toi, ça n'a pas d'style",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "EBK 2K25, on creuse deux trous dans sa terre",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Poseur dans sa tchop à la vitesse de Gario sans sa paire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Peu d'efforts contre la tentation pour pas finir carabiné",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'prends quelques tales sur des relations qu'on finit par abîmer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'empile les étoffes rares, j'ai ce corps sans âme à déguiser",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Faut des s'melles de la taille des pyramides de Gizeh",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Y a des mendiants de buzz en DM, j'préférais quand personne savait qu'j'allais play",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Tout le monde est dernier, personne voulait faire le pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Y a tellement d'gens qu'j'aurais pu tirer vers le haut mais j'vais pas sacrifier mon temps pour des sa-sa' qu'ont voulu m'tirer vers le bas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "J'préfère feat avec des streamer qu'avec des assistés d'l'industrie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Chica A.K.A. p'tite screamer 'vec les nostril",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "J'préfère feat avec des streamerqu'avec des assistés d'l'industrie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Chica A.K.A. p'tite screamer 'vec les nostril",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Tu-tu-tu fais le tough guy sur la track, tu r'pars avec la voix de Khali",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "J'suis passé chez mes ieu-v, ils m'ont dit : \"C'est quoi ce drip de tranny ?\"",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "À seize ans, j'ai baisé ma caboche dans v'là d'molly",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "Je suis-je suis sapiosexuelle pour cette smart money",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "Mon-mon-monsieur l'commissaire, c'est qu'des mauvaises herbes dans l'placard à chanvre",
+          "rhyme": "#vR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "Même plan qu'à l'époque où j'broyais l'caillou solo dans ma chambre",
+          "rhyme": "#bR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "J'ai rentré une kichta de l'intérieur, B, elle était si belle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "30",
+          "text": "J'avais pas un rond, ma gueule, j'ai fait l'argent 'vec des décibels",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABBCDECEFGGHHHHIBBDFDFDDDIJKLL",
+      "rhyme_vowel": "AABBCCCCCCDDEEEEDBBCCCCCCCDFFDD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tous les jours, je bois, je smoke, j'arrive pas à sortir d'la bou-ou-ou-",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Quinzième DM qui m'dit : \"Gario, belek, j'peux niquer ta bou-ou-ou-ou-\"",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Un jour de plus où j'imprime sur les bâtards qui m'guettaient bouillir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG blanchir les _, c'est comme pour détourner le Boeing",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABC"
+    }
+  ]
+}

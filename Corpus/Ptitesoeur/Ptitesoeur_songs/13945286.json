@@ -1,0 +1,325 @@
+{
+  "song_id": 13945286,
+  "title": "ÉGLISE DE QUELQUE CHOSE ⸂temple⸃",
+  "language": "fr",
+  "lyricists": [
+    4212763
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Le corps au bout du chemin n'est pas à louer",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "J'ai gâché toutes les causes que l'on m'a allouées",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Passé tous les secrets qu'on m'a avoués, non",
+          "rhyme": "$",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Adieu les relations qu'on avait à nouer",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Comme d'hab' on va laisser tous les problèmes s'entasser",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "J'suis dans l'T2, j'marche sur les déchets de l'an passé",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'suis tombée amoureuse des gens qui passent dans mon salon",
+          "rhyme": "$",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "De nouveau seule au bureau, l'ordi' câblé à mes talons",
+          "rhyme": "$",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABAAABB",
+      "rhyme_vowel": "AABAAABB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je n'fais pas ça",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Dans ma casa",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "C'est le bazar",
+          "rhyme": "aR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "C'est lе bazar",
+          "rhyme": "aR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Jour-jour-journée d'plus où j'réduis juste mon espérancе de vie",
+          "rhyme": "i",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Achète mon âme, il manquait quelques zéros dans c'devis",
+          "rhyme": "i",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "Je n'fais pas ça",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "Dans ma casa",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "8",
+          "text": "J'aime pas les cases, ah",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "9",
+          "text": "J'aime pas les cases, ah",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "10",
+          "text": "Je n'fais pas ça dans ma casa",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "11",
+          "text": "J'aime pas les cases, ah",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "12",
+          "text": "J'aime pas les cases, ah",
+          "rhyme": "a",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABBCCAAAAAAA",
+      "rhyme_vowel": "AAAABBAAAAAAA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Prends mes yeux, mets-les de côté",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Mon visage, près de tes côtes",
+          "rhyme": "ot",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Le labeur des gens, i- il gêne les méchants",
+          "rhyme": "#",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "L'i- l'image et les genres, les bras et les jambes",
+          "rhyme": "#b",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "J'ai fait mes vœux, j'ai fait mes vœux",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "J'ai fait mes vœux- vœux- vœux",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'ai fait mes vœux (vœux), j'ai fait mes vœux (vœux)",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "J'ai fait mes vœux (vœux), j'ai fait mes vœux, ahhhhhhh",
+          "rhyme": "a",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCDEEEF",
+      "rhyme_vowel": "ABCCBBBD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Le corps au bout du chemin n'est pas à louer",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "J'ai gâché toutes les causes que l'on m'a allouées",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Passé tous les secrets qu'on m'a avoués, non",
+          "rhyme": "$",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Adieu les relations qu'on avait à nouer",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Comme d'hab' on va laisser tous les problèmes s'entasser",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "J'suis dans l'T2, j'marche sur les déchets de l'an passé",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'suis tombée amoureuse des gens qui passent dans mon salon",
+          "rhyme": "$",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "De nouveau seule au bureau, l'ordi' câblé à mes talons",
+          "rhyme": "$",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABAAABB",
+      "rhyme_vowel": "AABAAABB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Prends mes yeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Mon visage",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Le labeur des gens",
+          "rhyme": "#",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "L'image et le genre",
+          "rhyme": "#R",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "J'ai fait mes vœux, j'ai fait mes vœux",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "J'ai fait mes vœux- vœux- vœux",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'ai fait mes vœux (vœux), j'ai fait mes vœux (vœux)",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "J'ai fait mes vœux (vœux), j'ai fait mes vœux, ahhh-ahhh",
+          "rhyme": "a",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCDEEEF",
+      "rhyme_vowel": "ABCCDDDB"
+    }
+  ]
+}

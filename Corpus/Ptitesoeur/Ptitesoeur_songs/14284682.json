@@ -1,0 +1,439 @@
+{
+  "song_id": 14284682,
+  "title": "5UNNYNIGHTS",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Eh-eh-eh, eh-eh-eh",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Uh, han, han-han-han, han",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'tends mes mains vers le sun comme si ça faisait des chansons",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Si j'me libère, tout l'monde est free, c'est ça l'option Samson",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai rêvé toute ma vie du plateau à carreaux sans pions",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'joue avec leurs règles, ma gueule, personne n's'ra jamais champion, champion, down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "À chaque étage j'm'enfonce, j'm'enfonce, down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On doit l'faire tous ensemble, down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "En attendant, j'claque un K dans l'ensemblе, d-down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAABBBB",
+      "rhyme_vowel": "AAABBBB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Pour leur éviter d'fuck 'vec ma hеad",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Toi, comme moi, on a b'soin d’air",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Autant qu'on a besoin d'aide",
+          "rhyme": "Ed",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'voyais qu'la night sous l'lampadaire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Elle m'a pas filé plus de sens",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Même avec tout l'argent du monde, Elon il fait pas des sons comme ça",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'nourris mon bonheur avant qu'la douleur fasse son comeback",
+          "rhyme": "ak",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Never turn around, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Never turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Never turn around, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Never turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'dois faire l'tour du world, mais j'ai même pas d'whip",
+          "rhyme": "ip",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Toi, t'as pas de lose, donc t'as même pas d'win",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'suis avec sim et Bobby loin du monde, on smoke la SQDC",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Crache ton âme dans l'cro-mi ou pars gerbe ta bile dans l'WC",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Priez pas pour mon âme, elle restera dans vos cœurs après le décès",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Marche ma gueule sans les pattes, même avec les lacets défaits",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Never turn around, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Never turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "Never turn around, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Never turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCBDEFGHGHIJKLMMGHGH",
+      "rhyme_vowel": "ABBBCAAAAAADEFDBBAAAA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'tends mes mains vers le sun comme si ça faisait des chansons",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Si j'me libère, tout l'monde est free, c'est ça l'option samson",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai rêvé toute ma vie du plateau à carreaux sans pions",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'joue avec leurs règles, ma gueule, personne n's'ra jamais champion, champion, down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "À chaque étage j'm'enfonce, j'm'enfonce, down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On doit l'faire tous ensemble, down",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "En attendant, j'claque taga dans l'ensemble, d-down (feel the sunlight)",
+          "rhyme": "awn",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAABBBB",
+      "rhyme_vowel": "AAABBBB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tends la main vers ton prochain",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "T'es frustré d'ta passivité, donc t'es dans les potins",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Même parmi les associés, bi, j'les down si j'en spot un",
+          "rhyme": "(",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "On peut pas pardonner tout l'monde sinon ça les conforte",
+          "rhyme": "ORt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'me bats pour trouver l'équilibre, en attendant qu'on sorte",
+          "rhyme": "ORt",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCC",
+      "rhyme_vowel": "AABCC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ne-e, ne-e (never turn around, never turn-)",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Never turn around, babe, never turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Never turn around, babe, never turn around",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Never turn around, babe",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Never turn around, babe, never turn around (yeah, yeah, yeah, ah-ah-ah)",
+          "rhyme": "awnd",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCB",
+      "rhyme_vowel": "ABBBB"
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Never turn around, babe, never turn a-",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Never turn around, babe, never-",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Quand ils auront b'soin d'tuer leur égo, ils t'tuent à la place",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ah-ah-ah, ah-ah-ah, ah-ah-ah (love)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Dis-moi qui est là, when we’re falling",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'me dois d'rester en vie malgré la folie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Dis-moi qui est là, when we’re falling",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'passe ma journée à décomposer la pièce dans laquelle je vis",
+          "rhyme": "is",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Tu mènes une double vie ? Sous l’mascara, quand est-ce qu'on arrête ?",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "La mascarade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "T’as pris ma main gauche, vamachara",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Faut qu’tu transformes ta pain, quand tu-",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Regarde toi comme tu vois la planète (ah-ah-ah)",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'ai passé ma vie à rêver (ah-ah-ah) Madotsuki (ah-ah-ah), Madotsuki (ah-ah-ah) Madotsuki (ah-ah-ah), Madotsuki (ah-ah-ah) Madotsuki",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCADEDFGHAIGE",
+      "rhyme_vowel": "ABAACCCCDAAEDC"
+    }
+  ]
+}

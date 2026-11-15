@@ -1,0 +1,334 @@
+{
+  "song_id": 13944183,
+  "title": "DERRIÈRE LA CASCADE ⸂passerelle nuageuse⸃",
+  "language": "fr",
+  "lyricists": [
+    4212763
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dis moi la couleur de tes yeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Donne-moi la saveur de tes doigts",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Du mal à savoir comment faire",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Je veux les faveurs de ton corps",
+          "rhyme": "OR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Pas de la chaleur de ton toit",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Tel est le malheur que l'on sert",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCDBC",
+      "rhyme_vowel": "ABCDBC"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'était similaire à l'enfer",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "J'ai monté tout mon corps à l'envers",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "(Y'avait plus que mes tripes)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Je crois que j'en voulais qu'à ma chair",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "M'a fait mal derrière la chapelle",
+          "rhyme": "El",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Le soir où la bouche appellе",
+          "rhyme": "$",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "C'est embêtant mais t'en fais pas ma bеlle",
+          "rhyme": "El",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "C'est comme ça le soir on le touche à peine",
+          "rhyme": "En",
+          "persona_id": "room1"
+        },
+        {
+          "n": "8",
+          "text": "Moi et moi c'était pour la vida",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "9",
+          "text": "Je n'ai plus que le torse à vider",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "10",
+          "text": "Habiller Anima, j'ai fait des progrès pour m'abîmer",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "11",
+          "text": "Habiller Anima, un billet un humain",
+          "rhyme": ")",
+          "persona_id": "room1"
+        },
+        {
+          "n": "12",
+          "text": "J'ai supplié devant Dieu, le reflet m'a tendu une main",
+          "rhyme": ")",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABACDCEFGGHH",
+      "rhyme_vowel": "AABAACAADEEFF"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dis moi la couleur de tes yeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Donne-moi la saveur de tes doigts",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "(J'ai envie de te regarder faire)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Du mal à savoir comment faire",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Je veux les faveurs de ton corps",
+          "rhyme": "OR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Pas de la chaleur de ton toit",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "Tel est le malheur que l'on sert",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCDEBD",
+      "rhyme_vowel": "ABCDEBD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dis moi la couleur de tes yeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Donne-moi la saveur de tes doigts",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "(Cache toi j'ai pas envie de te voir)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Du mal à savoir comment faire",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Je veux les faveurs de tes yeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Pas de la chaleur de tes doigts",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "Tel est le malheur que l'on sert",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCDABD",
+      "rhyme_vowel": "ABCDABD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Laissez moi gagner dans mes jeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "J'ai mis le panier dans les œufs",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Elle fait des pas sous ma peau",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "J'ai mal quand j'dépasse de ma peau",
+          "rhyme": "o",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Merci au miroir pour l’état",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Le ciel est gris-noir sous les star",
+          "rhyme": "aR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "(Tant pis c'est pas grave)",
+          "rhyme": null,
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABBCDE",
+      "rhyme_vowel": "AABBCCD"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tel est le malheur que l'on sert- sert- sert- sert- sert",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Tel est le malheur que l'on sert",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "Je veux les faveurs de tes yeux",
+          "rhyme": "2",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Pas de la chaleur de tes doigts",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "J'éteins la lumière pour me voir",
+          "rhyme": "aR",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABCD",
+      "rhyme_vowel": "AABCC"
+    }
+  ]
+}

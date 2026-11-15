@@ -1,0 +1,484 @@
+{
+  "song_id": 3038821,
+  "title": "Doomsday (Mister Jason Remix)",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I used to cop a lot, but never copped no drop",
+          "rhyme": "Op",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Hold mics like ponytails: tight and bob a lot",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Stop, stick around, come through and dig the sound",
+          "rhyme": "awnd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Of the fly, brown, 6-0, sicko psycho who throws his dick around",
+          "rhyme": "awnd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Bound to go three-plat, came to destroy rap",
+          "rhyme": "ap",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "It’s an intricate plot of a b-boy strapped",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Femstat cats get kidnapped, then release",
+          "rhyme": "iz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "A statement to the press, let the rest know who did that",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Metal Fist terrorists claim responsibility",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Broken household name usually said in hostility",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Um... what is MF?  You silly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "I’d like to take “Mens to the End” for two milli’",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "“Doo-doo-doo-doo-doo!”  That’s an audio daily double",
+          "rhyme": "ubl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Rappers need to fall off just to save me the trouble. yo",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Watch your own back.  Came in and go out alone, black",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Stay in the zone, turn H2O to Cognac",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCCDEFGHHHHIBJJ",
+      "rhyme_vowel": "ABCCCDECEEEEFBCC"
+    },
+    {
+      "section_id": "section_1",
+      "type": "chrorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Operation: Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "MF? You silly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Operation: Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABA",
+      "rhyme_vowel": "AABA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I wrote this one in B.C.D.C. O-section",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "If you don’t believe me, go get bagged and check then",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Cell number 17, up under the top bunk",
+          "rhyme": "9nk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I say this not to be mean, wish bad luck or pop junk",
+          "rhyme": "9nk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Pop the trunk on C-Cipher Punk, leave him left scraped",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "God forbid, if ain’t no escape, blame MF tape",
+          "rhyme": "ap",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Definition: “Supervillain,” a killer who love children",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "One who is well-skilled in destruction as well as building",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "While Sidney Sheldon teaches the trife to be trifer",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "I’m trading science fiction with my man, the live lifer",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "A pied piper holler a rhyme, a dollar and a dime",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Do his thing, ring around the white collar crime.  Get out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "My face, asking ‘bout my case.  You need toothpaste",
+          "rhyme": "ast",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Refresher mint, monkey-style nigga the Dentadent",
+          "rhyme": "ad",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "And dope fiends still in their teens, shook niggas turn",
+          "rhyme": "9Rn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Witness, real mens mind their own business",
+          "rhyme": "Es",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "That’s the difference between sissy-pissy rappers that’s",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Double Dutch, how come I hold the microphone double-clutch",
+          "rhyme": "itS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "C.O.’s make rounds, never had ox found",
+          "rhyme": "awnd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "On shakedown, lockdown, wet dreams of Fox’ Brown",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCCDEBFDDGHIJKLAMNO",
+      "rhyme_vowel": "ABCCDEBFDDFEEECBAFEE"
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Operation: Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "MF",
+          "rhyme": "umf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Doom",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Operation: Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "MF",
+          "rhyme": "umf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Doom",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Definition: Supervillain",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCABCDA",
+      "rhyme_vowel": "AABBABBCA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Some M-er F-ers don’t like how Sally walk",
+          "rhyme": "Ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "I’ll tell y’all fools it’s hella cool how ladies from Cali talk",
+          "rhyme": "Ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Never let it interfere with the Yeti ghetto slang",
+          "rhyme": "#g",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Nicknames off nibbling tip of nipple: Metal Fang",
+          "rhyme": "#g",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Known amongst hoes for the bang-bang, known amongst",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Foes for flow without no talking orangutans",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Only gin and Tang guzzled out a rusty tin",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Can.  Me and this mic is like yin and yang",
+          "rhyme": "#g",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Clang!  Crime don’t pay.  Listen, youth",
+          "rhyme": "ut",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "It’s like me holding up the line at the kissing booth",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "I took her back to the truck, she was uncouth",
+          "rhyme": "ut",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Spitting all out the sunroof through her missing tooth",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "But then she has a sexy voice, sound like Jazzy Joyce",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "So I turnt it up faster than a speeding knife",
+          "rhyme": "ajf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Strong enough to please a wife, able",
+          "rhyme": "abl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "To drop today’s math in the 48 keys of life",
+          "rhyme": "ajf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "Cut the crap, far as rap, touch the mic",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "And get the same shit a Arab will do to you for stealing",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "What the Devil? He on another level",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "It’s a word! No, a name! MF the Supervillain!",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABBCDEBFGFGHIJIKLME",
+      "rhyme_vowel": "AABBCBDBEFEFGHHHGGCD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Doomsday!",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ]
+}

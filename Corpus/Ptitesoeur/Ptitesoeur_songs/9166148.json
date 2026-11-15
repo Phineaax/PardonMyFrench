@@ -1,0 +1,406 @@
+{
+  "song_id": 9166148,
+  "title": "BUILDING7႓",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "REDSUN, Anima, Sœur, Neophron",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "C'est pas un EP, c'est un appel à l'aide",
+          "rhyme": "Ed",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'entends l'bruit des mouches voler dans l'retour du micro mais ça va pas durer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "DGSI j'prépare une grosse grosse blague, on va s'amuser ensemble vous allez voir",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "MNG, oublie pas de t'abonner et d'activer la cloche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDE",
+      "rhyme_vowel": "ABCDE"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hahaha, Sœur bât 7 guette pour le \"hahaha\"",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Y a- y a des assets dans les disques durs d'Oussama, haha",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'dors dans l'trou du mur d'amiante mais bitch j'reste à l'affût",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Faut l'faire vite, dans trois mois j'ai plus d'income, j'serai p't-êtrе à la rue",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABB",
+      "rhyme_vowel": "AABB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'serai p't-être à la ruе, on t'zappe comme Amaru",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Nique sa mère 2PEP, j'grandis donc l'opus n'a pas paru",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'te donne même pas les tarifs, b' t'as fell off comme Atari",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Le lobby n'est pas à Paris, on m'call mais j'suis pas apparu",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Il é-il écoute, il serre des dents ma gueule, on gêne comme sa carie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Y a quatre ans j'dormais dans l'bât' à quatre avec neuph et Zacharie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Jeune Bezos, j'enchaîne RDV, en RVB au RTC",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Ton équipe on l'a carry depuis t'es stuck au RDC",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Hahaha, Sœur bât 7 guette pour le \"hahaha\"",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Y a- y a des assets dans les disques durs d'Oussama, haha",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Nine-one-one, B t'es suspect comme le nine-one-one",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Ambiance américaine on les fait tomber one by one",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "On a cala, tu fais tout comme moi mais sans le caractère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Ils font péter des carrières en 280 caractères",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "9-7-3, ce serait l'sujet on fait pas détroit",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "C'est-c'est v'là des croix, bitch, j'avance calé dans l'Cheval de Troie",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "C'est des busy dans la faille, j'me d'mande comment faire si la faille tombe",
+          "rhyme": "$b",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "J'vais tailler sans tél' et vous zapper comme [?]",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Pour le pays ça troupe (Pas de peon)",
+          "rhyme": "up",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "On-on-on commence dans de sales draft pour qu'ils finissent dans le s****",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Hahaha, Sœur se **** d'vant les caméras",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Fu-fuck une Carrera, nine-one-one on l'fait carrément",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Ma gueule, je consomme même si c'est écrit que ça tue",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "J'ai-j'ai les deux pieds dans les câbles, on dirait la nature",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABABBCDCCEEFFCCGHIJCKAL",
+      "rhyme_vowel": "AABABBCDCCEEFFCCGEHFCIAA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hahaha, Sœur bât 7 guette pour le \"hahaha\"",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Y a- y a des assets dans les disques durs d'Oussama, haha",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'dors dans l'trou du mur d'amiante mais bitch j'reste à l'affût",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Faut l'faire vite, dans trois mois j'ai plus d'income, j'serai p't-être à la rue",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABB",
+      "rhyme_vowel": "AABB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hahaha, Sœur bât 7 guette pour le \"hahaha\"",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Y a- y a des assets dans les disques durs d'Oussama, haha",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Nine-one-one, B t'es suspect comme le nine-one-one",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ambiance américaine on les fait tomber one by one",
+          "rhyme": "On",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABB",
+      "rhyme_vowel": "AABB"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "9-7-3, j'arrive comme la 7-3-1",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Bitch, on vient t'injecter de l'air dans les veines",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "B, j'suis calé dans l'**** jusqu'au réveil",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Jette une bish qui fait des messes basses pendant l'évènement",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On pratique le son de demain avec mes deux mains et les deux mains de Neophron",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "La-la bitch me trouve mignon mais je vais pas lui répondre, elle sait pas comment j'suis laid au fond",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Ton contrat c'est un 11/11/quart, MNG c'est fois 11 fonscar",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "On s'lève, on safe mais on s'couche tous tard",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Des débauches se font dans les fonds d'pochtar",
+          "rhyme": "aR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "MNG, B, on craque pas d'benz",
+          "rhyme": "inz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "On se chauffe mais on chope pas d'benz",
+          "rhyme": "inz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'fais la musique pour mes créatifs",
+          "rhyme": "if",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "J'm'arrête pas faut tryhard comme B sous créatine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Comme B sous créatine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "It's Chris Hansen",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Hahahaa-",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEFFFGGHIIBA",
+      "rhyme_vowel": "ABBCDDAAAEEEEEBA"
+    }
+  ]
+}
