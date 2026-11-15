@@ -48,8 +48,9 @@ def chunk(
 
     chunks = [lines[i:i+chunk_tokens_nb] for i in range(0, len(lines), chunk_tokens_nb)]
     if len(chunks[-1])<(chunk_tokens_nb/2) :
-        chunks[-2].extend(chunks[-1])
-        chunks = chunks[:-1]
+        if len(chunks)>1 :
+            chunks[-2].extend(chunks[-1])
+            chunks = chunks[:-1]
 
     # chunks = []
     # current_chunk = []

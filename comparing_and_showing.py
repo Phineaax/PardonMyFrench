@@ -224,9 +224,12 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None):
 
     return ax
 
+def cut_number(chunk_id) : 
+    return chunk_id[:chunk_id.rindex("_")]
+
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
                          figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8,
-                         optional_df = None):
+                         optional_df = None, show_ids = False):
     
     distances, chunk_ids = get_aggregated_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, n_sample=n_sample, optional_df=optional_df)
 
@@ -241,8 +244,13 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
     scorers_names = [scorer.name for scorer in scorers] + ['non_sem_vec']
     scorer_description = [scorer.description for scorer in scorers] + ['vecteur des indices non sémantiques']
 
+    if not show_ids : 
+        labels = [cut_number(c) for c in chunk_ids]
+    else :
+        labels = chunk_ids
+
     for ax, s_n, s_d in zip(axes, scorers_names, scorer_description):
-        create_dendrogram(distances[s_n], chunk_ids, s_d, 
+        create_dendrogram(distances[s_n], labels, s_d, 
                           ax=ax, color_map=color_map)
 
     for ax in axes[len(scorers)+1:]:  # on cache les axes en trop
