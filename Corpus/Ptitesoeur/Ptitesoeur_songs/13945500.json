@@ -1,0 +1,418 @@
+{
+  "song_id": 13945500,
+  "title": "WATCH UR BACK TILL IT HURTS",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Les tits-pe nous voient comme des inca",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "On s'est touchés tout l'day, j'ai fait 5K",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'fais leurs billets à tous les zins qu't'as pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Les plus grands nous voient comme des incapables",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ma-, ma bitch, j'ai mis trois G sur l'tabac",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'avais tous les stupéfiants dans l'cabas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Tu fais l'quart de la paye, range ta cravate",
+          "rhyme": "at",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Le cash me conforte quand j'suis khabat",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAABAACA",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sa-, sa-, sale bâtard, tu vas où là ?",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Il m'restait plus qu'la moula",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Les keufs d'la veille m'ont saoulé",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ferme ta boca, barre dans l'sol",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Mais-, mais j'suis solo",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On m'a laissée sous l'eau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Avant dites-vous, j'étais full up de drugs Mike",
+          "rhyme": "Ejk",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Pull up the drugs, Mike",
+          "rhyme": "Ejk",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Pull up the champagne",
+          "rhyme": "aJ",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDDEEF",
+      "rhyme_vowel": "AABCDDEEA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'graille, c'est pour éponger la concu'",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Si tu veux m'sauter, fais le bon saut",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Les rapaces nous guettent comme des lionceaux",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'verse un kichta dans le [quart du loto ?]",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ta pute est low cost",
+          "rhyme": "Ost",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Le taga me rend loco",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Si jamais j'l'accoste",
+          "rhyme": "Ost",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "M.N.G gagne le loto",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Il s'crame au lat]",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Le reuf m'a embarquée sur la moto",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Pas d'feuilles sur la to-ph'",
+          "rhyme": "aS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Avant ça, j'avais pas le mojo",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBCBCBDBEB",
+      "rhyme_vowel": "ABBBCBCBDBDB"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Les tits-pe nous voient comme des inca-",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "On s'est touchés tout l'day, j'ai fait 5K",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'fais leurs billets à tous les zins qu't'as pas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Les plus grands nous voient comme des incapables",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ma-, ma bitch, j'ai mis trois G sur l'tabac",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'avais tous les stupéfiants dans l'cabas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Tu fais l'quart de la paye, range ta cravate",
+          "rhyme": "at",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Le cash me conforte quand j'suis khabat",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAABAACA",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "D'puis qu'fait c'cash, ton reuf veut me hook up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Chaque jour, ma boisson m'donne le hiccup",
+          "rhyme": "yp",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Il sort ses longs bas de son pick-up",
+          "rhyme": "9p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Ma bitch sait qu'j'rentre pas dans le beaker",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "On pointe vers le ciel comme le beacon",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Pour l'cash, j'me sers pas des bagels",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "À trois-cent dans l'plav' sur sa bécane",
+          "rhyme": "an",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "On t'festoie pas même si ta bish canne",
+          "rhyme": "an",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "On t'festoie pas même si ta bish canne",
+          "rhyme": "an",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Pilote moi d'en bas comme Gengis Khan",
+          "rhyme": "an",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABACDEFFFF",
+      "rhyme_vowel": "ABAACDEEEE"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'graille, c'est pour éponger la concu'",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Si tu veux m'sauter, fais le bon saut",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Les rapaces nous guette comme des lionceaux",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'verse un kichta dans le [quart du loto ?]",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Ta pute est low cost",
+          "rhyme": "Ost",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Le taga me rend loco",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Si jamais j'l'accoste",
+          "rhyme": "Ost",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "M.N.G gagne le loto",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Ils s'crament au [lato ?]",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Le reuf m'a embarquée sur la moto",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Pas d'feuilles sur la to-ph'",
+          "rhyme": "aS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Avant ça, j'avais pas le mojo",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBCBCBBBDB",
+      "rhyme_vowel": "ABBBCBCBBBDB"
+    }
+  ]
+}

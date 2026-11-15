@@ -1,0 +1,508 @@
+{
+  "song_id": 12505682,
+  "title": "LE MÔME",
+  "language": "fr",
+  "lyricists": [
+    3171563
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'revois ces lieux hantés qui font sûrement partie d'mon succès",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Là où j'offrais ma peau des fois pour quelques feuilles bleues qui se succèdent",
+          "rhyme": "Ed",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "C'est moi l'môme qu'attendait la CAF, pour s'péter une paire jdid pour la rentrée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'faisais des talles sur la G-app, fils de putain, t'étais même pas né",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Le bois a gondolé dans la salle de bain tellement j'frottais ma peau pour plus sentir leurs mains",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Pour ces quelques faveurs, y a jamais eu d'amour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'me sentais Mike Waters, j'trainais plus dans la cour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Pour le bonheur, le môme a fait la course, Ivy l'a groomé, il est tombé d'la tour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Une coquille cassée, c'est facile à remplir, plusieurs fois, j'ai dit \"non\", il m'a laissé ramper",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Est-ce qu'un jour on va l'laisser en paix ? Est-ce qu'un jour on va l'aimer vraiment ?",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Le môme se dégoutait tellement que sur place, il finit par brûler ses vêtements",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Quarante degrés pour panser les blessures, ses stigmates, il les porte des trous dans son vêt'-sur",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Un soir, il voit une lame, il veut s'la mettre, le môme sait pas parler, il vit dans la censure",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDEEECFFGG",
+      "rhyme_vowel": "AABBCDDDBEEFF"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je sais (je sais) que t'es quelque part, mon ange",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Aujourd'hui, j'le fais pour toi, tu peux voler au ciel (vole, mon ange)",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Aussi pourris soient-ils, oublie le mal qu'ils t'ont fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Vas-y, vole avec tes ailes (vole)",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCB",
+      "rhyme_vowel": "ABBB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Il l'a pas cherché longtemps l'paradis, dans les rues sans lampadaire, il parade la nuit",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Sparadrap sur le foie, au goulot, il butine",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le môme rêvait d'une fin, d'une manière ou d'une autre",
+          "rhyme": "otR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Séléné l'a regardé dépérir dans les ruines",
+          "rhyme": "in",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Les adultes n'ont rien vu, occupés dans leur monde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Il s'échappe par les fenêtres, les jours où l'orage gronde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "La boule au ventre, Opinel 6 en poche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Le regard endurci d'vant l'client fait la roche",
+          "rhyme": "OS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Il ose pas passer l'cap de louer des bres-ch'",
+          "rhyme": "iS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Deux ans plus tard, Ivy lui tire les veux-ch'",
+          "rhyme": "iS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "La vengeance, y en a pas, c'est du 38 dans l'crâne",
+          "rhyme": "an",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Avant d'le comprendre, il a brûlé des grammes",
+          "rhyme": "am",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Bu des mélanges dégueulasses à l'agrume",
+          "rhyme": "ym",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "En espérant l'croiser le jour où il a une arme",
+          "rhyme": "aRm",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCBDDEEFFGHIJ",
+      "rhyme_vowel": "AABACCDDAAEEFE"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je sais, que t'es quelque part, mon ange",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Aujourd'hui, j'le fais pour toi, tu peux voler au ciel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Aussi pourris soient-ils, oublie le mal qu'ils t'ont fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Vas-y, vole avec tes ailes",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCB",
+      "rhyme_vowel": "ABBB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'prenais des deux-cents pétards, j'enchainais tous les chiottes de la ville",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'osais plus m'regarder dans l'miroir, d'vant l'miroir, je vomissais d'la bile",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La causalité est la seule responsable de la mort du môme",
+          "rhyme": "om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Même par terre au sol, personne m'a fait l'aumône",
+          "rhyme": "on",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Chaque année, j'attendais l'hiver, la nuit tombait plus tôt, j'pouvais faire mes affaires",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Pas le choix, l'gamin plonge dans son monde, pour anesthésier cette immonde réalité",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Aujourd'hui, ça va un p'tit peu mieux, j'ai un fusil à pompe qui peut les aliter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai très peur des hommes, j'ai très peur de moi-même",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Glock 43 dans l'sac de mes princesses",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Une fois qu'elles seront armées, j'pourrais dormir en paix, me reposer peut-être",
+          "rhyme": "EtR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Car dehors, y a des porcs à la pelle, même l'institution a tué mes frères",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'ose même pas t'raconter c'qu'ils font à mes sœurs",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Ça m'donne envie d'me faire sauter dans un hôtel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Dieu merci, y a l'amour et l'espoir, le pardon ça viendra p't-être après",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'laisse au môme le temps de faire ses choix, sûrement quelques balles à cracher dans des têtes",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABCDEEFGHDIJKL",
+      "rhyme_vowel": "AABBCDDCCCCECCC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je sais (je sais) que t'es quelque part, mon ange",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Aujourd'hui, j'le fais pour toi, tu peux voler au ciel (vole, mon ange)",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Aussi pourris soient-ils, oublie le mal qu'ils t'ont fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Vas-y, vole avec tes ailes (vole)",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCB",
+      "rhyme_vowel": "ABBB"
+    },
+    {
+      "section_id": "section_7",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Le cœur du môme paumé dans une Yubikey",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Aujourd'hui pour l'faire sourire, c'est très compliqué",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Y a que son blicky ou le p'tit à 2D, ose même pas lui parler d'spiritualité",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Dans l'spiritueux voit sa dualité",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Les traces de sa lutte, visibles au luminol",
+          "rhyme": "Ol",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Au milieu des Landes, la planque au mini lui",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Une fois la lune levée, les rues deviennent liminales",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Et le môme se contente souvent du minimum",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "En symbiose avec la pourriture",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'oublie l'merdeux quand y a plus d'luminaire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Maman, t'en veux pas, j'avais pas l'choix d'le faire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Ici, personne n'est responsable",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Sauf le fils de pute qui m'a souillé quand j'avais encore l'âge de jouer dans le sable",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBCDEFGHHII",
+      "rhyme_vowel": "ABBBCDECFAAEE"
+    },
+    {
+      "section_id": "section_8",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Je sais que t'es quelque part, mon ange",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Aujourd'hui, j'le fais pour toi, tu peux voler au ciel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Aussi pourris soient-ils, oublie le mal qu'ils t'ont fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Vas-y, vole avec tes ailes",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCB",
+      "rhyme_vowel": "ABBB"
+    }
+  ]
+}

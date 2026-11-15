@@ -1,0 +1,571 @@
+{
+  "song_id": 1442,
+  "title": "Gas Drawls",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Metal Face DOOM",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Operation Doomsday",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "By the way, I re-up on bad dreams, bag up screams in fiftys (Fifty blocks)",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Be up on mad schemes that heat shop like jiffy (Jiffy, pop, pop)",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "In an instant, get smoked like Winston cigarettes",
+          "rhyme": "Et",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Hoes get ripped off like Nicorette (Patch)",
+          "rhyme": "Et",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "In real life, the real trife scene",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Might snatch your life like assault machine",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Rifle, dead-up, setup like bull-fight",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Be blunted how we like couldn't white or in full flight",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "The unemotional, call me anti-social",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "On the run, off the gun death tally commercial",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Death Valley is like rehearsal to the streets",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "To my peeps, GM, MF on the beat",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Rhymes is chosen like the weapons of war",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "So keep from steppin' on my floor or delivery front-door",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "I bring it to y'all motherfuckers, master yours",
+          "rhyme": "uR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "My disaster cause Hell in gas drawls",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "The supervillain cooler than a million, I be chillin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Still quick to slice squares like Sicilians",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Don't make me have to hurt them feelings",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "I'll ruin you in the dirt that I be doin' in my dealings",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "(While I'm) Sendin' spirits through the ceilin', chrome peelin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Dome blown within the comforts of your own home",
+          "rhyme": "om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Grown big, wheelin' and high rollin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "I hold the lye, it keeps the sty on my eye swollen",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "(In the corner) Holdin', foldin' the pal",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Known as massive versatile (I saw you)",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "I'd like to big them up, Monsta Isle (You were very high)",
+          "rhyme": "abl",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCCDEFFGGHHIJKLMNOOMPMQGRS",
+      "rhyme_vowel": "AABBCADDDDAADEFBGHAAGIGBDAD"
+    },
+    {
+      "section_id": "section_2",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Um",
+          "rhyme": "Om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "In the corner of my eye",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I saw you in Hell with them gas drawls",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Mhm",
+          "rhyme": "Om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "You",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEAF",
+      "rhyme_vowel": "ABBBBAC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "To my brother Subroc and Black Jewel",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "I crack brew for two more, three men, two up",
+          "rhyme": "9p",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "I hit the brew up like nobody knows how X the unseen feels",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "When givin' crews a brush with death like between meals",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Two times a day with brothers that's tight like a noose",
+          "rhyme": "uz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "With more rhymes in use than Dr. Seuss",
+          "rhyme": "2s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Or motherfuckin' Mother Goose, X the suspicious flirter",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Who every hooker heard of, next to malicious murder",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "A track type vicious, fulfillin' the pipe wishes",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "The misses may be legal, minus the baby eagle",
+          "rhyme": "9l",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Any given summer's eve, don't breathe",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Sixteen shots, I do believe, and one up the sleeve (In the corner)",
+          "rhyme": "iv",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Master of the O who predict your last pause",
+          "rhyme": "oz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "I told y'all, Hell and gas drawls",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Breakin' glass and plastic jaw like federal drastic law",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Fed up from fightin' secret war with them Fantastic Four",
+          "rhyme": "uR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "(Invisible Bitch) versus DOOM with the metal face",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Before I go to state, the ho better settle case",
+          "rhyme": "az",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "The flow is at pedal pace, steady like tricycles",
+          "rhyme": "ikl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "Beware, all suckers is froze like icicles (In the corner)",
+          "rhyme": "ikl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "(Bag 'em up) and baggin' bitches like nickels 'cause I lick 'em where they tickle",
+          "rhyme": "abl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Before I hit the clit though, I'ma spit 'til I pronounce",
+          "rhyme": "awns",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "More hits than a ounce, no doubt",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "About to bounce, X the unannounced, I'm out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABACDEFFGHIJKALMNOPPQRST",
+      "rhyme_vowel": "ABACDEFFGBGCHAHDGGCCGGIG"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And I like to give a shout out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Of my eye",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "To the brother Jet Jaguar",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I saw you in",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Megalon",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "And King Geedorah",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "In the corner",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Of my eye",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "I call this joint right here",
+          "rhyme": "eR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "I saw you in",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "\"Gas Drawls\"",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "In Hell with yours",
+          "rhyme": "uR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "You",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Of my eye",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "I saw you in",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "In the corner",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "Of my eye",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "I saw you in",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "You",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "In the corner",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "You were very high",
+          "rhyme": "Eg",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFGHBIDJFKLBDFHBDFLHF",
+      "rhyme_vowel": "ABACDBABBECBBFFBCBBBCBFBB"
+    }
+  ]
+}

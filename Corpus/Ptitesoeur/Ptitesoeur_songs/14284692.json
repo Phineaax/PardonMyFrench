@@ -1,0 +1,337 @@
+{
+  "song_id": 14284692,
+  "title": "L’ÉLÉPHANT DANS LE NOIR",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Regarde comme j'aime la vie depuis là-haut",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'envie l'amour que tu simules avec tes bijoux",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "L'environnement a fait de moi une ordure",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Comme je m'aimais quand j'étais encore pure",
+          "rhyme": "yR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Tout le monde est dans la pièce, face contre les angles",
+          "rhyme": "#gl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'aimerais changer le monde, mais j'peux pas contrôler les gens",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Les contes et les légendes me suffisent plus pour rêver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "On a tous merdé, y a méprise",
+          "rhyme": "iz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'apprends à lâcher prise",
+          "rhyme": "iz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Mon amour s'demande c'est quand que j'arrête de faire mes crises",
+          "rhyme": "iz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Le temps s'écoule dans la mallette",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "À chaque seconde je m'arrête",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "À chaque seconde j'ai mal",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "J'm'en rends compte que quand j'écris",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Elle m'a senti comme une brise",
+          "rhyme": "iz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Juste avant la tempête",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "J'faisais tout pour esquiver",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "L'éléphant dans la piè-è-èce",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDEFGGGHHIJGHFK",
+      "rhyme_vowel": "ABCCDDEFFFGGHFFGEG"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ah (ah), ah (ah)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'vis comme si j'respirais enfin",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Un peu d'air dont on m'a privé quand j'-",
+          "rhyme": "Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Moi j'écris plus comme",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Mes yeux qui pleurent",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Je fixais l'heure",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Eux ils m'ont tous regardé comme l'éléphant dans la pièce",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEF",
+      "rhyme_vowel": "ABCDEEF"
+    },
+    {
+      "section_id": "section_3",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dis-moi, dis-moi, dis-moi, dis-moi, dis-moi, dis-moi comment faire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai mal au cœur, puis c'est comme si j'avais pris dix ans ferme",
+          "rhyme": "ERm",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Faudrait p't-êt' m'enfermer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Faudrait p't-êt' m'enfermer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai la haine mi amor",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Est-ce que si l'amour nous aime pas, on est ennemis alors ?",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "On est ennemis à hum",
+          "rhyme": "9m",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai la haine mi amor",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Est-ce que si l'amour nous aime pas, on est ennemis alors ?",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "On est ennemis alors",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'ai la haine mi amor",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Est-ce que si l'amour nous aime pas, on est ennemis alors ?",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "On est ennemis alors",
+          "rhyme": "OR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDDEDDDDDD",
+      "rhyme_vowel": "AABBCCDCCCCCC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On s'est blessés, mais c'est pas grave",
+          "rhyme": "av",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'mettrai ma peine dans tes bagages",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'prends mon pied coincé sous l'avalanche",
+          "rhyme": "#S",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "On pourra s'recroiser les bras ballants",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Tu reposes une dernière fois tes mains sur mes hanches",
+          "rhyme": "#S",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Jusqu'à c'que personne ne se revoie plus jamais, plus jamais, plus jamais, plus jamais, plus jamais, plus jamais, plus jamais, ah, plus jamais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDCE",
+      "rhyme_vowel": "AABBBC"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ah (ah), ah (ah), j'vis comme si j'respirais enfin un peu d'air dont on m'a privé quand j'-",
+          "rhyme": "Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Moi j'écris plus comme-, mes yeux qui pleurent",
+          "rhyme": "9R",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Je fixais l'heure, eux ils m'ont tous regardé comme l'éléphant dans la pièce",
+          "rhyme": "Es",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    }
+  ]
+}

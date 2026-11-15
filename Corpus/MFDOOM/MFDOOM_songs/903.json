@@ -1,0 +1,522 @@
+{
+  "song_id": 903,
+  "title": "Kookies (2007)",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It's horrible, one little evening alone, home",
+          "rhyme": "om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "End up with carpal tunnel syndrome",
+          "rhyme": "om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "And here I am, known for giving heavy back aches",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Grown and living off of Little Debbie snack cakes",
+          "rhyme": "Ek",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Supposed to be checking emails",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "All I got is messages from ass naked females",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "I don't know a Jenny",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "She said it's free and I won't owe her a penny",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "And that's the last time I saw her",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "But thousands of more horrors on online Gomorrah",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "And Sodom, they got 'em with their curls out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "And they got a better sales pitch than the Girl Scouts",
+          "rhyme": "ut",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "I wonder what I owe her",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "For a whole box of caramel coconut samoa",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "(\"Nite nite!\") Uh, okay honey, sweet dreams",
+          "rhyme": "imz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Now it's time to get serious like Peek Freans",
+          "rhyme": "ins",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "A metal handful, wipe it on the quilt",
+          "rhyme": "ilt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Wife wake up and I'm kill't over spilt milk",
+          "rhyme": "Ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Locked in, looking at your picture",
+          "rhyme": "yR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "Fully clothed winter and I'm right there with ya",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Thinking about the last time I split your wishbone",
+          "rhyme": "on",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "A man could only wish you do the same 'til he get home",
+          "rhyme": "om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Fat chance, at least he get snacks",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "That'd have to do 'til a brother get back",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "Until then smack One-Eyed Jack",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "And hope one of his peoples can hook him with a tri-pack",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "That's three different flavors",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "Chocolate, vanilla and strawberry wafers",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "Acting all hard, 'bout to get beat up",
+          "rhyme": "9p",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "I'll show him what time it is once I get this sheet up",
+          "rhyme": "9p",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "Soon as he fell off the beat down",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "All I hear is, \"13th cell get the sheet down\"",
+          "rhyme": "awn",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "Damn C.O., what the hell do she know?",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "Besides the fact she wanna get dug out on the d-low",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "A workaholic with a fountain in the ink pen",
+          "rhyme": "@n",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "Out in the mountains and I stopped drinking again",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "In the wee hours, he's gotten farther",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Needing three showers, being hot and bothered",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "The wiz with her leg bent, pregnant",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "God bless the day she wondered where her egg went",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "I need a L, it's hard to drink without it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "And could use some kookies but trying not to think about it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "Watching \"BET\" on jazz for knowledge on file",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "43",
+          "text": "Every other commercial, college hoes gone wild",
+          "rhyme": "Old",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "44",
+          "text": "Soft batch, I prefer the other bunch",
+          "rhyme": "$S",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "45",
+          "text": "Like we got for lunch, chocolate fudge butter crunch",
+          "rhyme": "9nS",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCDEFFGHIJGHKLMNOHPAQQQQRSTTUUVVWXYGZZ[[\\]^_",
+      "rhyme_vowel": "AABCCBDDEBBFEBDDDGHBAABBBBGIIIBBAAJKCELLDDDGMI"
+    },
+    {
+      "section_id": "section_1",
+      "type": "instrumental",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "He don't mess with the Ritz Bits",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Wheat Thins, Saltines or Triscuits",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Matzos or Cheez-Its",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Catch sugar fits every time that he sees",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Chips Ahoy, double chocolate chunk",
+          "rhyme": "9nk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Something with the bubble and the junk in the trunk",
+          "rhyme": "9nk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Even the Oreos, no matter what weather",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Always kept 'em dipped in milk and stuck together",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "In the game he's shameless",
+          "rhyme": "Es",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Even uses a code name: Famous Amos",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "It's cheaper than a short stay at the Days Inn",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "And good like 25 cent oatmeal raisin",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Give a hand to who invented the camera",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Skip past the graham, animal and Grandma’s",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Shh, make sure she don't wake from her dream chill",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Or get caught with a handful of cream fill",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABBBCCDDEFGHIJKK",
+      "rhyme_vowel": "AAAABBCCCDAEFGAA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "\"Oh, honey! What are you doing? That's so nasty!\"",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "It might seem ill",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "\"Ew! Go wash your hands!\" (No)",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Kookies",
+          "rhyme": "iz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "\"Get out of here!\"",
+          "rhyme": "eR",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDE",
+      "rhyme_vowel": "AABAC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(DOOM): DOOM is master of the world",
+          "rhyme": "Old",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "(Spider-Man): I'd sure hate to see that ugly mug of yours in my history book",
+          "rhyme": "uk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "(DOOM): You've disturbed me for the last time",
+          "rhyme": "ajm",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "(Ben, The Thing): Hey, y'know something gang, that DOOM ain't really all bad",
+          "rhyme": "ad",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "(Sue, The Invisible Woman): What do you mean, Ben?",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "(Ben, The Thing): Well, on account of him I had me a real good time. Y'know, I mean, between you and me I kinda like being black",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "(H.E.R.B.I.E.): Well, maybe if we're lucky he'll attack us once more and send you back, Benjamin",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "(Ben, The Thing): Ah-haha very funny, very very funny",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "(Sue, The Invisible Woman): He must be mad",
+          "rhyme": "ad",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "(Dr. Reed, Mister Fantastic): Well, if anyone can do it. Nevertheless let's get out of here, while we can",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "(Misc. voice): Food, we need food",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFEGDHI",
+      "rhyme_vowel": "ABCCDCDECFB"
+    }
+  ]
+}

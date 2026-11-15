@@ -1,0 +1,289 @@
+{
+  "song_id": 13945289,
+  "title": "CHAMBRE ROUGE ⸂espace rouge⸃",
+  "language": "fr",
+  "lyricists": [
+    4212763
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Une nouvelle douleur à mes greffes",
+          "rhyme": "Ef",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "J'voulais parler à mes rêves",
+          "rhyme": "Ev",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "J'attends les deux mains près des hanches",
+          "rhyme": "#S",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Devant le reflet qui dérange",
+          "rhyme": "#Z",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Des chemins tracés sur le derme",
+          "rhyme": "ERm",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "Ils m'font la guerre pendant la trêve",
+          "rhyme": "Ev",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'commence à retourner les patterns",
+          "rhyme": "ERn",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "L'époque où tout n'était pas terne",
+          "rhyme": "ERn",
+          "persona_id": "room1"
+        },
+        {
+          "n": "8",
+          "text": "J'maudis l'argent qu'on ramasse",
+          "rhyme": "as",
+          "persona_id": "room1"
+        },
+        {
+          "n": "9",
+          "text": "J'ai fait qu'augmenter le grammage",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "10",
+          "text": "J'connais mon corps, j'connais les cases",
+          "rhyme": "az",
+          "persona_id": "room1"
+        },
+        {
+          "n": "11",
+          "text": "Yeux rivés sur la télé cassée",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "12",
+          "text": "Prépare un aller à l'étale",
+          "rhyme": "al",
+          "persona_id": "room1"
+        },
+        {
+          "n": "13",
+          "text": "Mon ange m'a cramé à l'étage",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "14",
+          "text": "Elle demande pas si y a les tales",
+          "rhyme": "al",
+          "persona_id": "room1"
+        },
+        {
+          "n": "15",
+          "text": "Elle demande pas si y a les tales",
+          "rhyme": "al",
+          "persona_id": "room1"
+        },
+        {
+          "n": "16",
+          "text": "(Refrain)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "17",
+          "text": "Finir sous l'épave près du rivage",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "18",
+          "text": "Un aller tout droit dans le virage",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "19",
+          "text": "Ceux qu'ont **** dans mon mirage, (l'reflet dans l'asiette)",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "20",
+          "text": "Ils ont tous grandi à mon image",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "21",
+          "text": "(Couplet 2)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "22",
+          "text": "J'ai tout sacrifié pour ma cage",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "23",
+          "text": "La plus belle veut qu'on la cache",
+          "rhyme": "aS",
+          "persona_id": "room1"
+        },
+        {
+          "n": "24",
+          "text": "Y a beaucoup de ses traits qui m'agacent",
+          "rhyme": "as",
+          "persona_id": "room1"
+        },
+        {
+          "n": "25",
+          "text": "J'aime pas les gos s'est dit ma glace",
+          "rhyme": "as",
+          "persona_id": "room1"
+        },
+        {
+          "n": "26",
+          "text": "Sort pas les crocs cette vie m'a cassé",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "27",
+          "text": "J'ai un gros soucis, l'a cassé",
+          "rhyme": "e",
+          "persona_id": "room1"
+        },
+        {
+          "n": "28",
+          "text": "J'commence à retrouver l'appétit, (avant d'pister l'reflet dans l'assiette)",
+          "rhyme": "i",
+          "persona_id": "room1"
+        },
+        {
+          "n": "29",
+          "text": "(Pont)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "30",
+          "text": "Le moi d'après me voit peu, a-",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "31",
+          "text": "Le moi d'ap'",
+          "rhyme": "ap",
+          "persona_id": "room1"
+        },
+        {
+          "n": "32",
+          "text": "(Avant d'sculpter l'reflet dans l'assiette)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "33",
+          "text": "J'commence à retrouver l'appétit (j'commence à retrouver l'appétit)",
+          "rhyme": "i",
+          "persona_id": "room1"
+        },
+        {
+          "n": "34",
+          "text": "Avant d'pister l'reflet dans l'assiette (avant d'pister l'reflet dans l'assiette)",
+          "rhyme": "Et",
+          "persona_id": "room1"
+        },
+        {
+          "n": "35",
+          "text": "(Refrain)",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "36",
+          "text": "(le moi d'ap')",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "37",
+          "text": "Finir sous l'épave près du rivage (le moi d'ap')",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "38",
+          "text": "Un aller tout droit dans le virage (le moi d'ap')",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "39",
+          "text": "Ceux qu'ont **** dans mon mirage (reflet dans l'as')",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "40",
+          "text": "Ils ont tous grandi à mon image",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "41",
+          "text": "(le moi d'ap')",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "42",
+          "text": "(le moi d'ap')",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "43",
+          "text": "(le moi d'ap')",
+          "rhyme": null,
+          "persona_id": "room1"
+        },
+        {
+          "n": "44",
+          "text": "(avant d'pister l'reflet dans l'assiette)",
+          "rhyme": null,
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCDEBFFGHIJKHKKLHHHHLHMGGJJNLOPLNQLLHHHHLLLL",
+      "rhyme_vowel": "AABBAAAACCCDCCCCECCCCECCCCDDFECCEFAEECCCCEEEE"
+    }
+  ]
+}

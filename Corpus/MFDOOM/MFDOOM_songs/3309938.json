@@ -1,0 +1,331 @@
+{
+  "song_id": 3309938,
+  "title": "Voices Pt. 1 (AKA I Hear Voices Pt. 1)",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Out in the streets",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "You won’t survive with wack-ass beats (“We can see that”)",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "These days and times",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Watch how we get",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Ours with rhymes",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDC",
+      "rhyme_vowel": "ABACA"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "To my Metal Face bros with stomachs of cast iron",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Who been in to win and blast to the last siren",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "On the slow-mo, the con artist with the so-so chick",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Chased them all like how he did to Slobodan Milošević",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Anyhoo, how ‘bout them Yankees?",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Once I leave off-stage, the party people thanks me’s",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "If I may speak freely, nasty",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Like the freaky-deaky at your local sleazy speakeasy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "For any fan of the limelight",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "In the mic stand was left a lit stick of dynamite",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "It’s risky business like hand-to-hand crack sale",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "With rappers who’s better off on the cover of Black Tail",
+          "rhyme": "aj",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Jumping Jehoshaphat, who’s that? Who cats who do magic be like, “Tell me how you do’s that”",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Heck no. Especially those who cop pleas like",
+          "rhyme": "Ejk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Gekko, let go the mic, do techno. Haha",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "The best’ll bust out laughing at the vet",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "For no reason, you get cussed out like Tourette",
+          "rhyme": "Et",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Yet tight flow to make her bad ass stutter",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Or even crack a smile from a mad fast cutter",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "But, uh, horror play since third grade age",
+          "rhyme": "aZ",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Back when we used to play “Bang! Open bird cage”",
+          "rhyme": "aZ",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Hip hop Benny Hill, sip Henny straight, get every pennyweight",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Then he chill, at any rate",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "My Metal Face hoes with tongue or at least eye ring",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "Do yourself, I will continue to do my thing like",
+          "rhyme": "Ejk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Kung fu fighting, everybody was biting",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "Then the Supervillain struck again like lightning at",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "The same spot (Hzzz!). Now what’s the chance of that?",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "And a name drop like pick a name out the hat",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "That’s an old driver from the liver conniver",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "Who vote player out the rap game like Survivor while I",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "Drop degrees like a nerd cat, wheeling on ten-speeds",
+          "rhyme": "id",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "From way back, I spin your back and then freeze",
+          "rhyme": "iz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "While I play high-ball, low-ball to zero",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "So-called rhymers, go call Cleo while I",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "Steal the show like, “Thought so. Try hiking”",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "Super-duper stars need Ortho Tri-Cyclen",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Sometimes the men, mostly from the women",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "I hear voices saying, “That’s the Supervillain”",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "(Uhh, I hear voices)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "Mostly from the women",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "I hear voices",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "Supervillain",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCADADDEFGHIJIKLMNOOEPQJQIIIMDRSTDQBBUVBWU",
+      "rhyme_vowel": "ABCACACCDCDDDBDBBEBDDDDCBCDDDECCCFCCBBGHBDG"
+    },
+    {
+      "section_id": "section_2",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Allah blessed Iblis, showing him that, even though he was not in Heaven, Heaven could still come to him",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ]
+}

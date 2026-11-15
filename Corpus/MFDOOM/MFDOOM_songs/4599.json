@@ -1,0 +1,493 @@
+{
+  "song_id": 4599,
+  "title": "Batty Boyz",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "If you're waiting for a parade, there ain't none",
+          "rhyme": "On",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Sharpen up your spirit of adventure, the fabulous gay way",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Say, what's the big idea? (Gay!)",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I have no ideas, in fact, I'm quite bewildered",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Now don't get gay with me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "(Gay? Sir, I'm far from gay)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Now listen and keep your shirt on",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Grown men in a rubber suit, runnin' around with a young boy",
+          "rhyme": "Oj",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "(Homo)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCBDEFGE",
+      "rhyme_vowel": "ABCBDEFAE"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Oh shoot, get a load of that fruit",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "In thigh-high boots, red tighty-whities and blue cat suit",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "(Holy homos!) Even the rats know it’s tacky",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "\"You ever see me slippin' like that bitch, just smack me\"",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Posin', chest and legs open, couldn’t stand worse",
+          "rhyme": "ORs",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "All was missin' was a bandana and a man purse",
+          "rhyme": "uRs",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Cryin', dyin', laughin' 'til glands burst",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Faster than a speeding glass, bleeding-ass ran first",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Fixin' baby hair, messed up wavy curl",
+          "rhyme": "9Rl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Under the cape, the back of the S say baby girl",
+          "rhyme": "9Rl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "The things some people‘ll do for fame",
+          "rhyme": "am",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "It’s a herb, it’s a lame, it's a goddamn shame",
+          "rhyme": "am",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Villain willing when them cold streets call",
+          "rhyme": "ol",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "You can keep your hero and hold the meatballs",
+          "rhyme": "ol",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Worthy title, lock it with pockets on empty",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "He work harder than a steam engine like John Henry",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "Turn dirt to dollars like Don Henley",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Ugly and still get hollers like Ron Jeremy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "At least monetarily terribly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "MCs need therapy, it’s like a fairy spree",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Hit him with a kryptonite brick (Kryptonite!)",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Children come and prick his dead body with a stick",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Wrote this lyric from in the bed with a chick",
+          "rhyme": "ik",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "She had the tightest grip around the head of my...",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AAABCDEEFFGGHHAAIAAJKKKA",
+      "rhyme_vowel": "AAABCDEEFFGGHHAAEAAIAAAA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "interlude",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "How much money you got?",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "I ain't got but four dollars on me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Damn",
+          "rhyme": "yt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Anyway I don't got this whole (censored) for ya",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Shit, you must be some kind of faggot man",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "My partner a faggot, why don't you come on out here man?",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Man, what the hell?",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEEF",
+      "rhyme_vowel": "ABCDEEF"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "...Bic, now can I get my pen back?",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Got no enemy, got no friend, black",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "With the Green Goblin, got the Batcave robbed",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Bust in Batman’s head bobbin’, slobbin’ Robin’s knob",
+          "rhyme": "Ob",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Y'all already got your belts on the floor, so",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Kick them shits over here and click off the porno",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Alfred come home and found them both naked",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Handcuffed to each other just as he had suspected",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Red and chrome Batmobile, wheelin‘ and dealin’",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Aquaman's sleepin' with the fishes for real for squealin’",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Psst! The lo-lo on a seal skin blazer",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "It’s just a little graze from a razor-thin laser",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Amazed at all these so-called wannabe players",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Showin' off their titballs to all the free-gayers",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "It’s like a leotard fest",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "How it got started is any retard's guess",
+          "rhyme": "Es",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "Regardless, that’s their choice, no hate debate",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Becomes a problem when they try an attempt to go straight",
+          "rhyme": "Et",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "And raise the monster rate in the whole population",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "It’s starting to affect the super pimpin' occupation",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Now who’s the hater? Headline the newspaper",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Fate of a fake, you out-caped crusader",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Tied to the tracks, make a damn tram derail",
+          "rhyme": "aj",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Rap is like scam spam Nigerian email",
+          "rhyme": "Ejl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "The man with no beard is more weirder than a she-male",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Sucker got bagged on a Temazepam street sale",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "Told 'em one of ours set it up, yeah doubt",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "Did it like the dirty drawls, wet ‘em up and air it out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCDDBBEEFFBBGHIJKKBBLMNNOP",
+      "rhyme_vowel": "AABCDDBBEEFFBBFFAFGGBBAFAAHA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You got any money? (What?)",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Listen, you got any money?",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Man, you goin' crazy? What the hell for?",
+          "rhyme": "OR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "$4 only, damn",
+          "rhyme": "yt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Batman's gay (batty boys)",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCA",
+      "rhyme_vowel": "AABCA"
+    }
+  ]
+}

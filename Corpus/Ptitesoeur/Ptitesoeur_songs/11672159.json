@@ -1,0 +1,437 @@
+{
+  "song_id": 11672159,
+  "title": "34％⃕ 33％⃕ 33％⃕",
+  "language": "fr",
+  "lyricists": [
+    3067930,
+    2033887
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "That's time, #CUT4ZALGO",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Time to lose a little blood",
+          "rhyme": "ud",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "1 billet, 2 billets, même si on perd",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "MFN, EPK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "MNG, EPK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG, EPK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "1 billet, 2 billets, même si on perd",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "MFN, EPK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "(Ces deux bougs puent vraiment la me-)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "MNG, EPK même si on-",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBABCD",
+      "rhyme_vowel": "AAAAAABC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ces bish font des manières",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tout ce talent ne date pas d'hier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Chaque track j'ai passé les paliers",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Range ta main, on est pas liés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai bu toutes les 'teilles de la party, yeah",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'vais péter un teh puis j'vais parier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'mets pas tous mes oeufs dans le même panier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "MNG on les baise, ils peuvent pas nier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai fait un billet donc j'ai pété les nouvelles strain",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'enchaîne les teh et les teh et les teh en attendant la nouvelle paie",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'suis sur FL tous les jours pendant que le téléphone il fait tudum, tudum",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'ai commencé ma merde en 2017, on me prenait pour un tudum, tudum",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBCBBBDCEE",
+      "rhyme_vowel": "ABBBABBBCADD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Faut déménager pour le port d'armes",
+          "rhyme": "aRm",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "MNG ça veut nous faire dans le portable",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le magistrat veut ma queue mais j'ai pas d'casier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "On les baise en secret depuis l'époque de la Casio",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Bâtard j'ai niqué ma tête et par passion, copie on va te niquer ta mère à l'occasion",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Il sait même pas faire de son, t'obéis, toi t'as signé puis t'as mis ton âme en location",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "On s'est montés à l'envers, la meta a changé gros, ça survit grâce à la dose qui te tue",
+          "rhyme": "y",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'estime ne pas être assez bien payée pour exister dans la vie d'autant de ces fils de putes",
+          "rhyme": "yt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Il était fan du son, dans la forme et le fond, mais depuis qu'il a vu nos têtes il veut plus s'abonner",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "On efface pas les cicatrices à l'acétone et pour le peu qu'on nous rend j'ai assez donné",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'ai fait un poseur, il accroche à la paire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'ai fait un poseur, il accroche à la paire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "L'industrie voudra jamais lâcher ma bite",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Les toxicos voudront jamais lâcher mon teh",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Pour changer d'émotion, j'appuie sur le D-pad",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Sous produits faut pas faire confiance à la chica",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Les tarots sont passés de 900 à 10k",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEFGCCHHICJKK",
+      "rhyme_vowel": "AABCDDEEBBFFGBAAA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "1 billet, 2 billets, même si on perd",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "MFN, EPK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "MNG, EBK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "MNG, EBK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "1 billet, 2 billets, même si on perd",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "MFN, EPK, même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "MNG, EBK même si on-",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBABC",
+      "rhyme_vowel": "AAAAAAB"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ces bish font des manières",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tout ce talent il date pas d'hier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Chaque track j'ai passé les paliers",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Range ta main, on est pas liés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai bu toutes les ´teilles de la party, yeah",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'vais péter un teh puis j'vais parier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'mets pas tous mes oeufs dans le même panier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "MNG on les baise, ils peuvent pas nier",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai fait un billet donc j'ai pété les nouvelles strain",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'ai enchaîné les teh et les teh et les teh en attendant la nouvelle paire (MNG, EPK même si on-)",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'suis sur FL tous les jours pendant que le téléphone il fait tudum, tudum",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'ai commencé ma merde en 2017, on me prenait pour un tudum, tudum",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "MFN, EPK même si on-",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Ouais ouais ouais MNG franchement les brozers j'suis fan de vous continuez comme ça les brozers hein force, monstre NAHN",
+          "rhyme": "2n",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "MNG, EPK même si on perce",
+          "rhyme": "ERs",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "MNG",
+          "rhyme": "iN",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBBCBBBDAEEFGHI",
+      "rhyme_vowel": "ABBBABBBCADDEFAG"
+    }
+  ]
+}

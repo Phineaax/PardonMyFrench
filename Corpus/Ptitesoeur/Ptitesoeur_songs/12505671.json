@@ -1,0 +1,374 @@
+{
+  "song_id": 12505671,
+  "title": "EVIL KNIEVEL",
+  "language": "fr",
+  "lyricists": [
+    3171563,
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai rêvé d'l'aigle sur le cercueil, Frankenstein swag, des clous sur le serre-tête",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'me suis vu sortir d'là, catwalk sur le carpet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Déterrer des trucs bruyants en dessous le parquet",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'faisais des croix sur la plaque 'vec ma mère",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Elle sait mieux couper qu'toutes les pédales de ta ville",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Lord bozo très goofy, on se sait, on le sait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Pour Noël, j'commande un G et un switch",
+          "rhyme": "itS",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Mais c'est trop peu, j'veux l'AR qui fait mal, si y a deux-trois cosaques qui viеnnent dans mes contacts",
+          "rhyme": "akt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "On s'arrange tous еnsemble sur un parking miteux",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Et dans la demi-heure, j'fais des plans sur la com'",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Dernier blanc-bec, un peu foufou d'campagne",
+          "rhyme": "aJ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Toujours sous alcool fort, jamais sous champagne",
+          "rhyme": "aJ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Passe dans ma forêt, j'te sors des champis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Passe à la ferme, bébé, j'sors des échant'",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'étais bloqué dans une cage, c'était tellement dément",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "J'ai rongé les barreaux, y a la trace de mes dents",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Aujourd'hui, je célèbre, j'me goon sur l'excédent",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Et l'orgasme, à chaque fois, bâtard, est excellent",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Ma sueur, mon sang encore dans l'caniveau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "J'ai dû faire des cascades comme Evel Knievel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "Nan, j'ai pas clear le sample, madame Papin-",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "Et soixante pour cent, j'trouve que c'est d'la pinnade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "On aurait pu régler ça avec une caisse de Pinot",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Mais tu connais les cains-ri, toujours les gros bras",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "\"On est plus forts que vous, on est plus forts que toi\"",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "25",
+          "text": "Bah vas-y, écarte mon trou d'balle et fous-y un doigt",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "26",
+          "text": "C'est juste un autre jour",
+          "rhyme": "uR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "27",
+          "text": "Personne nous brise depuis qu'on est nés",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "28",
+          "text": "Le roseau se plie et r'viendra les fouetter",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "29",
+          "text": "Et si l'roseau casse, ce s'ra avec deux barils de terreau à ses pieds",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCDBEFGHIIJKKKKKLMNOLPPPQRRR",
+      "rhyme_vowel": "AAAABABCDECCBFFFFFGAHCGCCCIJJJ"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Dans la vie d'avant, y avait pas l'temps pour les sentiments",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'me tire les cheveux d'vant la banque, sale bâtard, pas d'vant les sons qui mentent",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "La paye à l'image de ma tête, seul Dieu sait comme elle est pas stable",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'cours qu'après l'argent car c'est l'dernier qui m'a pas back stab",
+          "rhyme": "ab",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'bavarde pendant qu'le F' cache le fer d'la taille d'un manteau",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ça m'fait bander sec de sentir tous ces couteaux dans mon dos",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "On faisait un billet dans le hall, on fait dix fois ça sur le web",
+          "rhyme": "Eb",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ouvrais ma gueule pour t'réveiller, pas pour divertir la plèbe",
+          "rhyme": "Eb",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Six heures trente, si près d'la planque, tout près d'la pente, j'caresse ma tempe",
+          "rhyme": "#p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Avec le fer, par là ça m'tente",
+          "rhyme": "#t",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Mon string se trempe quand j'guette la fente du Winchester",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "M'écouter gémir l'temps d'un mirage",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Tapisser l'papier d'ma merde, j'veux l'sentir gicler sur mon visage",
+          "rhyme": "aZ",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Que l'calibre, il baise ma face, que l'boug à l'étage baise ma race",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Qu'on file un 9 au p'tit d'la place, foutre à l'envers à qui t'la passe",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Le genou qui flanche quand j'quitte la base, y a que l'paycheck qu'a pris d'la masse",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "Un fils de pute épris d'sa chasse, deux gosses de plus dans l'puits d'la DDASS",
+          "rhyme": "as",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEEFFGBHIIJJJJ",
+      "rhyme_vowel": "AABBCCDDAADBBBBBB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "S.F.N",
+          "rhyme": "n",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "A.k.a les most famous nobody du jeu truqué",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "On crée l'argent à partir de rien",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Certains s'demandent si c'est d'la magie noire pendant qu'ton trappeur à buzzcut préféré flex la paye de ses darons",
+          "rhyme": "$",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Et qu'ton label découvre des nouvelles manières de gaspiller la Sacem de Disiz La Peste",
+          "rhyme": "Est",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "On est les premiers à avoir mis la main sur la faille",
+          "rhyme": "aj",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Et on en paye chaque jour le prix",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Pour le meilleur, et surtout pour le pire",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Neo', tu peux envoyer la suite",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEFGHI",
+      "rhyme_vowel": "ABCDEFGGG"
+    }
+  ]
+}

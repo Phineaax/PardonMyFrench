@@ -1,0 +1,289 @@
+{
+  "song_id": 9422095,
+  "title": "LES QUAIS⠀⸂passerelle d’eau⸃",
+  "language": "fr",
+  "lyricists": [
+    4212763
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'blo- j'bloque un souvenir dans l'a-ppa-reil, moi",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Sur l'visage étale du pa-ra-bène",
+          "rhyme": "En",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "J'bloque un souvenir dans l'a-ppa-reil, moi",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Sur l'visage étale du pa-ra-bène",
+          "rhyme": "En",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABAB",
+      "rhyme_vowel": "ABAB"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Derrière la porte ça bouge pas, on met des barrages",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "On fait mouche si t'es pas dans les parages",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "« Petit, petit tu sors pas si tu n'es pas sage »",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "J'applique la leçon depuis plus bas des bas-âges",
+          "rhyme": "aZ",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "Moi et lui comme avant bavant je veux pas ça",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "De passage, on marche de base pendant le bazar",
+          "rhyme": "aR",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "Pas vu le voisin qui connaît l'odeur de ma came",
+          "rhyme": "am",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "J'prends un peu soin d'moi avant qu'ça devienne macabre",
+          "rhyme": "abR",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AAAABCDE",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "S'il-te plaît vient décrocher la rambarde",
+          "rhyme": "aRd",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "J'suis vautré, j'peux pas sauter, ça rend barge",
+          "rhyme": "aRZ",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "On s'voit demain là j'vends ma chair aux enchères",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "L'enfer frère, il travaille juste pour qu'on m'enferme",
+          "rhyme": "ERm",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "La défaite à force elle a un goût infernal",
+          "rhyme": "al",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Saute du tabouret, le coude encore d'affaire",
+          "rhyme": "ER",
+          "persona_id": "room1"
+        },
+        {
+          "n": "4",
+          "text": "J'enterre le moi d'avant à la pelle",
+          "rhyme": "El",
+          "persona_id": "room1"
+        },
+        {
+          "n": "5",
+          "text": "J'travaille comme si ça fait v'la la paye",
+          "rhyme": "Ej",
+          "persona_id": "room1"
+        },
+        {
+          "n": "6",
+          "text": "J'ai du mal à rassembler 10 syllabes",
+          "rhyme": "ab",
+          "persona_id": "room1"
+        },
+        {
+          "n": "7",
+          "text": "J'aurai disparu sans blé d'ici là",
+          "rhyme": "a",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABCADEFG",
+      "rhyme_vowel": "AABAAABB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'blo- j'bloque un souvenir dans l'a-ppa-reil, (ah, ha, hey, oh)",
+          "rhyme": "Ej",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "Sur l'visage étale du pa-ra-bène, em-mène moi, loin",
+          "rhyme": ")",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "J'bloque un souvenir dans l'a-ppa-reil, (ah, ha, hey, oh)",
+          "rhyme": "Ej",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "Sur l'visage étale du pa-ra-bène, em-mène moi, loin",
+          "rhyme": ")",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "ABAB",
+      "rhyme_vowel": "ABAB"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "S'il-te plaît vient décrocher la rambarde",
+          "rhyme": "aRd",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "J'suis vautré, j'peux pas sauter, ça rend barge",
+          "rhyme": "aRZ",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AAAA"
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "1",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "2",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        },
+        {
+          "n": "3",
+          "text": "C'est pas si loin d'la fenêtre à en bas",
+          "rhyme": "a",
+          "persona_id": "room1"
+        }
+      ],
+      "rhyme": "AAAA",
+      "rhyme_vowel": "AAAA"
+    }
+  ]
+}

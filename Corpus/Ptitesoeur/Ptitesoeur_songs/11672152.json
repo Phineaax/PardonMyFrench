@@ -1,0 +1,442 @@
+{
+  "song_id": 11672152,
+  "title": "（C | C）STAGE 12⠀‒⠀Tubular",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "That's time,#CUT4ZALGO",
+          "rhyme": "o",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Time to lose a little blood",
+          "rhyme": "ud",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "DJ SKINNY SUR MA BITE",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "ABC"
+    },
+    {
+      "section_id": "section_2",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Scam pour des reps de Rick Owens",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tu vas finir sans rick au hebs",
+          "rhyme": "Eps",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Pour mon histoire faut dix novels, il m'faut 100k pas d'prix Nobel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'cook un plan 'vec la zine au tel'",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'pull up en drip d'Hazbin Hotel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Un platane dans une sale Opel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Elle copie c'est une salope elle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "B, moi j'veux ma paye j'me tire les cheveux d'vant l'écran bleu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai craché tout la veille dans 4 SWEAR et du Le Grand Bleu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Ta carrière dans un lucky block",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "3g puis j'rеc les yeux qui bloquent",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Toi t'as dеs r'mords t'as pas un glock",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "J'arrive gros comme Naza en cloque",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCCCCDDEEEE",
+      "rhyme_vowel": "ABBBBBBCCDDDD"
+    },
+    {
+      "section_id": "section_3",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'deviens comme sur la PDP",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'gamberge la mâchoire acérée",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "C'est nous les nouveaux gwer tendance on reste tant qu'ça les f'ra serrer",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "L'addiction m'faisais vomir j'consommais l'médoc qui rend malade",
+          "rhyme": "ad",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai pris l'problème à l'envers, j'voulais changer l'monde avant ma life",
+          "rhyme": "ajf",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Mon frère est en vie god bless j'espère jamais l'dire à l'imparfait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Y a des trucs on est les premiers humains sur terre à l'avoir fait",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Tous ces bâtards mettent la lumière sur ma gueule j'fais que d'éteindre",
+          "rhyme": ")dR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'suis partie d'en bas j'ai compris qu'à la surface c'est que des timps",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Au rez-de-chaussée c'est que des timps",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Premier étage c'est que des timps",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Deuxième étage c'est que des timps",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Même sur le toit y a que des timps",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "En 2K18 jamais pimpant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "J'avais qu'Sybyr dans mes tympans",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Soeur t'as mal mais qu'est ce que t'entends ?",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "16",
+          "text": "S'faire la malle souvent qu'c'est tentant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "17",
+          "text": "Bouge tu connais pas la sentence",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "18",
+          "text": "Tu parles trop t'as pas l'ascendant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "19",
+          "text": "On a dormi pendant tant d'temps",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "20",
+          "text": "J'fais la même chose en attendant",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "21",
+          "text": "D'faire rentrer deux fois ton crédit",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "22",
+          "text": "Nouveau plav' et c'bâton s'raidit",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "23",
+          "text": "Chez nous l'égo trip c'est la vraie vie",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "24",
+          "text": "Tel est l'malheur qu'on a prédit",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAABCDDEFFFFFFFFFGFFFHHHH",
+      "rhyme_vowel": "AAABBCCDEEEEEEEEEEEEEFFFF"
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Scam pour des reps de Rick Owens",
+          "rhyme": ")",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Tu vas finir sans rick au hebs",
+          "rhyme": "Eps",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Pour mon histoire faut dix novels il m'faut 100k pas d'prix Nobel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'cook un plan 'vec la zine au tel'",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'pull up en drip d'Hazbin Hotel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Un platane dans une sale Opel",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Elle copie c'est une salope elle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "B- b moi j'veux ma paye j'me tire les cheveux d'vant l'écran bleu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'ai craché tout la veille dans 4 SWEAR et du Le Grand Bleu",
+          "rhyme": "2",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Ta carrière dans un lucky block",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "3g puis j'rec les yeux qui bloquent",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Toi ta des r'mords ta pas un glock",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "J'arrive gros comme Naza en cloque",
+          "rhyme": "Ok",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCCCCDDEEEE",
+      "rhyme_vowel": "ABBBBBBCCDDDD"
+    },
+    {
+      "section_id": "section_5",
+      "type": "pont",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Là j'crache des barz comme si j'allais crever si la track s'arrête",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'guette les poseurs 'vec les yeux d'la forme des phares de la McLaren",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "DJ SKINNY SUR MA BITE",
+          "rhyme": "it",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "AAB"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Rien n'est vrai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Rien n'est vrai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Tout est permis",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Rien n'est vrai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Rien n'est vrai",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Merci pour l'argent",
+          "rhyme": "aRZ",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AABAAC",
+      "rhyme_vowel": "AABAAC"
+    }
+  ]
+}

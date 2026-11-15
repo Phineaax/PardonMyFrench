@@ -1,0 +1,454 @@
+{
+  "song_id": 14284689,
+  "title": "PEACE&BOMBS",
+  "language": "fr",
+  "lyricists": [
+    3067930
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'ai envie d'vivre, j'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai envie d'vivre, j'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "J'ai envie d'vivre, j'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'ai envie d'vivre, j'ai envie d'vivre, j'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "AAAAAAAA",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "J'dois accepter la misère avant dе pass away",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Niquer ta vie d'avantage pour un liе, ah ouais",
+          "rhyme": "E",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai arrêté les drogues car les rêves me manquent",
+          "rhyme": "#k",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'me rendors après les cauchemars pour les tank",
+          "rhyme": "#k",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Y a rien d'plus dangereux que l'art et l'indépendance donc ils veulent se débarrasser de moi",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Ils ont tout fait pour m'éteindre, mais c'est dommage car je garde mon cœur ouvert malgré les épreuves",
+          "rhyme": "9v",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCCDE",
+      "rhyme_vowel": "ABCCDE"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Qu'la vie est belle, est belle, est belle, est belle, est belle, est belle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai fait l'tour de ma tête, maintenant il m'reste à faire le tour du monde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'recompte tout c'que j'ai fait la veille, veille, veille, veille, veille",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pour qu'on envisage mieux l'avenir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Quels sont les maux à venir ?",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Une belle balade à Venise",
+          "rhyme": "iz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Si tu veux qu'on parle, t'as mon dial",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Du nouveau désordre mondial",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "J'dois l'faire pour ceux qu'ont vécu pire",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Car telle est ma chance",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'me demande pourquoi ces anges",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "Viennent m'écarteler dans la chambre (j'ai envie d'vivre)",
+          "rhyme": "#bR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDDEFFDGHI",
+      "rhyme_vowel": "ABACCCDDCEEE"
+    },
+    {
+      "section_id": "section_4",
+      "type": "couplet",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Car j'en sais trop sur l'amour et la haine",
+          "rhyme": "En",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Mais Dieu m'avait maudit de sa flemme",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "Le monde est plus joli, imparfait de ses 'blèmes",
+          "rhyme": "Em",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Mais ça on s'en fout",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Raconte moi juste c'que t'as fait c't après-m'",
+          "rhyme": "Om",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "J'en avais marre, elle a cassé ma paire",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "J'ai fait le tour de ma tête et à perte",
+          "rhyme": "ERt",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Mais pourquoi ces humains veulent toujours plus, au dépends de ceux qui ont déjà tout à perdre ?",
+          "rhyme": "ERdR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Elle a fait des efforts, mais à ses yeux c'était jamais assez",
+          "rhyme": "e",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "Elle passait d'aider son prochain à réduire la quantité d'l'assiette (j'ai envie d'vivre)",
+          "rhyme": "Et",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "J'ai passé ma vie à me sacrifier pour des gens qui abusaient de moi (dommage)",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'ai compris la leçon, le sacrifice il est bon que si c'est pour le monde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Y'a le monde en chacun d'nous",
+          "rhyme": "u",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "13",
+          "text": "Et faire la paix avec des bombes (à quoi bon ?)",
+          "rhyme": "$b",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "14",
+          "text": "Et faire la paix avec des bombes",
+          "rhyme": "$b",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "15",
+          "text": "Chaque jour j'me rapproche de la mort, donc de la lumière",
+          "rhyme": "ER",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCDEFGHIJKCLLE",
+      "rhyme_vowel": "AAABCAAADAEFBFFA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Qu'la vie est belle, est belle, est belle, est belle, est belle, est belle",
+          "rhyme": "El",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "J'ai fait l'tour de ma tête, maintenant il m'reste à faire le tour du monde",
+          "rhyme": "$d",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'recompte tout c'que j'ai fait la veille, veille, veille, veille, veille",
+          "rhyme": "Ej",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "Pour qu'on envisage mieux l'avenir",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "(J'ai envie d'vivre)",
+          "rhyme": null,
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Quels sont les mots à venir ?",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Une belle balade à Venise",
+          "rhyme": "iz",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "Si tu veux qu'on parle, t'as mon dial",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Du nouveau désordre mondial",
+          "rhyme": "al",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "J'dois l'faire pour ceux qu'ont vécu pire",
+          "rhyme": "iR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "10",
+          "text": "Car telle est ma chance",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "11",
+          "text": "J'me demande pourquoi ces anges",
+          "rhyme": "#Z",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "12",
+          "text": "Viennent m'écarteler dans la chambre (j'ai envie d'vivre)",
+          "rhyme": "#bR",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABCDEDFGGDHIJ",
+      "rhyme_vowel": "ABACDCCEECFFF"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Parce qu'ils m'aiment",
+          "rhyme": "#",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "1",
+          "text": "Loin du monde plastique",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "2",
+          "text": "J'ai levé les yeux, c'était fantastique",
+          "rhyme": "ik",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "3",
+          "text": "J'remercie l'univers pour les douleurs tant qu'elles sont surmontables",
+          "rhyme": "abl",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "4",
+          "text": "Maintenant c'est à nous d'nous battre pour laisser personne sur le tas",
+          "rhyme": "a",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "5",
+          "text": "Jump, jump, jump, jump, jump, jump, jump, jump, jump, jump, jump, jump",
+          "rhyme": "(p",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "6",
+          "text": "Danse, baby, danse, baby, danse, baby, danse",
+          "rhyme": "#s",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "7",
+          "text": "J'ai envie d'vivre",
+          "rhyme": "ivR",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "8",
+          "text": "Next, [yeah  ?], comes [movie?]",
+          "rhyme": "i",
+          "persona_id": "Ptite_soeur"
+        },
+        {
+          "n": "9",
+          "text": "It has become hyper real",
+          "rhyme": "il",
+          "persona_id": "Ptite_soeur"
+        }
+      ],
+      "rhyme": "ABBCDEFGHI",
+      "rhyme_vowel": "ABBCCDABBB"
+    }
+  ]
+}
