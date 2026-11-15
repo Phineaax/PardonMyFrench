@@ -5,6 +5,8 @@ import pandas as pd
 import ast
 import os
 
+DEFAULT_CHUNK_LINES_NB = 200
+
 TOKENS_FR_REG = re.compile(
     r"""
     aujourd['’]hui                                # cas particulier
@@ -39,37 +41,42 @@ def count_tokens(line: str, lang: str = "fr") -> int:
 
 def chunk(
     lyrics_dataframe: pd.DataFrame,
-    chunk_tokens_nb: int = 1500,
-    lang: str = "fr",
+    chunk_tokens_nb: int = DEFAULT_CHUNK_LINES_NB,
+   #lang: str = "fr",
 ) -> List[List[str]]:
     lines = lyrics_dataframe["text"].dropna().to_list()
 
-    chunks = []
-    current_chunk = []
-    token_count = 0
+    chunks = [lines[i:i+chunk_tokens_nb] for i in range(0, len(lines), chunk_tokens_nb)]
+    if len(chunks[-1])<(chunk_tokens_nb/2) :
+        chunks[-2].extend(chunks[-1])
+        chunks = chunks[:-1]
 
-    for line in lines:
-        if token_count >= chunk_tokens_nb:
-            chunks.append(current_chunk)
-            current_chunk = []
-            token_count = 0
+    # chunks = []
+    # current_chunk = []
+    # token_count = 0
 
-        token_count += count_tokens(line, lang)
-        current_chunk.append(line)
+    # for line in lines:
 
-    # Dernier chunk : on le garde s'il est assez gros,
-    # sinon on le fusionne avec le précédent
-    if current_chunk:
-        if not chunks:
-            chunks = [current_chunk]
-        else :
-            chunks[-1].extend(current_chunk)
+    #     if token_count >= chunk_tokens_nb:
+    #         chunks.append(current_chunk)
+    #         current_chunk = []
+    #         token_count = 0
+
+    #     token_count += count_tokens(line, lang)
+    #     current_chunk.append(line)
+
+    # # Dernier chunk : on le fusionne avec le précédent
+    # if current_chunk:
+    #     if not chunks:
+    #         chunks = [current_chunk]
+    #     else :
+    #         chunks[-1].extend(current_chunk)
 
     return chunks
 
 def format_chunk_for_scoring(lyrics_dataframe: str, # = lyrics dataframe pour une persona.
                              persona_id:str,
-                             chunk_tokens_nb:int=1500) -> Optional[Dict[str, List[List[str]]]]:
+                             chunk_tokens_nb:int=DEFAULT_CHUNK_LINES_NB) -> Optional[Dict[str, List[List[str]]]]:
 
     chunks = chunk(lyrics_dataframe=lyrics_dataframe, chunk_tokens_nb=chunk_tokens_nb)
     return {f"{persona_id}_{ind}": chunk for (ind, chunk) in enumerate(chunks)}

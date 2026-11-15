@@ -47,18 +47,7 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1) :
     df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
     return df
 
-# def create_dendrogram(distance_matrix, labels, title) : 
-#     y = squareform(distance_matrix)
-    
-#     Z = linkage(y, method="ward")
-
-#     plt.figure(figsize=(14, 6))
-#     dendrogram(Z, labels=labels, leaf_rotation=90)
-#     plt.title(f"Clustering hiérarchique selon : {title}")
-#     plt.tight_layout()
-#     plt.show()
-
-def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
@@ -132,6 +121,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         print(f"resultats obtenus pour {scorer}")
 
     non_sem = [scorer.name for scorer in scorers if "Vec" not  in scorer.name]
+    print(non_sem)
     results['non_sem_vec'] = {key : np.array([results[ns][key] for ns in non_sem]) for key in chunk_ids}
 
     distances = {scorer : np.array(list(results[scorer].values())) for scorer in results}
@@ -150,7 +140,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     return results, distances, chunk_ids
 
-def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=1500, n_sample=8, optional_df=None, do_show=False) :
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8, optional_df=None, do_show=False) :
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
@@ -236,7 +226,7 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None):
     return ax
 
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
-                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=1500, n_sample=8,
+                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8,
                          optional_df = []):
     distances, chunk_ids = get_aggregated_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, n_sample=n_sample, optional_df=optional_df)
 
