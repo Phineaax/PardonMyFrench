@@ -43,8 +43,9 @@ def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
     if lang == "en" : lang+="-us"
     dic = pyphen.Pyphen(lang=lang)
 
-    lines_chunk = list(map(lambda l : l.replace("-", "—"), lines_chunk)) #On transforme les 
-    syll_per_line = list(map(lambda l : len(dic.inserted(l).split("-")), lines_chunk))
+    hyphen = "#$µ"
+
+    syll_per_line = list(map(lambda l : dic.inserted(l, hyphen=hyphen).count(hyphen)+1, lines_chunk)) #On compte les syllabes
     
     return sum(syll_per_line)/len(lines_chunk)
 syllMoy = Mesure("syllMoy", syllabe_moyenne, "moyenne de syllabes par lignes")
