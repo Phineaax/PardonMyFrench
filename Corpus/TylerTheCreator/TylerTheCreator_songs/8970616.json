@@ -1,1 +1,68 @@
-{"song_id": 8970616, "title": "EVERYTHING MUST GO", "language": "en", "lyricists": [685], "lyrics": [{"section_id": "section_0", "type": "spoken", "performer": "", "lines": [{"n": "0", "text": "Yeah", "rhyme": "E"}, {"n": "1", "text": "Arenas all around the world", "rhyme": "Old"}, {"n": "2", "text": "Took another trophy home (Tyler Baudelaire)", "rhyme": "om"}, {"n": "3", "text": "Thank you to every ear that listened, bought a ticket, whatever (DJ Drama)", "rhyme": "e"}, {"n": "4", "text": "Thank you, thank you, thank you, thank you", "rhyme": "u"}, {"n": "5", "text": "I love y'all, man, for real (Call Me If You Get Lost) (Gangzta Grillz)", "rhyme": "il"}, {"n": "6", "text": "(The Estate Sale)", "rhyme": null}, {"n": "7", "text": "Everything must go (Ay, T, what more is left for us?)", "rhyme": "o"}], "rhyme": "ABCDEFGH", "rhyme_vowel": "ABCDEFGC"}], "album_id": 983199}
+{
+  "song_id": 8970616,
+  "title": "EVERYTHING MUST GO",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "spoken",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "1",
+          "text": "Arenas all around the world",
+          "rhyme": "Old",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "2",
+          "text": "Took another trophy home (Tyler Baudelaire)",
+          "rhyme": "om",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "3",
+          "text": "Thank you to every ear that listened, bought a ticket, whatever (DJ Drama)",
+          "rhyme": "e",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "4",
+          "text": "Thank you, thank you, thank you, thank you",
+          "rhyme": "u",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "5",
+          "text": "I love y'all, man, for real (Call Me If You Get Lost) (Gangzta Grillz)",
+          "rhyme": "il",
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "6",
+          "text": "(The Estate Sale)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baudelaire"
+        },
+        {
+          "n": "7",
+          "text": "Everything must go (Ay, T, what more is left for us?)",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "ABCDEFGH",
+      "rhyme_vowel": "ABCDEFGC"
+    }
+  ],
+  "album_id": 983199
+}
