@@ -15,6 +15,18 @@ import matplotlib.pyplot as plt
 from random import shuffle
 import math
 
+SABLE  = "#F2EACF"   # fond
+BRIQUE = "#BF3B24"   # accent 1 : titres, branches
+ACIER  = "#5D8FA8"   # accent 2
+JAUNE   = "#EE7A0B"   # accent 3 : texte courant
+CREME  = "#FBF4E2"   # complément
+BLANC = "#FCF8ED"
+
+# Couleurs des personas. La charte n'a que 4 teintes, dont le crème, trop pâle
+# sur fond sable. Pour plus de 3 personas, j'ai ajouté des teintes assorties
+# (ocre, vert-de-gris, prune) qui ne font pas partie de la charte.
+PERSONA_PALETTE = [BRIQUE, ACIER, JAUNE, "#8BC34A", "#D92E6A", "#7A4B63"]
+
 
 available_metrics = scoring.available_metrics
 # Les scorers possibles sont : 
@@ -197,30 +209,37 @@ def get_root(label):
     """'mon_artiste_12' -> 'mon_artiste' (on coupe au DERNIER underscore)"""
     return label.rsplit("_", 1)[0]
 
-def make_color_map(labels, cmap_name="tab20"):
+def make_color_map(labels, palette=PERSONA_PALETTE):
     roots = sorted(set(get_root(l) for l in labels))
-    cmap = plt.get_cmap(cmap_name)
-    return {r: cmap(i % cmap.N) for i, r in enumerate(roots)}
+    return {r: palette[i % len(palette)] for i, r in enumerate(roots)}
 
-def create_dendrogram(distances, labels, title, ax=None, color_map=None):
-
-    #labels = [l[:l.rfind("_")] for l in labels]
-    
+def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None):
     y = squareform(distances)
     if ax is None:
-        _, ax = plt.subplots(figsize=(12, 5))
+        fig, ax = plt.subplots(figsize=(12, 5))
+        fig.patch.set_facecolor(CREME)
 
-    # result_dict: {chunk_id: vecteur ou scalaire} -> matrice (n_chunks, n_features)
-    
-    Z = linkage(y, method="ward")  # ou ta méthode habituelle
-    dendrogram(Z, labels=labels, ax=ax, leaf_rotation=90, leaf_font_size=8)
-    ax.set_title(title)
+    Z = linkage(y, method="ward")
+    dendrogram(Z, labels=labels, ax=ax, leaf_rotation=90, leaf_font_size=8,
+               link_color_func=lambda k: BRIQUE)   # branches en rouge brique
 
-    # Coloration des labels par racine
+    # Fond, titre, axes
+    ax.set_facecolor(CREME)
+    ax.set_title(title, color=BRIQUE, fontweight="bold")
+    ax.tick_params(axis="y", colors=BRIQUE)
+    for spine in ax.spines.values():
+        spine.set_color(BRIQUE)
+
+    # Étiquettes colorées par persona
+    if roots is None:
+        roots = [get_root(l) for l in labels]
+    label_to_root = dict(zip(labels, roots))
     if color_map is None:
         color_map = make_color_map(labels)
+
     for tick in ax.get_xmajorticklabels():
-        tick.set_color(color_map[get_root(tick.get_text())])
+        root = label_to_root.get(tick.get_text())
+        tick.set_color(color_map.get(root, BRIQUE))
 
     return ax
 
@@ -235,8 +254,9 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
 
     nrows = math.ceil((len(scorers)+1) / ncols)
     fig, axes = plt.subplots(nrows, ncols,
-                             figsize=(figsize_per_plot[0] * ncols, figsize_per_plot[1] * nrows),
-                             squeeze=False)
+                         figsize=(figsize_per_plot[0] * ncols, figsize_per_plot[1] * nrows),
+                         squeeze=False)
+    fig.patch.set_facecolor(BLANC)
     axes = axes.flatten()
 
     color_map = make_color_map(chunk_ids)  # mêmes couleurs dans tous les sous-graphes
@@ -249,9 +269,15 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
     else :
         labels = chunk_ids
 
+    roots = [get_root(c) for c in chunk_ids]
+    color_map = make_color_map(chunk_ids)
+
+    labels = roots if not show_ids else chunk_ids
+
     for ax, s_n, s_d in zip(axes, scorers_names, scorer_description):
-        create_dendrogram(distances[s_n], labels, s_d, 
-                          ax=ax, color_map=color_map)
+        create_dendrogram(distances[s_n], labels, s_d,
+                        ax=ax, color_map=color_map, roots=roots)
+
 
     for ax in axes[len(scorers)+1:]:  # on cache les axes en trop
         ax.axis("off")

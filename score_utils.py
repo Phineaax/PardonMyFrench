@@ -36,7 +36,8 @@ def longueur_moyenne(lines_chunk:List[str], **kwargs) -> float:
     words_length = list(map(lambda w : len(w), words))
     
     return sum(words_length)/len(words_length)
-longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
+# longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
+longMoy = Mesure("longMoy", longueur_moyenne, "Words mean length")
 
 def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
     lang = langcode(language, 2)
@@ -48,18 +49,21 @@ def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
     syll_per_line = list(map(lambda l : dic.inserted(l, hyphen=hyphen).count(hyphen)+1, lines_chunk)) #On compte les syllabes
     
     return sum(syll_per_line)/len(lines_chunk)
-syllMoy = Mesure("syllMoy", syllabe_moyenne, "moyenne de syllabes par lignes")
+#syllMoy = Mesure("syllMoy", syllabe_moyenne, "moyenne de syllabes par lignes")
+syllMoy = Mesure("syllMoy", syllabe_moyenne, "Average syllabes count per line")
 
 def diversite_lexicale_HDD(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).hdd()
-divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "score de diversité lexicale (méthode HDD)")
+#divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "score de diversité lexicale (méthode HDD)")
+divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "Lexical diversity score (HDD)")
 
 
 def diversite_lexicale_MTLD(lines_chunk, **kwargs) :
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).mtld()
-divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "score de diversité lexicale (méthode MTLD)")
+#divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "score de diversité lexicale (méthode MTLD)")
+divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "Lexical diversity score (MTLD)")
 
 
 def densite_lexicale(lines_chunk:List[str], language, **kwargs) -> float:
@@ -67,7 +71,8 @@ def densite_lexicale(lines_chunk:List[str], language, **kwargs) -> float:
     words = wordify(lines_chunk)
     full_words = [w for w in words if w not in stop_words]
     return len(full_words)/len(words)
-densLex = Mesure("densLex", densite_lexicale, "score de densité lexicale")
+#densLex = Mesure("densLex", densite_lexicale, "score de densité lexicale")
+densLex = Mesure("densLex", densite_lexicale, "Lexical density")
 
 
 #BOW
