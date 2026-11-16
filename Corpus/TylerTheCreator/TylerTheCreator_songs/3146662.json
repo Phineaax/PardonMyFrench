@@ -1,1 +1,26 @@
-{"song_id": 3146662, "title": "Enjoy Right Now, Today", "language": "en", "lyricists": [685], "lyrics": [{"section_id": "section_0", "type": "instrumental", "performer": "", "lines": [], "rhyme": "", "rhyme_vowel": ""}, {"section_id": "section_1", "type": "breakdown", "performer": "", "lines": [{"n": "0", "text": "One, two, three, four", "rhyme": "uR"}], "rhyme": "A", "rhyme_vowel": "A"}], "album_id": 352640}
+{
+  "song_id": 3146662,
+  "title": "Enjoy Right Now, Today",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_1",
+      "type": "breakdown",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "One, two, three, four",
+          "rhyme": "uR",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ],
+  "album_id": 352640
+}

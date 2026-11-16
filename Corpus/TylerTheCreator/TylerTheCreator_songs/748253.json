@@ -1,1 +1,59 @@
-{"song_id": 748253, "title": "FIND YOUR WINGS", "language": "en", "lyricists": [685], "lyrics": [{"section_id": "section_0", "type": "instrumental", "performer": "", "lines": [], "rhyme": "", "rhyme_vowel": ""}, {"section_id": "section_1", "type": "refrain", "performer": ", , ", "lines": [{"n": "0", "text": "Find your wings (You're supposed to fly)", "rhyme": "iN"}, {"n": "1", "text": "Find your wings (Find your wings)", "rhyme": "iN"}], "rhyme": "AA", "rhyme_vowel": "AA"}, {"section_id": "section_2", "type": "verse", "performer": ", , , , ", "lines": [{"n": "0", "text": "Hey, you, whatcha doin' and why you runnin'? (Yeah, nigga)", "rhyme": ")"}, {"n": "1", "text": "Supposed to fly and take control 'cause you're the pilot", "rhyme": "o"}, {"n": "2", "text": "You can't swim, you're gonna drown, the sharks are comin'", "rhyme": ")"}, {"n": "3", "text": "The sky's your home, there's no limit, you know you gotta", "rhyme": "a"}], "rhyme": "ABAC", "rhyme_vowel": "ABAC"}, {"section_id": "section_3", "type": "refrain", "performer": ", , ", "lines": [{"n": "0", "text": "Find your wings (Fly)", "rhyme": "iN"}, {"n": "1", "text": "Find your wings (Find your wings)", "rhyme": "iN"}, {"n": "2", "text": "(My lil' nigga, the world is yours, birdy)", "rhyme": null}], "rhyme": "AAB", "rhyme_vowel": "AAB"}, {"section_id": "section_4", "type": "verse", "performer": ", , ", "lines": [{"n": "0", "text": "We can go down to the rainbows (Go down, rainbows)", "rhyme": "o"}, {"n": "1", "text": "Don't let your high keep your brain low (Don't let your high)", "rhyme": "o"}, {"n": "2", "text": "You're a bird (You're a bird)", "rhyme": "ER"}, {"n": "3", "text": "You're supposed to fly away (Fly away)", "rhyme": "e"}, {"n": "4", "text": "The way you stand there (Stand there)", "rhyme": "eR"}, {"n": "5", "text": "Don't let your wings go to waste (Go to waste)", "rhyme": "ast"}, {"n": "6", "text": "(Da-da-da-da-da-da-da)", "rhyme": null}, {"n": "7", "text": "When the sky is your home, be free", "rhyme": "e"}, {"n": "8", "text": "(Da-da, da-da, da-da, da-da)", "rhyme": null}, {"n": "9", "text": "Be free (Da-da, da-da)", "rhyme": "e"}, {"n": "10", "text": "Free", "rhyme": "e"}], "rhyme": "AABCDEFCFCC", "rhyme_vowel": "AABCCDECECC"}, {"section_id": "section_5", "type": "outro", "performer": "", "lines": [{"n": "0", "text": "Free, free", "rhyme": "e"}, {"n": "1", "text": "Ooh-oh, ooh-oh", "rhyme": "o"}, {"n": "2", "text": "Yeah, oh-oh, oh", "rhyme": "o"}], "rhyme": "ABB", "rhyme_vowel": "ABB"}], "album_id": 122895}
+{
+  "song_id": 748253,
+  "title": "FIND YOUR WINGS",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": ", , , , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hey, you, whatcha doin' and why you runnin'? (Yeah, nigga)",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Supposed to fly and take control 'cause you're the pilot",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "You can't swim, you're gonna drown, the sharks are comin'",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "The sky's your home, there's no limit, you know you gotta",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "2",
+          "text": "(My lil' nigga, the world is yours, birdy)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ],
+  "album_id": 122895
+}
