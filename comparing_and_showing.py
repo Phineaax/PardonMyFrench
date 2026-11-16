@@ -25,7 +25,7 @@ BLANC = "#FCF8ED"
 # Couleurs des personas. La charte n'a que 4 teintes, dont le crème, trop pâle
 # sur fond sable. Pour plus de 3 personas, j'ai ajouté des teintes assorties
 # (ocre, vert-de-gris, prune) qui ne font pas partie de la charte.
-PERSONA_PALETTE = [BRIQUE, ACIER, JAUNE, "#8BC34A", "#D92E6A", "#7A4B63"]
+PERSONA_PALETTE = [BRIQUE, ACIER, JAUNE, "#8BC34A", "#D92E6A", "#E0A526", "#C87978"]
 
 
 available_metrics = scoring.available_metrics
