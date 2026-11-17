@@ -1,0 +1,455 @@
+{
+  "song_id": 4313,
+  "title": "Yonkers",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Uh, Wolf Haley, Golf Wang, go",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm a fuckin' walkin' paradox, no, I'm not",
+          "rhyme": "Ot",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Threesomes with a fuckin' triceratops, Reptar",
+          "rhyme": "aR",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Rappin' as I'm mockin' deaf rock stars",
+          "rhyme": "aR",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Wearin' synthetic wigs made of Anwar's dreadlocks",
+          "rhyme": "Ok",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Bedrock, harder than a motherfuckin' Flintstone",
+          "rhyme": "on",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Making crack rocks outta pussy nigga fishbones (Haha)",
+          "rhyme": "On",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "This nigga Jasper tryin' to get grown",
+          "rhyme": "awn",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "About five, seven of his bitches in my bedroom (Hey)",
+          "rhyme": "um",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Swallow the cinnamon, I'ma scribble this sin and shit",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "9",
+          "text": "While Syd is tellin' me that she's been getting intimate with men",
+          "rhyme": "En",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "10",
+          "text": "(Syd, shut the fuck up)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "11",
+          "text": "Here's the number to my therapist (Shit)",
+          "rhyme": "ist",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "12",
+          "text": "You tell him all your problems, he's fuckin' awesome with listenin' (Haha)",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABBCDEFGHIJKL",
+      "rhyme_vowel": "ABBACABDEFGEH"
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Uh, Wolf Haley, uh, Golf Wang",
+          "rhyme": "#g",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Uh, Wolf Haley, Golf fuckin' Wang",
+          "rhyme": "#g",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AA",
+      "rhyme_vowel": "AA"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Jesus called, he said he's sick of the disses",
+          "rhyme": "is",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I told him to quit bitchin', this isn't a fuckin' hotline",
+          "rhyme": "ajn",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "For a fuckin' shrink, sheesh, I already got mine",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "And he's not fuckin' workin', I think I'm wastin' my damn time",
+          "rhyme": "ajm",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "I'm clockin' three past six and goin' postal",
+          "rhyme": "al",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "This the revenge of the dicks, that's nine cocks that cock 9's",
+          "rhyme": "Es",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "This ain't no V. Tech shit, or Columbine",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "But after bowling, I went home for some damn Adventure Time",
+          "rhyme": "ajm",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "8",
+          "text": "(What'd you do?) I slipped myself some pink Xannies (Yeah)",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "9",
+          "text": "And danced around the house in all-over print panties",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "10",
+          "text": "My mom's gone, that fuckin' broad will never understand me",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "11",
+          "text": "I'm not gay, I just wanna boogie to some Marvin",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "12",
+          "text": "(What you think of Hayley Williams?)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "13",
+          "text": "Fuck her, Wolf Haley robbin' them",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "14",
+          "text": "I'll crash that fuckin' airplane that that faggot nigga B.o.B is in",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "15",
+          "text": "And stab Bruno Mars in his goddamn esophagus",
+          "rhyme": "ys",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "16",
+          "text": "And won't stop until the cops come in",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "17",
+          "text": "I'm an overachiever, so how about I start a team of leaders",
+          "rhyme": "9R",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "18",
+          "text": "And pick up Stevie Wonder to be the wide receiver? (Cool)",
+          "rhyme": "e",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "19",
+          "text": "Green paper, gold teeth, and pregnant golden retrievers",
+          "rhyme": "ER",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "20",
+          "text": "All I want, fuck money, diamonds, and bitches, don't need 'em",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "21",
+          "text": "But where the fat ones at? I got somethin' to feed 'em",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "22",
+          "text": "It's some cooking books, the black kids never wanted to read 'em",
+          "rhyme": "Em",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "23",
+          "text": "Snap back, green ch-ch-chia fuckin' leaves",
+          "rhyme": "av",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "24",
+          "text": "It's been a couple months",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "25",
+          "text": "And Tina still ain't perm her fuckin' weave",
+          "rhyme": "av",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "26",
+          "text": "Damn",
+          "rhyme": "yt",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCDEFCDGGHIJKCLCMNOKKKPQPR",
+      "rhyme_vowel": "ABABBCABAADEFCAGAHICCCCBJBG"
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Uh, Wolf Haley, uh, Golf Wang",
+          "rhyme": "#g",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Uh, Wolf Haley, Golf Wang, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Goddamn goblin",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Wolf Haley, uh, Golf Wang",
+          "rhyme": "#g",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Uh, Wolf Haley, Golf Wang, yeah",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCAB",
+      "rhyme_vowel": "ABCAB"
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "They say success is the best revenge",
+          "rhyme": "#Z",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "So I beat DeShay up with the stack of magazines I'm in",
+          "rhyme": "in",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Oh, not again, another critic writing report",
+          "rhyme": "OR",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I'm stabbin' any bloggin' faggot hipster with a pitchfork",
+          "rhyme": "9Rk",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Still suicidal, I am",
+          "rhyme": "im",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "I'm Wolf, Tyler put this fuckin' knife in my hand",
+          "rhyme": "#d",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "I'm Wolf, Ace gon' put that fuckin' hole in my head",
+          "rhyme": "Ed",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "And I'm Wolf, that was me who shoved a cock in your bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "8",
+          "text": "(What the fuck, man?) Fuck the fame and all the hype, G",
+          "rhyme": "e",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "9",
+          "text": "I just wanna know if my father would ever like me",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "10",
+          "text": "But I don't give a fuck, so he's probably just like me",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "11",
+          "text": "A motherfuckin' goblin",
+          "rhyme": ")",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "12",
+          "text": "(Fuck everything, man) That's what my conscience said",
+          "rhyme": "Ed",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "13",
+          "text": "Then it bunny-hopped off my shoulder, now my conscience dead",
+          "rhyme": "Ed",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "14",
+          "text": "Now the only guidance that I had is splattered on cement",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "15",
+          "text": "Actions speak louder than words, let me try this shit",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "16",
+          "text": "Dead",
+          "rhyme": "Ed",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCDEFGHIJJKGGLMG",
+      "rhyme_vowel": "ABCDBAEBFGGHEEABE"
+    }
+  ],
+  "album_id": 10762
+}

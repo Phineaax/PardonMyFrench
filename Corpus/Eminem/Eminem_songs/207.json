@@ -1,0 +1,504 @@
+{
+  "song_id": 207,
+  "title": "Lose Yourself",
+  "language": "en",
+  "lyricists": [
+    45,
+    14558,
+    33782
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Look, if you had one shot or one opportunity",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "To seize everything you ever wanted in one moment",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Would you capture it or just let it slip?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Yo",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "His palms are sweaty, knees weak, arms are heavy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "There's vomit on his sweater already, mom's spaghetti",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "He's nervous, but on the surface, he looks calm and ready",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "To drop bombs, but he keeps on forgetting",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "What he wrote down, the whole crowd goes so loud",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "He opens his mouth, but the words won't come out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "He's chokin', how? Everybody's jokin' now",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "The clock's run out, time's up, over, blaow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Snap back to reality, ope, there goes gravity",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Ope, there goes Rabbit, he choked, he's so mad",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But he won't give up that easy, no, he won't have it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "He knows his whole back's to these ropes, it don't matter",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "He's dope, he knows that, but he's broke, he's so stagnant",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "He knows when he goes back to this mobile home, that's when it's",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Back to the lab again, yo, this old rhapsody",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Better go capture this moment and hope it don't pass him",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You better lose yourself in the music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "The moment, you own it, you better never let it go (Go)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You only get one shot, do not miss your chance to blow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "This opportunity comes once in a lifetime, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "You better lose yourself in the music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "The moment, you own it, you better never let it go (Go)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "You only get one shot, do not miss your chance to blow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "This opportunity comes once in a lifetime, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "You better",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "His soul's escaping through this hole that is gaping",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "This world is mine for the taking, make me king",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "As we move toward a new world order",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "A normal life is boring, but superstardom's",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Close to post-mortem, it only grows harder",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Homie grows hotter, he blows, it's all over",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "These hoes is all on him, coast-to-coast shows",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "He's known as the Globetrotter, lonely roads",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "God only knows he's grown farther from home, he's no father",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "He goes home and barely knows his own daughter",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But hold your nose 'cause here goes the cold water",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "These hoes don't want him no mo', he's cold product",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "They moved on to the next schmoe who flows",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "He nose-dove and sold nada, and so the soap opera",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Is told, it unfolds, I suppose it's old, partner",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "But the beat goes on, da-da-dom, da-dom, dah-dah-dah-dah",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You better lose yourself in the music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "The moment, you own it, you better never let it go (Go)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You only get one shot, do not miss your chance to blow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "This opportunity comes once in a lifetime, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "You better lose yourself in the music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "The moment, you own it, you better never let it go (Go)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "You only get one shot, do not miss your chance to blow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "This opportunity comes once in a lifetime, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "You better",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "No more games, I'ma change what you call rage",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Tear this motherfuckin' roof off like two dogs caged",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I was playin' in the beginning, the mood all changed",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I've been chewed up and spit out and booed off stage",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "But I kept rhymin' and stepped right in the next cypher",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Best believe somebody's payin' the Pied Piper",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "All the pain inside amplified by the",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Fact that I can't get by with my nine-to-",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Five and I can't provide the right type of life for my family",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "'Cause, man, these goddamn food stamps don't buy diapers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "And there's no movie, there's no Mekhi Phifer, this is my life",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "And these times are so hard, and it's gettin' even harder",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Tryna feed and water my seed, plus teeter-totter",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Caught up between bein' a father and a prima donna",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Baby-mama drama, screamin' on her, too much for me to wanna",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Stay in one spot, another day of monotony's gotten me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "To the point I'm like a snail, I've got",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "To formulate a plot or end up in jail or shot",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "Success is my only motherfuckin' option, failure's not",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "Mom, I love you, but this trailer's got",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "To go, I cannot grow old in Salem's Lot",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "So here I go, it's my shot, feet, fail me not",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "This may be the only opportunity that I got",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You better lose yourself in the music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "The moment, you own it, you better never let it go (Go)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You only get one shot, do not miss your chance to blow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "This opportunity comes once in a lifetime, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "You better lose yourself in the music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "The moment, you own it, you better never let it go (Go)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "You only get one shot, do not miss your chance to blow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "This opportunity comes once in a lifetime, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "You better",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You can do anything you set your mind to, man",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1210702
+}

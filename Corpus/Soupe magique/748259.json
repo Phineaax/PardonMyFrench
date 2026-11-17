@@ -1,0 +1,435 @@
+{
+  "song_id": 748259,
+  "title": "KEEP DA O’S",
+  "language": "en",
+  "lyricists": [
+    110,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Got the whips, got the hoes",
+          "rhyme": "is",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Got the ice, got the clothes",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Niggas know that keys open doors",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Half price nigga keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Keep the O's, nigga, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Know they call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Keep the O's, nigga, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "Know they know me by \"Treat Your Nose\"",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDDEDE",
+      "rhyme_vowel": "ABCAADAD"
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Got the whips, got the hoes",
+          "rhyme": "is",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Got the ice, got the clothes",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Niggas know that keys open doors",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Half price nigga keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "Keep the O's, nigga, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Know they call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "Keep the O's, nigga, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "Know they know me by \"Treat Your Nose\"",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "Got the whips, got the hoes",
+          "rhyme": "is",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "Got the ice, got the clothes",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Niggas know that keys open doors",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "Half price nigga keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "Keep the O's, nigga, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "Know they call me Mr. Treat Your Nose",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "14",
+          "text": "Keep the O's, nigga, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "15",
+          "text": "Know they know me by \"Treat Your Nose\"",
+          "rhyme": "oz",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDDEDEABCDDEDE",
+      "rhyme_vowel": "ABCAADADABCAADAD"
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Your garden is full from raking these hoes",
+          "rhyme": "is",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "A handful of green and a couple of stones",
+          "rhyme": "on",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Your lawn mower's foreign, you rent you a home",
+          "rhyme": "om",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "But nigga, how much of that shit do you own? (Uh)",
+          "rhyme": "awn",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "See, me, I don't compromise, I know my accomplishments",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "Fuck all yo' compliments, bitch, I got confidence",
+          "rhyme": "#s",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "I don't need your approval, my nigga, you suck",
+          "rhyme": "yk",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "I do not have to adjust to stunt",
+          "rhyme": "unt",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "Don't talk, don't jump, don't cheer, bitch, shut the fuck up",
+          "rhyme": "9p",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "You're speedin' and gleamin' and stuntin', so Evel Knievel",
+          "rhyme": "El",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "You beaming and circle in Bimmers, you hoping them niggas'll see it",
+          "rhyme": "it",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "11",
+          "text": "Results may vary, my chain, it's not too heavy",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "12",
+          "text": "I'll rather pedal smooth on my bike than to crash in that Bugatti",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "13",
+          "text": "But back to the garden, niggas gon' do you dirty",
+          "rhyme": "i",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "14",
+          "text": "Already started killing your flowers",
+          "rhyme": "9R",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "15",
+          "text": "It seems impossible, it's the new slave apocalypse",
+          "rhyme": "ips",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "16",
+          "text": "So sad and obvious",
+          "rhyme": "u",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "17",
+          "text": "All you stupid niggas got the whips and no drive",
+          "rhyme": "ajv",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCDEFGHIJKLLLMNOP",
+      "rhyme_vowel": "ABBCDDEFGHAAAAGAFC"
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Got the whips, got the hoes",
+          "rhyme": "is",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Got the ice, got the clothes",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Niggas know that keys open doors",
+          "rhyme": "OR",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Half price nigga keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABCD",
+      "rhyme_vowel": "ABCA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Keep the O's, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Keep the O's, you gotta keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "Keep the O's, keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "Keep the O's, you gotta keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "4",
+          "text": "You gotta keep the O's",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "5",
+          "text": "'Cause you never know when it's over",
+          "rhyme": "e",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "6",
+          "text": "You want the doors that go up",
+          "rhyme": "9p",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "7",
+          "text": "You want the girls with the big butts",
+          "rhyme": "at",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "8",
+          "text": "You want the diamonds, you want the stones",
+          "rhyme": "on",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "9",
+          "text": "You gotta stunt on these niggas, haha",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "10",
+          "text": "Stunt on these niggas one time",
+          "rhyme": "ajm",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AAAAABCDEFG",
+      "rhyme_vowel": "AAAAABCDEDD"
+    },
+    {
+      "section_id": "section_6",
+      "type": "refrain",
+      "performer": "",
+      "lines": [
+        {
+          "n": "7",
+          "text": "Keep the O's (Fly)",
+          "rhyme": "ins",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm rapping 'bout diamonds and cars and money now",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "What the fuck has gotten into me, man?",
+          "rhyme": "#",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    }
+  ],
+  "album_id": 122895
+}

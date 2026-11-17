@@ -1,0 +1,55 @@
+{
+  "song_id": 4708383,
+  "title": "Haberdashery (Interlude)",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "sample",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Nobody followed me, don't worry! I watched out",
+          "rhyme": "awt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "(What do you know about it?)",
+          "rhyme": null,
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "You ran around; good times, girls, you were special",
+          "rhyme": "al",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Big cars, and fancy suits, this haberdashery",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "(Why didn't you stay home and mind your own business?",
+          "rhyme": "Es",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "Don't you see what you did you fool, you bought him straight to me!)",
+          "rhyme": "@",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDEF",
+      "rhyme_vowel": "ABACDE"
+    }
+  ]
+}

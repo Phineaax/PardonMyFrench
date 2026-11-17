@@ -1,0 +1,128 @@
+{
+  "song_id": 3233372,
+  "title": "No Refunds",
+  "language": "en",
+  "lyricists": [
+    70,
+    12283
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I sell them bums a scrap verse that's so-so nice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Ya get what ya pays for, raps for the low-low price",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Vik roll for dolo, chuck the dice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "'Fore I show the numbers, tuck your truck ice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Just a suggestion from the best, fuck your price",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Avoid the whole mess, gettin' stuck by the sheist",
+          "rhyme": "ist",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Vaughn got hoes on the stroll, who duck rice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "For the buck, a lot of schmucks suck like lice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Get the cello out, and mellow out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "With a fellow who rock a swell show",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Sure as Hell is low, no doubt",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "If you ever see him, shout him out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "It's all about the clout, whoever wanna brawl, call 'em out",
+          "rhyme": "awt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Or we could take this to the streets, son",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Before you send your CD, make sure the beat is done",
+          "rhyme": "On",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Or get heated hotter than Welcome Back Kotter reruns",
+          "rhyme": "(",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "What's the reason?",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "The track was wack, no refunds",
+          "rhyme": "wndz",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AAAAABAACDECCFGHFI",
+      "rhyme_vowel": "AAAAAAAABCDBBEFGEH"
+    }
+  ]
+}

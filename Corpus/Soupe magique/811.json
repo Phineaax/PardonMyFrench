@@ -1,0 +1,639 @@
+{
+  "song_id": 811,
+  "title": "Without Me",
+  "language": "en",
+  "lyricists": [
+    45,
+    14558,
+    1047262,
+    644389,
+    18862,
+    32550,
+    35496,
+    34708
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Eminem, Obie Trice",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Obie Trice, real name, no gimmicks",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Ra—",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Two trailer-park girls go round the outside",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Round the outside, round the outside",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Two trailer-park girls go round the outside",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Round the outside, round the outside",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Woo (Ooh)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Guess who's back, back again?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Shady's back, tell a friend",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Guess who's back, guess who's back",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Guess who's back, guess who's back",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Guess who's back, guess who's back",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "Guess who's back",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "(Na-na-na, na, na, na, na, na, na)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "(Na-na-na, na, na, na, na)",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I've created a monster",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "'Cause nobody wants to see Marshall no more",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "They want Shady, I'm chopped liver",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Well, if you want Shady, this is what I'll give ya",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "A little bit of weed mixed with some hard liquor",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Some vodka that'll jump-start my heart quicker",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Than a shock when I get shocked at the hospital",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "By the doctor when I'm not cooperating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "When I'm rockin' the table while he's operating (Hey)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "You waited this long, now stop debating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "'Cause I'm back, I'm on the rag and ovulating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "I know that you got a job, Ms. Cheney",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "But your husband's heart problem's complicating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "So the FCC won't let me be",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Or let me be me, so let me see",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "They tried to shut me down on MTV",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "But it feels so empty without me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "So come on and dip, bum on your lips",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "Fuck that, cum on your lips and some on your tits",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "And get ready, 'cause this shit's about to get heavy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "20",
+          "text": "I just settled all my lawsuits (Fuck you, Debbie)",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, this looks like a job for me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "So, everybody, just follow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "'Cause we need a little controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "'Cause it feels so empty without me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "I said this looks like a job for me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "So, everybody, just follow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "'Cause we need a little controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "'Cause it feels so empty without me",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Little hellions, kids feelin' rebellious",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Embarrassed, their parents still listen to Elvis",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "They start feelin' like prisoners, helpless",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "'Til someone comes along on a mission and yells, \"Bitch\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "A visionary, vision is scary",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Could start a revolution, pollutin' the airwaves",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "A rebel, so just let me revel and bask",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "In the fact that I got everyone kissin' my ass",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "And it's a disaster, such a catastrophe",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "For you to see so damn much of my ass, you asked for me?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Well, I'm back, da-na-na-na, na-na-na-na-na-na",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Fix your bent antenna, tune it in, and then I'm gonna",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "Enter in and up under your skin like a splinter",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "The center of attention, back for the winter",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "I'm interesting, the best thing since wrestling",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Infesting in your kid's ears and nesting",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "Testing, \"Attention, please\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "Feel the tension soon as someone mentions me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "Here's my ten cents, my two cents is free",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "A nuisance, who sent? You sent for me?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, this looks like a job for me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "So, everybody, just follow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "'Cause we need a little controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "'Cause it feels so empty without me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "I said this looks like a job for me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "So, everybody, just follow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "'Cause we need a little controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "'Cause it feels so empty without me",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "A tisket, a tasket, I'll go tit-for-tat wit'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Anybody who's talkin', \"This shit, that shit\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Chris Kirkpatrick, you can get your ass kicked",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Worse than them little Limp Bizkit bastards",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "And Moby? You can get stomped by Obie",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "You thirty-six-year-old bald-headed fag, blow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "You don't know me, you're too old, let go",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "It's over, nobody listens to techno",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Now, let's go, just give me the signal",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "I'll be there with a whole list full of new insults",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "I've been dope, suspenseful with a pencil",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Ever since Prince turned himself into a symbol",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "But sometimes, the shit just seems",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Everybody only wants to discuss me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "So this must mean I'm disgusting",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "But it's just me, I'm just obscene (Yeah)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "Though I'm not the first king of controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "I am the worst thing since Elvis Presley",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "To do Black music so selfishly",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "And use it to get myself wealthy (Hey)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "20",
+          "text": "There's a concept that works",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "21",
+          "text": "Twenty million other white rappers emerge",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "22",
+          "text": "But no matter how many fish in the sea",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "23",
+          "text": "It'd be so empty without me",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, this looks like a job for me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "So, everybody, just follow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "'Cause we need a little controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "'Cause it feels so empty without me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "I said this looks like a job for me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "So, everybody, just follow me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "'Cause we need a little controversy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "'Cause it feels so empty without me",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hum-dei-dei-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "La-la-la-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "La-la-la-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "La-la-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Hum-dei-dei-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "La-la-la-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "La-la-la-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "La-la-la-la",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Kids",
+          "persona_id": "slim_shady"
+        }
+      ]
+    }
+  ],
+  "album_id": 909777
+}

@@ -1,0 +1,516 @@
+{
+  "song_id": 463,
+  "title": "Not Afraid",
+  "language": "en",
+  "lyricists": [
+    45,
+    27683,
+    662,
+    58462,
+    33782
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(I'm not afraid) Yeah",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "(To take a stand) It's been a ride",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "(Everybody) I guess I had to",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "(Come take my hand) Go to that place to get to this one",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "(We'll walk this road together, through the storm) Now some of you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "(Whatever weather, cold or warm) Might still be in that place",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "(Just lettin' you know that you're not alone) If you're tryna get out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "(Holla if you feel like you've been down the same road) Just follow me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "I'll get you there",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You can try and read my lyrics off of this paper before I lay 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "But you won't take the sting out these words before I say 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "'Cause ain't no way I'ma let you stop me from causin' mayhem",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "When I say I'ma do somethin', I do it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I don't give a damn what you think, I'm doin' this for me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "So fuck the world, feed it beans, it's gassed up if it thinks it's stoppin' me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I'ma be what I set out to be, without a doubt, undoubtedly",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And all those who look down on me, I'm tearin' down your balcony",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "No ifs, ands or buts, don't try to ask him why or how can he",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "From Infinite down to the last Relapse album",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "He's still shittin' whether he's on salary, paid hourly",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Until he bows out or he shits his bowels out of him",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Whichever comes first, for better or worse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "He's married to the game like a \"Fuck you\" for Christmas, his gift is a curse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Forget the Earth, he's got the urge to pull his dick from the dirt",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "And fuck the whole universe",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not afraid",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "To take a stand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Everybody",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Come take my hand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "We'll walk this road together, through the storm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Whatever weather, cold or warm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just lettin' you know that you're not alone",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Holla if you feel like you've been down the same road",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Okay, quit playin' with the scissors and shit, and cut the crap",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I shouldn't have to rhyme these words in a rhythm for you to know it's a wrap",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You said you was king, you lied through your teeth",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "For that, fuck your feelings, instead of gettin' crowned, you're gettin' capped",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And to the fans, I'll never let you down again, I'm back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I promise to never go back on that promise",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "In fact, let's be honest",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "That last Relapse CD was \"ehh\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Perhaps I ran them accents into the ground",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Relax, I ain't goin' back to that now",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "All I'm tryna say is get back, click-clack-blaow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "'Cause I ain't playin' around",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "There's a game called circle and I don't know how",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "I'm way too up to back down",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "But I think I'm still tryna figure this crap out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Thought I had it mapped out, but I guess I didn't, this fuckin' black cloud still follows me around",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "But it's time to exorcise these demons, these motherfuckers are doin' jumpin' jacks now",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not afraid",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "To take a stand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Everybody",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Come take my hand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "We'll walk this road together, through the storm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Whatever weather, cold or warm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just lettin' you know that you're not alone",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Holla if you feel like you've been down the same road",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And I just can't keep livin' this way",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "So startin' today",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I'm breakin' out of this cage",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I'm standin' up, I'ma face my demons",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I'm mannin' up, I'ma hold my ground",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I've had enough, now I'm so fed up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Time to put my life back together right now",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "It was my decision to get clean, I did it for me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Admittedly I probably did it subliminally for you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "So I could come back a brand-new me, you helped see me through",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And don't even realize what you did, believe me, you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I've been through the wringer",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "But they can do little to the middle finger",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I think I got a tear in my eye, I feel like the king of",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "My world, haters can make like bees with no stingers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "And drop dead: no more beef lingers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "No more drama from now on, I promise to focus solely on handlin' my responsibilities as a father",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "So I solemnly swear to always treat this roof like my daughters and raise it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "You couldn't lift a single shingle on it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "'Cause the way I feel, I'm strong enough to go to the club",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Or the corner pub and lift the whole liquor counter up 'cause I'm raisin' the bar",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "I'd shoot for the moon, but I'm too busy gazin' at stars",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "I feel amazin', and I'm—",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm not afraid",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "To take a stand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Everybody",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Come take my hand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "We'll walk this road together, through the storm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Whatever weather, cold or warm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just lettin' you know that you're not alone",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Holla if you feel like you've been down the same road",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1440534
+}

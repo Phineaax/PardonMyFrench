@@ -1,0 +1,543 @@
+{
+  "song_id": 55067,
+  "title": "Love On Top",
+  "language": "en",
+  "lyricists": [
+    1181,
+    27505,
+    498
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Pa-pa-pa-da, pa-pa-pa-da",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Pa-pa-pa-da, pa-pa-pa-da",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Pa-pa-pa-da, pa-pa-pa",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Pa-pa-pa",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Bring the beat in",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Honey, honey",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I can see the stars all the way from here",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Can't you see the glow on the window pane?",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I can feel the sun whenever you're near",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Every time you touch me, I just melt away",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now everybody asks me",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Why I'm smilin' out from ear to ear (They say love hurts)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "But I know (It's gonna take a little work)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Oh, woah",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Nothin's perfect, but it's worth it",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "After fightin' through my tears",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "And finally, you put me first",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, it's you (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You're the one I love (I love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You're the one I need (I need)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You're the only one I see",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Come on, baby, it's you (It's you)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You're the one that gives your all",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "You're the one I can always call (Always calls)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "When I need, you make everything stop",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Finally, you put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ooh, come on, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You put my love on top, top, top, top, top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Ooh, ooh (Ooh, ooh), come on, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "You put my love on top, top, top, top, top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You put my love on top, my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I can feel the wind whippin' past my face",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "As we dance the night away (Away)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Boy, your lips taste like a night of champagne",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "As I kiss you again, and again, and again, and again",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now everybody asks me",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Why I'm smilin' out from ear to ear (They say love hurts)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "But I know (It's gonna take a little work)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Oh, woah",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Nothin's perfect, but it's worth it",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "After fightin' through my tears",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "And finally, you put me first",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, it's you (Love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You're the one I love (I love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You're the one I need (I need)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You're the only one I see",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Come on, baby, it's you (It's you)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You're the one that gives your all",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "You're the one I can always call (Always calls)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "When I need you, make everything stop",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Finally, you put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "post-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ooh, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You put my love on top, top, top, top, top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Ooh, ooh (Ooh, ooh), come on, baby",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "You put my love on top, top, top, top, top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You put my love on top, my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Baby, it's you (Oh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "You're the one I love (I love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "You're the one I need (I need)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "You're the only thing I see",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Come on, baby, it's you (It's you)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "You're the one that gives your all",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "You're the one that always calls (Always calls)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "When I need you, baby, everything stops",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Finally, you put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Baby, you're the one that I love (Love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "10",
+          "text": "Baby, you're all I need (Need)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "11",
+          "text": "You're the only one I see",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "12",
+          "text": "Come on, baby, it's you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "13",
+          "text": "You're the one that gives your all (Your all)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "14",
+          "text": "You're the one I always call (Always calls)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "15",
+          "text": "When I need you, everything stops",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "16",
+          "text": "Finally, you put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "17",
+          "text": "Baby, 'cause you're the one that I love",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "18",
+          "text": "Baby, you're the one that I need",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "19",
+          "text": "You're the only one I see",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "20",
+          "text": "Oh, baby, baby, it's you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "21",
+          "text": "You're the one that gives your all",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "22",
+          "text": "You're the one that always calls (Calls)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "23",
+          "text": "When I need you, everything stops",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "24",
+          "text": "Finally, you put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "25",
+          "text": "Baby, 'cause you're the one that I love (I love)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "26",
+          "text": "Baby, you're the one that I need (Need)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "27",
+          "text": "You're the only one I see (See)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "28",
+          "text": "Baby, baby, it's you",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "29",
+          "text": "You're the one that gives your all (Ooh)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "30",
+          "text": "You're the one that always calls (Calls)",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "31",
+          "text": "When I need you, everything stops",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "32",
+          "text": "Finally, you put my love on top",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 32041
+}

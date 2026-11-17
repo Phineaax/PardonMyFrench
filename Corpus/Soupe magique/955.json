@@ -1,0 +1,693 @@
+{
+  "song_id": 955,
+  "title": "Beef Rapp",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "produced",
+      "performer": "",
+      "lines": [],
+      "rhyme": "",
+      "rhyme_vowel": ""
+    },
+    {
+      "section_id": "section_1",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now I haven't eaten all day",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "How am I gonna do this, man?",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Yeah, don't wait for her, man, don't wait for her",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I'll tell you what, man: come with me now and you know",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "I'll get you some lunch, I'll hook you up with something (MM.. FOOD)",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "I got a little bank, y'know, no problem",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "I hear you, that's cool (Alright? It's cool)",
+          "rhyme": "ul",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Man, can't you guys just wait here about a half hour, man?",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Yo, I'll be back man, I'm just gonna munch up a little bit, man, I'm pretty hungry",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Yo, let him come back",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFGBHI",
+      "rhyme_vowel": "ABCDEAFBEG"
+    },
+    {
+      "section_id": "section_2",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Here you will find food for your body",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "As well as comfort for your troubled mind",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "I'd really like some soup (Bread and butter?)",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Of course my friend",
+          "rhyme": ")d",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "What happened to your hand?",
+          "rhyme": "#d",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Ah, nothing",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Oh, food at last!",
+          "rhyme": "ast",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFG",
+      "rhyme_vowel": "ABCDBAE"
+    },
+    {
+      "section_id": "section_3",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "How did they get here?",
+          "rhyme": "eR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Regular storage procedure, the same as the other food",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "What other food?",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Fish (Food)",
+          "rhyme": "iS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Protein, grass (For you)",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABBCD",
+      "rhyme_vowel": "ABBCD"
+    },
+    {
+      "section_id": "section_4",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now what happened?",
+          "rhyme": "Ed",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Well, the cop got",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "The next morning I went to the store to get some food",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "(Bread and butter) They arrested me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "I'll save you (Thank you)",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Would you like a snack?",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Thanks for the drink",
+          "rhyme": ")k",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Chicken, beef or turkey",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFGH",
+      "rhyme_vowel": "ABCDCEFA"
+    },
+    {
+      "section_id": "section_5",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Operation: Doomsday complete",
+          "rhyme": "Et",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "All your intercoms casualty and damage tested",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_6",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Enough! You talk of the people's rights",
+          "rhyme": "ajt",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "The people have only those rights which I choose to give them",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "And that's for their own good, believe me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I do, DOOM",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "They disappoint me, they must work faster",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "But the prisoner",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Ah yes, the young traitor who has tried to turn my people against me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Watch him, I have special plans for that one",
+          "rhyme": "On",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFCG",
+      "rhyme_vowel": "ABCDEFCG"
+    },
+    {
+      "section_id": "section_7",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Beef rap could lead to getting teeth capped",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Or even a wreath for Mom Dukes on some grief crap",
+          "rhyme": "ap",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "I suggest a change of diet",
+          "rhyme": "Et",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "It can lead to high blood pressure if you fry it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Or even a stroke, heart attack, heart disease",
+          "rhyme": "iz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "It ain't no starting back once arteries start to squeeze",
+          "rhyme": "iz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Take the easy way out phony, until then",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "They know they wouldn't be talking that baloney in the bullpen",
+          "rhyme": "@n",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "So disgusting, pardon self as I discuss this",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "They talk a wealth of shit and they ain't never seen the justice",
+          "rhyme": "is",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Bust this, like a cold milk from out the toilet",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Two batteries, some Brillo and some foil, heat'll boil it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "He be better off on PC glued",
+          "rhyme": "Ed",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "And it's a feud so don't be in no TV mood",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Every week it's mystery meat, seaweed stewed",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "(Food, we need food!)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEEFGHIJDKLAM",
+      "rhyme_vowel": "ABCDDDCEDDCDCFAG"
+    },
+    {
+      "section_id": "section_8",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "He wears a mask just to cover the raw flesh",
+          "rhyme": "aS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "A rather ugly brother with flows that's gorgeous",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Drop dead joints hit the whips like bird shit",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "They need it like a hole in their head or a third tit",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Her bra smell, his card say, \"Aw Hell!\"",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Barred from all bars and kicked out the Carvel",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Keep a cooker where the jar fell",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "And keep a cheap hooker that's off the hook like Ma Bell",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Top bleeding, maybe fella took the loaded rod gears",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Stop feeding babies colored sugar-coated lard squares",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "The odd pair swears and God fears",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Even when it's rotten, we've gotten through the hard years",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "I wrote this note around New Year's",
+          "rhyme": "ins",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Off a couple of shots and a few beers, but who cares?",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Enough about me, it's about the beats",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Not about the streets and who food he 'bout to eat (With but a—)",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "A rhyming cannibal who's dressed to kill and cynical",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Whether is it animal, vegetable or mineral",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "It's a miracle how he get so lyrical",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "And proceed to move the crowd like an old negro spiritual",
+          "rhyme": "Ol",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "For a mil', do a commercial for Mello Yello",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Tell them devils, \"Hell no, sell y'all own Jello\"",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "We hollow krills, she swallow pills",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "He follow flea collar three dollars bills",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "And squealed for halal veal, if y'all appeal",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "Dig the real, it's how the big ballers deal",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "Twirl an L after every meal (Food!)",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEEEEFFFFGFHIJJJKLLMMMMM",
+      "rhyme_vowel": "ABCCDDDDAAAACAAAAAAEFFCCCCC"
+    },
+    {
+      "section_id": "section_9",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "What up? To all rappers: shut up with your shutting up",
+          "rhyme": "9p",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "And keep a shirt on, at least a button-up",
+          "rhyme": "9p",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Yuck, is they rhymers or strippin' males?",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Out-of-work jerks since they shut down Chippendales",
+          "rhyme": "Ejlz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "They chippin' nails, DOOM tippin' scales",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Let alone the pre-orders that's counted off shippin' sales",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "This one goes out to all my peoples skippin' bail",
+          "rhyme": "aj",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Dippin' jail, whippin' tail and sippin' ale",
+          "rhyme": "al",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Light the doobie 'til it glow like a ruby",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "After which, they couldn't find the Villain, like Scooby",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "He's in the lab on some old Buddha Monk shit",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Overproof drunk shit, but who'd'a thunk it?",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Punk, try and ask why ours be better",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Could be the iron mask or the Cosby sweater",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Yes, you, who's screwed by the dude on the CD, nude",
+          "rhyme": "yd",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "(We need food!)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AABCBBDBEEFFGHIJ",
+      "rhyme_vowel": "AABCBBBBDDDDEAFG"
+    }
+  ]
+}

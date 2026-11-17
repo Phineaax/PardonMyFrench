@@ -1,0 +1,59 @@
+{
+  "song_id": 748253,
+  "title": "FIND YOUR WINGS",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": ", , , , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hey, you, whatcha doin' and why you runnin'? (Yeah, nigga)",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "1",
+          "text": "Supposed to fly and take control 'cause you're the pilot",
+          "rhyme": "o",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "2",
+          "text": "You can't swim, you're gonna drown, the sharks are comin'",
+          "rhyme": ")",
+          "persona_id": "persona_chur_bum"
+        },
+        {
+          "n": "3",
+          "text": "The sky's your home, there's no limit, you know you gotta",
+          "rhyme": "a",
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "ABAC",
+      "rhyme_vowel": "ABAC"
+    },
+    {
+      "section_id": "section_3",
+      "type": "refrain",
+      "performer": ", , ",
+      "lines": [
+        {
+          "n": "2",
+          "text": "(My lil' nigga, the world is yours, birdy)",
+          "rhyme": null,
+          "persona_id": "persona_chur_bum"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ],
+  "album_id": 122895
+}

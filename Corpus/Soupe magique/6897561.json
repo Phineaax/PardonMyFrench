@@ -1,0 +1,26 @@
+{
+  "song_id": 6897561,
+  "title": "MOMMA TALK",
+  "language": "en",
+  "lyricists": [
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "11",
+          "text": "You have no reason to",
+          "rhyme": "o",
+          "persona_id": "persona_tyler_baudelaire"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ],
+  "album_id": 781756
+}

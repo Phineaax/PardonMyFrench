@@ -1,0 +1,284 @@
+{
+  "song_id": 71526,
+  "title": "Start Over",
+  "language": "en",
+  "lyricists": [
+    7672,
+    498,
+    27505
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I feel weak, we've been here before",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "'Cause I feel we keep going back and forth",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Maybe it's over, maybe we're through",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "But I honestly can say I still love you",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Maybe we reached the mountain peak",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "And there's no more left to climb",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And maybe we lost the magic piece",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "And we're both too blind to find",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Let's give love their wings",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Stop fighting 'bout the same old thing",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "We can't let our good love die",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Maybe we can start all over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Give love another life",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can see that we're not happy here",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "So why would we keep pretendin' when there's nothing there?",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Maybe you like it, well, I don't",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "And maybe you'll settle, well, I won't",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "pre-chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Maybe we reached the mountain peak",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "And there's no more left to climb",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And maybe we lost the magic piece",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "And we're both too blind to find",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Let's give love their wings",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Stop fighting 'bout the same old thing",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "We can't let our good love die",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Maybe we can start all over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "And give love another life",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I know that this will hurt you, I know you'll cry",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I know I called you selfish, but that's a lie",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "I feel I know that's the best for us",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "1",
+          "text": "And let's give love their wings",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Let's start over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I'm tired of fighting 'bout the same old thing",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Let's start over, yeah, yeah",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "5",
+          "text": "We both know that this love won't die",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Maybe we can start all over",
+          "persona_id": "persona_beyonce_baseline"
+        },
+        {
+          "n": "7",
+          "text": "And give love another life",
+          "persona_id": "persona_beyonce_baseline"
+        }
+      ]
+    }
+  ],
+  "album_id": 32041
+}

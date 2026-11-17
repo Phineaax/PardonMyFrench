@@ -1,0 +1,616 @@
+{
+  "song_id": 531,
+  "title": "The Real Slim Shady",
+  "language": "en",
+  "lyricists": [
+    45,
+    123,
+    2470,
+    201050,
+    34793
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "May I have your attention, please?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "May I have your attention, please?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Will the real Slim Shady please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "I repeat",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Will the real Slim Shady please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "We're gonna have a problem here",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y'all act like you never seen a white person before",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Jaws all on the floor like Pam; like Tommy just burst in the door",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "And started whoopin' her ass worse than before",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "They first were divorced, throwin' her over furniture (Agh)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "It's the return of the \"Oh, wait, no way, you're kidding",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "He didn't just say what I think he did, did he?\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "And Dr. Dre said",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Nothing, you idiots, Dr. Dre's dead, he's locked in my basement (Ha-ha)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Feminist women love Eminem",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "\"Chicka-chicka-chicka, Slim Shady, I'm sick of him",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Look at him, walkin' around, grabbin' his you-know-what",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Flippin' the you-know-who,\" \"Yeah, but he's so cute though\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "Yeah, I probably got a couple of screws up in my head loose",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "But no worse than what's goin' on in your parents' bedrooms",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Sometimes I wanna get on TV and just let loose",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "But can't, but it's cool for Tom Green to hump a dead moose",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "\"My bum is on your lips, my bum is on your lips\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "And if I'm lucky, you might just give it a little kiss",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "And that's the message that we deliver to little kids",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "And expect them not to know what a woman's clitoris is",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "20",
+          "text": "Of course, they're gonna know what intercourse is",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "21",
+          "text": "By the time they hit fourth grade they've got the Discovery Channel, don't they?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "22",
+          "text": "We ain't nothin' but mammals",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "23",
+          "text": "Well, some of us cannibals who cut other people open like cantaloupes",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "24",
+          "text": "But if we can hump dead animals and antelopes",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "25",
+          "text": "Then there's no reason that a man and another man can't elope",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "26",
+          "text": "But if you feel like I feel, I got the antidote",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "27",
+          "text": "Women, wave your pantyhose, sing the chorus, and it goes",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "'Cause I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Will Smith don't gotta cuss in his raps to sell records (Nope)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Well, I do, so fuck him, and fuck you too",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "You think I give a damn about a Grammy?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Half of you critics can't even stomach me, let alone stand me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "\"But Slim, what if you win? Wouldn't it be weird?\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Why? So you guys could just lie to get me here?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So you can sit me here next to Britney Spears?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Yo, shit, Christina Aguilera better switch me chairs",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "So I can sit next to Carson Daly and Fred Durst",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "And hear 'em argue over who she gave head to first",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Little bitch put me on blast on MTV",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "\"Yeah, he's cute, but I think he's married to Kim, hee-hee\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "I should download her audio on MP3",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "And show the whole world how you gave Eminem VD (Agh)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "I'm sick of you little girl and boy groups, all you do is annoy me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "So I have been sent here to destroy you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "And there's a million of us just like me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "Who cuss like me, who just don't give a fuck like me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "Who dress like me, walk, talk and act like me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "And just might be the next best thing, but not quite me",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Cause I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "'Cause I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm like a head trip to listen to",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "'Cause I'm only givin' you things you joke about with your friends inside your livin' room",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "The only difference is I got the balls to say it in front of y'all",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "And I don't gotta be false or sugarcoat it at all",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "I just get on the mic and spit it",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "And whether you like to admit it (Err), I just shit it",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Better than ninety percent of you rappers out can",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Then you wonder, \"How can kids eat up these albums like Valiums?\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "It's funny, 'cause at the rate I'm goin', when I'm thirty",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "I'll be the only person in the nursin' home flirting",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Pinchin' nurse's asses when I'm jackin' off with Jergens",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "And I'm jerkin', but this whole bag of Viagra isn't workin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "And every single person is a Slim Shady lurkin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "He could be working at Burger King, spittin' on your onion rings (Ch, puh)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Or in the parkin' lot, circling, screaming, \"I don't give a fuck\"",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "With his windows down and his system up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "So will the real Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "And put one of those fingers on each hand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "And be proud to be out of your mind and out of control",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "And one more time, loud as you can, how does it go?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "'Cause I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "'Cause I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "'Cause I'm Slim Shady, yes, I'm the real Shady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "All you other Slim Shadys are just imitating",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "So won't the real Slim Shady please stand up",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Please stand up, please stand up?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ha-ha",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "I guess there's a Slim Shady in all of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Fuck it, let's all stand up",
+          "persona_id": "slim_shady"
+        }
+      ]
+    }
+  ],
+  "album_id": 1404076
+}

@@ -1,0 +1,549 @@
+{
+  "song_id": 866,
+  "title": "Just Don’t Give a Fuck",
+  "language": "en",
+  "lyricists": [
+    14558,
+    546362,
+    45
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Frogg Dogg",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Woah, a-get yo' hands in the air",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "And get to clappin' 'em and, like, back and forth",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Because-a this is what you thought it wasn't",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "It be's the brothers representin' the Dirty Dozen",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "I be the F-R-O, the double G",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "And check out my man, he goes by the name of, er, uh",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Eminem, Frogg Dogg",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Slim Shady, brain dead like Jim Brady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "I'm a M-80, you little like that Kim lady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "I'm buzzin', Dirty Dozen, naughty rotten rhymer",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Cursin' at you players worse than Marty Schottenheimer",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "You wacker than the motherfucker you bit yo' style from",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "You ain't gon' sell two copies if you press a double album",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Admit it, fuck it, while we comin' out in the open",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "I'm doin' acid, crack, smack, coke, and smokin' dope then",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "My name is Marshall Mathers, I'm an alcoholic (Hi, Marshall)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "I have a disease and they don't know what to call it",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Better hide your wallet 'cause I'm comin' up quick to strip yo' cash",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Bought a ticket to yo' concert just to come and whip yo' ass",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "Bitch, I'm comin' out swingin' so fast it'll make yo' eyes spin",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "You gettin' knocked the fuck out like Mike Tyson (Pssh)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "The proof is in the puddin', just ask DeShaun Holton",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "I'll slit yo' motherfuckin' throat worse than Ron Goldman",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So when you see me on yo' block with two Glocks",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Screamin', \"Fuck the world\" like 2Pac",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Talkin' that shit behind my back, dirty mackin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Tellin' your boys that I'm on crack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So put my tape back on the rack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Go run and tell your friends my shit is wack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "But see me on the street and duck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "'Cause you gon' get stuck, stole, and snuffed",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "'Cause I just don't give a fuck",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm nicer than Pete, but I'm on a search to crush a milkbone",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "I'm everlastin', I melt vanilla ice like silicone",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "I'm ill enough to just straight up diss you for no reason",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "I'm colder than snow season when it's twenty below freezin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Flavor with no seasoning, this is the sneak preview",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "I'll diss yo' magazine and still won't get a weak review",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "I'll make yo' freak leave you, smell the Folgers crystals",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "This is lyrical combat, gentlemen, hold your pistols",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "While I form like Voltron and blast you with my shoulder missiles",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Slim Shady, M&M was the old initials (Bye-bye)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Extortion, snortin', supportin' abortion",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Pathological liar, blowin' shit outta proportion",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "The looniest, zaniest, spontaneous, sporadic",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Impulsive thinker, compulsive drinker, addict",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Half animal, half man",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Dumpin' yo' dead body inside of a fuckin' trash can",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "With more holes than an afghan",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So when you see me on yo' block with two Glocks",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Screamin', \"Fuck the world\" like 2Pac",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Talkin' that shit behind my back, dirty mackin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Tellin' your boys that I'm on crack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So put my tape back on the rack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Go run and tell your friends my shit is wack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "But see me on the street and duck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "'Cause you finna get stuck, stole, and snuffed",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "'Cause I just don't give a fuck",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Somebody let me out this limousine (Hey, let me out)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "I'm a caged demon",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "On stage screamin' like Rage Against the Machine",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "I'm convinced I'm a fiend",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Shootin' up while this record is spinnin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Clinically brain-dead, I don't need a second opinion",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Fuck droppin' a jewel, I'm flippin' a sacred treasure",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "I'll bite yo' motherfuckin' style just to make it fresher",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "I can't take the pressure, I'm sick of bitches",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Sick of naggin' bosses bitchin' while I'm washin' dishes",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "In school, I never said much, too busy havin' a head rush",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Doin' too much rush, had my face flushed like red blush",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "Then I went to Jim Beam, that's when my face grayed",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Went to gym in eighth grade, **** the women's swim team",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Don't take me for a joke, I'm no comedian",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Too many mental problems got me snortin' coke and smokin' weed again",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "I'm goin' up over the curb, drivin' on the median",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "Finally made it home but I don't got the key to get in",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So when you see me on yo' block with two Glocks",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Screamin', \"Fuck the world\" like 2Pac",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Talkin' that shit behind my back, dirty mackin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Tellin' your boys that I'm on crack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "So put my tape back on the rack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Go run and tell your friends my shit is wack",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "I just don't give a fuck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "But see me on the street and duck",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "'Cause you finna get stuck, stole, and snuffed",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "'Cause I just don't give a fuck",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Shit, fuck everybody)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Outsiderz, Pacewon, Young Zee (Fuck the entire world)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "D.U.",
+          "persona_id": "slim_shady"
+        }
+      ]
+    }
+  ],
+  "album_id": 1591576
+}

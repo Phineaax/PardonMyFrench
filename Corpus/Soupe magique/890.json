@@ -1,0 +1,661 @@
+{
+  "song_id": 890,
+  "title": "Deep Fried Frenz",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Before we go any further",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Friends",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "As you call 'em, they call you when they need something",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Trees for the bluntin', to G's for the frontin'",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "I found a way to get peace of mind for years and left the hell alone",
+          "rhyme": "On",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Turn a deaf ear to the cellular phone",
+          "rhyme": "on",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Send me a letter or better, we could see each other in real life",
+          "rhyme": "ajf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "Just so you could feel me like a steel knife",
+          "rhyme": "ajf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "At least so you could see the white of their eyes",
+          "rhyme": "Ej",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Bright with surprise, once they finish spitting lies",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Associates, is your boys, your girls, bitches, niggas, homies",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Close, or really don't know me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Mom, dad, comrade, peeps, brothers, sisters, duns, dunnies",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Some come around when they need some money",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Others make us laugh like the Sunday funnies",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Fam be around whether you paid or bummy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "You could either ignore this advice or take it from me:",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Be too nice and people take you for a dummy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "So nowadays, he ain't so friendly",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Actually they wouldn’t even made a worthy enemy",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Read the signs: \"No feeding the baboons\"",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "Seein' as how they got your back bleeding from the stab wounds",
+          "rhyme": "wndz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Y'all know the dance, they smile in your face, y'all know the glance",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "Try to put 'em on, they blow the chance",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Never let your so-called mans know your plans",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "(How many of us have them?) A show of hands",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "24",
+          "text": "(Friends) is a term some people use loosely",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "25",
+          "text": "I'm real choosy on what I choose to let crews see",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "26",
+          "text": "You telling me I try to act broke",
+          "rhyme": "ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "27",
+          "text": "Jealousy the number one killer among black folk",
+          "rhyme": "Olk",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "28",
+          "text": "Fellas be under some type of spell like crack smoke",
+          "rhyme": "ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "29",
+          "text": "Ghetto Cinderellas lead 'em right to your stack, loc",
+          "rhyme": "Ok",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "30",
+          "text": "Just another way a chick'll lead to your end",
+          "rhyme": "End",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "31",
+          "text": "I checked the dictionary for the meaning of friend",
+          "rhyme": ")d",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "32",
+          "text": "It said, \"Person one likes to socialize with",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "33",
+          "text": "Sympathizer, helper\", and that's about the size of it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "34",
+          "text": "Most of the time these attributes is one-sided",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "35",
+          "text": "To bolster the crime, they're apt to shoot you through your eyelid",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "36",
+          "text": "And they can't hide it, going wild like a white bitch",
+          "rhyme": "itS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "37",
+          "text": "Sometimes you need to cut niggas off like a light switch",
+          "rhyme": "itS",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "38",
+          "text": "(Flick!) And when things get quiet",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "39",
+          "text": "Catch 'em like a thief in the night, what a riot",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "40",
+          "text": "I first met Mr. Fantastik at an arms deal",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "41",
+          "text": "Don't let it get drastic, think of how your moms'll feel",
+          "rhyme": "El",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "42",
+          "text": "When it get for real, steel get to sparkin'",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "43",
+          "text": "Everything darken, it ain't no talkin'",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "44",
+          "text": "For somethin' so cheap, it sure buys a lot of trouble",
+          "rhyme": "ubl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "45",
+          "text": "You're better off focusing than tryna plot to bubble",
+          "rhyme": "ibl",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "46",
+          "text": "Or else it'd be a sad note to end on, the guns we got is",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "47",
+          "text": "(One's we can depend on, friends)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "48",
+          "text": "Some come in the form of co-dependents",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "49",
+          "text": "A lot of times only end up being co-defendants",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "50",
+          "text": "Ten bucks say they tell for a lower sentence",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "51",
+          "text": "And leave you up under the jail, begging for repentance",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "52",
+          "text": "It don't make no sense, what happened to the loyalty?",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "53",
+          "text": "Honor amongst crooks, trust amongst royalty",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "54",
+          "text": "I'd rather go out in a blaze than give 'em the glory",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "55",
+          "text": "(How many of us have—) a similar story?",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "56",
+          "text": "(Friends) before lovers, we need to have some type of overstanding",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "57",
+          "text": "Just so when I let her get the man thing",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "58",
+          "text": "She know it's no strings, we could do the damn thing",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "59",
+          "text": "But ho, it's no rings, just how the tramp swings",
+          "rhyme": "iN",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "60",
+          "text": "Will she see him again? That depends on",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "61",
+          "text": "\"How good was the skins?\" and \"Could she memorize the lessons?\"",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "62",
+          "text": "It ain't no need to pretend",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "63",
+          "text": "Even though she let him stab it, she know they're just friends",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEEFGGHGIGGHGGGJKLLMMGGNONPQRSSTUVVIWXYZZ[\\I]MMLLGGGGAAAAJJMM",
+      "rhyme_vowel": "ABCDEEFAAGAFAAGAAAHIJJJJAADCDCFBAAKEAAFDAFAALAFMJJJJAAAAAAAAHHJJ"
+    },
+    {
+      "section_id": "section_2",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Friends",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "How many of us have them?",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Friends",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Ones we can depend on?",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "Friends",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "How many of us have them?",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Friends",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Before we go any further",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABACABAD",
+      "rhyme_vowel": "ABACABAB"
+    },
+    {
+      "section_id": "section_3",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Fellas! Don't be silly! I know who my friends are!",
+          "rhyme": "aR",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "And the next nice neighborhood I move into, you guys'll get crack'",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "(Negro humor always escaped me)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABC",
+      "rhyme_vowel": "AAB"
+    },
+    {
+      "section_id": "section_4",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "The most powerful, the most mysterious monarch in all the world",
+          "rhyme": "Old",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Guarded by a fighting force that never sleeps",
+          "rhyme": "ip",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "That never relaxes its vigilance",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "For none is as feared, none has as many foes as DOOM",
+          "rhyme": "um",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "The awesome armorclad lord of..",
+          "rhyme": "Of",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "I know who Doom is (Then tell us)",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "He happens to be the most dangerous man in the world",
+          "rhyme": "Old",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "I’d hoped we’d never hear from him",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Hoped we’d never have to battle him",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "But now the worst has happened and I must tell you what we’re up against",
+          "rhyme": "Est",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "I first met DOOM years ago",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "When he wanted to be alone, alone to pursue his forbidden experiments",
+          "rhyme": "#",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "One day while conducting a secret experiment",
+          "rhyme": "im",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "*Explosion sounds*",
+          "rhyme": "wndz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Later, when he recovered from his injuries",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "Instead of having learned his lesson, DOOM was bitter, angry, vengeful",
+          "rhyme": "9l",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "*Woman screams* What have I done to myself?",
+          "rhyme": "Elf",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "My face, it is hideous",
+          "rhyme": "u",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "He traveled the world, seeking a cure for his disfigured face",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "(I’m sorry sir, there is nothing we can do for you)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "He traveled through remote villages, where strangers are seldom seen",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "He continued his search, never showing his face",
+          "rhyme": "as",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "Unless threatened by bandits who prey on travelers",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Who foolishly wander alone through their domain",
+          "rhyme": ")",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFAGGHIJGKLMNOPQRPST",
+      "rhyme_vowel": "ABCDAEABBEFCBGBHEDIJBIKL"
+    }
+  ]
+}

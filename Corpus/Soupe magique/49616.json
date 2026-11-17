@@ -1,0 +1,166 @@
+{
+  "song_id": 49616,
+  "title": "Bitch Suck Dick",
+  "language": "en",
+  "lyricists": [
+    11595,
+    11596,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": ", ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Got the bops in the house, socking bitches in they mouth (Bitch)",
+          "rhyme": "ut",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "See my neck? Iced the fuck out (I'm getting money, nigga)",
+          "rhyme": "awt",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "She at the fucking mall, forty bitches on my nutsack",
+          "rhyme": "ak",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I pulled up on a motherfuckin' unicorn (I'm getting ponies, nigga)",
+          "rhyme": "ORn",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Wolf Gang, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Scream that 'til they motherfucking show me death",
+          "rhyme": "at",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Golf Wang, nigga",
+          "rhyme": "a",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Free Earl, better show some motherfucking respect",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "8",
+          "text": "All this ice around my neck, all this ice around my dick",
+          "rhyme": "ik",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "9",
+          "text": "Gun to her head, make your bitch massage my shoulders",
+          "rhyme": "ER",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABCDEFEGHI",
+      "rhyme_vowel": "ABBCBBBDED"
+    },
+    {
+      "section_id": "section_8",
+      "type": "outro",
+      "performer": ", , , , , ",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Swag, swag, punch a bitch",
+          "rhyme": "itS",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "8",
+          "text": "Yo, yo, Jasper, Taco, y'all my niggas, man",
+          "rhyme": "#",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "9",
+          "text": "I love y'all niggas, I'm sorry",
+          "rhyme": "i",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AAAAAAAABC",
+      "rhyme_vowel": "AAAAAAAABA"
+    },
+    {
+      "section_id": "section_9",
+      "type": "gunshot",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Ow, what the fuck?",
+          "rhyme": "yk",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ],
+  "album_id": 10762
+}

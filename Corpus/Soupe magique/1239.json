@@ -1,0 +1,503 @@
+{
+  "song_id": 1239,
+  "title": "When I’m Gone",
+  "language": "en",
+  "lyricists": [
+    45,
+    33782
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, it's my life (Hey, Hailie)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "In my own words, I guess",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Have you ever loved someone so much you'd give an arm for?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Not the expression, no, literally give an arm for",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "When they know they're your heart and you know you are their armor",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And you will destroy anyone who would try to harm her",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "But what happens when karma turns right around to bite you?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "And everything you stand for turns on you to spite you?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "What happens when you become the main source of her pain?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "\"Daddy, look what I made!\" \"Dad's gotta go catch a plane\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "\"Daddy, where's Mommy? I can't find Mommy, where is she?\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "\"I don't know, go play, Hailie, baby, your daddy's busy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Daddy's writin' a song, the song ain't gon' write itself",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "I'll give you one underdog, then you gotta swing by yourself\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Then turn right around on that song and tell her you love her",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "And put hands on her mother who's a spittin' image of her",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "That's Slim Shady, yeah, baby, Slim Shady's crazy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Shady made me, but tonight Shady's rock-a-bye baby, ha",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And when I'm gone, just carry on, don't mourn",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Rejoice every time you hear the sound of my voice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just know that I'm lookin' down on you smilin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And I didn't feel a thing, so, baby, don't feel no pain, just smile back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And when I'm gone, just carry on, don't mourn",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Rejoice every time you hear the sound of my voice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just know that I'm lookin' down on you smilin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And I didn't feel a thing, so, baby, don't feel no pain, just smile back",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I keep havin' this dream, I'm pushin' Hailie on the swing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "She keeps screamin' she don't want me to sing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "\"You're makin' Mommy cry, why? Why is Mommy cryin'?\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "\"Baby, Daddy ain't leavin' no more\" \"Daddy, you're lyin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "You always say that, you always say, 'This is the last time'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "But you ain't leavin' no more, Daddy, you're mine\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "She's pilin' boxes in front of the door, tryna block it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "\"Daddy, please! Daddy, don't leave! Daddy, no, stop it!\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Goes in her pocket, pulls out a tiny necklace locket",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "It's got a picture, \"This'll keep you safe, Daddy, take it wit' ya\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "I look up, it's just me standin' in the mirror",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "These fuckin' walls must be talkin' 'cause, man, I can hear 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "They're sayin', \"You got one more chance to do right, and it's tonight",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Now go out there and show 'em that you love 'em 'fore it's too late\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "And just as I go to walk out of my bedroom door",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "It turns to a stage, they're gone and the spotlight is on, and I'm singin'",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And when I'm gone, just carry on, don't mourn",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Rejoice every time you hear the sound of my voice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just know that I'm lookin' down on you smilin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And I didn't feel a thing, so, baby, don't feel no pain, just smile back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And when I'm gone, just carry on, don't mourn",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Rejoice every time you hear the sound of my voice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just know that I'm lookin' down on you smilin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And I didn't feel a thing, so, baby, don't feel no pain, just smile back",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sixty-thousand people all jumpin' out their seat",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "The curtain closes, they're throwin' roses at my feet",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I take a bow and \"Thank you all for comin' out\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "They're screamin' so loud, I take one last look at the crowd",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I glance down, I don't believe what I'm seein'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "\"Daddy, it's me! Help Mommy, her wrists are bleedin'!\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "\"But, baby, we're in Sweden, how did you get to Sweden?\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "\"I followed you, Daddy, you told me that you weren't leavin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "You lied to me, Dad, and now you made Mommy sad",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "And I bought you this coin, it says 'Number One Dad'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "That's all I wanted, I just wanna give you this coin",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "I get the point, fine, me and Mommy are goin'\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "\"But, baby, wait!\" \"It's too late, Dad, you made the choice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Now go up there and show 'em that you love 'em more than us",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "That's what they want, they want you, Marshall, they keep",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Screamin' your name, it's no wonder you can't go to sleep",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "Just take another pill, yeah, I bet you, you will",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "You rap about it, yeah, word, k-keep it real\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "I hear applause, all this time I couldn't see",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "How could it be that the curtain is closin' on me?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "I turn around, find a gun on the ground, cock it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "Put it to my brain, scream, \"Die, Shady!\", and pop it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "The sky darkens, my life flashes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "The plane that I was supposed to be on crashes and burns to ashes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "That's when I wake up, alarm clock's ringing, there's birds singin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "It's spring and Hailie's outside swingin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "I walk right up to Kim and kiss her, tell her I miss her",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "Hailie just smiles and winks at her little sister, almost as if to say",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And when I'm gone, just carry on, don't mourn",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Rejoice every time you hear the sound of my voice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just know that I'm lookin' down on you smilin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And I didn't feel a thing, so, baby, don't feel no pain, just smile back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And when I'm gone, just carry on, don't mourn",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Rejoice every time you hear the sound of my voice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just know that I'm lookin' down on you smilin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And I didn't feel a thing, so, baby, don't feel no pain, just smile back",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "*Curtains closing*",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 936025
+}

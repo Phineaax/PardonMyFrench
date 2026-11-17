@@ -1,0 +1,177 @@
+{
+  "song_id": 12171271,
+  "title": "Don’t You Worry Baby",
+  "language": "en",
+  "lyricists": [
+    403763,
+    2925510,
+    1273822,
+    3211998,
+    685
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "4",
+          "text": "Baby, brand-new bag (Let me ride, let me ride)",
+          "rhyme": "ag",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Got a lil' bitch with a brand-new shag (Pop it, shake it)",
+          "rhyme": "ag",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "If I got my tag, got a brand-new day (Let me ride, let me ride)",
+          "rhyme": "E",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Gotta cap it again and I slide that ass",
+          "rhyme": "as",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABA"
+    },
+    {
+      "section_id": "section_2",
+      "type": "bridge",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "5",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "6",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "7",
+          "text": "Damn, girl, you better move your hips",
+          "rhyme": "ips",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AAAAAAAA",
+      "rhyme_vowel": "AAAAAAAA"
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "We both got on the train of love, you got off before me",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "I guess I should conduct myself 'cause you ain't work for me (One pump, two pump, three pump)",
+          "rhyme": "@",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "And then you fell asleep",
+          "rhyme": "ip",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "I need a freak, I'm givin' it a three (Haha)",
+          "rhyme": "e",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "AABC",
+      "rhyme_vowel": "AABC"
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Don't tap the glass)",
+          "rhyme": null,
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "1",
+          "text": "Let me ride, pop it, shake it",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "2",
+          "text": "Let me ride, pop it, shake it",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "3",
+          "text": "Let me ride, pop it, shake it",
+          "rhyme": "it",
+          "persona_id": "persona_tyler_baseline"
+        },
+        {
+          "n": "4",
+          "text": "Let me ride",
+          "rhyme": "id",
+          "persona_id": "persona_tyler_baseline"
+        }
+      ],
+      "rhyme": "ABBBC",
+      "rhyme_vowel": "ABBBB"
+    }
+  ],
+  "album_id": 1442941
+}

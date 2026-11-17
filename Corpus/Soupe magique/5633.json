@@ -1,0 +1,421 @@
+{
+  "song_id": 5633,
+  "title": "MIC Line",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "One, two, one, two, one, two, one, two",
+          "rhyme": "o",
+          "persona_id": "King_Geedorah"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Geedorah write a rhyme in the time he hollow out a flask",
+          "rhyme": "ask",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "1",
+          "text": "Cracked a Guinness Stout with his teeth one time, swallowed the glass",
+          "rhyme": "as",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "2",
+          "text": "A pain in the ass, to say the least",
+          "rhyme": "ost",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "3",
+          "text": "He came with many new techniques to slay the beast",
+          "rhyme": "ost",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "4",
+          "text": "While simultaneously saving the streets",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "5",
+          "text": "Bombing and calming the savage with above-average beats",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "6",
+          "text": "Get the cabbage in the most lavish suites",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "7",
+          "text": "Consummate marriages in between the middle of sheets",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "8",
+          "text": "Provider of the vittles eats tryna be the illest dad a kid’ll meet",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "9",
+          "text": "For the love of patter of little feets",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "10",
+          "text": "It kind of gets you right here, don’t it?",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "11",
+          "text": "Mess with mine, your life’ll be a nightmare, won’t it?",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "12",
+          "text": "Left the 9 at home, I hope my lady don’t pawn it",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "13",
+          "text": "Doggone it, it ain’t even got no serial number on it",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "14",
+          "text": "For God’s sakes, spare the god the heartache",
+          "rhyme": "aS",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "15",
+          "text": "Mentally scar a smart snake before he start to fake",
+          "rhyme": "Ejk",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "16",
+          "text": "They love to hate him, on a certain level, need him",
+          "rhyme": "im",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "17",
+          "text": "Geedorah known to make a deal with the Devil and beat him",
+          "rhyme": "im",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "18",
+          "text": "Then proceed to sip a shot of vodka like methadone",
+          "rhyme": "On",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "19",
+          "text": "The mic said to the headphone, “We just want to be left alone",
+          "rhyme": "On",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "20",
+          "text": "So we can get it on to an unknown metronome”",
+          "rhyme": "Om",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "21",
+          "text": "Don’t worry: will he get to zone? Crews best to get their chrome",
+          "rhyme": "om",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "22",
+          "text": "Pay your overdue dues to King Geedorah, better known",
+          "rhyme": "awn",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "23",
+          "text": "Getting grown, trying to get on the mic—instead, it’s blown",
+          "rhyme": "un",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "24",
+          "text": "Too many freaks, not enough circuses",
+          "rhyme": "yz",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "25",
+          "text": "Only a true geek could peep how much work this is",
+          "rhyme": "E",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "26",
+          "text": "So put that in your blunt hole and puff it",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "27",
+          "text": "Stunts at the gun so y’all might as well stuff it",
+          "rhyme": "it",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "28",
+          "text": "Or can it, abandon ship, I’ll miss y’all",
+          "rhyme": "ol",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "29",
+          "text": "And if they insist, beat ‘em all like fistball",
+          "rhyme": "al",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "30",
+          "text": "The news watch never stops",
+          "rhyme": "Op",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "31",
+          "text": "From the city it mocks, “Who that on the idiot box?”",
+          "rhyme": "Oks",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "32",
+          "text": "“Well if it ain’t Geedorah, alert the media",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "33",
+          "text": "Maker of the beats that’s a real hurt-feeder",
+          "rhyme": "9R",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "34",
+          "text": "Sometimes he come through to let you know he see ya",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "35",
+          "text": "Don’t let him have to call Smog to head-to-toe graffiti ya”",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "36",
+          "text": "Just flew in from Dallas, and, boy, is my talons calloused",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "37",
+          "text": "And what’s a girl like you doing here amongst the island’s foulest?",
+          "rhyme": "Est",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "38",
+          "text": "A cat in Wonderland who found Alice",
+          "rhyme": "is",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "39",
+          "text": "Gee her with the flows by the gallon or the chalice",
+          "rhyme": "is",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "40",
+          "text": "Everybody wilding out, trying to be the wildest",
+          "rhyme": "Est",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "41",
+          "text": "And refuse to acknowledge why this shit is so childish",
+          "rhyme": "iS",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "42",
+          "text": "“One, two, one, two” play, I wonder what they do today",
+          "rhyme": "E",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "43",
+          "text": "Besides repeat their choruses more times than Confucius say",
+          "rhyme": "E",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "44",
+          "text": "And start too many songs with “Uh” or “Uhhh”",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "45",
+          "text": "Yeah, I hear you, soldier, I told ya like, “No duh!”",
+          "rhyme": "u",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "46",
+          "text": "It’s King Geedorah, the no-ass-getter",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "47",
+          "text": "Still qualify as a world-class spitter",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "48",
+          "text": "Shift to shitter, write a rhyme in the nighttime",
+          "rhyme": "im",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "49",
+          "text": "Make a beat taste like wine like I spiked mine",
+          "rhyme": "in",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "50",
+          "text": "And I heard it through the Mic Line",
+          "rhyme": "in",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "51",
+          "text": "That crews don’t even write rhymes",
+          "rhyme": "im",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "52",
+          "text": "And I hope that they get much better",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "53",
+          "text": "Yes, I doo-ooo-ooo-ooo",
+          "rhyme": "o",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "54",
+          "text": "I pledge that, every day I rep",
+          "rhyme": "Ep",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "55",
+          "text": "Know the ledge from every step",
+          "rhyme": "Ep",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "56",
+          "text": "And I hope that they do get better",
+          "rhyme": "e",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "57",
+          "text": "Yes, I do",
+          "rhyme": "o",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "58",
+          "text": "Geedorah known to stack flows back-to-back-to-back flows",
+          "rhyme": "o",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "59",
+          "text": "Like, “And now back to our show”",
+          "rhyme": "o",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "60",
+          "text": "In other news, people had enough of them other crews",
+          "rhyme": "uz",
+          "persona_id": "King_Geedorah"
+        },
+        {
+          "n": "61",
+          "text": "Up their dues, snuff a fews, cut a fuse",
+          "rhyme": "yz",
+          "persona_id": "King_Geedorah"
+        }
+      ],
+      "rhyme": "ABCCDEDDDDDDDDFGHHIIJKLMNODDPQRSETEEUVWWVXOOEYUUHZZHU[\\\\U[[[]N",
+      "rhyme_vowel": "AABBCACCCCCCCCADCCEEEBAFGDCCBAEEAHAAIDCCDCDDAFIICCCCIBDDIBBBFG"
+    },
+    {
+      "section_id": "section_2",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Tape must be finished. Now what?",
+          "rhyme": "a",
+          "persona_id": "King_Geedorah"
+        }
+      ],
+      "rhyme": "A",
+      "rhyme_vowel": "A"
+    }
+  ]
+}

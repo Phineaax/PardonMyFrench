@@ -1,0 +1,427 @@
+{
+  "song_id": 532,
+  "title": "Love the Way You Lie",
+  "language": "en",
+  "lyricists": [
+    1102,
+    45,
+    2348681
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "chorus",
+      "performer": "Rihanna",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just gonna stand there and watch me burn?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Well, that's all right because I like the way it hurts",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just gonna stand there and hear me cry?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Well, that's all right because I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I can't tell you what it really is, I can only tell you what it feels like",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "And right now, there's a steel knife in my windpipe",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I can't breathe, but I still fight while I can fight",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "As long as the wrong feels right, it's like I'm in flight",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "High off of love, drunk from my hate",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "It's like I'm huffin' paint and I love her, the more I suffer, I suffocate",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "And right before I'm about to drown, she resuscitates me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "She fuckin' hates me, and I love it — \"Wait",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Where you goin'?\" — \"I'm leavin' you\" — \"No, you ain't",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Come back\" — We're runnin' right back, here we go again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "It's so insane, 'cause when it's goin' good, it's goin' great",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "I'm Superman with the wind at his back, she's Lois Lane",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "But when it's bad, it's awful, I feel so ashamed",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "I snapped, \"Who's that dude?\", I don't even know his name",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "I laid hands on her, I'll never stoop so low again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "I guess I don't know my own strength",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "Rihanna",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just gonna stand there and watch me burn?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Well, that's all right because I like the way it hurts",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just gonna stand there and hear me cry?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Well, that's all right because I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "You ever love somebody so much you can barely breathe when you're with 'em?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "You meet, and neither one of you even know what hit 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Got that warm fuzzy feelin', yeah, them chills, used to get 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Now you're gettin' fuckin' sick of lookin' at 'em?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "You swore you'd never hit 'em, never do nothin' to hurt 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Now you're in each other's face, spewin' venom in your words when you spit 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "You push, pull each other's hair, scratch, claw, bit 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Throw 'em down, pin 'em, so lost in the moments when you're in 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "It's the rage that's the culprit, it controls you both",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "So they say you're best to go your separate ways",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Guess that they don't know ya 'cause today, that was yesterday",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Yesterday is over, it's a different day",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Sound like broken records playin' over but you promised her",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Next time you'll show restraint, you don't get another chance",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Life is no Nintendo game but you lied again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Now you get to watch her leave out the window",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "Guess that's why they call it window pane",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "Rihanna",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just gonna stand there and watch me burn?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Well, that's all right because I like the way it hurts",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just gonna stand there and hear me cry?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Well, that's all right because I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, I know we said things, did things that we didn't mean",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "And we fall back into the same patterns, same routine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "But your temper's just as bad as mine is, you're the same as me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "When it comes to love, you're just as blinded, baby, please",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Come back, it wasn't you, baby, it was me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Maybe our relationship isn't as crazy as it seems",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Maybe that's what happens when a tornado meets a volcano",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "All I know is I love you too much to walk away though",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Come inside, pick up your bags off the sidewalk",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Don't you hear sincerity in my voice when I talk?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Told you this is my fault, look me in the eyeball",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Next time I'm pissed, I'll aim my fist at the drywall",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Next time? There won't be no next time",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "I apologize, even though I know it's lies",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "I'm tired of the games, I just want her back, I know I'm a liar",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "If she ever tries to fuckin' leave again, I'ma tie her",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "To the bed and set this house on fire, just gonna",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "Rihanna",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just gonna stand there and watch me burn?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Well, that's all right because I like the way it hurts",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Just gonna stand there and hear me cry?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Well, that's all right because I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I love the way you lie",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 921161
+}
