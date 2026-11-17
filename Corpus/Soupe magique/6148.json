@@ -1,0 +1,284 @@
+{
+  "song_id": 6148,
+  "title": "Vaudeville Villain",
+  "language": "en",
+  "lyricists": [
+    45850,
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "V. Vaughn — the travelin' Vaudeville Villain",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "He don't give a flyin' fuck who ain't not feelin' him",
+          "rhyme": "im",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Watch what you dealin' him: Ace, king, death card",
+          "rhyme": "aR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "Strong-arm the wrong man, pardon the left, god",
+          "rhyme": "ud",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "Get money and earn it, that everything-you-touch-turn shit",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "Got much to learn, kid; write it up, burn shit",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "Light it up like the Dutch when the hash melt",
+          "rhyme": "Olt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "Only time they see him when they meet him with the cash belt",
+          "rhyme": "Olt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "¡Ay, caramba! Now that's my number",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "One dry summer, as far as I remember",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "Burnt-out, but gettin' every edgy penny",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "Then he hit him straight to the head like Reggie Denny",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "Call him back when you need some more yak, Horshack",
+          "rhyme": "ak",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Doin' 80 down the Van Wyck on horseback",
+          "rhyme": "ak",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "Your man sick, but he wreck tracks, puto",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "Get back too bro, exactamundo",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "Viktor the director flip a script like Rob Reiner",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "17",
+          "text": "The way a lot of dudes rhyme, their name should be Knob Shiner",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "18",
+          "text": "For a buck, they'd likely dance the Jig or do the Hucklebuck",
+          "rhyme": "yk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "19",
+          "text": "To Vik', it's no big deal, they're just a buncha knuckle-fucks",
+          "rhyme": "yk",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "20",
+          "text": "You wonder how well would they hold up in a holding cell",
+          "rhyme": "El",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "21",
+          "text": "It sorta had the strange makings of a tale told in Hell",
+          "rhyme": "El",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "22",
+          "text": "Like, \"Oh, well!\" hold tall riches",
+          "rhyme": "iS",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "23",
+          "text": "If the Feds is really after them, they just kill all the snitches",
+          "rhyme": "atS",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "24",
+          "text": "On borrowed-time rhymes, gassed by the silver screen",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "25",
+          "text": "They act like their monkey-ass can heal back like Wolverine",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "26",
+          "text": "Mellow out what y'all bellow out, you got yellow mouth",
+          "rhyme": "ut",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "27",
+          "text": "What happened to the type of spit that used to help a fellow out?",
+          "rhyme": "awt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "28",
+          "text": "No doubt, leave a rapper in a body cast",
+          "rhyme": "ost",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "29",
+          "text": "And wonder what he was doing while we was in a karate class",
+          "rhyme": "as",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "30",
+          "text": "Snotty ass, it's really like he was a white-belt",
+          "rhyme": "Olt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "31",
+          "text": "Right before he \"night-night\", ask him how the light felt",
+          "rhyme": "Olt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "32",
+          "text": "I wouldn't take their tape if they gave it free",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "33",
+          "text": "Maybe it's me, baby, it's V!",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "34",
+          "text": "Throw down the key, y'all know how shit be",
+          "rhyme": "ab",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "35",
+          "text": "In the naked city, rappers is so giddy",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "36",
+          "text": "That's no ditty, Vaughn so witty",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "37",
+          "text": "The way he take no prisoners and show no pity",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "38",
+          "text": "It's how son became a big man from a black boy",
+          "rhyme": "Oj",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "39",
+          "text": "To name names, a really big fan of Dan Aykroyd",
+          "rhyme": "Ojd",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "40",
+          "text": "He feel they need to give him his own dance",
+          "rhyme": "#s",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "41",
+          "text": "This his only chance to shoot the gift like a lone glance",
+          "rhyme": "#s",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "42",
+          "text": "Or like a beef scene that leave the oo-ey smokin'",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "43",
+          "text": "Or between Hokuto Shinken and Nanto Suichō Ken",
+          "rhyme": "En",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCDEEFFGGHHIIJJGGKKLLMNOOPQRSFFGGTHHHUVWWOX",
+      "rhyme_vowel": "ABCDBBEEFFBBCCGGFFHHIIBCBBDCGCEEFFCBBBEEJJBI"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "song_id": 3261,
+  "title": "Lactose and Lecithin",
+  "language": "en",
+  "lyricists": [
+    45940,
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "\"Hello, I’m Dean Stockton of Eastern State University in America, and I am prepared to offer you a full science scholarship.\"",
+          "rhyme": "ip",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "\"Viktor used the college, used its modern scientific equipment to conduct strange, forbidden experiments.\"",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "AB",
+      "rhyme_vowel": "AB"
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Somewheres out in cop-killer Queens",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "1",
+          "text": "Where bo deans stop limousines and niggas flee the scene",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "2",
+          "text": "Somebody on his back bleeding, vest all cracked up",
+          "rhyme": "9p",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "3",
+          "text": "\"Freeze clown, officer down, request for back up\"",
+          "rhyme": "9p",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "4",
+          "text": "Listen dude don't get me misconstrued as a sniper",
+          "rhyme": "9R",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "5",
+          "text": "It's V Vaughn, not to be confused with V, La Viper",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "6",
+          "text": "Or either Peter Parker, or either Peter Piper",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "7",
+          "text": "A seed the type to pee the diaper blame it on the wiper",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "8",
+          "text": "\"It's really not your concern why I got the knife, sir\"",
+          "rhyme": "iR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "9",
+          "text": "He suggest remain calm, let's not get -- \"No!\"",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "10",
+          "text": "Slash his windpipe, he had them type of eyes",
+          "rhyme": "Ej",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "11",
+          "text": "He might be still alive, how you get this thing to hyper drive?",
+          "rhyme": "ajv",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "12",
+          "text": "Oh, give my props to the shooter",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "13",
+          "text": "Prices at an all time low in the future",
+          "rhyme": "yR",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "14",
+          "text": "Something like forteen, they must be on horse pills",
+          "rhyme": "il",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "15",
+          "text": "OT and zero-three to re-up on force fields",
+          "rhyme": "Old",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "16",
+          "text": "At that cost, deal, he plotted the coordinates",
+          "rhyme": "at",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "17",
+          "text": "2003 winter time upper west side, more or less",
+          "rhyme": "Es",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "18",
+          "text": "This thing be buggin' like a celly frontin'",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "19",
+          "text": "Who the hell is honey with the slug in her belly, stuntin'",
+          "rhyme": ")",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "20",
+          "text": "You ain't have to tell V nothin'",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "21",
+          "text": "Trust him, it really ain't no time for discussion",
+          "rhyme": "$",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "22",
+          "text": "He'd be back in '93, press of a button, and they busted in",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "23",
+          "text": "His first impulse was to smack the dirt",
+          "rhyme": "9Rt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "24",
+          "text": "All four wore plain clothes and lumberjack shirt",
+          "rhyme": "9Rt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "25",
+          "text": "Recognize one face from school six degrees ago",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "26",
+          "text": "He'd snuff him in his braces just to switch the station to BGO",
+          "rhyme": "o",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "27",
+          "text": "He kept a punchline every lunch break, lunch time",
+          "rhyme": "ajm",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "28",
+          "text": "And this is no time to pump fake, it's crunch time",
+          "rhyme": "ajm",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "29",
+          "text": "The same split second, they let off the toast",
+          "rhyme": "ost",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "30",
+          "text": "That's when he hit the speed dial and sped off, ghost",
+          "rhyme": "Ost",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "31",
+          "text": "I know them cats don't like V",
+          "rhyme": "e",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "32",
+          "text": "And if they took my head off they'd get off most likely",
+          "rhyme": "i",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "33",
+          "text": "And probably thought the time gizmo was my wallet",
+          "rhyme": "E",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "34",
+          "text": "And hit the hills, no, forty more times on some foul shit",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "35",
+          "text": "Pick a crime, he was out in the nick of time",
+          "rhyme": "ajm",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "36",
+          "text": "To get paid another day and live to kick a sicker rhyme",
+          "rhyme": "im",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "37",
+          "text": "For iller, it's like Miller malt liquor time",
+          "rhyme": "ajm",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "38",
+          "text": "Up town finery where it's probably not best to flaunt",
+          "rhyme": "unt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "39",
+          "text": "Everyone's your best friend, V steps into the restaurant",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "40",
+          "text": "\"My friend,\" he said, \"You must be psychic\"",
+          "rhyme": "ik",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "41",
+          "text": "\"What's the price of- \"Fourteen! It’s good, you like it!\"",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "42",
+          "text": "Huh, be back tonight",
+          "rhyme": "ajt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "43",
+          "text": "The fourteen G pack was really packed tight",
+          "rhyme": "ajt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "44",
+          "text": "But back at the lab he found the Sleestak was right",
+          "rhyme": "ajt",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "45",
+          "text": "Not only was it three cracks light, but too white",
+          "rhyme": "it",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "46",
+          "text": "The test show lactose, anbesol, lecithin",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "47",
+          "text": "Five types of aspirin and other kinds of medicines",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "48",
+          "text": "Next time I'll bring my men who speak Mexican",
+          "rhyme": "#",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "49",
+          "text": "And let the Techs spin, make 'em contact the next of kin",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "50",
+          "text": "The whole thing is mostly lactose, lecithin",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "51",
+          "text": "And some type of aspirin, Anbesol medicine",
+          "rhyme": "in",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "52",
+          "text": "Damn, motherfucker",
+          "rhyme": "9R",
+          "persona_id": "Viktor_Vaughn"
+        },
+        {
+          "n": "53",
+          "text": "Let's go get 'em, men!",
+          "rhyme": "En",
+          "persona_id": "Viktor_Vaughn"
+        }
+      ],
+      "rhyme": "ABCCDBBBEFGHBIJKLMNNAOAPPFFQQRSBTUVQWQXYZV[[[VAAYAAAD\\",
+      "rhyme_vowel": "ABCCCBBBADEFBGAHFEIIAJACCDDFFDHBAEAFAFKLAAFFFAAALAAACE"
+    }
+  ]
+}

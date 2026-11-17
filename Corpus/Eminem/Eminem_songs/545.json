@@ -1,0 +1,624 @@
+{
+  "song_id": 545,
+  "title": "Beautiful",
+  "language": "en",
+  "lyricists": [
+    45,
+    14558,
+    1003151,
+    398754,
+    33782
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Paul Rodgers",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Lately I've been hard to reach",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I've been too long on my own",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Everybody has a private world where they can be alone",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Are you calling me?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Are you tryin' to get through?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Are you reaching out for me?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I'm reaching out for you",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm just so fucking depressed, I just can't seem to get out this slump",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "If I could just get over this hump, but I need something to pull me out this dump",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I took my bruises, took my lumps, fell down, then I got right back up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "But I need that spark to get psyched back up in order for me to pick the mic back up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I don't know how or why or when I ended up in this position I'm in",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I'm starting to feel distant again, so I decided just to pick this pen",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Up and try to make an attempt to vent, but I just can't admit",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Or come to grips with the fact that I may be done with rap, I need a new outlet",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "And I know some shit's so hard to swallow, but I just can't sit back and wallow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "In my own sorrow, but I know one fact: I'll be one tough act to follow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "One tough act to follow, I'll be one tough act to follow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Here today, gone tomorrow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "But you'd have to walk a thousand miles",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "pre-chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "In my shoes, just to see",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "What it's like to be me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I'll be you, let's trade shoes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Just to see what it'd be like to",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Feel your pain, you feel mine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Go inside each other's minds",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just to see what we find",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Look at shit through each other's eyes",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But don't let 'em say you ain't beautiful, oh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "They can all get fucked, just stay true to you, so",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Don't let 'em say you ain't beautiful, oh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "They can all get fucked, just stay true to you, so",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I think I'm startin' to lose my sense of humor",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Everything's so tense and gloom",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I almost feel like I gotta check the temperature of the room, just as soon as",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I walk in, it's like all eyes on me, so I try to avoid any eye contact",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "'Cause if I do that, then it opens a door for conversation like I want that",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I'm not lookin' for extra attention, I just wanna be just like you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Blend in with the rest of the room, maybe just point me to the closest restroom",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I don't need no fuckin' man servant tryna follow me around and wipe my ass",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Laugh at every single joke I crack and half of 'em ain't even funny, like, \"Ha",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Marshall, you're so funny, man, you should be a comedian, goddamn\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Unfortunately I am, I just hide behind the tears of a clown",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "So why don't you all sit down? Listen to the tale I'm about to tell",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Hell, we don't gotta trade our shoes and you ain't gotta walk no thousand miles",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "pre-chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "In my shoes, just to see",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "What it's like to be me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I'll be you, let's trade shoes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Just to see what it'd be like to",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Feel your pain, you feel mine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Go inside each other's minds",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just to see what we find",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Look at shit through each other's eyes",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But don't let 'em say you ain't beautiful, oh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "They can all get fucked, just stay true to you, so",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Don't let 'em say you ain't beautiful, oh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "They can all get fucked, just stay true to you, so",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Nobody asked for life to deal us with these bullshit hands we're dealt",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "We gotta take these cards ourselves and flip 'em, don't expect no help",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Now, I could've either just sat on my ass and pissed and moaned",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Or take this situation in which I'm placed in and get up and get my own",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I was never the type of kid to wait by the door and pack his bags",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "And sat on the porch and hoped and prayed for a dad to show up who never did",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I just wanted to fit in in every single place, every school I went",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I dreamed of being that cool kid even if it meant actin' stupid",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Aunt Edna always told me, \"Keep making that face, it'll get stuck like that\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Meanwhile, I'm just standin' there holdin' my tongue, tryin' to talk like this",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "'Til I stuck my tongue on that frozen stop sign pole at eight years old",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "I learned my lesson then, 'cause I wasn't tryin' to impress my friends no mo'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "But I already told you my whole life story, not just based on my description",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "'Cause where you see it from where you're sittin', it's probably a hundred-and-ten percent different",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "I guess we would have to walk a mile in each other's shoes at least",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "What size you wear? I wear 10s, let's see if you can fit your feet",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "pre-chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "In my shoes, just to see",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "What it's like to be me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I'll be you, let's trade shoes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Just to see what it'd be like to",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Feel your pain, you feel mine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Go inside each other's minds",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Just to see what we find",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Look at shit through each other's eyes",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "chorus",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "But don't let 'em say you ain't beautiful, oh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "They can all get fucked, just stay true to you, so",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Don't let 'em say you ain't beautiful, oh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "They can all get fucked, just stay true to you, so",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_10",
+      "type": "bridge",
+      "performer": "Paul Rodgers, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Lately I've been hard to reach",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I've been too long on my own (Oh)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Everybody has a private world",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Where they can be alone (So)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Are you calling me?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Are you tryin' to get through? (Oh)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Are you reaching out for me?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I'm reaching out for you (So)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_11",
+      "type": "outro",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, to my babies",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Stay strong",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Dad'll be home soon",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And to the rest of the world",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "God gave you those shoes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "To fit you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "So put 'em on and wear 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Be yourself, man",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Be proud of who you are",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "And even if it sounds corny",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Don't never let no one tell you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "You ain't beautiful (So-ooh-oh-oh-oh)",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1440534
+}

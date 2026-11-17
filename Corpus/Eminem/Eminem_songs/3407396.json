@@ -1,0 +1,549 @@
+{
+  "song_id": 3407396,
+  "title": "’97 Bonnie & Clyde",
+  "language": "en",
+  "lyricists": [
+    45,
+    14558,
+    546362
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Just the two of us, just the two of us)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Baby, your dada loves you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "And I'ma always be here for you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "(Just the two of us, just the two of us)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "No matter what happens",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "You're all I got in this world",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "(Just the two of us, just the two of us)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "I would never give you up for nothin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "(Just the two of us, just the two of us)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Nobody in this world is ever gonna keep you from me",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "I love you",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "C'mon Hai-Hai, we goin' to the beach",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Grab a couple of toys and let Dada strap you in the car seat",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Oh, where's Mama? She's takin' a little nap in the trunk",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Oh, that smell? Dada must've runned over a skunk",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Now, I know what you're thinkin', it's kind of late to go swimmin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "But you know your Mama, she's one of those type of women",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "That do crazy things, and if she don't get her way, she'll throw a fit",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Don't play with Dada's toy knife, honey, let go of it (No)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "And don't look so upset, why you actin' bashful?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Don't you wanna help Dada build a sandcastle? (Yeah)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "And Mama said she wants to show you how far she can float",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "And don't worry about that little boo-boo on her throat",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "It's just a little scratch, it don't hurt",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Her was eatin' dinner while you were sweepin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "And spilled ketchup on her shirt",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Mama's messy, ain't she? We'll let her wash off in the water",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "And me and you can play by ourselves, can't we?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "And when we ride",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Just you and I",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "And when we ride",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Just you and I (See, honey)",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "There's a place called Heaven and a place called Hell",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "A place called prison and a place called jail",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "And Dada's probably on his way to all of 'em except one",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "'Cause Mama's got a new husband and a stepson",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "And you don't want a brother, do ya? (Nah)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Maybe when you're old enough",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "To understand a little better, I'll explain it to ya",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "But for now, we'll just say Mama was real, real bad",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Was bein' mean to Dad and made him real, real mad",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "But I still feel sad that I put her on time out",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Sit back in your chair, honey, quit tryna climb out",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "I told you it's okay, Hai-Hai, want a ba-ba?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "Take a night-night? Na-na-boo, goo-goo-ga-ga?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Her make poo-poo ca-ca? Dada change your didee",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Clean the baby up so her can take a nighty-nighty",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Your dad'll wake her up as soon as we get to the water",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "'97 Bonnie and Clyde, me and my daughter",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "And when we ride",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Just you and I",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "And when we ride",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Just you and I",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Wake up, sweepyhead, we're here, before we pway",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "We're gonna take Mama for a wittle walk along the pier",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Baby, don't cry, honey, don't get the wrong idea",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Mama's too sweepy to hear you scweamin' in her ear (Mama)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "That's why you can't get her to wake, but don't worry",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Dada made a nice bed for Mommy at the bottom of the lake",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Here, you wanna help Dada tie a rope around this rock? (Yeah)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "We'll tie it to her footsie then we'll roll her off the dock",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Ready now, here we go, on the count of free",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "One, two, free, whee",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "There goes Mama, spashin' in the water",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "No more fightin' with Dad, no more restraining order",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "No more step-dada, no more new brother",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Blow her kisses bye-bye, tell Mama you love her (Mommy)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Now we'll go play in the sand, build a castle and junk",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "But first, just help Dad with two more things out the trunk",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "And when we ride",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Just you and I",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "And when we ride",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Just the two of us, just the two of us",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "Just you and I",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Just the two of us, just the two of us)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Just me and you, baby, is all we need in this world",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "(Just the two of us, just the two of us)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Just me and you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Your dada will always be here for you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Your dada's always gonna love you, remember that",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "If you ever need me, I'ma always be here for you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "You ever need anything, just ask",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Dada will be right there",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Your dada loves you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "I love you, baby",
+          "persona_id": "slim_shady"
+        }
+      ]
+    }
+  ],
+  "album_id": 1591576
+}

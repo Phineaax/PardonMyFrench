@@ -1,0 +1,163 @@
+{
+  "song_id": 2289056,
+  "title": "Poo-Putt Platter",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I tripped a lot out here in the woods lately, ugh!",
+          "rhyme": "yg",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "This is a platter of... this makes an, an exceptionally good late night's snack and also a dandy fly swatter",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "Ah, my eyes are going, I can't hit it",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "Nothing comes between me and my masters",
+          "rhyme": "9R",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "(What is it father?)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "These footprints were by th— flying monkey men",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "(But they've never strayed from the Valley since we made the pig feet)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Yes, that is what disturbs me",
+          "rhyme": "@",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "He'd probably get indigestion",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "You will go",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "(I don't think so",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "Take them)",
+          "rhyme": "Em",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "This jungle is dangerous —rapper",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "You will need assistance",
+          "rhyme": "#s",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "(I know what I'm doing)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "You risked your life for us, thanks",
+          "rhyme": "#k",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "I lost an arm",
+          "rhyme": "uRm",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "(Good)",
+          "rhyme": null,
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Stop it, father!",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "(Stand back!",
+          "rhyme": "ak",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "20",
+          "text": "Return to the house)",
+          "rhyme": "awz",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "21",
+          "text": "No",
+          "rhyme": "o",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "22",
+          "text": "What the?",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "23",
+          "text": "Now —rapper, perhaps you will listen",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFEGHIIJBKELMENOPIQF",
+      "rhyme_vowel": "ABCDEFEGHIIFBJEJKEFLLILF"
+    }
+  ]
+}

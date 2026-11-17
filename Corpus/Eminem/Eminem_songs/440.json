@@ -1,0 +1,500 @@
+{
+  "song_id": 440,
+  "title": "Till I Collapse",
+  "language": "en",
+  "lyricists": [
+    45,
+    149,
+    16631,
+    33782
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Yo, left, yo, left) 'Cause sometimes you just feel tired",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "(Yo, left, right, left) Feel weak, and when you feel weak",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "(Yo, left, yo, left) You feel like you wanna just give up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "(Yo, left, right, left) But you gotta search within you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "(Yo, left, yo, left) Try to find that inner strength and just pull that shit out of you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "(Yo, left, right, left) And get that motivation to not give up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "(Yo, left, yo, left) And not be a quitter",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "(Yo, left, right, left) No matter how bad you wanna just fall flat on your face and collapse",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Til I collapse, I'm spillin' these raps long as you feel 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "'Til the day that I drop, you'll never say that I'm not killin' 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "'Cause when I am not, then I'ma stop pennin' 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And I am not hip-hop and I'm just not Eminem",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Subliminal thoughts, when I'ma stop sendin' 'em?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Women are caught in webs, spin 'em and hock venom",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Adrenaline shots of penicillin could not get the illin' to stop",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Amoxicillin's just not real enough",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "The criminal, cop-killin', hip-hop villain",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "A minimal swap to cop millions of Pac listeners",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "You're comin' with me, feel it or not",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "You're gonna fear it like I showed ya the spirit of God lives in us",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "You hear it a lot, lyrics to shock",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Is it a miracle or am I just product of pop fizzin' up?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Fa' shizzle, my wizzle, this is the plot, listen up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "You bizzles forgot, Slizzle does not give a fuck",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "Nate Dogg, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Til the roof comes off, 'til the lights go out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "'Til my legs give out, can't shut my mouth",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "'Til the smoke clears out, am I high? Perhaps",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I'ma rip this shit 'til my bones collapse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "'Til the roof comes off, 'til the lights go out ('Til the roof, until the roof)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "'Til my legs give out, can't shut my mouth (The roof comes off, the roof comes off)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "'Til the smoke clears out, am I high? Perhaps ('Til my legs, until my legs)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I'ma rip this shit 'til my bones collapse (Give out from underneath me)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Music is like magic, there's a certain feelin' you get",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "When you real and you spit, and people are feelin' your shit",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "This is your moment, and every single minute you spend",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Tryna hold on to it, 'cause you may never get it again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "So while you're in it, try to get as much shit as you can",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "And when your run is over, just admit when it's at its end",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "'Cause I'm at the end of my wits with half the shit that gets in",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I got a list, here's the order of my list that it's in",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "It goes: Reggie, JAY-Z, 2Pac and Biggie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "André from OutKast, Jada, Kurupt, Nas, and then me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But in this industry I'm the cause of a lot of envy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "So when I'm not put on this list, this shit does not offend me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "That's why you see me walk around like nothing's botherin' me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Even though half you people got a fuckin' problem with me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "You hate it, but you know respect you got to give me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "The press's wet dream, like Bobby and Whitney—Nate, hit me",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "Nate Dogg, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Til the roof comes off, 'til the lights go out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "'Til my legs give out, can't shut my mouth",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "'Til the smoke clears out, am I high? Perhaps",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I'ma rip this shit 'til my bones collapse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "'Til the roof comes off, 'til the lights go out ('Til the roof, until the roof)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "'Til my legs give out, can't shut my mouth (The roof comes off, the roof comes off)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "'Til the smoke clears out, am I high? Perhaps ('Til my legs, until my legs)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I'ma rip this shit 'til my bones collapse (Give out from underneath me)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Soon as a verse starts, I eat at an MC's heart",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "What is he thinking? How not to go against me, smart",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "And it's absurd how people hang on every word",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I'll prob'ly never get the props I feel I ever deserve",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "But I'll never be served, my spot is forever reserved",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "If I ever leave Earth, that would be the death of me first",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "'Cause in my heart of hearts I know nothin' could ever be worse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "That's why I'm clever when I put together every verse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "My thoughts are sporadic, I act like I'm an addict",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "I rap like I'm addicted to smack like I'm Kim Mathers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But I don't wanna go forth and back in constant battles",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "The fact is I would rather sit back and bomb some rappers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "So this is like a full-blown attack I'm launchin' at 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "The track is on some battlin' raps, who wants some static?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "'Cause I don't really think that the fact that I'm Slim matters",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "A plaque and platinum status is wack if I'm not the baddest, so",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "Nate Dogg, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Til the roof comes off, 'til the lights go out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "'Til my legs give out, can't shut my mouth",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "'Til the smoke clears out, am I high? Perhaps",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I'ma rip this shit 'til my bones collapse",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "'Til the roof comes off, 'til the lights go out ('Til the roof, until the roof)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "'Til my legs give out, can't shut my mouth (The roof comes off, the roof comes off)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "'Til the smoke clears out, am I high? Perhaps ('Til my legs, until my legs)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I'ma rip this shit 'til my bones collapse (Give out from underneath me)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "outro",
+      "performer": "Eminem, Nate Dogg, Eminem, Nate Dogg",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Until the roof, until the roof",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "The roof comes off, the roof comes off",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Until my legs, until my legs",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Give out from underneath me, I",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I will not fall, I will stand tall",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Feels like no one can beat me",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 909777
+}

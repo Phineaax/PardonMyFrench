@@ -1,0 +1,493 @@
+{
+  "song_id": 1370,
+  "title": "Guilty Conscience",
+  "language": "en",
+  "lyricists": [
+    45,
+    123,
+    546362,
+    14558
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Mark Avery, Eddie",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Meet Eddie, twenty-three years old",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Fed up with life and the way things are going",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "(Damn, I'm going fucking insane)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "He decides to rob a liquor store",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "(I gotta take this shit, I can't take it no more, holmes)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "But on his way in, he has a sudden change of heart",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "(Shit is mine)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "And suddenly (I gotta do this)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "His conscience comes into play (I gotta do this)",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Dr. Dre, Eminem, (Eddie)",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Alright, stop (Huh?)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Now before you walk in the door of this liquor store",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "And try to get money out the drawer",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "You better think of the consequence (Who are you?)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "I'm your motherfuckin' conscience",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "That's nonsense",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Go in, gaffle the money, and run to one of your aunt's cribs",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "And borrow her damn dress and one of her blond wigs",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "(Can I borrow this?)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Tell her you need a place to stay, you'll be safe for days",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "If you shave your legs with Renee's razor blades",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Yeah, but if it all goes through like it's supposed to",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "The whole neighborhood knows you and they'll expose you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "Think about it before you walk in the door first",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "Look at the store clerk, she's older than George Burns",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Fuck that, do that shit, shoot that bitch",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "Can you afford to blow this shit? Are you that rich?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "Why you give a fuck if she dies? Are you that bitch?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "Do you really think she gives a fuck if you have kids?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "Man, don't do it, it's not worth it to risk it (You're right)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "20",
+          "text": "Not over this shit (Stop)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "21",
+          "text": "Drop the biscuit (I will)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "22",
+          "text": "Don't even listen to Slim, yo, he's bad for you",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "23",
+          "text": "You know what, Dre? I don't like your attitude",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "skit",
+      "performer": "Stan, Girl",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Come on, just come in here for a minute",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "I don't know",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Look, look, look",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Damn",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Look, it's gonna be alright, alright?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "O-okay",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Look, give me a kiss, pull your pants off, come on",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "interlude",
+      "performer": "Mark Avery",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Meet Stan, twenty-one years old",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "After meeting a young girl at a rave party",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Things start getting hot and heavy in an upstairs bedroom",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Once again, his conscience comes into play",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "Eminem, Dr. Dre",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, listen to me, while you're kissin' her cheek",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "And smearin' her lipstick, slip this in her drink",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Now all you gotta do is nibble on this little bitch's earlobe",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Yo, this girl's only fifteen years old",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "You shouldn't take advantage of her, it's not fair",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "Yo, look at her bush, does it got hair? (Uh-huh)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Fuck this bitch right here on the spot, bare",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "'Til she passes out and she forgot how she got there",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Man, ain't you ever seen that one movie Kids?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "No, but I seen the porno with Son Doobiest",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "Shit, you wanna get hauled off to jail?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "Man, fuck that, hit that shit raw dog, then bail",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "interlude",
+      "performer": "The Isley Brothers, Mark Avery, (Grady), Grady's Wife",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Here I lay",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "(Man, it feels good to be home)",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "Meet Grady, a twenty-nine-year-old construction worker",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "After coming home from a hard day's work",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "He walks in the door of his trailer park home",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "To find his wife in bed with another man",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "(What the fuck?) Grady",
+          "persona_id": "slim_shady"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "verse",
+      "performer": "Dr. Dre, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Alright, calm down, relax, start breathin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "1",
+          "text": "Fuck that shit, you just caught this bitch cheatin'",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "2",
+          "text": "While you at work, she's with some dude tryna get off",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "3",
+          "text": "Fuck slittin' her throat, cut this bitch's head off",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "4",
+          "text": "Wait, what if there's an explanation for this shit?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "5",
+          "text": "What, she tripped, fell, landed on his dick?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "6",
+          "text": "Tsh, alright, Shady, maybe he's right, Grady",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "7",
+          "text": "But think about the baby before you get all crazy",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "8",
+          "text": "Okay, thought about it? Still wanna stab her?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "9",
+          "text": "Grab her by the throat, get your daughter and kidnap her?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "10",
+          "text": "That's what I did, be smart, don't be a retard",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "11",
+          "text": "You gonna take advice from somebody who slapped Dee Barnes?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "12",
+          "text": "What you say?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "13",
+          "text": "What's wrong? Didn't think I'd remember?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "14",
+          "text": "I'ma kill you, motherfucker",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "15",
+          "text": "Uh-uh, temper, temper",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "16",
+          "text": "Mr. Dre, Mr. N.W.A, Mr. AK",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "17",
+          "text": "Comin' straight outta Compton, y'all better make way",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "18",
+          "text": "How in the fuck you gonna tell this man not to be violent?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "19",
+          "text": "'Cause he don't need to go the same route that I went",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "20",
+          "text": "Been there, done that",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "21",
+          "text": "Aw, fuck it, what am I sayin'?",
+          "persona_id": "slim_shady"
+        },
+        {
+          "n": "22",
+          "text": "Shoot 'em both, Grady, where's your gun at?",
+          "persona_id": "slim_shady"
+        }
+      ]
+    }
+  ],
+  "album_id": 1591576
+}

@@ -1,0 +1,654 @@
+{
+  "song_id": 3930558,
+  "title": "Lucky You",
+  "language": "en",
+  "lyricists": [
+    45,
+    345077,
+    662,
+    207347,
+    1309939
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Joyner Lucas",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Woah, Joyner, Joyner, yeah, yeah, yeah",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Yeah, yeah, yeah, yeah, yeah",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "refrain",
+      "performer": "Joyner Lucas",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah, I done did a lot of things in my day, I admit it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I don't take back what I say, if I said it, then I meant it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "All my life I want a Grammy, but I'll prolly never get it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I ain't never had no trophy or no motherfuckin' ribbon (Yeah, yeah, yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Fuck the system, I'm that nigga, bend the law, cut the rules",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I'm about to risk it all, I ain't got too much to lose (Yeah, yeah, yeah, yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Y'all been eatin' long enough, it's my turn to cut the food (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Pass the plate (Yeah), where my drink (Hol' up)?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "This my day (Yeah, yeah), lucky you, fuck you too, woo",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "Joyner Lucas",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Y'all gotta move, y'all gotta move, y'all gotta move",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Give me some room (Woo), give me some room (Hey), give me the juice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Hop out the coupe, hop out the coupe, hop out and shoot",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Y'all gotta move (Boom, bap), y'all gotta move (Woo), give me the juice",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "Joyner Lucas",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Back on my bullshit, my back to the wall",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Turn my back on you, all of you finished (Bap, bop, bop)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Back to these bullets, it's back to the job",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Pull my MAC out and all of you runnin' (Yeah, yeah, yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Back on my hood shit, it's back to the pushin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "These packs and I'm actually pumpin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Can't fuck with you rappers, you practically suckin' (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "You might'a went platinum but that don't mean nothin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "I'm actually buzzin' this time",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Straight out the kitchen, I told 'em the oven is mine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "I do not fuck with you guys (Woo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "If I don't kill you, just know you gon' suffer this time (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "I ain't no gangster, but I got some bangers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Some chains and some blades and a couple of knives",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Choppers and jammies, a partridge, a pear tree",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "My Twelve Days of Christmas was nothin' but lies (I)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "Run at you hard like a sumo (Sumo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "They say I talk like a chulo (Chulo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "I live on Mars, I'm not Bruno (Woo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "Bitch, I'm a dog, call me Cujo (Rah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "You play your cards, I reverse on you all",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "And I might just draw four like a Uno (Bup)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "Cállate boca mejor, maricón",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "Little puto, and all of you culo (Joyner)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "They've invented a level up in the ghetto to get old",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "Lookin' for somethin' I prolly can never find now (Yeah, yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "Shit get relevant 'til all the beef die down (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "In truth, a nigga just really want me tied down (Bop, bop)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "28",
+          "text": "I've been alone and I never needed nobody",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "29",
+          "text": "Just only me and my shawty, I'll tell these niggas to lie down",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "30",
+          "text": "Keep all the money, I never wanted the lifestyle",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "31",
+          "text": "I just pray to God that my son'll be alright now (Woo, woo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "32",
+          "text": "I said ain't no love for the other side",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "33",
+          "text": "Or anyone who ever want smoke (Joyner)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "34",
+          "text": "When I die I'm goin' out as the underdog who never lost hope (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "35",
+          "text": "You in the wrong cab, down the wrong path",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "36",
+          "text": "Nigga, wrong way, wrong road (Woo, woo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "37",
+          "text": "Snakes in the grass tryna slither fast",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "38",
+          "text": "I just bought a fuckin' lawn mower (Vroom)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "refrain",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I done said a lotta things in my day, I admit it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "This is payback in a way (Yeah), I regret it that I did it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I done won a couple Grammys, but I sold my soul to get 'em (Ah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Wasn't in it for the trophies (Nah), just the fuckin' recognition",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Fuck's the difference? I'm that cracker, bend the law, fuck the rules",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Man, I used to risk it all, now I got too much to lose",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I've been eatin' long enough, man, my stomach should be full",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I just ate, licked the plate, my buffet, lucky me, fuck you think? (Woo)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I got a couple of mansions, still, I don't have any manners",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "You got a couple of ghostwriters, but to these kids, it don't actually matter",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "They're askin' me, \"What the fuck happened to hip-hop?\" I said, \"I don't have any answers\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "'Cause I took an L when I dropped my last album, it hurt me like hell, but I'm back on these rappers (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And actually comin' from humble beginnings",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I'm somewhat uncomfortable winning",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I wish I could say, \"What a wonderful feeling",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "We're on the upswing like we're punchin' the ceiling\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "But nothin' is feeling like anyone has any fuckin' ability",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "To even stick to a subject, it's killin' me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "The inability to pen humility",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Ha-ta-ta, ba-ta-ta, why don't we make a bunch of",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Fuckin' songs about nothin' and mumble 'em?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Fuck it, I'm goin' for the jugular",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Shit is a circus, you clowns that are comin' up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Don't give an ounce of a motherfuck",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "About the ones that were here before you that made rap (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "Let's recap, way back, MC's that (What?)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "Wreak havoc on tape decks (Woo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "ADAT's, where the G Raps and Kanes at?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "We need 3 Stacks ASAP and bring Masta Ace back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "'Cause half of these rappers have brain damage",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "All the lean rappin', face tats, syruped out like tree sap",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "I don't hate trap (Nah), and I don't wanna seem mad",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "But in fact (Yeah), where the old me at? The same cat",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "That would take that feedback and aim back, I need that",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "But I think it's inevitable they know what button to press",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "Or what lever to pull to give me to snap though (Lil' bitch)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "28",
+          "text": "And if I pay it attention, I'm prob'ly makin' it bigger",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "29",
+          "text": "But you've been takin' ya dicks and I'm fuckin' back, ho (Get it?)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "30",
+          "text": "On the brink, any minute got me thinkin' of finishin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "31",
+          "text": "Everything with acetaminophen and reapin' the benefits",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "32",
+          "text": "I'm asleep at the wheel again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "33",
+          "text": "As I begin to thinkin' about an evil intent of another beat I'ma kill again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "34",
+          "text": "'Cause even if I gotta end up eating a pill again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "35",
+          "text": "Even ketamine or methamphetamine with the minithin",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "36",
+          "text": "It better be at least seventy or three-hundred milligram",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "37",
+          "text": "And I might as well 'cause I'ma end up bein' a villain again",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "38",
+          "text": "Levels to this shit, I got an elevator",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "39",
+          "text": "You could never say to me I'm not a fuckin' record breaker (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "40",
+          "text": "I sound like a broken record every time I break a record",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "41",
+          "text": "Nobody could ever take away the legacy I made, I never cater",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "42",
+          "text": "Motherfucker, now I got a right to be this way",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "43",
+          "text": "I got spite inside my DNA (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "44",
+          "text": "But I roll 'til the wheels fall off, I'm working tirelessly, ayy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "45",
+          "text": "It's the moment y'all been waitin' for like California",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "46",
+          "text": "Wishin' rain to pour in that drought, y'all",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "47",
+          "text": "Been prayin' for my downfall (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "48",
+          "text": "From the 8 Mile to the Southpaw",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "49",
+          "text": "Still the same Marshall, that outlaw",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "50",
+          "text": "That they say as a writer might've fell off",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "51",
+          "text": "I'm back on that bull like the cowboys",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "Eminem, Joyner Lucas",
+      "lines": [
+        {
+          "n": "0",
+          "text": "So y'all gotta move (Yeah), y'all gotta move (Yeah), y'all gotta move",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Give me some room (Woo), give me some room (Hey), give me the juice",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Hop out the coupe (Joyner), hop out the coupe (Joyner), hop out and shoot",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Y'all gotta move (Boom, bap), y'all gotta move (Woo), give me the juice",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1554414
+}

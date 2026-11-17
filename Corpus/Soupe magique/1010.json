@@ -1,0 +1,489 @@
+{
+  "song_id": 1010,
+  "title": "Sing for the Moment",
+  "language": "en",
+  "lyricists": [
+    45,
+    558736,
+    14558,
+    33782,
+    152328
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "These ideas are nightmares to white parents",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Whose worst fear is a child with dyed hair and who likes earrings",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Like whatever they say has no bearing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "It's so scary in a house that allows no swearing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "To see him walkin' around with his headphones blaring",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Alone in his own zone, cold and he don't care",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "He's a problemed child, and what bothers him all comes out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "When he talks about his fuckin' dad walkin' out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "'Cause he hates him so bad that he blocks him out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "If he ever saw him again, he'd probably knock him out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "His thoughts are wacked, he's mad, so he's talkin' back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Talkin' black, brainwashed from rock and rap",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "He sags his pants, durags, and a stockin' cap",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "His stepfather hit him so he socked him back",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "And broke his nose, his house is a broken home",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "There's no control, he just lets his emotions go",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "Steven Tyler, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Come on) Sing with me (Sing), sing for the year (Sing it)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Sing for the laughter and sing for the tear (Come on)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Sing it with me, if it's just for today",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Maybe tomorrow, the good Lord will take you away",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Entertainment is changin', intertwinin' with gangsters",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "In the land of the killers, a sinner's mind is a sanctum",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Holy or unholy, only have one homie",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Only this gun, lonely, 'cause don't anyone know me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Yet everybody just feels like they can relate (Uh-huh)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I guess words are a motherfucker, they can be great (Ugh)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Or they can degrade, or even worse, they can teach hate",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "It's like these kids hang on every single statement we make",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Like they worship us, plus all the stores ship us platinum",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Now how the fuck did this metamorphosis happen?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "From standin' on corners and porches just rappin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "To havin' a fortune, no more kissin' ass",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "But then these critics crucify you (Yep), journalists try to burn you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Fans turn on you, attorneys all want a turn at you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "To get they hands on every dime you have",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "They want you to lose your mind every time you mad",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "So they can try to make you out to look like a loose cannon",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "Any dispute won't hesitate to produce handguns",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "That's why these prosecutors wanna convict me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "Strictly just to get me off of these streets quickly",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "But all they kids be listenin' to me religiously",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "So, I'm signin' CDs while police fingerprint me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "They're for the judge's daughter, but his grudge is against me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "If I'm such a fuckin' menace, this shit doesn't make sense, B",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "It's all political, if my music is literal",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "And I'm a criminal, how the fuck can I raise a little girl?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "I couldn't, I wouldn't be fit to",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "You're full of shit too, Guerrera, that was a fist that hit you (Bitch)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "Steven Tyler, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "(Come on) Sing with me (Sing), sing for the year (Sing it)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Sing for the laughter and sing for the tear (Sing that shit)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Sing it with me, if it's just for today",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Maybe tomorrow, the good lord will take you away",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "They say music can alter moods and talk to you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Well, can it load a gun up for you and cock it too?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Well, if it can, then the next time you assault a dude",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Just tell the judge it was my fault, and I'll get sued",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "See, what these kids do is hear about us totin' pistols",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "And they wanna get one 'cause they think this shit's cool",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Not knowin' we really just protectin' ourselves",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "We entertainers, of course the shit's affectin' our sales",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "You ignoramus, but music is reflection of self",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "We just explain it, and then we get our checks in the mail",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "It's fucked up, ain't it? How we can come from practically nothin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "To bein' able to have any fuckin' thing that we wanted",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "That's why we sing for these kids who don't have a thing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Except for a dream and a fuckin' rap magazine (Haha)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Who post pin-up pictures on they walls all day long",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Idolize they favorite rappers and know all they songs",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "Or for anyone who's ever been through shit in they lives",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "So they sit and they cry at night, wishin' they'd die",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "'Til they throw on a rap record, and they sit and they vibe",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "We're nothin' to you, but we're the fuckin' shit in they eyes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "That's why we seize the moment, try to freeze it and own it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "Squeeze it and hold it 'cause we consider these minutes golden",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "And maybe they'll admit it when we're gone",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "Just let our spirits live on",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "Through our lyrics that you hear in our songs, and we can—",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "Steven Tyler, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sing with me (Sing), sing for the year (Sing it)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Sing for the laughter and sing for the tear (Come on)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Sing it with me, if it's just for today",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Maybe tomorrow, the good Lord will take you away",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "outro",
+      "performer": "Steven Tyler, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Sing with me (Sing), sing for the year (Sing it)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Sing for the laughter and sing for the tear (Come on)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Sing it with me, if it's just for today",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Maybe tomorrow, the good Lord will take you away",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 909777
+}

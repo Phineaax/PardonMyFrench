@@ -1,0 +1,509 @@
+{
+  "song_id": 1797,
+  "title": "Mockingbird",
+  "language": "en",
+  "lyricists": [
+    45,
+    33782
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Yeah",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I know sometimes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Things may not always make sense to you right now",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "But hey",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "What Daddy always tell you?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Straighten up, little soldier",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Stiffen up that upper lip",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "What you cryin' about?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "You got me",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Hailie, I know you miss your mom, and I know you miss your dad",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "When I'm gone, but I'm tryin' to give you the life that I never had",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I can see you're sad, even when you smile, even when you laugh",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I can see it in your eyes, deep inside, you wanna cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "'Cause you're scared, I ain't there, Daddy's wit' you in your prayers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "No more cryin', wipe them tears, Daddy's here, no more nightmares",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "We gon' pull together through it, we gon' do it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Lainie, Uncle's crazy, ain't he? Yeah, but he loves you, girl, and you better know it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "We're all we got in this world when it spins, when it swirls",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "When it whirls, when it twirls, two little beautiful girls",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Lookin' puzzled, in a daze, I know it's confusin' you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Daddy's always on the move, Mama's always on the news",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "I try to keep you sheltered from it, but somehow it seems",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "The harder that I try to do that, the more it backfires on me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "All the things growin' up as Daddy that he had to see",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Daddy don't want you to see, but you see just as much as he did",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "We did not plan it to be this way, your mother and me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "But things have got so bad between us, I don't see us ever bein'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "Together ever again, like we used to be when we was teenagers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "But then, of course, everything always happens for a reason",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "I guess it was never meant to be",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "But it's just somethin' we have no control over, and that's what destiny is",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "But no more worries, rest your head and go to sleep",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "Maybe one day we'll wake up and this'll all just be a dream",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now hush, little baby, don't you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Everything's gonna be alright",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Stiffen that upper lip up, little lady, I told ya",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Daddy's here to hold ya through the night",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I know Mommy's not here right now, and we don't know why",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "We feel how we feel inside",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "It may seem a little crazy, pretty baby",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "But I promise Mama's gon' be alright",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Heh, it's funny",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I remember back one year when Daddy had no money",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Mommy wrapped the Christmas presents up and stuck 'em under the tree",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And said some of 'em were from me 'cause Daddy couldn't buy 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I'll never forget that Christmas; I sat up the whole night crying",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "'Cause Daddy felt like a bum—see, Daddy had a job",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "But his job was to keep the food on the table for you and Mom",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And at the time, every house that we lived in",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Either kept gettin' broken into and robbed or shot up on the block",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "And your Mom was savin' money for you in a jar",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Tryin' to start a piggy bank for you so you could go to college",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Almost had a thousand dollars 'til someone broke in and stole it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "And I know it hurt so bad it broke your Mama's heart",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "And it seemed like everything was just startin' to fall apart",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Mom and Dad was arguin' a lot",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "So Mama moved back onto Chalmers in the flat, one-bedroom apartment",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "And Dad moved back to the other side of 8 Mile on Novara",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "And that's when Daddy went to California with his CD",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "And met Dr. Dre, and flew you and Mama out to see me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "But Daddy had to work, you and Mama had to leave me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "Then you started seein' Daddy on the TV",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "And Mama didn't like it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "And you and Lainie were too young to understand it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "Papa was a rolling stone, Mama developed a habit",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "And it all happened too fast for either one of us to grab it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "I'm just sorry you were there and had to witness it firsthand",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "'Cause all I ever wanted to do was just make you proud",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "Now I'm sittin' in this empty house just reminiscin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "28",
+          "text": "Lookin' at your baby pictures, it just trips me out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "29",
+          "text": "To see how much you both have grown, it's almost like you're sisters now",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "30",
+          "text": "Wow, guess you pretty much are, and Daddy's still here",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "31",
+          "text": "Lainie, I'm talkin' to you too, Daddy's still here",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "32",
+          "text": "I like the sound of that, yeah, it's got a ring to it, don't it?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "33",
+          "text": "Shh, Mama's only gone for the moment",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now hush, little baby, don't you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Everything's gonna be alright",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Stiffen that upper lip up, little lady, I told ya",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Daddy's here to hold ya through the night",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I know Mommy's not here right now and we don't know why",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "We feel how we feel inside",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "It may seem a little crazy, pretty baby",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "But I promise Mama's gon' be alright",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "outro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "And if you ask me to, Daddy's gonna buy you a mockingbird",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I'ma give you the world",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I'ma buy a diamond ring for you, I'ma sing for you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I'll do anything for you to see you smile",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And if that mockingbird don't sing and that ring don't shine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I'ma break that birdie's neck",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I'll go back to the jeweler who sold it to ya",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And make him eat every carat, don't fuck with Dad (Haha)",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1678964
+}

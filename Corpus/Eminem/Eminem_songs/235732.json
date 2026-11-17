@@ -1,0 +1,502 @@
+{
+  "song_id": 235732,
+  "title": "The Monster",
+  "language": "en",
+  "lyricists": [
+    45,
+    89,
+    933144,
+    31269,
+    197614,
+    26593,
+    104044
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Rihanna",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm friends with the monster that's under my bed",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Get along with the voices inside of my head",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You're tryin' to save me, stop holdin' your breath",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And you think I'm crazy, yeah, you think I'm crazy",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I wanted the fame but not the cover of Newsweek",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Oh well, guess beggars can't be choosey",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Wanted to receive attention for my music",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Wanted to be left alone in public, excuse me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "For wantin' my cake, and eat it too, and wantin' it both ways",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Fame made me a balloon 'cause my ego inflated",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "When I blew, see, but it was confusing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "'Cause all I wanted to do's be the Bruce Lee of loose leaf",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Abused ink, used it as a tool when I blew steam (Woo)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Hit the lottery, ooh-wee",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But with what I gave up to get it was bittersweet",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "It was like winnin' a used mink",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Ironic 'cause I think I'm gettin' so huge I need a shrink (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "I'm beginnin' to lose sleep: one sheep, two sheep",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Goin' coo-coo and kooky as Kool Keith",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "But I'm actually weirder than you think, 'cause I'm—",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "Rihanna, Rihanna, Bebe Rexha",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm friends with the monster that's under my bed",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Get along with the voices inside of my head",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You're tryin' to save me, stop holdin' your breath",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And you think I'm crazy, yeah, you think I'm crazy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Well, that's nothin'",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "post-chorus",
+      "performer": "Rihanna, Bebe Rexha",
+      "lines": [
+        {
+          "n": "0",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "New-hoo, ooh-hoo, well, that's nothin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "Eminem, Bebe Rexha",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, I ain't much of a poet",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "But I know somebody once told me to seize the moment",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "And don't squander it 'cause you never know when it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "All could be over tomorrow, so I keep conjurin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Sometimes, I wonder where these thoughts spawn from",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Yeah, ponderin'll do you wonders, no wonder",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "You're losin' your mind, the way it wanders",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "(New-hoo, ooh-hoo) Yodel-odel-ay-hee-hoo!",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "I think it went wanderin' off down, yonder and stumbled onto Jeff VanVonderen",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "'Cause I need an interventionist to intervene between me and this monster",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "And save me from myself and all this conflict",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "'Cause the very thing that I love's killin' me and I can't conquer it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "My OCD's conkin' me in the head, keep knockin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Nobody's home, I'm sleepwalkin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "I'm just relayin' what the voice in my head's sayin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Don't shoot the messenger, I'm just friends with the—",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "Rihanna, Rihanna, Bebe Rexha",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm friends with the monster that's under my bed",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Get along with the voices inside of my head",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You're tryin' to save me, stop holdin' your breath",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And you think I'm crazy, yeah, you think I'm crazy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Well, that's nothin'",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "post-chorus",
+      "performer": "Rihanna, Bebe Rexha",
+      "lines": [
+        {
+          "n": "0",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "New-hoo, ooh-hoo, well, that's nothin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Call me crazy, but I have this vision, one day that",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I'll walk amongst you a regular civilian",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "But until then, drums get killed and I'm comin' straight at",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "MCs, blood gets spilled then I'll",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Take you back to the days that I'd get on a Dre track",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Give every kid who got played that pumped-up feelin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "And shit to say back to the kids who played him",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I ain't here to save the fuckin' children, but if one kid",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Out of a hundred million who are goin' through a",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Struggle feels it and relates, that's great",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "It's payback, Russell Wilson fallin' way back in the draft",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Turn nothin' into somethin', still can make that",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Straw into gold, chump, I will spin, Rumpelstiltskin in a haystack",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Maybe I need a straightjacket, face facts",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "I am nuts for real, but I'm okay with that",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "It's nothin', I'm still friends with the—",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_8",
+      "type": "chorus",
+      "performer": "Rihanna, Eminem, Rihanna, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm friends with the monster that's under my bed",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Get along with the voices inside of my head",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "You're tryin' to save me, stop holdin' your breath",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And you think I'm crazy, yeah, you think I'm crazy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I'm friends with the monster that's under my bed (Get along with)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Get along with the voices inside of my head (You're tryna)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "You're tryin' to save me, stop holdin' your breath (And you think I'm)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And you think I'm crazy, yeah, you think I'm crazy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Well, that's nothin'",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_9",
+      "type": "post-chorus",
+      "performer": "Rihanna, Eminem, Bebe Rexha",
+      "lines": [
+        {
+          "n": "0",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "New-hoo, ooh-hoo, well, that's nothin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "New-hoo, ooh-hoo, new-hoo, ooh-hoo",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1554414
+}

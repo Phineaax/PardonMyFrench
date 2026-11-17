@@ -1,0 +1,576 @@
+{
+  "song_id": 235735,
+  "title": "Headlights",
+  "language": "en",
+  "lyricists": [
+    45,
+    30424,
+    33782,
+    27434,
+    27453
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "Nate Ruess",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Mom, I know I let you down",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "And though you say the days are happy",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Why is the power off and I'm fucked up?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "And, Mom, I know he's not around",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "But don't you place the blame on me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "As you pour yourself another drink, yeah",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "chorus",
+      "performer": "Nate Ruess",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I guess we are who we are",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Headlights shining in the dark night, I drive on",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Maybe we took this too far",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I went in headfirst, never thinkin' about who what I said hurt",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "In what verse my mom probably got it the worst",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "The brunt of it, but as stubborn as we are, did I take it too far?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "\"Cleanin' Out My Closet\" and all them other songs but regardless, I don't hate you 'cause, Ma",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "You're still beautiful to me, 'cause you're my mom",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Though far be it from you to be calm, our house was Vietnam, Desert Storm",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "And both of us put together could form an atomic bomb",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Equivalent to chemical warfare",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "And forever we could drag this on and on but",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Agree to disagree",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "That gift for me up under the Christmas tree don't mean shit to me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "You're kickin' me out? It's fifteen degrees",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "And it's Christmas Eve, \"Little prick, just leave!\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "Ma, let me grab my fucking coat!",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Anything to have each other's goats",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Why we always at each other's throats?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "Especially when Dad, he fucked us both",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "We're in the same fuckin' boat",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "You'd think that'd make us close (Nope)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "Further away it drove us, but together, headlights shine",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "And a car full of belongings, still got a ways to go",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "Back to grandma's house, it's straight up the road",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "And I was the man of the house, the oldest",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "So my shoulders carried the weight of the load",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "Then Nate got taken away by the state at eight-years-old",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "And that's when I realized you were sick",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "And it wasn't fixable or changeable",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "And to this day we remain estranged and I hate it though, but",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "chorus",
+      "performer": "Nate Ruess",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I guess we are who we are",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Headlights shining in the dark night, I drive on",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Maybe we took this too far",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "verse",
+      "performer": "Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "'Cause to this day we remain estranged and I hate it though",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "'Cause you ain't even get to witness your grandbabies grow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "But I'm sorry, Mama, for \"Cleanin' Out My Closet\"",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "At the time I was angry, rightfully? Maybe so",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Never meant that far to take it, though",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "'Cause now I know it's not your fault, and I'm not makin' jokes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "That song I no longer play at shows",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "And I cringe every time it's on the radio",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "And I think of Nathan being placed in a home",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "And all the medicine you fed us and how I just wanted you to taste your own",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But now the medication's takin' over",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "And your mental state's deterioratin' slow",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "And I'm way too old to cry, this shit is painful, though",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "But, Ma, I forgive you, so does Nathan, yo",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "All you did, all you said, you did your best to raise us both",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Foster care, that cross you bear, few may be as heavy as yours",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "But I love you, Debbie Mathers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "Oh, what a tangled web we have 'cause",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "One thing I never asked was",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "Where the fuck my deadbeat dad was",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "20",
+          "text": "Fuck it, I guess he had trouble keepin' up with every address",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "21",
+          "text": "But I'da flipped every mattress, every rock and desert cactus",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "22",
+          "text": "Owned a collection of maps and followed my kids to the edge of the atlas",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "23",
+          "text": "If someone ever moved 'em from me, that you coulda bet your asses",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "24",
+          "text": "If I had to come down the chimney, dressed as Santa, kidnap 'em",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "25",
+          "text": "And although one has only met their grandma once",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "26",
+          "text": "You pulled up in our drive one night as we were leavin' to get some hamburgers",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "27",
+          "text": "Me, her and Nate, we introduced you, hugged you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "28",
+          "text": "And as you left, I had this overwhelming sadness",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "29",
+          "text": "Come over me as we pulled off to go our separate paths and",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "30",
+          "text": "I saw your headlights as I looked back and I'm mad I didn't get the chance to",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "31",
+          "text": "Thank you for being my mom and my dad, so",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "32",
+          "text": "Mom, please accept this as a tribute, I wrote this on the jet",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "33",
+          "text": "I guess I had to get this off my chest",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "34",
+          "text": "I hope I get the chance to lay it 'fore I'm dead",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "35",
+          "text": "The stewardess said to fasten my seatbelt, I guess we're crashin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "36",
+          "text": "So, if I'm not dreamin', I hope you get this message",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "37",
+          "text": "That I will always love you from afar, 'cause you're my mom",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "chorus",
+      "performer": "Nate Ruess",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I guess we are who we are",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Headlights shining in the dark night, I drive on",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Maybe we took this too far",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "bridge",
+      "performer": "Nate Ruess, Eminem",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I want a new life (Start over)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "One without a cause (Clean slate)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "So I'm coming home tonight (Yeah)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Well, no matter what the cost",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "And if the plane goes down",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Or if the crew can't wake me up",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Well, just know that I'm alright",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "I was not afraid to die",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Oh, even if there's songs to sing",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Well, my children will carry me",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Just know that I'm alright",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "I was not afraid to die",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "Because I put my faith in my little girls",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "So I'll never say goodbye cruel world",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "Just know that I'm alright",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "I am not afraid to die",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_7",
+      "type": "chorus",
+      "performer": "Nate Ruess",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I guess we are who we are",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Headlights shining in the dark night, I drive on",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Maybe we took this too far",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "I want a new life",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 1210705
+}

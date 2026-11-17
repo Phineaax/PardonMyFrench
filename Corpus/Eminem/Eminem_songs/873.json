@@ -1,0 +1,451 @@
+{
+  "song_id": 873,
+  "title": "Cleanin’ Out My Closet",
+  "language": "en",
+  "lyricists": [
+    45,
+    14558
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "intro",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Where's my snare?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I have no snare in my headphones",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "There you go",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Yeah",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Yo, yo",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_1",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Have you ever been hated or discriminated against?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I have, I been protested and demonstrated against",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "Picket signs for my wicked rhymes, look at the times",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Sick is the mind of the motherfuckin' kid that's behind",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "All this commotion, emotions run deep as oceans, explodin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Tempers flarin' from parents, just blow 'em off and keep goin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "Not takin' nothin' from no one, give 'em hell long as I'm breathin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "Keep kickin' ass in the morning and takin' names in the evenin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Leave 'em with a taste as sour as vinegar in they mouth",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "See, they can trigger me, but they'll never figure me out",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "Look at me now, I bet you're prolly sick of me now",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "Ain't you, Mama? I'ma make you look so ridiculous now",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_2",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm sorry, Mama",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I never meant to hurt you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I never meant to make you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "But tonight I'm cleanin' out my closet (One more time)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I said I'm sorry, Mama",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I never meant to hurt you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I never meant to make you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "But tonight I'm cleanin' out my closet (Ha)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_3",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I got some skeletons in my closet and I don't know if no one knows it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "So before they throw me inside my coffin and close it, I'ma expose it",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I'll take you back to '73",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Before I ever had a multi-platinum-sellin' CD",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I was a baby, maybe I was just a couple of months",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "My faggot father must've had his panties up in a bunch",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "'Cause he split, I wonder if he even kissed me goodbye",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "No, I don't, on second thought, I just fuckin' wished he would die",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "I look at Hailie, and I couldn't picture leavin' her side",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "Even if I hated Kim, I'd grit my teeth and I'd try",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "To make it work with her at least for Hailie's sake",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "I maybe made some mistakes",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "But I'm only human, but I'm man enough to face 'em today",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "What I did was stupid, no doubt, it was dumb",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "But the smartest shit I did was take the bullets out of that gun",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "'Cause I'da killed 'em, shit, I woulda shot Kim and him both",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "It's my life, I'd like to welcome y'all to The Eminem Show",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_4",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm sorry, Mama",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I never meant to hurt you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I never meant to make you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "But tonight I'm cleanin' out my closet (One more time)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I said I'm sorry, Mama",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I never meant to hurt you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I never meant to make you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "But tonight I'm cleanin' out my closet (Uh)",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_5",
+      "type": "verse",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Now, I would never diss my own mama just to get recognition",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "Take a second to listen 'fore you think this record is dissin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "But put yourself in my position, just try to envision",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "Witnessin' your mama poppin' prescription pills in the kitchen",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "Bitchin' that someone's always goin' through her purse and shit's missin'",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "Goin' through public housing systems, victim of Münchausen's Syndrome",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "My whole life I was made to believe I was sick when I wasn't",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "'Til I grew up, now I blew up, it makes you sick to your stomach, doesn't it?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "8",
+          "text": "Wasn't it the reason you made that CD for me, Ma?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "9",
+          "text": "So you could try to justify the way you treated me, Ma?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "10",
+          "text": "But guess what, you're gettin' older now, and it's cold when you're lonely",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "11",
+          "text": "And Nathan's growin' up so quick, he's gonna know that you're phony",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "12",
+          "text": "And Hailie's gettin' so big now, you should see her, she's beautiful",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "13",
+          "text": "But you'll never see her, she won't even be at your funeral (Ha-ha)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "14",
+          "text": "See, what hurts me the most is you won't admit you was wrong",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "15",
+          "text": "Bitch, do your song, keep tellin' yourself that you was a mom",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "16",
+          "text": "But how dare you try to take what you didn't help me to get?",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "17",
+          "text": "You selfish bitch, I hope you fuckin' burn in Hell for this shit",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "18",
+          "text": "Remember when Ronnie died and you said you wished it was me? (He-he)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "19",
+          "text": "Well, guess what? I am dead—dead to you as can be",
+          "persona_id": "eminem"
+        }
+      ]
+    },
+    {
+      "section_id": "section_6",
+      "type": "chorus",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "I'm sorry, Mama",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "1",
+          "text": "I never meant to hurt you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "2",
+          "text": "I never meant to make you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "3",
+          "text": "But tonight I'm cleanin' out my closet (One more time)",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "4",
+          "text": "I said I'm sorry, Mama",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "5",
+          "text": "I never meant to hurt you",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "6",
+          "text": "I never meant to make you cry",
+          "persona_id": "eminem"
+        },
+        {
+          "n": "7",
+          "text": "But tonight I'm cleanin' out my closet",
+          "persona_id": "eminem"
+        }
+      ]
+    }
+  ],
+  "album_id": 909777
+}

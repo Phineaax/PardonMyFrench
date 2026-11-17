@@ -1,0 +1,139 @@
+{
+  "song_id": 2978249,
+  "title": "Fillet-O-Rapper",
+  "language": "en",
+  "lyricists": [
+    70
+  ],
+  "lyrics": [
+    {
+      "section_id": "section_0",
+      "type": "skit",
+      "performer": "",
+      "lines": [
+        {
+          "n": "0",
+          "text": "Whenever I'm expecting a lot of company",
+          "rhyme": "i",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "1",
+          "text": "Haven't had a lot of company in a long time",
+          "rhyme": "ajm",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "2",
+          "text": "But if I were expecting some",
+          "rhyme": "om",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "3",
+          "text": "I'd whip up a really—ugh!—substantial meal!",
+          "rhyme": "il",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "4",
+          "text": "You see how strong I am!? Heh",
+          "rhyme": "e",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "5",
+          "text": "It's from eating all this stuff",
+          "rhyme": "9f",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "6",
+          "text": "Good healthy meal like the... fillet!",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "7",
+          "text": "Now that's what they call soul food",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "8",
+          "text": "Now you got black-eyed peas",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "9",
+          "text": "Carrot greens, collard greens",
+          "rhyme": "in",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "10",
+          "text": "Cornbread, watermelon",
+          "rhyme": "$",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "11",
+          "text": "And for dessert...",
+          "rhyme": "ER",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "12",
+          "text": "Pork butts",
+          "rhyme": "at",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "13",
+          "text": "Hahahahahahahaha!",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "14",
+          "text": "Eat heartily gentlemen",
+          "rhyme": "En",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "15",
+          "text": "I got a really stressful day and I really, really needed some food",
+          "rhyme": "ud",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "16",
+          "text": "Something healthy like beets",
+          "rhyme": "it",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "17",
+          "text": "Showed you how good it is",
+          "rhyme": "E",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "18",
+          "text": "Well you may say \"I don't think I'd care for that\"",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        },
+        {
+          "n": "19",
+          "text": "So you could also fix yourself a...",
+          "rhyme": "a",
+          "persona_id": "MF_DOOM"
+        }
+      ],
+      "rhyme": "ABCDEFGHIJKLMINHOGII",
+      "rhyme_vowel": "ABCADEFGBAHFBBFGAFBB"
+    }
+  ]
+}
