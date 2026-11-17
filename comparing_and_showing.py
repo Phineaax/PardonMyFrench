@@ -38,12 +38,12 @@ available_metrics = scoring.available_metrics
 #  <scorer_n_grams_motsVec>,
 #  <scorer_n_grams_charVec>]
 
-def create_baseline(json_path, optional_df=None, true_names = False, n=-1) :
+def create_baseline(json_path, optional_df=None, true_names = False, n=-1, by_lines=False) :
     if optional_df is None : 
         df = chunking.artist_folder_to_artist_df(json_path)
     else : 
         df = optional_df.copy()
-        
+
     if n == -1 : 
         n = len(list(df["persona_id"].unique()))
 
@@ -51,12 +51,20 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1) :
         fake_personas = list(df["persona_id"].unique())
     else : 
         fake_personas = [chr(65+i)*4 for i in range(n)]
-    songs = list(df["song_id"].unique())
-    shuffle(songs)
-    
-    baseline_song_to_persona = {s:fake_personas[i%n] for i, s in enumerate(songs)}
 
-    df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
+
+    
+    if by_lines : 
+        df = df.sample(frac=1).reset_index(drop=True)
+        df["persona_id"] = [fake_personas[i%n] for i in range(len(df))]
+
+    else : 
+        songs = list(df["song_id"].unique())
+        shuffle(songs)
+        
+        baseline_song_to_persona = {s:fake_personas[i%n] for i, s in enumerate(songs)}
+
+        df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
     return df
 
 def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
@@ -155,6 +163,7 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
+    print(do_voc)
     vocabs_dict = dict()
     if any(do_voc) :
         if optional_df is None : 
@@ -164,7 +173,7 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
         all_lines = list(lyrics_df["text"])
     else : 
         all_lines = []
-        
+
     voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
     voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
     vocab_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
@@ -264,10 +273,6 @@ def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
     scorers_names = [scorer.name for scorer in scorers] + ['non_sem_vec']
     scorer_description = [scorer.description for scorer in scorers] + ['vecteur des indices non sémantiques']
 
-    if not show_ids : 
-        labels = [cut_number(c) for c in chunk_ids]
-    else :
-        labels = chunk_ids
 
     roots = [get_root(c) for c in chunk_ids]
     color_map = make_color_map(chunk_ids)
