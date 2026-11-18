@@ -154,15 +154,19 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     distances = {scorer : dm(distances[scorer], distances[scorer]) for scorer in distances} #On transforme les résultats en matrices de distances
 
     if do_show : 
+        show_labels = True
+        if by_song : 
+            show_labels = False
+        
         labels = chunk_ids
         for scorer in scorers : 
             print(f"Affichage pour {scorer}")
-            create_dendrogram(distances[scorer.name], labels, scorer.description)
-        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques")
-
+            create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels)
+        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels)
+    
     return results, distances, chunk_ids
 
-def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8, optional_df=None, do_show=False) :
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=3, optional_df=None, do_show=False) :
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
@@ -225,7 +229,7 @@ def make_color_map(labels, palette=PERSONA_PALETTE):
     roots = sorted(set(get_root(l) for l in labels))
     return {r: palette[i % len(palette)] for i, r in enumerate(roots)}
 
-def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None):
+def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None, show_labels=True):
     y = squareform(distances)
     if ax is None:
         fig, ax = plt.subplots(figsize=(12, 5))
@@ -253,13 +257,16 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=N
         root = label_to_root.get(tick.get_text())
         tick.set_color(color_map.get(root, BRIQUE))
 
+    if not show_labels :
+        ax.set_xticklabels(['▬▬▬' for _ in labels])
+
     return ax
 
 def cut_number(chunk_id) : 
     return chunk_id[:chunk_id.rindex("_")]
 
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
-                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=8,
+                         figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=3,
                          optional_df = None, show_ids = False):
     
     distances, chunk_ids = get_aggregated_results(path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, n_sample=n_sample, optional_df=optional_df)

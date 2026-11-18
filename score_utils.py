@@ -248,4 +248,4 @@ n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words
 #     return vectorized
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
 
-available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, syllMoy]#, n_grams_posVec, posVec]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
+available_metrics = [longMoy, divLex_MTLD, densLex, syllMoy, divLex_HDD]#, n_grams_posVec, posVec]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
