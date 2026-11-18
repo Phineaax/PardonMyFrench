@@ -47,6 +47,9 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1, by_li
     if n == -1 : 
         n = len(list(df["persona_id"].unique()))
 
+    if n > 26 :
+        n=26
+        
     if true_names : 
         fake_personas = list(df["persona_id"].unique())
     else : 
@@ -134,7 +137,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     for scorer in scorers :
         results[scorer.name] = {key: scorer.application(total_chunks[key], 
-        language=language, voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem
+        language=language, voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem, n=n
             ) 
         for key in chunk_ids}
         print(f"resultats obtenus pour {scorer}")

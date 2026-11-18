@@ -17,6 +17,26 @@ import pyphen
 
 word_tokenizer = word_tokenize
 
+universal_pos_tagset = ["VERB", "NOUN", "PRON", "ADJ", "ADV", "ADP", "CONJ", "DET", "NUM", "PRT", "X", "."]
+vocab_pos2i = {pos.lower() : i for i, pos in enumerate(universal_pos_tagset)}
+
+def voc_n_pos(n:int) :
+    u = [p.lower() for p in universal_pos_tagset]
+    total = [[p] for p in u] 
+    for _ in range(n-1) :
+        for _ in range(len(total)) : 
+            x = total.pop(0)
+            total.extend([x+[p] for p in u])
+    total_voc = list(map(lambda x : tuple(x), total))
+    total_voc = {p : i for i, p in enumerate(total_voc)}
+    return total_voc
+
+def pos_tag_chunk(lines_chunk:List[str]) -> List[str] :
+    return [
+        " ".join([tag[1] for tag in nltk.pos_tag(word_tokenizer(l), tagset="universal") 
+        ]) 
+     for l in lines_chunk]
+
 def wordify(lines_chunk:List[str]) -> int:
     """Transforme une liste de phrase en liste de mots"""
     words = [word_tokenizer(line.lower()) for line in lines_chunk]
@@ -102,6 +122,7 @@ def bow(lines_chunk:List[str], voc_bow, **kwargs) -> np.array:
 
     return v
 bowVec = Mesure("bowVec", bow, "vecteurs bag of words")
+posVec = Mesure("posVec", lambda lc, voc_bow=None, **k : bow(lines_chunk=pos_tag_chunk(lc), voc_bow=vocab_pos2i, **k), "vecteurs bag of POS tags")
 
 
 #N-grams mots
@@ -122,7 +143,7 @@ def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
 
 def n_grams_mots(lines_chunk:List[str], voc_n_mots, **kwargs) -> np.array:
     vocab_w2i = voc_n_mots
-    n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
+    n = kwargs["n"]
     n_grams = []
     v = np.zeros(len(vocab_w2i))
 
@@ -138,7 +159,7 @@ def n_grams_mots(lines_chunk:List[str], voc_n_mots, **kwargs) -> np.array:
         v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
     return v
 n_grams_motsVec = Mesure("n_grams_motsVec", n_grams_mots, "vecteurs bag of words depuis les n-grams de mots")
-
+n_grams_posVec = Mesure("n_grams_posVec", lambda lc, voc_n_mots=None, **k : n_grams_mots(lines_chunk=pos_tag_chunk(lc), voc_n_mots=voc_n_pos(k['n']), **k), "vecteurs bag of words depuis les n-grams de POS tags")
 
 #N-grams char
 def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
@@ -227,4 +248,4 @@ n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words
 #     return vectorized
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
 
-available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, syllMoy]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
+available_metrics = [longMoy, divLex_HDD, divLex_MTLD, densLex, syllMoy]#, n_grams_posVec, posVec]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
