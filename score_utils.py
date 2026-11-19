@@ -1,6 +1,9 @@
 import numpy as np
 from typing import List, Dict
 
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import normalize
+
 from lexicalrichness import LexicalRichness as LR
 
 import nltk
@@ -18,18 +21,18 @@ import pyphen
 word_tokenizer = word_tokenize
 
 universal_pos_tagset = ["VERB", "NOUN", "PRON", "ADJ", "ADV", "ADP", "CONJ", "DET", "NUM", "PRT", "X", "."]
-vocab_pos2i = {pos.lower() : i for i, pos in enumerate(universal_pos_tagset)}
+vocab_pos2i = TfidfVectorizer().fit(universal_pos_tagset)
 
 def voc_n_pos(n:int) :
     u = [p.lower() for p in universal_pos_tagset]
-    total = [[p] for p in u] 
+    total = [p for p in u] 
     for _ in range(n-1) :
         for _ in range(len(total)) : 
             x = total.pop(0)
-            total.extend([x+[p] for p in u])
-    total_voc = list(map(lambda x : tuple(x), total))
-    total_voc = {p : i for i, p in enumerate(total_voc)}
-    return total_voc
+            total.extend([x+" "+p for p in u])
+
+    vectorizer = create_vocab_n_grams_mots(total, n)
+    return vectorizer
 
 def pos_tag_chunk(lines_chunk:List[str]) -> List[str] :
     return [
@@ -56,7 +59,6 @@ def longueur_moyenne(lines_chunk:List[str], **kwargs) -> float:
     words_length = list(map(lambda w : len(w), words))
     
     return sum(words_length)/len(words_length)
-# longMoy = Mesure("longMoy", longueur_moyenne, "longueur moyenne des mots")
 longMoy = Mesure("longMoy", longueur_moyenne, "Words mean length")
 
 def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
@@ -69,20 +71,17 @@ def syllabe_moyenne(lines_chunk:List[str], language, **kwargs) -> float:
     syll_per_line = list(map(lambda l : dic.inserted(l, hyphen=hyphen).count(hyphen)+1, lines_chunk)) #On compte les syllabes
     
     return sum(syll_per_line)/len(lines_chunk)
-#syllMoy = Mesure("syllMoy", syllabe_moyenne, "moyenne de syllabes par lignes")
 syllMoy = Mesure("syllMoy", syllabe_moyenne, "Average syllabes count per line")
 
 def diversite_lexicale_HDD(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).hdd()
-#divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "score de diversité lexicale (méthode HDD)")
 divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "Lexical diversity score (HDD)")
 
 
 def diversite_lexicale_MTLD(lines_chunk, **kwargs) :
     words = wordify(lines_chunk)
     return LR(words, preprocessor=None, tokenizer=None).mtld()
-#divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "score de diversité lexicale (méthode MTLD)")
 divLex_MTLD = Mesure("divLex_MTLD", diversite_lexicale_MTLD, "Lexical diversity score (MTLD)")
 
 
@@ -91,36 +90,27 @@ def densite_lexicale(lines_chunk:List[str], language, **kwargs) -> float:
     words = wordify(lines_chunk)
     full_words = [w for w in words if w not in stop_words]
     return len(full_words)/len(words)
-#densLex = Mesure("densLex", densite_lexicale, "score de densité lexicale")
 densLex = Mesure("densLex", densite_lexicale, "Lexical density")
 
+def formatted_tfidf(lines, vec) : 
+
+    x = sum(vec.transform(lines))
+    u = np.reshape(x.toarray(), x.shape)
+    v = normalize(u[0][:,np.newaxis], axis=0).ravel()
+    return v
 
 #BOW
 def create_vocab_bow(all_lines) -> Dict[str, int]:
     """Crée le vocab total pour faire des Bag Of Words indépendamment. Prend en argument la grande liste de toutes les lignes."""
-    words = wordify(all_lines)
-    
-    vocab_w2i = dict()
-    i_last = 0
+    vectorizer = TfidfVectorizer()
+    vectorizer.fit(all_lines)
 
-    for w in words : 
-        if w not in vocab_w2i :
-            vocab_w2i[w] = i_last
-            i_last += 1
-
-    return vocab_w2i
+    return vectorizer
 
 def bow(lines_chunk:List[str], voc_bow, **kwargs) -> np.array:
     """Renvoie un vecteur Bag Of Words"""
-    vocab_w2i = voc_bow
-    v = np.zeros(len(vocab_w2i))
 
-    words = wordify(lines_chunk)
-    c = Counter(words)
-    for w in c :
-        v[vocab_w2i[w]] = c[w]/len(words) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
-
-    return v
+    return formatted_tfidf(lines_chunk, voc_bow)
 bowVec = Mesure("bowVec", bow, "vecteurs bag of words")
 posVec = Mesure("posVec", lambda lc, voc_bow=None, **k : bow(lines_chunk=pos_tag_chunk(lc), voc_bow=vocab_pos2i, **k), "vecteurs bag of POS tags")
 
@@ -128,81 +118,25 @@ posVec = Mesure("posVec", lambda lc, voc_bow=None, **k : bow(lines_chunk=pos_tag
 #N-grams mots
 def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
     """Crée le vocabulaire pour utiliser la fonction n_gram_mots. Prend en argument la grande liste de toutes les lignes."""
-    vocab_w2i = dict()
-    i_last = 0
+    vectorizer = TfidfVectorizer(ngram_range=(n, n))
+    vectorizer.fit(all_lines)
 
-    for line in all_lines :
-        words = word_tokenizer(line.lower())
-        for i in range(len(words)-n-1) :
-            t = tuple(words[i:i+n])
-            if t not in vocab_w2i :
-                vocab_w2i[t] = i_last
-                i_last += 1
-
-    return vocab_w2i
+    return vectorizer
 
 def n_grams_mots(lines_chunk:List[str], voc_n_mots, **kwargs) -> np.array:
-    vocab_w2i = voc_n_mots
-    n = kwargs["n"]
-    n_grams = []
-    v = np.zeros(len(vocab_w2i))
 
-    for line in lines_chunk :
-        words = word_tokenizer(line.lower())
+    return formatted_tfidf(lines_chunk, voc_n_mots)
 
-        for i in range(len(words)-n-1) :
-            t = tuple(words[i:i+n])
-            n_grams.append(t)
-            
-    c = Counter(n_grams)
-    for n_gr in c :
-        v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
-    return v
 n_grams_motsVec = Mesure("n_grams_motsVec", n_grams_mots, "vecteurs bag of words depuis les n-grams de mots")
 n_grams_posVec = Mesure("n_grams_posVec", lambda lc, voc_n_mots=None, **k : n_grams_mots(lines_chunk=pos_tag_chunk(lc), voc_n_mots=voc_n_pos(k['n']), **k), "vecteurs bag of words depuis les n-grams de POS tags")
 
 #N-grams char
 def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
     """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
+    vectorizer = TfidfVectorizer(ngram_range=(n, n))
+    vectorizer.fit(all_lines)
 
-    vocab_w2i = dict()
-    i_last = 0
-
-    for line in all_lines :
-
-        for i in range(len(line)-n-1) :
-            t = line[i:i+n]
-
-            if " " not in t[1:n-1] :            
-                t = tuple(t)
-                
-                if t not in vocab_w2i :
-                    vocab_w2i[t] = i_last
-                    i_last += 1
-
-    return vocab_w2i
-
-
-#N-grams char
-def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
-    """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
-
-    vocab_w2i = dict()
-    i_last = 0
-
-    for line in all_lines :
-
-        for i in range(len(line)-n-1) :
-            t = line[i:i+n]
-
-            if " " not in t[1:n-1] :            
-                t = tuple(t)
-                
-                if t not in vocab_w2i :
-                    vocab_w2i[t] = i_last
-                    i_last += 1
-
-    return vocab_w2i
+    return vectorizer
 
 def create_vocab_n_grams_phonem(all_lines, n) -> Dict[str, int]: 
     """Phonétise puis crée le vocabulaire de phonemes pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
@@ -216,26 +150,11 @@ def create_vocab_n_grams_phonem(all_lines, n) -> Dict[str, int]:
 def n_grams_char(lines_chunk:List[str], voc_n_char=None, voc_n_phonem=None, **kwargs) -> np.array:
 
     if voc_n_char :
-        vocab_w2i = voc_n_char
+        vecab_w2i = voc_n_char
     elif voc_n_phonem :
-        vocab_w2i = voc_n_phonem
+        vecab_w2i = voc_n_phonem
 
-    n = len(list(vocab_w2i.keys())[0]) #On déduit la taille de n depuis le vocab
-    n_grams = []
-    v = np.zeros(len(vocab_w2i))
-
-    for line in lines_chunk :
-        for i in range(len(line)-n-1) :
-            t = line[i:i+n]
-
-            if " " not in t[1:n-1] :            
-                t = tuple(t)
-                n_grams.append(t)
-            
-    c = Counter(n_grams)
-    for n_gr in c :
-        v[vocab_w2i[n_gr]] = c[n_gr]/len(n_grams) #BOW : le mot numéro i est noté selon le nombre de fois de son apparition  
-    return v
+    return formatted_tfidf(lines_chunk, vecab_w2i)
 n_grams_charVec = Mesure("n_grams_charVec", n_grams_char, "vecteurs bag of words depuis les n-grams de caractères")
 n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words depuis les n-grams de phonemes")
 
@@ -247,5 +166,5 @@ n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words
 #     vectorized = np.mean(vector_sentences, axis=0)
 #     return vectorized
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
-
+all_metrics = [longMoy, divLex_MTLD, densLex, syllMoy, divLex_HDD, n_grams_posVec, posVec, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
 available_metrics = [longMoy, divLex_MTLD, densLex, syllMoy, divLex_HDD]#, n_grams_posVec, posVec]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]

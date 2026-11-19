@@ -55,8 +55,6 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1, by_li
     else : 
         fake_personas = [chr(65+i)*4 for i in range(n)]
 
-
-    
     if by_lines : 
         df = df.sample(frac=1).reset_index(drop=True)
         df["persona_id"] = [fake_personas[i%n] for i in range(len(df))]
@@ -68,7 +66,7 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1, by_li
         baseline_song_to_persona = {s:fake_personas[i%n] for i, s in enumerate(songs)}
 
         df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
-    return df
+    return df.reset_index(drop=True)
 
 def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
 
@@ -163,7 +161,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
             print(f"Affichage pour {scorer}")
             create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels)
         create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels)
-    
+
     return results, distances, chunk_ids
 
 def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=3, optional_df=None, do_show=False) :
