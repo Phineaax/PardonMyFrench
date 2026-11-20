@@ -75,7 +75,10 @@ syllMoy = Mesure("syllMoy", syllabe_moyenne, "Average syllabes count per line")
 
 def diversite_lexicale_HDD(lines_chunk:List[str], **kwargs) -> float:
     words = wordify(lines_chunk)
-    return LR(words, preprocessor=None, tokenizer=None).hdd()
+    n_draws =  42
+    if len(words)<n_draws :
+        n_draws = len(words)//2
+    return LR(words, preprocessor=None, tokenizer=None).hdd(draws=n_draws)
 divLex_HDD = Mesure("divLex_HDD", diversite_lexicale_HDD,  "Lexical diversity score (HDD)")
 
 
@@ -158,13 +161,12 @@ def n_grams_char(lines_chunk:List[str], voc_n_char=None, voc_n_phonem=None, **kw
 n_grams_charVec = Mesure("n_grams_charVec", n_grams_char, "vecteurs bag of words depuis les n-grams de caractères")
 n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "vecteurs bag of words depuis les n-grams de phonemes")
 
-
-
 # def chunk_to_embedding(lines_chunk:List[str]) :
 #     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
 #     vector_sentences = model.encode(lines_chunk)
 #     vectorized = np.mean(vector_sentences, axis=0)
 #     return vectorized
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
+
 all_metrics = [longMoy, divLex_MTLD, densLex, syllMoy, divLex_HDD, n_grams_posVec, posVec, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
-available_metrics = [longMoy, divLex_MTLD, densLex, syllMoy, divLex_HDD]#, n_grams_posVec, posVec]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
+available_metrics = [longMoy, divLex_HDD, densLex, syllMoy]#, n_grams_posVec, posVec]#, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]

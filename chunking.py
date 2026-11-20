@@ -139,3 +139,19 @@ def artist_folder_to_artist_df(json_folder_path:str) -> pd.DataFrame:
         total_data = pd.concat([total_data, d])
 
     return total_data.reset_index()
+
+
+from score_utils import wordify
+
+def lines_df_to_tokens_df(lines_df) : 
+    b = []
+
+    personas = {i:p for i,p in enumerate(list(lines_df['persona_id'].unique()))}
+    for p in personas : 
+        p_lines = lines_df[lines_df["persona_id"]==personas[p]]
+        song_ids = list(p_lines['song_id'].unique())
+        for s in song_ids :
+            tokens = wordify(list(p_lines[p_lines['song_id']==s]['text']))
+            b.extend([{'CO_TOKEN':t, 'CO_ARTIST':p, 'CO_SONG':s} for t in tokens])
+    b = pd.DataFrame(b)
+    return b

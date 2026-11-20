@@ -11,9 +11,17 @@ from scipy.spatial import distance_matrix as dm
 from scipy.spatial.distance import squareform
 import matplotlib.pyplot as plt
 
+import random
 
-from random import shuffle
 import math
+
+from scipy.cluster.hierarchy import cophenet
+from scipy.spatial.distance import pdist
+
+
+def pront(verbose, text) : 
+    if verbose : 
+        print(text)
 
 SABLE  = "#F2EACF"   # fond
 BRIQUE = "#BF3B24"   # accent 1 : titres, branches
@@ -61,14 +69,13 @@ def create_baseline(json_path, optional_df=None, true_names = False, n=-1, by_li
 
     else : 
         songs = list(df["song_id"].unique())
-        shuffle(songs)
         
-        baseline_song_to_persona = {s:fake_personas[i%n] for i, s in enumerate(songs)}
+        baseline_song_to_persona = {s:random.choice(fake_personas) for i, s in enumerate(songs)}
 
         df["persona_id"] = df['song_id'].apply(lambda s : baseline_song_to_persona[s])
     return df.reset_index(drop=True)
 
-def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False) :
+def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, vocabs_dict=dict(), optional_df = None, do_show = False, by_song=False, verbose = True) :
 
     """QUELQUES EXPLICATIONS : 
     Scorers est une liste des métriques que vous voulez intégrer. Les scorings différents sont dans scoring.available_metrics.
@@ -89,33 +96,31 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     
     if 'voc_bow' not in vocabs_dict : 
         voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
-        if voc_bow : print("vocabulaire Bag Of Words créé")
+        if voc_bow : pront(verbose, "vocabulaire Bag Of Words créé")
     else : voc_bow = vocabs_dict["voc_bow"]
     
     
     if 'voc_n_mots' not in vocabs_dict : 
         voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
-        if voc_n_mots : print("vocabulaire n-grams de mot créé")
+        if voc_n_mots : pront(verbose, "vocabulaire n-grams de mot créé")
     else : voc_n_mots = vocabs_dict["voc_n_mots"]
     
     
     if 'voc_n_char' not in vocabs_dict : 
         voc_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
-        if voc_n_char : print("vocabulaire n-grams de caractères créé")
+        if voc_n_char : pront(verbose, "vocabulaire n-grams de caractères créé")
     else : voc_n_char = vocabs_dict["voc_n_char"]
     
     
     if 'voc_n_phonem' not in vocabs_dict : 
         voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[3] else None
-        if voc_n_phonem : print("vocabulaire n-grams de phonemes créé")
+        if voc_n_phonem : pront(verbose, "vocabulaire n-grams de phonemes créé")
     else : voc_n_phonem = vocabs_dict["voc_n_phonem"]
-    
     
     del all_lines
         #Fin de création des vocabulaires
 
     personas = pd.unique(lyrics_df["persona_id"])
-
     total_chunks = dict()
     
     for p in personas :
@@ -135,13 +140,15 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     for scorer in scorers :
         results[scorer.name] = {key: scorer.application(total_chunks[key], 
-        language=language, voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem, n=n
-            ) 
+        language=language, 
+        voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem, 
+        n=n, 
+        )
         for key in chunk_ids}
-        print(f"resultats obtenus pour {scorer}")
+        pront(verbose, f"resultats obtenus pour {scorer}")
 
     non_sem = [scorer.name for scorer in scorers if "Vec" not  in scorer.name]
-    print(non_sem)
+    pront(verbose, non_sem)
     results['non_sem_vec'] = {key : np.array([results[ns][key] for ns in non_sem]) for key in chunk_ids}
 
     distances = {scorer : np.array(list(results[scorer].values())) for scorer in results}
@@ -153,22 +160,22 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     if do_show : 
         show_labels = True
-        if by_song : 
-            show_labels = False
+        # if by_song : 
+        #     show_labels = False
         
         labels = chunk_ids
         for scorer in scorers : 
-            print(f"Affichage pour {scorer}")
+            pront(verbose, f"Affichage pour {scorer}")
             create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels)
         create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels)
 
     return results, distances, chunk_ids
 
-def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=3, optional_df=None, do_show=False) :
+def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=3, optional_df=None, do_show=False, verbose=True) :
 
     #On crée les vocabulaires ici pour ne pas avoir à les recréer à chaque fois
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
-    print(do_voc)
+    pront(verbose, do_voc)
     vocabs_dict = dict()
     if any(do_voc) :
         if optional_df is None : 
@@ -191,16 +198,16 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
     }
     for v in vocabs_dict : 
         if vocabs_dict[v] :
-            print(f"Vocabulaire créé pour {v}")
+            pront(verbose, f"Vocabulaire créé pour {v}")
 
-    print(f"------------------------------\nRécupération des résultats n°1")
-    r, average_global_distances, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df)
+    pront(verbose, f"------------------------------\nRécupération des résultats n°1")
+    r, average_global_distances, chunk_ids = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df, verbose=verbose)
     
     scorers_names = [scorer.name for scorer in scorers] + ['non_sem_vec']
     
     for i in range(n_sample-1) :
-        print(f"------------------------------\nRécupération des résultats n°{i+2}")
-        _, distances, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df)
+        pront(verbose, f"------------------------------\nRécupération des résultats n°{i+2}")
+        _, distances, _ = get_final_results(path=path, scorers=scorers, n=n, chunk_tokens_nb=chunk_tokens_nb, vocabs_dict=vocabs_dict, optional_df=optional_df, verbose=verbose)
         #On additione
         for scorer in scorers_names :
             average_global_distances[scorer] += distances[scorer]
@@ -211,7 +218,7 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
     if do_show : 
         labels = chunk_ids
         for scorer in scorers_names : 
-            print(f"Affichage pour {scorer}")
+            pront(verbose, f"Affichage pour {scorer}")
             create_dendrogram(average_global_distances[scorer], labels, scorer)
 
     return average_global_distances, chunk_ids
@@ -228,12 +235,18 @@ def make_color_map(labels, palette=PERSONA_PALETTE):
     return {r: palette[i % len(palette)] for i, r in enumerate(roots)}
 
 def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None, show_labels=True):
-    y = squareform(distances)
+    X = squareform(distances)
+    
     if ax is None:
         fig, ax = plt.subplots(figsize=(12, 5))
         fig.patch.set_facecolor(CREME)
 
-    Z = linkage(y, method="ward")
+    Z = linkage(X, method="average", metric="cosine")
+    
+
+    c, _ = cophenet(Z, pdist(distances, metric="cosine"))
+    print("cophenet : ", c)
+    
     dendrogram(Z, labels=labels, ax=ax, leaf_rotation=90, leaf_font_size=8,
                link_color_func=lambda k: BRIQUE)   # branches en rouge brique
 
