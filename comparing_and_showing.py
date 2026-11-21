@@ -6,17 +6,17 @@ import numpy as np
 
 from nltk.langnames import langname, langcode
 
-from scipy.cluster.hierarchy import linkage, dendrogram
+from scipy.linalg import norm as normalize_l2
 from scipy.spatial import distance_matrix as dm
-from scipy.spatial.distance import squareform
+from scipy.cluster.hierarchy import linkage, dendrogram, cophenet
+from scipy.spatial.distance import squareform, pdist
+
 import matplotlib.pyplot as plt
 
 import random
 
 import math
 
-from scipy.cluster.hierarchy import cophenet
-from scipy.spatial.distance import pdist
 
 
 def pront(verbose, text) : 
@@ -151,12 +151,15 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     pront(verbose, non_sem)
     results['non_sem_vec'] = {key : np.array([results[ns][key] for ns in non_sem]) for key in chunk_ids}
 
-    distances = {scorer : np.array(list(results[scorer].values())) for scorer in results}
-    for scorer in distances : 
-        if len(distances[scorer].shape) == 1 : #Si c'est un vecteur en 1d
-            distances[scorer] = distances[scorer].reshape(-1, 1) #On le reshape pour en faire une suite de vecteur verticaux.
+    pre_distances = {scorer : np.array(list(results[scorer].values())) for scorer in results}
+    for scorer in pre_distances : 
+        if len(pre_distances[scorer].shape) == 1 : #Si c'est un vecteur en 1d
+            pre_distances[scorer] = pre_distances[scorer].reshape(-1, 1) #On le reshape pour en faire une suite de vecteur verticaux.
 
-    distances = {scorer : dm(distances[scorer], distances[scorer]) for scorer in distances} #On transforme les résultats en matrices de distances
+    #Normaliser en L2 ICI si tu veux : 
+    {scorer : normalize_l2(pre_distances[scorer], axis=1, ord=2) for scorer in pre_distances}
+    
+    distances = {scorer : dm(pre_distances[scorer], pre_distances[scorer]) for scorer in pre_distances} #On transforme les résultats en matrices de distances
 
     if do_show : 
         show_labels = True
@@ -166,8 +169,8 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         labels = chunk_ids
         for scorer in scorers : 
             pront(verbose, f"Affichage pour {scorer}")
-            create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels)
-        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels)
+            create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels, method="ward", metric="euclidean")
+        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels, method="ward", metric="euclidea")
 
     return results, distances, chunk_ids
 
@@ -234,14 +237,14 @@ def make_color_map(labels, palette=PERSONA_PALETTE):
     roots = sorted(set(get_root(l) for l in labels))
     return {r: palette[i % len(palette)] for i, r in enumerate(roots)}
 
-def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None, show_labels=True):
+def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None, show_labels=True, method="average", metric="cosine"):
     X = squareform(distances)
     
     if ax is None:
         fig, ax = plt.subplots(figsize=(12, 5))
         fig.patch.set_facecolor(CREME)
 
-    Z = linkage(X, method="average", metric="cosine")
+    Z = linkage(X, method=metric, metric=metric)
     
 
     c, _ = cophenet(Z, pdist(distances, metric="cosine"))
