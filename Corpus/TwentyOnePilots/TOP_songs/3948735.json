@@ -1,0 +1,357 @@
+{
+    "song_id": 3948735,
+    "title": "Morph",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Can't stop thinking about if and when I die",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "For now, I see that \"if\" and \"when\" are truly different cries",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "For \"if\" is purely panic and \"when\" is solemn sorrow",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "And one invades today while the other spies tomorrow",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "We're surrounded and we're hounded",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "There's no above or under or around it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "For \"above\" is blind belief and \"under\" is sword to sleeve",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "And \"around\" is scientific miracle, let's pick \"above\" and see",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "For if and when we go above, the question still remains",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "Are we still in love and is it possible we feel the same?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "And that's when goin' under starts to take my wonder",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "But until that time, I'll try to sing this",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "If I keep moving, they won't know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "What they throw at me's too slow",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll morph to someone else, I'm just a ghost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "A defense mechanism mode",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "He'll always try to stop me, that Nicolas Bourbaki",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "He's got no friends close but those who know him most know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "He goes by Nico, he told me I'm a copy",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "When I'd hear him mock me, that's almost stopped me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Well, we're surrounded and we're hounded",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "There's no above or a secret door",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "What are we here for",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "If not to run straight through all our tormentors?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "But until that time, I'll try to sing this",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "If I keep moving, they won't know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "What they throw at me's too slow",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll morph to someone else, I'm just a ghost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "A defense mechanism mode",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Lights, they blink to me, transmitting things to me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Ones and zeroes, ergo this symphony",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Anybody listening? Ones and zeroes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Count to infinity, ones and zeroes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm surrounded and I'm hounded",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "There's no above, or under, or around it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "For \"above\" is blind belief and \"under\" is sword to sleeve",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "And \"around\" is scientific miracle, let's pick \"above\" and see",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "For if and when we go above, the question still remains",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "Are we still in love and is it possible we feel the same?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "And that's when goin' under starts to take my wonder",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "But until that time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "12",
+                    "text": "I'll morph to someone else, I'm just a ghost",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "If I keep moving, they won't know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "What they throw at me's too slow",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll morph to someone else, I'm just a ghost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "A defense mechanism mode",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "If I keep moving, they won't know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "A defense mechanism mode",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Not done, not done",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Not done, Josh Dun",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "I'll morph to someone else",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        }
+    ]
+}

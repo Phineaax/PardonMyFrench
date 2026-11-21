@@ -1,0 +1,241 @@
+{
+    "song_id": 10111941,
+    "title": "Midwest Indigo",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Reachin' out on my way home",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "You can be so cold, I'll try again",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "You make me sad and second-guess myself",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "You can be so cold",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Reachin' out on my way home",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "You can be so cold, I'll try again",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "You make me sad and second-guess myself",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "You can be so cold, Midwest Indigo",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Running late so I didn't have the time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "To scrape the frosted windshield like we're barely scrapin' by",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Concentrate on the little gap in the ice",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "That seems to be about as wide as our chances",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Did you pull up yet? (Not yet)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Did you forgеt we're tight on time?",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Rеachin' out on my way home",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "You can be so cold, I'll try again",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "You make me sad and second-guess myself",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "You can be so cold, Midwest Indigo",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Cloud coverage matched my outfit to a knife",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I requested counsel with the counselor and he cancelled twice",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "It's a different blue, it's deeper than it's been",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll be pulling into the parking lot before the heat kicks in",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "What's your ETA? (Two minutes)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Chill out, man, we're right on time",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Reachin' out on my way home",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "You can be so cold, I'll try again",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "You make me sad and second-guess myself",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "You can be so cold, Midwest Indigo",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "And I want love and sunny days",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm a bit too old to run away",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "You make me sad and second-guess myself",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "You can be so cold",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "You can be so cold",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Midwest Indigo",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

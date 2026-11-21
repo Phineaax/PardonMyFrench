@@ -1,0 +1,327 @@
+{
+    "song_id": 725790,
+    "title": "Heavydirtysoul",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "instrumental",
+            "performer": "",
+            "lines": []
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "There's an infestation in my mind's imagination",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I hope that they choke on smoke, 'cause I'm smokin' them out the basement",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "This is not rap, this is not hip-hop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Just another attempt to make the voices stop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Rappin' to prove nothin', just writin' to say somethin'",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "'Cause I wasn't the only one who wasn't rushin' to sayin' nothin'",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "This doesn't mean I lost my dream",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "It's just right now I got a really crazy mind to clean",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Gangsters don't cry, therefore, therefore I'm (I'm)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Mr. Misty-eyed, therefore I'm (I'm)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Can you save? Can you save my?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Can you save? Can you save my?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "For me, for me (Uh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "For me, for me (Uh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Nah, I didn't understand a thing you said",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "If I didn't know better, I'd guess you're all already dead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Mindless zombies walkin' around with a limp and a hunch",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Sayin' stuff like, \"You only live once\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "You've got one time to figure it out",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "One time to twist, and one time to shout",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "One time to think and I say we start now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Sing it with me if you know what I'm talkin' about",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Gangsters don't cry, therefore, therefore I'm (I'm)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Mr. Misty-eyed, therefore I'm (I'm)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Can you save? Can you save my?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Can you save? Can you save my?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Can you save my heavy dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "For me, for me (Uh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "For me, for me (Uh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Death inspires me like a dog inspires a rabbit",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Death inspires me like a dog inspires a rabbit",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Can you save? Can you save my?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Can you save my heavy dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Can you save? Can you save my?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "For me, for me (Uh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "For me, for me (Uh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_9",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Can you save? Can you save my? Save my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Can you save? Can you save my? Save my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Can you save my heavy, dirty soul?",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

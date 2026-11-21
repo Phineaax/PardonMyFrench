@@ -1,0 +1,329 @@
+{
+    "song_id": 10111939,
+    "title": "Backslide",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "(I don't wanna)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Rat race, place to place, adding weight",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Tendencies on repeat, innit?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Benefit from a shoe with no lace",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Take the seat with the crease in it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I don't mind if it's lonely",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I don't mind if it's fair",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I don't care, you control me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Leading me anywhere",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't wanna backslide to where I've started from",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "There's no chance I will shake this again",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "'Cause I feel the pull, water's over my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Strength enough for onе more time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Reach my hand abovе the tide",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'll take anything you have",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "If you could throw me a line",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "I should've loved you better",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Do you think that now's the time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "You should let go?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "It's over my head",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Bad place, on a hundred-dollar bass",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Kinda wishin' that I never did \"Saturday\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "\"Is that a stain? You should change",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Are you doin' good?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Did you solve all of your problems?\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Thanks for asking, in a way, but",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Accidentally uncovered a new one yesterday",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "What happened to what I brushed under the rug?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "I used to be the champion of a world you can't see",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "Now I'm drowning in logistics",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't wanna backslide to where I've started from",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "There's no chance I will shake this again",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "'Cause I feel the pull, water's over my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Strength enough for one more time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Reach my hand above the tide",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'll take anything you have",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "If you could throw me a line",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "I should've loved you better",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Do you think that now's the time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "You should let go?",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't mind if it's lonely (It's over my head)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I don't mind if it's fair (You should let go)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I don't care, you control me (It's over my head)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Leading me anywhere",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'll take anything you have",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "If you could throw me a line",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I should've loved you better",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Do you think that now's the time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "You should let go? (I don't mind if it's lonely)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "It's over my head (I don't mind if it's fair)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "You should let go",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "It's over my head",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't wanna backslide",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

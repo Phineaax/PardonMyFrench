@@ -1,0 +1,319 @@
+{
+    "song_id": 3886321,
+    "title": "Leave The City",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm tired of tending to this fire",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I've used up all I've collected",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I have singed my hands",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "It's glowing, embers barely showing",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Proof of life in the shadows",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Dancing on my plans",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They know that it's almost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They know that it's almost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "The burning is so low it's concerning",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "'Cause they know that when it goes out",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "It's a glorious gone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "It's only time before they show me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Why no one ever comes back",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "With details from beyond",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They know that it's almost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They know that it's almost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "In time, I will leave the city",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "For now, I will stay alive",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "In time, I will leave the city",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "For now, I will stay alive",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "In time, I will leave the city",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "For now, I will stay alive",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "In time, I will leave the city",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "For now, I will stay alive",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They know that it's almost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They know that it's almost",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "They know that it's almost over",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "(They know)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Last year I needed change of pace",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Couldn't take the pace of change",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Moving hastily",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "But this year, though I'm far from home",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "In Trench I'm not alone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "These faces facin' me",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "They know",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "What I mean",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

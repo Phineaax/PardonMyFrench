@@ -1,0 +1,297 @@
+{
+    "song_id": 3812599,
+    "title": "Nico And The Niners",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "East is up, I'm fearless when I hear this on the low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "East is up, I'm careless when I wear my rebel clothes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "East is up, when Bishops come together they will know that",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Dema don't control us, Dema don't control",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "East is up",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They want to make you forget",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "They want to make you forget",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Save your razorblades now, not yet",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Save your razorblades now, not yet",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm heavy, my jumpsuit is unsteady",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm lighter when I'm lower, I'm higher when I'm heavy, oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm so high, my Jumpsuit takes me so high",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm flying from a fire, from Nico and the Niners, oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "East is up, I'm fearless when I hear this on the low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "East is up, I'm careless when I wear my rebel clothes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "East is up, when Bishops come together they will know that",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Dema don't control us, Dema don't control",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "I'm heavy, my jumpsuit is unsteady",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "I'm lighter when I'm lower, I'm higher when I'm heavy, oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "I'm so high, my Jumpsuit takes me so high",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "I'm flying from a fire, from Nico and the Niners, oh",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm heavy, jumpsuit is unsteady",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Lighter when I'm lower, higher when I'm heavy, oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm so high, I'm so high",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "So high, I'm so high",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Fire, Nico and the Niners",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "What I say when I want to be enough",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "What a beautiful day for making a break for it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "We'll find a way to pay for it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Maybe from all the money we made razorblade stores",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Rent a racehorse and force a sponsor",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "And start a concert, a complete diversion",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Start a mob and you can be quite certain",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "We'll win but not everyone will get out",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "No, no",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "We'll win but not everyone will get out",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "No, no",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "We'll win but not everyone will get out",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "East is up, I'm fearless when I hear this on the low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "East is up, I'm careless when I wear my rebel clothes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "East is up, when Bishops come together they will know that",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Dema don't control us, Dema don't control",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "East is up",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm so high, so high",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Fire, Nico and the Niners",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm so high, so high",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Sotidnab era ew",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Fire, Nico and the Niners",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

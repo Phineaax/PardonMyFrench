@@ -1,0 +1,325 @@
+{
+    "song_id": 11899004,
+    "title": "The Contract",
+    "language": "en",
+    "lyricists": "[50268, 574050, 31268, 1120585]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I check the doors, check the windows and pull the blinds",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I check the clock, wondering what he'll pull this time",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "I have a feeling that necromancer's outside",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "And I'm just tryna stay quiet",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't sleep much, that's crazy, how'd you know that?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Keep myself up, that's maybe how you know that",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Ooh, promises and contracts I used to keep",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "I don't sleep much, that's crazy, how'd you know that?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Keep myself up, that's maybe how you know that",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Ooh, my hallucination I used to see",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Wake up and I find out, did a change up",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Wait, did it change up?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Is it light out yet? Better find out, bet",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "Better walk around the edge of the room and the bed",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Where I hide my face, pace around",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Bеtter try to breathe, pacе around, pace around",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I check the doors, check the windows, and pull the blinds",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I check the clock, wondering what he'll pull this time",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "I have a feeling that necromancer's outside",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "And I'm just tryna stay quiet",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't sleep much, that's crazy, how'd you know that?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Keep myself up, that's maybe how you know that",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Ooh, promises and contracts I used to keep",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "I don't sleep much, that's crazy, how'd you know that?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Keep myself up, that's maybe how you know that",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Ooh, my hallucination I used to see",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "post-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I used to see",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Sleep, I found, ooh",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I wanna get out there (Ooh-ooh)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "But I don't try (Ooh-ooh)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "I wanna get out there (Ooh-ooh)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "But I don't try (Ooh-ooh)",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I check the clock, wondering what he'll pull this time",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I have a feeling that necromancer's outside",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "And I'm just tryna stay quiet",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't sleep much, that's crazy, how'd you know that?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll keep myself up, that's maybe how you know that",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Ooh, promises and contracts I used to keep",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "I don't sleep much, that's crazy, how'd you know that?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Keep myself up, that's maybe how you know that",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Ooh, my hallucination I used to see",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_9",
+            "type": "post-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I used to see",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I used to see",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Ooh, my hallucination I used to see",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_10",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I used to see, it felt so real",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "But now I plead, just take the deal",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "I promised you a contract",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "I promised you a contract",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,435 @@
+{
+    "song_id": 3886313,
+    "title": "Chlorine",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": ", ",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "So where are ya?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "It's been a little while",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Let the vibe slide over me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "This beat is a chemical, beat is a chemical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "When I leave, don't save my seat",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll be back when it's all complete",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "The moment is medical, moment is medical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Lovin' what I'm tastin', woah",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Venom on my tongue, dependent at times",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Poisonous vibrations, woah",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Help my body run",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm runnin' for my life",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Runnin' for my life",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Let the vibe slide over me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "This beat is a chemical, beat is a chemical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "When I leave, don't save my seat",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll be back when it's all complete",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "The moment is medical, moment is medical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Fall out of formation, woah",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I plan my escape from walls they confined",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Rebel red carnation, woa-a-oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Grows while I decay",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm runnin' for my life",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Runnin' for my life",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Yeah, I'm runnin' for my life",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Runnin' for my life",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hide you in my coat pocket, where I kept my rebel red",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I felt I was invincible, you wrapped around my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Now different lives I lead, my body lives on lead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "The last two lines may read incorrect until said",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "The lead is terrible in flavor",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "But now you double as a paper maker",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I despise you sometimes, I love to hate the fight",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "And you in my life is like",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Let the vibe slide over me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "This beat is a chemical, beat is a chemical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "When I leave, don't save my seat",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll be back when it's all complete",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "The moment is medical, moment is medical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_9",
+            "type": "interlude",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Beat is a chemical, yeah",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Moment is medical, yeah",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Sippin' on straight chlorine",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "Beat is a chemical, yeah",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "Let the vibe, let the vibe",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "12",
+                    "text": "Moment is medical, yeah",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_10",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm so sorry I forgot you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Let me catch you up to speed",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I've been tested like the ends of",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "A weathered flag that's by the sea",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Can you build my house with pieces?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'm just a chemical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Can you build my house with pieces?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "I'm just a chemical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Can you build my house with pieces?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "I'm just a chemical",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "Can you build my house with pieces?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "I'm just a chemical",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

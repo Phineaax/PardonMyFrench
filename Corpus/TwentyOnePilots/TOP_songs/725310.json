@@ -1,0 +1,285 @@
+{
+    "song_id": 725310,
+    "title": "Fairly Local",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Ah, I'm fairly local, I've been around",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I've seen the streets you're walkin' down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm fairly local, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm evil to the core, what I shouldn't do I will",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "They say I'm emotional, what I wanna save I'll kill",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Is that who I truly am? I truly don't have a chance",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Tomorrow I'll keep a beat and repeat yesterday's dance",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yo, this song will never be on the radio",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Even if my clique were to pick and the people were to vote",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "It's the few, the proud, and the emotional",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "Yo, you, bulletproof in black like a funeral",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "The world around us is burnin', but we're so cold",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "It's the few, the proud, and the emotional",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Ah, I'm fairly local, I've been around",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I've seen the streets you're walkin' down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm fairly local, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm not evil to the core, what I shouldn't do I will fight",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I know I'm emotional, what I wanna save I will try",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I know who I truly am, I truly do have a chance",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Tomorrow I'll switch the beat to avoid yesterday's dance",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Yo, this song will never be on the radio",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Even if my clique were to pick and the people were to vote",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "It's the few, the proud, and the emotional",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "Yo, you, bulletproof in black like a funeral",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "The world around us is burnin', but we're so cold",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "It's the few, the proud, and the emotional",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm fairly local, I've been around",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I've seen the streets you're walkin' down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm fairly local, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "instrumental",
+            "performer": "",
+            "lines": []
+        },
+        {
+            "section_id": "section_8",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Ah, I'm fairly local, I've been around",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I've seen the streets (I've seen the streets) you're walkin' down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm fairly local, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh (Yeah)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm fairly local, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh, good people now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Oh-oh-oh-oh-oh-oh-oh",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

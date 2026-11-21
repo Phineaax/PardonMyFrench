@@ -1,0 +1,249 @@
+{
+    "song_id": 10111944,
+    "title": "The Craving (Jenna’s version)",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't know why I can't stop crying",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "And I'm thinking about getting old",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "And I don't know a lot about you still",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Seems I get in my own way",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "The more I think, the less I say",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I hope I communicate the craving",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Now I see intentions don't mean much",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Say enough, say enough",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Did I let her know, let her know?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "If I found my body in chains",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'd lay down and wait",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "And hope she looks for me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "And hope she looks for me-e-e-e-e",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "(Ooh-ooh-ooh-ooh-ooh)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "She just wants to catch a wave",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Ride it out to the end of her days",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I hope that I can satiate the craving",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Now I see the gesture don't mean much",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Say enough, say enough",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Did I lеt her know, let her know?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "If I found my body in chains",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'd lay down and wait",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "And hopе she looks for me, mm",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "And hope she looks for me-e-e-e-e",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "(Ooh-ooh-ooh-ooh-ooh)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Hm, hm, hm, hm, hm",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Say enough, say enough",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Did I let her know, let her know?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "If I found my body in chains",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'd lay down and wait",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "'Cause it's the fear of the unknown",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "That cripples every step we take",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "And I just hate to put this on her",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "But I swear that I will give more than I take away",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Mm",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "The craving",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Now I see intentions don't mean much",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

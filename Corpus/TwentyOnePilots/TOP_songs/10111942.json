@@ -1,0 +1,289 @@
+{
+    "song_id": 10111942,
+    "title": "Routines in the Night",
+    "language": "en",
+    "lyricists": "[50268, 574050, 1020961]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Walk the layout, routines in the night",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Some doors have \"Stay out\" spray-painted in white",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "While all the world's asleep, I walk around instead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Through the memories, down the halls of my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Walk the layout, routines in the night",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Some doors have \"Stay out\" spray-painted in white",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "While all the world's asleep, I walk around instead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Through the memories, down the halls of my head",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Here comes a new night, but I'll send it through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll probably jump on the next one",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm testing the limits of what a mind can do",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm keeping my eyelids up, no mattеr what",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "So beautiful, the space bеtween",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "A painful reminder and a terrible dream",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I've been here before and I've got time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll give you the tour, show you why I",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Walk the layout, routines in the night",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Some doors have \"Stay out\" spray-painted in white",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "While all the world's asleep, I walk around instead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Through the memories, down the halls of my head",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Reoccurring, keeps comin' around",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "REM cycle skip, night psycho trip",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "It's reassuring you keep comin' around",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "It's tough to find good company",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Reoccurring, days blurring",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'm still learning what this is (What this is, what this is, what this is)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Just keep me company",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "So beautiful, the space between",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "A painful reminder and a terrible dream",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I've been here before and I've got time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll give you the tour, show you why I",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'll show you why I",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'll show you why I",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Walk the layout (The layout), routines in the night (In the night)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Some doors have \"Stay out\" (\"Stay out\") spray-painted in white (In white)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "While all the world's asleep (All the world asleep), I walk around instead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Through the memories (Through the memories), down the halls of my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Walk the layout, routines in the night",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Some doors have \"Stay out\" spray-painted (Ooh) in white",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "While all the world's asleep (All the world), I walk around instead",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Through the memories, down the halls of my head",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "(Keeps comin' around, keeps comin' around, keeps comin' around)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "(Lost in the halls of my head)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "(Keeps comin' around, keeps comin' around, keeps comin' around)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "(Lost in the halls of my head)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

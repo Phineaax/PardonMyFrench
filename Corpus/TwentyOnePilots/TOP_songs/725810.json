@@ -1,0 +1,225 @@
+{
+    "song_id": 725810,
+    "title": "Goner",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm a goner, somebody catch my breath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm a goner, somebody catch my breath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I wanna be known by you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I wanna be known by you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I'm a goner, somebody catch my breath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'm a goner, somebody catch my breath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I wanna be known by you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "I wanna be known by you",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Though I'm weak and beaten down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll slip away into this sound",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "The ghost of you is close to me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm inside out, you're underneath",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I've got two faces, Blurry's the one I'm not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I've got two faces, Blurry's the one I'm not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I need your help to take him out",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I need your help to take him out",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Though I'm weak and beaten down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'll slip away into this sound",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "The ghost of you is close to me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm inside out, you're underneath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Though I'm weak and beaten down",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'll slip away into this sound",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "The ghost of you is close to me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "I'm inside out, you're underneath",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Don't let me be gone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Don't let me be gone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Don't let me be gone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Don't let me be gone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Don't let me be!",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Don't let me be!",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Oh, yeah!",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm a goner, somebody catch my breath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm a goner, somebody catch my breath",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I wanna be known by you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I wanna be known by you",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "song_id": 10111940,
+    "title": "Paladin Strait",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I can't be alone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Guess I never told you so",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Makin' my way towards you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Tracin' out a line",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "A route I've mapped a thousand times",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Makin' my way towards you",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I would swim the Paladin Strait",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Without any floatation",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Just a glimpse of visual aid",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Of you on the other shoreline",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Waitin', expectations that I'm gonna make it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Mm-hm, hm-hm-hm",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Standing on the shore",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Staring down a hurtling storm",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Makin' its way toward me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Water rips with rage",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Endless row of angry waves",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Makin' its way towards me",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I would swim the Paladin Strait",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Without any floatation",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Just a glimpse of visual aid",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Of you on the other shoreline",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Waitin', expectations that I'm gonna make it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Mm-hm, hm-hm-hm",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Here's my chance, time to take it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Can't be sure that I'll make it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Even though I'm past the point of no return",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm all in, I'm surrounded",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Put my money where my mouth is",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Even though I'm past the point of no return",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Here's my chance, time to take it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Can't be sure that I'll make it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Even though I'm past the point of no return",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "I'm all in, I'm surrounded",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "Put my money where my mouth is",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "Even though I'm past the point of no return",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I would swim the Paladin Strait",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Without any floatation",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Just a glimpse of visual aid",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Of you on the other shoreline",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Waitin', expectations that I'm gonna make it",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Mm-hm, hm-hm-hm",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "On the ground are banditos",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Fighting while I find Nico",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Even though I'm past the point of no return",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Climb the top of the tower",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "\"Show yourself,\" I yell louder",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Even though I'm past the point of no ret—",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "So few, so proud, so emotional",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "Hello, Clancy",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        }
+    ]
+}

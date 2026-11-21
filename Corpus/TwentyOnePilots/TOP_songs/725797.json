@@ -1,0 +1,329 @@
+{
+    "song_id": 725797,
+    "title": "Lane Boy",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They say, \"Stay in your lane, boy, lane, boy\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But we go where we want to",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They think this thing is a highway, highway",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "But will they be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They think this thing is a highway",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "If it was our way, we'd have a tempo change every other time change",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "'Cause our minds change on what we think is good",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I wasn't raised in the hood",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "But I know a thing or two about pain and darkness",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "If it wasn't for this music I don't know how I would have fought this",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Regardless, all these songs I'm hearin' are so heartless",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Don't trust a perfect person and don't trust a song that's flawless",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Honest, there's a few songs on this record that feel common",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "I'm in constant confrontation with what I want and what is poppin'",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "In the industry, it seems to me that singles on the radio are currency",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "My creativity's only free when I'm playin' shows",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They say, \"Stay in your lane, boy, lane, boy\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But we go where we want to",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They think this thing is a highway, highway",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "But will they be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "(Will they be alive tomorrow?)",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'm sorry if that question I asked last",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Scared you a bit like a hazmat, in a gas mask if you ask Zack",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "He's my brother, he likes when I rap fast",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "But let's backtrack, back to this",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Who would you live and die for on that list?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "But the problem is, there's another list that exists and no one really wants to think about this",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Forget sanity, forget salary, forget vanity, my morality",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "If you get in between someone I love and me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "You're gonna feel the heat of my cavalry",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "All these songs I'm hearin' are so heartless",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "Don't trust a perfect person and don't trust a song that's flawless",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They say, \"Stay in your lane, boy, lane, boy\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But we go where we want to",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They think this thing is a highway, highway",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "But will they be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "They say, \"Stay in your lane, boy, lane, boy\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "But we go where we want to",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "They think this thing is a highway, highway",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "But will they be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "(But will they be alive tomorrow?)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "(But will they be alive tomorrow?)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "(But will they be alive tomorrow?)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "They be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "drum",
+            "performer": "",
+            "lines": []
+        },
+        {
+            "section_id": "section_7",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "They say, \"Stay in your lane, boy, lane, boy\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But we go where we want to",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "They think this thing is a highway, highway",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "But will they be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "They say, \"Stay in your lane, boy, lane, boy\"",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "But we go where we want to",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "They think this thing is a highway, highway",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "But will they be alive tomorrow?",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "instrumental",
+            "performer": "",
+            "lines": []
+        }
+    ]
+}

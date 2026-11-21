@@ -1,0 +1,286 @@
+{
+    "song_id": 10111951,
+    "title": "Oldies Station",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Only consistency in your periphery",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Is fear and the bridge of your nose",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "And as you move about, you learn to tune 'em out",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "But they say they continue to grow",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Fear of the past and (Relative pain)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Future's comin' fast, you've got (Nothin' in the tank)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "In a season of purging things you used to love",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Everything must go, mm-hm",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Make an oath, then make mistakes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Start a streak you're bound to break",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "When darkness rolls on you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Then before you know, you lose some people close",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Forcing you to manage your pace",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Found your capacity for love and tragedy",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Embracing how things always change",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "pre-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "You've had your turns with (Relative pain)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Little less concerned when there's (Nothin' in the tank)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "In a season of lessons learned in giving up",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "You learn what you can and can't take, mm-hm",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Add some years, build some trust",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "You start to feel your eyes adjust",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "When darkness rolls on you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "You don't quite mind",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "You don't quite mind",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "You don't quite mind how long red lights are takin'",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Your favorite song was on the oldies station",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "You have it down, that old fight for survival",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "You're in the crowd at her first dance recital",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "Push on through (Ro', Ro', Ro', Ro')",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Make an oath, then make mistakes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Start a streak you're bound to break",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "When darkness rolls on you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Push on through",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Ooh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Ooh",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Ooh",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

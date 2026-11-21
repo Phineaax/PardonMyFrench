@@ -1,0 +1,326 @@
+{
+    "song_id": 10111947,
+    "title": "At the Risk of Feeling Dumb",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "See me at my lowest, you don't have to drop, drop, drop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Don't have to drop by",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Nothin' you can do this time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "See me at my lowest, you don't have to drop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Drop, drop, drop anything for me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Just keep your plans, I hope that you never have to drop",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Used to be you and me, matching Kawasaki Zs",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Ride around 270 in Kawasaki tees",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Two fighter jets matching energy",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Trying to forget that we're in ejection seats",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "pre‐chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "So please, keep it in mind",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Check on your friends",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Every once in a while",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Even if they say",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "See mе at my lowest, you don't have to drop, drop, drop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Don't have to drop by",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Nothin' you can do this timе",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "See me at my lowest, you don't have to drop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Drop, drop, drop anything for me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Just keep your plans, I hope that you never have to drop",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "post-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "At the risk of feelin' dumb, check in",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "It's not worth the risk of losin' a friend",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Even if they say",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "\"Just keep your plans, I hope that you never have to drop\"",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "If I'm bein' real, man, don't know how I feel, man",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "'Bout you sleepin' so close to a weapon you conceal, man",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Those night terrors are not somethin' to take lightly",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I know that it's a risk sayin' this, don't fight me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "(Stoppin' me, fight me)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "(Stoppin' me, fight me)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "(Stoppin' me, fight me)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "See me at my lowest, you don't have to drop, drop, drop me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Don't have to drop by",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Nothin' you can do this time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "See me at my lowest, you don't have to drop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "(Drop me, drop, drop me) Anything for me (Drop me, drop me)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Just keep your plans, I hope that you never have to drop",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "post-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "At the risk of feelin' dumb, check in",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "It's not worth the risk of losin' a friend",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Even if they say",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "\"Just keep your plans, I hope that you never have to drop\"",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I don't want anyone, know me or not",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "See me at my lowest, you don't have to drop",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Drop, drop, drop anything",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "For me",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

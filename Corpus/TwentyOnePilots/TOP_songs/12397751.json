@@ -1,0 +1,354 @@
+{
+    "song_id": 12397751,
+    "title": "City Walls",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Square up with me, I can take your right, throw a left",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Pair up with me, I'ma take you right to the chest",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Warpath etched in the surface",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Lines of the yellow tape, they're moving quiet like a",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Serpentine in a formation",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Buddy, that's my team, pretty impatient",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Now they're waiting on me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "It might be the furthest we've reached",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Now move it up, move it up, it's a breach",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I wonder where you are",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I wanted you to show me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "The way around those city walls",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "The way on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I wonder where you are",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I wanted you to show me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "But now the night has fallen",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Abandoned by the sun",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Square up with me, I can come to you, tell me when",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Pair up with me, I can run on you, in the end",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "I write a promise in pencil, but my loyalty's in pen",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "Use a mistake as a crooked stencil, then we trace it back again",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "From the mainland to the island of violence",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "It was the same plan for a while, decided",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "6",
+                    "text": "To send me up and rip you outta your seat",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "You see, in a city with no entrance, there is not a retreat",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "8",
+                    "text": "I'm wondering what you thought would happen, who you thought I would be",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "9",
+                    "text": "Was this a sideswipe or did you picture this in a dream?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "10",
+                    "text": "Buckle down, this is possibly the furthest we've reached",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "11",
+                    "text": "Now move it up, move it up, it's a breach",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I wonder where you are",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I wanted you to show me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "The way around those city walls",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "The way on through",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I wonder where you are",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I wanted you to show me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "But now the night has fallen",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Abandoned by the sun",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "post-chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Abandoned by the sun",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "My smile wraps around my head, splitting it in",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Two, two, two, two",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I don't have a clue how I can keep the top half",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Glued, glued, glued, glued",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "My smile wraps around my head, splitting it in",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Two, two, two, two",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I don't have a clue how I can keep the top half",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Glued, glued, glued, glued",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I wonder where you are",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I wanted you to show me",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Entertain my, entertain my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Entertain my, entertain my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Entertain my, entertain my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Entertain my, entertain my faith",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "This is the last time, this is the last time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Entertain my faith",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "This is the last time that I try",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Address my soul, address my soul, address my soul",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "Entertain my faith",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "This is the last time that I try",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

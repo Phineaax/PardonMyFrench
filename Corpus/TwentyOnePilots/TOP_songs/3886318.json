@@ -1,0 +1,277 @@
+{
+    "song_id": 3886318,
+    "title": "Bandito",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But I know that I'm goin' low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "But I know that I'm goin' low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "But I know that I'm goin' low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "This is the sound we make",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "When in between two places",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Where we used to bleed",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "And where our blood needs to be",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But I know that I'm goin' low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "But I know that I'm goin' low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "In City, I feel my spirit is contained",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Like neon inside the glass, they form my brain",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "But I recently discovered it's a heatless fire",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Like nicknames they give themselves to uninspire",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Begin with bullet, now add fire to the proof",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "But I'm still not sure if fear's a rival or close relative to truth",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Either way it helps to hear these words bounce off of you",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "The softest echo could be enough for me to make it through",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Folina, Sahlo Folina",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Sahlo Folina, Sahlo Folina",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I created this world to feel some control",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Destroy it if I want",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "So I sing Sahlo Folina, Sahlo Folina, Sahlo",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But I know that I'm goin' low (Sahlo)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "But I know that I'm goin' low",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I'm a ban—I'm a bandito (Sahlo)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I could take the high road",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "But I know that I'm goin' low (Sahlo)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "I'm a ban—I'm a bandito",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I created this world to feel some control",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Destroy it if I want",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "So I sing Sahlo Folina, Sahlo Folina",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

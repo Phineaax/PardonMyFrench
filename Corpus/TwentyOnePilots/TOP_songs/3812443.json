@@ -1,0 +1,232 @@
+{
+    "song_id": 3812443,
+    "title": "Jumpsuit",
+    "language": "en",
+    "lyricists": "[50268]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Cover me, oh!",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I can't believe how much I hate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Pressures of a new place roll my way",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Jumpsuit, jumpsuit, cover me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Jumpsuit, jumpsuit, cover me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I crumble underneath the weight",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Pressures of a new place roll my way",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Jumpsuit, jumpsuit, cover me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Jumpsuit, jumpsuit, cover me",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Spirits in my room, friend or foe?",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Felt it in my youth, feel it when I'm old",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Jumpsuit, jumpsuit, cover me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Dusting off my jumpsuit (Cover me)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I can't believe how much I hate (Cover me, oh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Pressures of a new place roll my way (Cover me, oh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Jumpsuit, jumpsuit, cover me (Cover me, oh)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Jumpsuit, jumpsuit, cover me (Cover me, oh)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I'll be right there",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "But you'll have to grab my throat and lift me in the air",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "If you need anyone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'll stop my plans (I'll stop my plans)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "But you'll have to tie me down and then break both my hands",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "If you need anyone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "I'll be right there (I'll be right there)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "But you'll have to grab my throat and lift me in the air",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "(If you need anyone)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "If you need anyone (If you need anyone)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "If you need anyone (If you need anyone)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "If you need anyone",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I can't believe how much I hate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Pressures of a new place roll my way",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Jumpsuit, jumpsuit, cover me",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Oh, jumpsuit, jumpsuit, cover me, oh!",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Jumpsuit, jumpsuit, cover me!",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Jumpsuit, jumpsuit, cover me!",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "song_id": 10087337,
+    "title": "Overcompensate",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Welcome back to Trench",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Welcome back to Trench",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "break",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I created this world",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "To feel some control",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Destroy it if I want",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "So I sing Sahlo Folina",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Sahlo Folina",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "(Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "(Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Earned my stripes, three hundred tracks in my Adidas track jacket",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Bless your ear holes while you react, acting",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Gobsmacked, don't hesitate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "To maybe overcompensate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "I feel like I was just here, same twitchin' in my eyes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Don't sleep on a boy who can't fall asleep twice",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "In the same night, and won't hesitate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "To maybe overcompensate",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I said I fly by the dangerous bend symbol (Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Mm, don't hesitate to maybe overcompensate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "And then by the time I catch in my peripheral (Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Mm, don't hesitate to maybe overcompensate",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Where am I from? I was born right here, just now",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Originated right in front of your eyes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "If you can't see, I am Clancy, prodigal son",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Done running, come up with Josh Dun, wanted dead or alive",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "So now you pick who you serve, you bow to the masses",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "Get kicked to the curb for passin' the classes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Half empty, half full, save half for your taxes",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Then overtake your former self",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I fly by the dangerous bend symbol (Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Mm, don't hesitate to maybe overcompensate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "And then by the time I catch in my peripheral (Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Mm, don't hesitate to maybe overcompensate",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Days feel like a perfect length",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I don't need them any longer, but for goodness' sake",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Do the years seem way too short for my soul, corazón",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Way too short for my soul, corazón",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "The days feel like a perfect length",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I don't need them any longer, but for goodness' sake",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "Do the years seem way too short for my soul, corazón",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Way too short for my soul, corazón",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Earned my stripes, three hundred tracks in my Adidas track jacket",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Bless your ear holes while you react, acting",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Gobsmacked, don't hesitate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "To maybe overcompensate",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I said I fly by the dangerous bend symbol (Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Mm, don't hesitate to maybe overcompensate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "And then by the time I catch in my peripheral (Wait, what? Wait, what?)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Mm, don't hesitate to maybe overcompensate",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

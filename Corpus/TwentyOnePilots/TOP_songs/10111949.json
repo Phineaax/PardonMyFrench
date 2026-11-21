@@ -1,0 +1,287 @@
+{
+    "song_id": 10111949,
+    "title": "Navigating",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "intro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "Don't know how long it's been",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I can't seem to turn the page",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "This haze around my face makes me feel all alone",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I know you see me standin' still",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "But when our fingers touch, I feel my way back home",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Pardon my delay",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Disassociate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Give me some advice",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I am wasting all this time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Don't know how long it's been",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "How things change so rapidly",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I find my self-esteem, then turn so cold",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Pardon my delay",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Disassociate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Give me somе advice (Give me somе advice)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I am wasting all this time (Wasting)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Don't know how long it's been",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Since I responded to your question",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "If you really want to know what I'm thinkin'",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Kind of feels like everybody leaves",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "Feelin' the reality that everybody leaves",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "My dad just lost his mom, I think that everybody leaves",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "And now I'm tryin' to hold onto you 'cause everybody leaves",
+                    "persona_id": "Clancy"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Pardon my delay",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "Disassociate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "4",
+                    "text": "Give me some advice",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "5",
+                    "text": "I am wasting all this time",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "6",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "7",
+                    "text": "Pardon my delay",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "8",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "9",
+                    "text": "Disassociate",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "10",
+                    "text": "I'm navigating, I'm navigating my head",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "11",
+                    "text": "Give me some advice (Give me some advice)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "12",
+                    "text": "I am wasting all this time (Wasting)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "13",
+                    "text": "My, oh my",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}

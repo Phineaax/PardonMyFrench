@@ -1,0 +1,296 @@
+{
+    "song_id": 10111950,
+    "title": "Snap Back",
+    "language": "en",
+    "lyricists": "[50268, 574050]",
+    "lyrics": [
+        {
+            "section_id": "section_0",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Got a bad feeling that I'm about to break",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Been a good streak, but the pressure's overweight",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Is it even good for my head to keep track?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "If I'm gonna snap necks, then I gotta snap back",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Got a bad feeling I'm gonna lose the lead",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Runnin' from a thing that I kicked in '17",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "6",
+                    "text": "Is it even right for my head to keep track?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "If I'm gonna snap necks, then I gotta snap back",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_1",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Have I burnt all the bridges?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Bite the hand that helps me, give it finger stitches",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Blacklisted from forgiveness",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "Fool you once, it's been twenty-five times",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_2",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "It's a backslide",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I commandeered a hot ride",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Drove it 'til the engine died",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "All of that progress lost today",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_3",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Got a bad feeling that I'm about to break",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Been a good streak, but the pressure's overweight",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Is it even good for my head to keep track?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "If I'm gonna snap necks, then I gotta snap back",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Got a bad feeling I'm gonna lose the lead",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Runnin' from a thing that I kicked in '17",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "6",
+                    "text": "Is it even right for my head to keep track?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "If I'm gonna snap necks, then I gotta snap b—",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_4",
+            "type": "verse",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Oh it's you, well, welcome back to the show (Been a minute)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Guess I better move to a fresher approach (Thought I kicked it)",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "It's a new adaptation",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_5",
+            "type": "refrain",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "It's a backslide",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "I hate the surprise",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "And now it's all gone",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "All of that progress lost today",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_6",
+            "type": "bridge",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I have seemed to run out of excuses of why I am this way",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_7",
+            "type": "chorus",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "Got a bad feeling that I'm about to break",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "1",
+                    "text": "Been a good streak, but the pressure's overweight",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "2",
+                    "text": "Is it even good for my head to keep track?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "3",
+                    "text": "If I'm gonna snap necks, then I gotta snap back",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "4",
+                    "text": "Got a bad feeling I'm gonna lose the lead",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "5",
+                    "text": "Runnin' from a thing that I kicked in '17",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "6",
+                    "text": "Is it even right for my head to keep track?",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "7",
+                    "text": "If I'm gonna snap necks, then I gotta snap back",
+                    "persona_id": "Blurryface"
+                },
+                {
+                    "n": "8",
+                    "text": "Then I gotta snap back",
+                    "persona_id": "Blurryface"
+                }
+            ]
+        },
+        {
+            "section_id": "section_8",
+            "type": "outro",
+            "performer": "",
+            "lines": [
+                {
+                    "n": "0",
+                    "text": "I've been prayin' for my elasticity to return to the way that it was",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "1",
+                    "text": "(If I'm gonna snap necks, then I gotta snap back)",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "2",
+                    "text": "I've been prayin' for my elasticity to return to the way that it was",
+                    "persona_id": "Clancy"
+                },
+                {
+                    "n": "3",
+                    "text": "(If I'm gonna snap necks, then I gotta snap back)",
+                    "persona_id": "Clancy"
+                }
+            ]
+        }
+    ]
+}
