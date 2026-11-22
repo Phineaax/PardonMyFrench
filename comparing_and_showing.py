@@ -244,7 +244,7 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=N
         fig, ax = plt.subplots(figsize=(12, 5))
         fig.patch.set_facecolor(CREME)
 
-    Z = linkage(X, method=metric, metric=metric)
+    Z = linkage(X, method=method, metric=metric)
     
 
     c, _ = cophenet(Z, pdist(distances, metric="cosine"))
