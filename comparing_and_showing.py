@@ -182,7 +182,7 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
     vocabs_dict = dict()
 
     if any(do_voc) :
-        if optional_df == 'baseline' :
+        if optional_df is 'baseline' :
             lyrics_df = create_baseline(path)
             optional_df = lyrics_df
         elif optional_df is None : 
@@ -249,10 +249,6 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=N
         fig.patch.set_facecolor(CREME)
 
     Z = linkage(X, method=method)#, metric=metric)
-    
-
-    c, _ = cophenet(Z, pdist(distances, metric="cosine"))
-    print("cophenet : ", c)
     
     dendrogram(Z, labels=labels, ax=ax, leaf_rotation=90, leaf_font_size=8,
                link_color_func=lambda k: BRIQUE)   # branches en rouge brique
