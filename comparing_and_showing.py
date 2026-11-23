@@ -276,9 +276,6 @@ def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=N
 
     return ax
 
-def cut_number(chunk_id) : 
-    return chunk_id[:chunk_id.rindex("_")]
-
 def plot_all_dendrograms(path, scorers=scoring.available_metrics, n=3, ncols=2,
                          figsize_per_plot=(9, 5), chunk_tokens_nb:int=chunking.DEFAULT_CHUNK_LINES_NB, n_sample=3,
                          optional_df = None, show_ids = False):
