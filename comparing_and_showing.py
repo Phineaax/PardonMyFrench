@@ -157,9 +157,9 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
             pre_distances[scorer] = pre_distances[scorer].reshape(-1, 1) #On le reshape pour en faire une suite de vecteur verticaux.
 
     #Normaliser en L2 ICI si tu veux : 
-    {scorer : normalize_l2(pre_distances[scorer], axis=1, ord=2) for scorer in pre_distances}
+    #{scorer : normalize_l2(pre_distances[scorer], axis=1, ord=2) for scorer in pre_distances}
     
-    distances = {scorer : dm(pre_distances[scorer], pre_distances[scorer]) for scorer in pre_distances} #On transforme les résultats en matrices de distances
+    distances = {scorer : (pdist(pre_distances[scorer], metric="cosine") if "Vec" in scorer else pdist(pre_distances[scorer], metric="euclidean")) for scorer in pre_distances} #On transforme les résultats en matrices de distances
 
     if do_show : 
         show_labels = True
@@ -180,8 +180,12 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
     do_voc = (scoring.bowVec in scorers, scoring.n_grams_motsVec in scorers, scoring.n_grams_charVec in scorers, scoring.n_grams_phonVec in scorers)
     pront(verbose, do_voc)
     vocabs_dict = dict()
+
     if any(do_voc) :
-        if optional_df is None : 
+        if optional_df == 'baseline' :
+            lyrics_df = create_baseline(path)
+            optional_df = lyrics_df
+        elif optional_df is None : 
             lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
         else : 
             lyrics_df = optional_df
@@ -237,14 +241,14 @@ def make_color_map(labels, palette=PERSONA_PALETTE):
     roots = sorted(set(get_root(l) for l in labels))
     return {r: palette[i % len(palette)] for i, r in enumerate(roots)}
 
-def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None, show_labels=True, method="average", metric="cosine"):
-    X = squareform(distances)
-    
+def create_dendrogram(distances, labels, title, ax=None, color_map=None, roots=None, show_labels=True, method="average"):
+    X = distances
+
     if ax is None:
         fig, ax = plt.subplots(figsize=(12, 5))
         fig.patch.set_facecolor(CREME)
 
-    Z = linkage(X, method=method, metric=metric)
+    Z = linkage(X, method=method)#, metric=metric)
     
 
     c, _ = cophenet(Z, pdist(distances, metric="cosine"))
