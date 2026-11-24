@@ -106,7 +106,7 @@ def formatted_bow(lines, vec) :
 #BOW
 def create_vocab_bow(all_lines) -> Dict[str, int]:
     """Crée le vocab total pour faire des Bag Of Words indépendamment. Prend en argument la grande liste de toutes les lignes."""
-    vectorizer = TfidfVectorizer()
+    vectorizer = TfidfVectorizer(analyzer='word')
     vectorizer.fit(all_lines)
 
     return vectorizer
@@ -122,7 +122,7 @@ posVec = Mesure("posVec", lambda lc, voc_bow=None, **k : bow(lines_chunk=pos_tag
 #N-grams mots
 def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
     """Crée le vocabulaire pour utiliser la fonction n_gram_mots. Prend en argument la grande liste de toutes les lignes."""
-    vectorizer = TfidfVectorizer(ngram_range=(n, n))
+    vectorizer = TfidfVectorizer(ngram_range=(n, n), analyzer='word')
     vectorizer.fit(all_lines)
 
     return vectorizer
@@ -137,8 +137,9 @@ n_grams_posVec = Mesure("n_grams_posVec", lambda lc, voc_n_mots=None, **k : n_gr
 #N-grams char
 def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
     """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
-    vectorizer = TfidfVectorizer(ngram_range=(n, n))
+    vectorizer = TfidfVectorizer(ngram_range=(n, n), analyzer='char_wb')
     vectorizer.fit(all_lines)
+    print(vectorizer.vocabulary_)
 
     return vectorizer
 
