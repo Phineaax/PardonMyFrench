@@ -1,7 +1,7 @@
 import numpy as np
 from typing import List, Dict
 
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.preprocessing import normalize
 
 from lexicalrichness import LexicalRichness as LR
@@ -22,7 +22,7 @@ from kld_bow import DispersionBoW
 word_tokenizer = word_tokenize
 
 universal_pos_tagset = ["VERB", "NOUN", "PRON", "ADJ", "ADV", "ADP", "CONJ", "DET", "NUM", "PRT", "X", "."]
-vocab_pos2i = TfidfVectorizer().fit(universal_pos_tagset)
+vocab_pos2i = CountVectorizer().fit(universal_pos_tagset)
 
 def voc_n_pos(n:int) :
     u = [p.lower() for p in universal_pos_tagset]
@@ -106,7 +106,7 @@ def formatted_bow(lines, vec) :
 #BOW
 def create_vocab_bow(all_lines) -> Dict[str, int]:
     """Crée le vocab total pour faire des Bag Of Words indépendamment. Prend en argument la grande liste de toutes les lignes."""
-    vectorizer = TfidfVectorizer(analyzer='word')
+    vectorizer = CountVectorizer(analyzer='word')
     vectorizer.fit(all_lines)
 
     return vectorizer
@@ -122,7 +122,7 @@ posVec = Mesure("posVec", lambda lc, voc_bow=None, **k : bow(lines_chunk=pos_tag
 #N-grams mots
 def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
     """Crée le vocabulaire pour utiliser la fonction n_gram_mots. Prend en argument la grande liste de toutes les lignes."""
-    vectorizer = TfidfVectorizer(ngram_range=(n, n), analyzer='word')
+    vectorizer = CountVectorizer(ngram_range=(n, n), analyzer='word')
     vectorizer.fit(all_lines)
 
     return vectorizer
@@ -137,7 +137,7 @@ n_grams_posVec = Mesure("n_grams_posVec", lambda lc, voc_n_mots=None, **k : n_gr
 #N-grams char
 def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]: 
     """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
-    vectorizer = TfidfVectorizer(ngram_range=(n, n), analyzer='char_wb')
+    vectorizer = CountVectorizer(ngram_range=(n, n), analyzer='char_wb')
     vectorizer.fit(all_lines)
     print(vectorizer.vocabulary_)
 
