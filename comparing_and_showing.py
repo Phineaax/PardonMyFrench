@@ -94,31 +94,25 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
 
     all_lines = list(lyrics_df["text"]) if any(do_voc) else None
     
-    if 'voc_bow' not in vocabs_dict : 
+    if vocabs_dict == dict() : 
         voc_bow = scoring.create_vocab_bow(all_lines) if do_voc[0] else None
         if voc_bow : pront(verbose, "vocabulaire Bag Of Words créé")
-    else : voc_bow = vocabs_dict["voc_bow"]
-    
-    
-    if 'voc_n_mots' not in vocabs_dict : 
         voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
         if voc_n_mots : pront(verbose, "vocabulaire n-grams de mot créé")
-    else : voc_n_mots = vocabs_dict["voc_n_mots"]
-    
-    
-    if 'voc_n_char' not in vocabs_dict : 
         voc_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
         if voc_n_char : pront(verbose, "vocabulaire n-grams de caractères créé")
-    else : voc_n_char = vocabs_dict["voc_n_char"]
-    
-    
-    if 'voc_n_phonem' not in vocabs_dict : 
         voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[3] else None
         if voc_n_phonem : pront(verbose, "vocabulaire n-grams de phonemes créé")
-    else : voc_n_phonem = vocabs_dict["voc_n_phonem"]
-    
-    del all_lines
-        #Fin de création des vocabulaires
+        voc_kld = scoring.create_kld_vocab(all_songs=list(chunking.lines_df_to_song_df(lyrics_df))) if (scoring.kldVec in scorers) else None
+        if voc_kld : pront(verbose, "vocabulaire kld créé")
+
+    else : 
+        voc_bow = vocabs_dict["voc_bow"]
+        voc_n_mots = vocabs_dict["voc_n_mots"]
+        voc_n_char = vocabs_dict["voc_n_char"]
+        voc_n_phonem = vocabs_dict["voc_n_phonem"]
+        voc_kld = vocabs_dict["voc_kld"]
+
 
     personas = pd.unique(lyrics_df["persona_id"])
     total_chunks = dict()
@@ -141,7 +135,7 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
     for scorer in scorers :
         results[scorer.name] = {key: scorer.application(total_chunks[key], 
         language=language, 
-        voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem, 
+        voc_bow = voc_bow, voc_n_mots=voc_n_mots, voc_n_char=voc_n_char, voc_n_phonem=voc_n_phonem, voc_kld = voc_kld,
         n=n, 
         )
         for key in chunk_ids}
@@ -169,8 +163,8 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
         labels = chunk_ids
         for scorer in scorers : 
             pront(verbose, f"Affichage pour {scorer}")
-            create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels, method="ward", metric="euclidean")
-        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels, method="ward", metric="euclidea")
+            create_dendrogram(distances[scorer.name], labels, scorer.description, show_labels=show_labels, method="ward")
+        create_dendrogram(distances["non_sem_vec"], labels, "Vecteurs global indices non sémantiques", show_labels=show_labels, method="ward")
 
     return results, distances, chunk_ids
 
@@ -181,14 +175,14 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
     pront(verbose, do_voc)
     vocabs_dict = dict()
 
+    
+    if optional_df is None : 
+        lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
+    
+    else : 
+        lyrics_df = optional_df
+
     if any(do_voc) :
-        if optional_df is 'baseline' :
-            lyrics_df = create_baseline(path)
-            optional_df = lyrics_df
-        elif optional_df is None : 
-            lyrics_df = chunking.artist_folder_to_artist_df(path).reset_index()
-        else : 
-            lyrics_df = optional_df
         all_lines = list(lyrics_df["text"])
     else : 
         all_lines = []
@@ -197,12 +191,16 @@ def get_aggregated_results (path, scorers=scoring.available_metrics, n=3, chunk_
     voc_n_mots = scoring.create_vocab_n_grams_mots(all_lines, n) if do_voc[1] else None
     vocab_n_char = scoring.create_vocab_n_grams_char(all_lines, n) if do_voc[2] else None
     voc_n_phonem = scoring.create_vocab_n_grams_phonem(all_lines, n) if do_voc[3] else None
+    voc_kld = scoring.create_kld_vocab(all_songs=list(chunking.lines_df_to_song_df(lyrics_df))) if (scoring.kldVec in scorers) else None
+
     vocabs_dict = {
         "voc_bow" : voc_bow,
         "voc_n_mots" : voc_n_mots,
         "voc_n_char" : vocab_n_char,
-        "voc_n_phonem" : voc_n_phonem
+        "voc_n_phonem" : voc_n_phonem,
+        "voc_kld" : voc_kld
     }
+
     for v in vocabs_dict : 
         if vocabs_dict[v] :
             pront(verbose, f"Vocabulaire créé pour {v}")

@@ -155,3 +155,6 @@ def lines_df_to_tokens_df(lines_df) :
             b.extend([{'CO_TOKEN':t, 'CO_ARTIST':p, 'CO_SONG':s} for t in tokens])
     b = pd.DataFrame(b)
     return b
+
+def lines_df_to_song_df(lines_df) : 
+    return lines_df.groupby("song_id")["text"].agg(" ".join)

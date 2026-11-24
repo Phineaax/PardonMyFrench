@@ -16,6 +16,7 @@ from collections import Counter
 from nltk.langnames import langname, langcode
 import pyphen
 
+from kld_bow import DispersionBoW
 #from sentence_transformers import SentenceTransformer
 
 word_tokenizer = word_tokenize
@@ -95,7 +96,7 @@ def densite_lexicale(lines_chunk:List[str], language, **kwargs) -> float:
     return len(full_words)/len(words)
 densLex = Mesure("densLex", densite_lexicale, "Lexical density")
 
-def formatted_tfidf(lines, vec) : 
+def formatted_bow(lines, vec) : 
 
     x = sum(vec.transform(lines))
     u = np.reshape(x.toarray(), x.shape)
@@ -113,7 +114,7 @@ def create_vocab_bow(all_lines) -> Dict[str, int]:
 def bow(lines_chunk:List[str], voc_bow, **kwargs) -> np.array:
     """Renvoie un vecteur Bag Of Words"""
 
-    return formatted_tfidf(lines_chunk, voc_bow)
+    return formatted_bow(lines_chunk, voc_bow)
 bowVec = Mesure("bowVec", bow, "BOW")
 posVec = Mesure("posVec", lambda lc, voc_bow=None, **k : bow(lines_chunk=pos_tag_chunk(lc), voc_bow=vocab_pos2i, **k), "BOW of POS tags")
 
@@ -128,7 +129,7 @@ def create_vocab_n_grams_mots(all_lines, n) -> Dict[str, int]:
 
 def n_grams_mots(lines_chunk:List[str], voc_n_mots, **kwargs) -> np.array:
 
-    return formatted_tfidf(lines_chunk, voc_n_mots)
+    return formatted_bow(lines_chunk, voc_n_mots)
 
 n_grams_motsVec = Mesure("n_grams_motsVec", n_grams_mots, "BOW of words n-grams")
 n_grams_posVec = Mesure("n_grams_posVec", lambda lc, voc_n_mots=None, **k : n_grams_mots(lines_chunk=pos_tag_chunk(lc), voc_n_mots=voc_n_pos(k['n']), **k), "BOW of POS tags n-grams")
@@ -157,9 +158,20 @@ def n_grams_char(lines_chunk:List[str], voc_n_char=None, voc_n_phonem=None, **kw
     elif voc_n_phonem :
         vecab_w2i = voc_n_phonem
 
-    return formatted_tfidf(lines_chunk, vecab_w2i)
+    return formatted_bow(lines_chunk, vecab_w2i)
 n_grams_charVec = Mesure("n_grams_charVec", n_grams_char, "BOW of characters n-grams")
 n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "BOW of phonemes n-grams")
+
+def create_kld_vocab(all_songs) :
+    vectorizer = DispersionBoW()
+    vectorizer.fit(all_songs)
+
+    return vectorizer
+
+def kld_bow(lines_chunk:List[str], voc_kld, **kwargs) -> np.array:
+
+    return formatted_bow(lines_chunk, voc_kld)
+kldVec = Mesure("kldVec", kld_bow, "BOW with kld dispersion ponderation")
 
 # def chunk_to_embedding(lines_chunk:List[str]) :
 #     model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
@@ -169,4 +181,6 @@ n_grams_phonVec = Mesure("n_grams_phonVec", n_grams_char, "BOW of phonemes n-gra
 # sentenceTransformerVec = Mesure("chunk_to_embedding", chunk_to_embedding)
 
 all_metrics = [longMoy, divLex_MTLD, densLex, syllMoy, divLex_HDD, n_grams_posVec, posVec, bowVec, n_grams_motsVec, n_grams_charVec, n_grams_phonVec]
-available_metrics = [longMoy, divLex_HDD, densLex, syllMoy, n_grams_posVec, posVec, bowVec, n_grams_motsVec, n_grams_charVec]#, divLex_MTLD, n_grams_phonVec]
+available_metrics = [longMoy, divLex_HDD, densLex, syllMoy, n_grams_posVec, posVec, bowVec, n_grams_motsVec, n_grams_charVec, kldVec]#, divLex_MTLD, n_grams_phonVec]
+non_vec_metrics = [longMoy, divLex_HDD, densLex, syllMoy,]
+vec_metrics = [n_grams_posVec, posVec, bowVec, n_grams_motsVec, n_grams_charVec, kldVec]
