@@ -139,7 +139,6 @@ def create_vocab_n_grams_char(all_lines, n) -> Dict[str, int]:
     """Crée le vocabulaire pour utiliser la fonction n_grams_char. Prend en argument la grande liste de toutes les lignes."""
     vectorizer = CountVectorizer(ngram_range=(n, n), analyzer='char_wb')
     vectorizer.fit(all_lines)
-    print(vectorizer.vocabulary_)
 
     return vectorizer
 

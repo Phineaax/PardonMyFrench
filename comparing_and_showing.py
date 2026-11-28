@@ -129,7 +129,6 @@ def get_final_results(path, scorers=scoring.available_metrics, n=3, chunk_tokens
             total_chunks.update({f"{p}_{s_id}" : list(c_p_lines[c_p_lines["song_title"] == s_id]["text"]) for i, s_id in enumerate(unique_songs)})
 
     chunk_ids = list(total_chunks.keys())
-
     results = dict()
 
     for scorer in scorers :
